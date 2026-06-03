@@ -27,4 +27,4 @@ To run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/darariaisy12/-Plantropic-B2B-Industrial-Water-Management-SaaS-.git](https://github.com/darariaisy12/-Plantropic-B2B-Industrial-Water-Management-SaaS-.git)
+   git clone https://github.com/darariaisy12/-Plantropic-B2B-Industrial-Water-Management-SaaS-.git
