@@ -4,6 +4,7 @@
  * AI panel) lands in a later phase. Guarded server-side: no session → /login.
  */
 
+import Link from 'next/link';
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 
@@ -46,14 +47,26 @@ export default async function DashboardPage() {
           Kamu berhasil login. Dashboard ESG (skor, chart, insight AI) akan tampil di sini.
         </p>
 
-        <form action="/auth/signout" method="post" className="mt-8">
+        <Link
+          href="/assessment"
+          className="inline-block mt-8 px-6 py-3 rounded-xl text-sm font-bold tracking-wide transition-all duration-300"
+          style={{
+            background: 'linear-gradient(135deg, #397b40 0%, #2d6233 100%)',
+            color: '#ffffff',
+            boxShadow: '0 4px 16px rgba(57,123,64,0.35)',
+            fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif',
+          }}
+        >
+          Mulai Assessment ESG
+        </Link>
+
+        <form action="/auth/signout" method="post" className="mt-4">
           <button
             type="submit"
-            className="px-6 py-3 rounded-xl text-sm font-bold tracking-wide transition-all duration-300"
+            className="px-6 py-2.5 rounded-xl text-sm font-semibold transition-all duration-300"
             style={{
-              background: 'linear-gradient(135deg, #397b40 0%, #2d6233 100%)',
-              color: '#ffffff',
-              boxShadow: '0 4px 16px rgba(57,123,64,0.35)',
+              background: 'rgba(57,123,64,0.08)',
+              color: '#397b40',
               fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif',
             }}
           >
