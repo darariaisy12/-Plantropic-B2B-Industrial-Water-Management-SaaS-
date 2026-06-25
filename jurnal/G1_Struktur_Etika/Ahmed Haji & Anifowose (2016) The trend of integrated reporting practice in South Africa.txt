@@ -1,0 +1,1606 @@
+                                     The current issue and full text archive of this journal is available on Emerald Insight at:
+                                     www.emeraldinsight.com/2040-8021.htm
+
+
+
+SAMPJ
+7,2
+                                     The trend of integrated reporting
+                                         practice in South Africa:
+                                       ceremonial or substantive?
+190                                                  Abdifatah Ahmed Haji and Mutalib Anifowose
+                                        Department of Accounting, International Islamic University Malaysia,
+                                                            Kuala Lumpur, Malaysia
+
+
+                                     Abstract
+                                     Purpose – The purpose of this paper is to examine the trend of integrated reporting (IR) practice following
+                                     the introduction of an “apply or explain” IR requirement in South Africa. In particular, the authors examine
+                                     whether the IR practice is ceremonial or substantive in the context of a soft regulatory environment.
+                                     Design/methodology/approach – By way of content analyses, the authors examine the extent and
+                                     quality of IR practice using an IR checklist developed based on normative understanding of existing IR
+                                     guidelines. The evidence is drawn from 246 integrated reports of large South African companies over a
+                                     three-year period (2011-2013), following the introduction of IR requirement in South Africa.
+                                     Findings – The results show a significant increase in the extent and quality of IR practice. The
+                                     findings also reveal significant improvements in individual IR categories such as connectivity of
+                                     information, materiality determination process and reliability and completeness of the integrated
+                                     reports. However, despite the increasing trend and evidence of both symbolic and substantive IR
+                                     practice, the authors conclude that the current IR practice is largely ceremonial in nature, produced to
+                                     acquire organisational legitimacy.
+                                     Practical implications – For academics, the authors argue that there is a need to move away from the
+                                     “what” and “why” aspects of the IR agenda to “how” IR should work inside organisations. In particular,
+                                     academics should engage with firms through interventionist research to help firms implement integrated
+                                     thinking and substantive reporting practices. For organisations, the findings draw attention to specific
+                                     aspects of IR that require improvement. For policymakers, the study provides evidence based on the
+                                     developmental stage of IR practice and draws attention to certain areas that need clarification. In particular,
+                                     the International Integrated Reporting Council and Integrated Reporting Committee of South Africa should
+                                     provide detailed guidelines on connectivity of information, material issues and disclosure of multiple capitals
+                                     and their trade-offs. Finally, for educators, in line with the ACCA’s embedment of IR in its accounting
+                                     courses, there is a need to incorporate IR in the curriculum; in particular, the authors argue that the best way
+                                     to advance IR is in a “ubiquitous” spread in accounting and management courses.
+                                     Originality/value – This study provides empirical account of IR practice over time in the context of a
+                                     regulatory IR environment. The construction of an IR checklist developed based on normative
+                                     understanding of local and international IR guidelines is another novel approach of this study.
+                                     Keywords South Africa, Integrated reporting, Legitimacy theory, Content analyses,
+                                     Integrated thinking, Multiple capitals
+                                     Paper type Research paper
+
+
+Sustainability Accounting,           The paper has benefited from multiple reviews from several anonymous reviewers of this journal.
+Management and Policy Journal        The authors are sincerely grateful to the many insightful comments of the reviewers in the
+Vol. 7 No. 2, 2016
+pp. 190-224                          development of this paper. The authors are also very grateful to the editor, Professor Carol
+© Emerald Group Publishing Limited
+2040-8021
+                                     Adams, for her continuous follow up and encouragement throughout the review process. All
+DOI 10.1108/SAMPJ-11-2015-0106       remaining errors are a result of the authors’ own work.
+1. Introduction                                                                                        The trend of
+Organisational reporting practices on economic, social and environmental issues                         integrated
+continue to attract the attention of academic researchers (Guthrie and Parker, 1989; Gray
+et al., 1995; Deegan et al., 2000; Williams and Adams, 2013; Vourvachis et al., 2016).
+                                                                                                         reporting
+Relevance and importance of this line of research is increasingly significant, given the                   practice
+growing number of regional as well as global financial crises, corporate and bank
+failures, climate change concerns, social and environmental disasters among other                             191
+high-profile incidents. Recurring major airline disasters, and in particular the recent
+Volkswagen diesel emissions scandal, stress the need for, and significance of, effective
+organisational transparency and accountability measures. In particular, there is a
+growing demand for information beyond traditional financial statements, information
+not just on social and environmental performance but also on how companies use, create
+and destroy ecological value (Coulson et al., 2015; Barter, 2015). Although, in recent
+years, companies have started to provide extensive amount of financial and
+non-financial disclosures using various organisational reporting platforms (de Villiers
+et al., 2014), the increasing amount of corporate disclosures, particularly in
+sustainability reports, is “necessary but insufficient” for substantive organisational
+accountability (Milne and Gray, 2013; Brown and Dillard, 2014).
+    Indeed, social and environmental reporting “has become synonymous with corporate
+sustainability; in the process, concern for ecology has become sidelined” (Milne and
+Gray, 2013, p. 13). In their study, Williams and Adams (2013) conclude that disclosures
+are “influenced by considerations other than transparency and accountability towards
+employees”. These considerations include, inter alia, maintaining organisational
+legitimacy through symbolic actions (Deegan et al., 2000; Vourvachis et al., 2016). In
+essence, academic studies maintain that organisational reports are continuously used as
+legitimation tools and have become ceremonial in nature, rather than accountability
+mechanisms, peppered with selective impression management techniques that display
+organisational performance the most favourable way (Brennan et al., 2009; Williams and
+Adams, 2013; Vourvachis et al., 2016). On their part, companies are unhappy about the
+resulting preparation as well as proprietary costs associated with increasing number of
+disclosure requirements. In short, companies as well as stakeholder groups are
+dissatisfied with current organisational reporting practice. Therefore, there is a need to
+find a win-win solution which, on the one hand, meets substantive organisational
+accountability measures, and on the other hand, is cost-effective to organisations.
+    Integrated reporting (IR), which arguably avoids many of the problems associated
+with the traditional organisational reporting norms, is proposed as an alternative (King,
+2009; de Villiers et al., 2014; Adams, 2015a). Instituted by the International Integrated
+Reporting Council (IIRC), an integrated report is defined as follows:
+   […] a concise communication about how an organisation’s strategy, governance, performance
+   and prospects, in the context of its external environment, lead to the creation of value over the
+   short, medium and long term (IIRC, 2013a, p. 7).
+Similarly, the Integrated Reporting Committee (IRC) of South Africa states that an
+integrated report aims to “enable stakeholders to assess the ability of an organisation to
+create and sustain value over the short-, medium- and long-term” (IRC, 2011, p. 3).
+Although King III and the IIRC proposals, the major drivers of the IR agenda, emanate
+from two different perspectives, their common ground is to encourage companies to go
+SAMPJ   beyond financial reporting and provide “a holistic and integrated representation of the
+7,2     company’s performance in terms of both its finance and its sustainability” (King, 2009,
+        p. 54). In particular, both entities require companies to integrate material financial and
+        non-financial information in the context of wider organisational value creation through
+        the lens of multiple capitals (King, 2009; IIRC, 2013a). The ultimate aim of the IR agenda
+        is to enhance organisational “accountability and stewardship for the broad base of
+192     capitals […] and promote understanding of their interdependencies” (IIRC, 2013a, p. 2).
+            However, a number of academic scholars are critical about the scope and substance of
+        the IR agenda, in particular, the emphasis on “value to investors” and the continued
+        advocacy of business case approach in the IIRC proposals (Milne and Gray, 2013; Brown
+        and Dillard, 2014). Early empirical findings indicate that IR practice, albeit still at an
+        early stage, suffers many of the previous organisational reporting problems (Solomon
+        and Maroun, 2012; Wild and van Staden, 2013; Setia et al., 2015; IRC, 2015). For instance,
+        although the empirical studies find a significant increase in the amount of non-financial
+        disclosures following the adoption of IR practice (Solomon and Maroun, 2012; Setia et al.,
+        2015), they observe that the integrated reports are imbued with rhetorical disclosures
+        and are biased towards reporting only positive outcomes (Solomon and Maroun, 2012;
+        IRC, 2015). In addition, the empirical studies reveal that companies continue to follow
+        the traditional silo reporting and provide limited disclosures on organisational
+        value-creation/destruction process in the context of multiple capitals (Wild and van
+        Staden, 2013; IRC, 2015). The studies, however, have largely examined a single-year
+        data and, therefore, provide snapshot evidence based on the developmental stage of IR
+        practice.
+            Mindful of the current state of IR literature and the rising concerns in terms of its
+        scope and substance (Brown and Dillard, 2014; Flower, 2015), the objective of this study
+        is to examine the trend of IR practice over a three-year period (2011-2013), following the
+        introduction of an “apply or explain” IR requirement in South Africa. In particular, we
+        examine whether the IR practice is ceremonial or substantive in nature in the context of
+        regulatory environment. In doing so, we engage with the content of integrated reports to
+        examine the extent and quality of IR practice using a checklist developed based on
+        normative understanding of existing IR guidelines (King, 2009; IRC, 2011; IIRC, 2013a).
+        Our longitudinal analyses based on 246 integrated reports of large South African
+        companies show a significant increase in the extent and quality of IR practice in South
+        Africa over time, with companies increasingly incorporating some of the issues
+        prescribed in existing IR guidelines. We find that, on the one hand, there is a limited
+        application of key IR guidelines such as “connectivity” of information, issues of
+        “materiality” and multiple capitals, and when applied, tend to be highly generic and
+        ambiguous. On the other hand, the three-year analyses show that IR is taking shape,
+        with companies developing understanding and competency in key aspects of IR
+        guidelines. We conclude that while there is evidence of both symbolic and substantive
+        IR practice, the current IR practice is largely ceremonial in nature aimed to acquire
+        organisational legitimacy.
+            This study provides a number of contributions to existing organisational reporting
+        literature. First, using an IR checklist developed based on normative understanding of
+        IR guidelines (King, 2009; IRC, 2011; IIRC, 2013a), we examine the extent and quality of
+        IR practice. The limited number of empirical studies have so far examined changes in
+        the level of corporate disclosures following the adoption of IR practice (Solomon and
+Maroun, 2012; Setia et al., 2015), rather than the application of existing IR guidelines    The trend of
+(Ernst & Young, 2014; IRC, 2015). By examining the application of IR guidelines, we          integrated
+inform policymakers and other stakeholders how the introduction of IR requirement has
+shaped organisational reporting practice. Second, the extant IR literature has so far
+                                                                                              reporting
+provided a snapshot evidence of IR practice at one particular stage (Wild and van               practice
+Staden, 2013; Adams, 2014; Setia et al., 2015). Therefore, little is still known about
+the trend of IR practice. A significant contribution of this study is that it examines             193
+the trend of IR practice over time and highlights its evolution in the context of
+regulatory environment. Third, the paper, consistent with recent IR studies
+(Solomon and Maroun, 2012; Setia et al., 2015), draws from legitimacy theory to
+examine the nature of IR practice. Unlike prior studies, we contrast symbolic versus
+substantive legitimacy-seeking behaviours to explain IR practice. In particular, the
+study attributes the ceremonial nature of IR practice to the framing of existing IR
+regulations in South Africa, as symbolic conformity with IR guidelines is enough to
+acquire organisational legitimacy. Therefore, the theoretical interpretations inform
+relevant authorities to consider succinct IR measures.
+   The study from here on proceeds as follows. The ensuing section discusses IR
+developments in South Africa to put the study in perspective. This is followed by review
+in existing IR literature and discussion of research theory. We then discuss research
+methods and sampling process. The penultimate section presents research findings
+before concluding with a discussion of the study’s theoretical and policy implications.
+
+2. Governance and integrated reporting developments in South Africa
+Integrated thinking and reporting developments, which are embedded in King Code of
+Governance Principles for South Africa of 2009 (King, 2009), is part of ongoing corporate
+governance reforms in South Africa. The corporate governance reforms are in line with
+national socioeconomic development goals (West, 2006; Andreasson, 2011; de Villiers
+et al., 2014). These developments originate from two main national objectives. First, the
+South African Government and businesses continue to appeal to international investors
+to increase inflow of foreign direct investments to the country. The introduction of IR
+requirement, as part of the wider national corporate governance reforms, is expected to
+significantly enhance South Africa’s reputation and competitiveness in the global
+financial markets (Atkins et al., 2015).
+    Second, given the country’s quest to reduce corruption as well as social and economic
+inequalities which continue post-apartheid era, IR is deemed an ideal governance
+mechanism to track organisational performance, particularly their performance against
+Broad-Based Black Economic Empowerment (BBBEE). The BBBEE, an affirmative
+action, was introduced by the South African Government to enhance the lives of
+historically disadvantaged South Africans through skills development, employment in
+key management positions, business ownership and socioeconomic development,
+among other aspects. To initiate the process of IR following its inclusion in King III
+corporate governance principles, the IRC was formed under the leadership of Professor
+Mervyn King (now also the chairman of IIRC; IRC, 2011, 2015). The IRC’s discussion
+paper entitled “Framework for Integrated Reporting and the Integrated Report” was
+published in January 2011 as an IR guidepost for South African companies.
+    More recently, and in line with these developments, the Companies Act has mandated
+the establishment of a Social and Ethics board committee within 12 months from 1 May
+SAMPJ   2011. The role of the Social and Ethics committee is to oversee sustainability and good
+7,2     corporate citizenship practices of South African companies. In the context of integrated
+        thinking and reporting, the role of the new committee includes, among other things, to
+        induce integrated thinking and monitor non-financial performance metrics of
+        companies. The following extract from one of the sample companies’ integrated report
+        illustrates the role of the Social and Ethics committee:
+194        The role of the [Social and Ethics] committee is to assist the group with overseeing
+           sustainability matters and is responsible for monitoring the group’s activities with regard to
+           social and economic development, good corporate citizenship, environment, health and public
+           safety, consumer relationships and labour and employment practices, as prescribed by the
+           Companies Act (Integrated Report, 2011, Company A).
+        In summary, the ongoing corporate governance reforms, and the embedded integrated
+        thinking and reporting, in South Africa explicitly advocate for an “inclusive” approach
+        which takes into consideration the interests of wider stakeholder groups and, therefore,
+        “reflect competing economic and social interests” (West, 2006, p. 433). South Africa,
+        therefore, provides a unique setting to examine how the advocacy of “inclusive”
+        stakeholder approach has influenced organisational reporting practice. In this study, we
+        focus on how the introduction of IR requirement has shaped organisational reporting
+        practice.
+
+        3. Integrated reporting literature
+        The extant IR literature, described as “embryonic” (de Villiers et al., 2014), has so far
+        taken two paths. One research stream is conceptual in nature, with little or no concrete
+        empirical evidence on the status of IR practice (Eccles and Armbrester, 2011; de Villiers
+        et al., 2014; Brown and Dillard, 2014; Haller and van Staden, 2014; Simnett and Huggins,
+        2015; Adams, 2015a). The second line of research is of empirical nature, both from
+        academic researchers as well as surveys from professional accounting bodies (ACCA,
+        2011; PwC, 2013; van Zyl, 2013; Wild and van Staden, 2013; Higgins et al., 2014; Stubbs
+        and Higgins, 2014; Stent and Dowler, 2015; Setia et al., 2015). We discuss the conceptual
+        and empirical studies in the following subsections.
+
+        3.1 Conceptual studies
+        The main aim of the conceptual studies is to synthesise prior developments in
+        organisational reporting practices in the context of the IR agenda while at the same time
+        offering ways that can broaden and open up current attempts towards IR practice
+        (Brown and Dillard, 2014; Haller and van Staden, 2014; Adams, 2015a). Another
+        objective of the conceptual studies is to map IR research and create a conceptual
+        foundation for the growing number of academic studies (de Villiers et al., 2014; Haller
+        and van Staden, 2014; Adams, 2015b; Coulson et al., 2015).
+           There is, however, a division in academic scholarship on the fundamental premises of
+        IR proposals (Milne and Gray, 2013; Brown and Dillard, 2014; Flower, 2015; Adams,
+        2015a; Coulson et al., 2015). While a number of academic scholars welcome the IR agenda
+        (Eccles and Armbrester, 2011; Adams, 2015a; Coulson et al., 2015), others are sceptical
+        about its scope and substance (Milne and Gray, 2013; Brown and Dillard, 2014; van
+        Bommel, 2014; Flower, 2015; Barter, 2015). Yet others see room for improvement and
+        propose specific IR tools that incorporate the central ideas of existing IR guidelines
+        (Haller and van Staden, 2014). The advocates view IR as a “paradigm shift” in
+organisational reporting practice (Adams, 2015a). In particular, the IR agenda is seen as     The trend of
+“a shift from a ‘financial capital market system’ to an ‘inclusive capital market system’      integrated
+through recognition of multiple capitals and integrated reporting and thinking”                 reporting
+(Coulson et al., 2015, p. 290), with a potential to benefit both organisations and users of
+information in a number of ways (Eccles and Armbrester, 2011; Adams, 2015a).
+                                                                                                  practice
+    From users’ perspective, the IR proposals promise concise and connected
+information, in non-technical language, about how an organisation creates and destroys               195
+ecological value through the lens of multiple capitals, such as financial, manufactured,
+intellectual, human, social and relationship, and natural capital (King III, 2009; IIRC,
+2013a; Coulson et al., 2015). For instance, IR guidelines go beyond disclosures of broad
+base of multiple capitals and require the inclusion of disclosures pertaining to trade-offs
+between them (IIRC, 2013a). Consequently, IR arguably overcomes existing reporting
+problems such as lengthy, technical and silo reporting (IIRC, 2013a). For organisations,
+Eccles and Armbrester (2011) submit three benefits of IR, namely, internal benefits – its
+ability to induce better understanding of a firm’s material financial and non-financial
+metrics; external benefits – its ability to provide comprehensive information on
+non-financial metrics valued by capital markets; and finally, its ability to manage
+regulatory risks. From an organisational perspective, the major benefit of IR is the
+embedded “integrated thinking” (King III, 2009). Integrated thinking, which precedes
+IR, assists companies to identify and report material issues, both positive and negative,
+in the context of wider organisational value creation (IIRC, 2013a).
+    However, concerns abound as to the scope and substance of IR proposals (Milne and
+Gray, 2013; Brown and Dillard, 2014; van Bommel, 2014; Flower, 2015). We identify two
+main concerns directed towards existing IR frameworks. First, researchers maintain
+that the stated aim of IR proposals is narrow given its “investor focus” and the
+markdown of less powerful indigenous stakeholders groups (Milne and Gray, 2013;
+Brown and Dillard, 2014). In particular, given the stated “primary purpose of an
+integrated report is to explain to providers of financial capital how an organisation
+creates value over time” (IIRC, 2013a, p. 4), a number of academic scholars maintain that
+the proposals are in line with the aims of traditional financial reporting and unless its
+scope is broadened to an ecological frame, any hopes to enhance the substance of
+organisational reporting would likely fail (Milne and Gray, 2013; Brown and Dillard,
+2014). A second concern relates to its actual implementation, knowing that there is
+no regulatory enforcement (van Bommel, 2014; Flower, 2015). South Africa
+notwithstanding, the IR agenda is still a voluntary practice internationally. For instance,
+given integrated reports potentially address domains of “industrial, market, civic and
+green order of worth” with contrasting interests, there is a need for reconciliation among
+the divergent groups (van Bommel, 2014). Unless there is a regulatory oversight which
+reconciles the interests of these divergent stakeholder groups, the IR agenda is likely to
+follow prior organisational reporting rhetoric.
+    Mindful of the division in academic scholarship on the IR agenda and the limited
+number of empirical studies, this study intends to examine the trend of IR practice in
+South Africa. In particular, we examine whether IR practice is ceremonial or substantive
+in nature. The longitudinal empirical analysis asserted in this study is intended to
+highlight the progress of IR over time, particularly in the context of ongoing corporate
+governance reforms and regulatory oversight.
+SAMPJ   3.2 Empirical studies
+7,2     A growing number of empirical studies continue to examine IR practice (Solomon and
+        Maroun, 2012; Wild and van Staden, 2013; Ernst & Young, 2013; Stent and Dowler, 2015;
+        Setia et al., 2015). By way of content analyses of both conventional as well as integrated
+        reports, the majority of the existing empirical studies explore IR practice of early
+        adopting companies (Wild and van Staden, 2013; Stent and Dowler, 2015; Setia et al.,
+196     2015). A growing number of empirical studies also establish some form of engagement
+        through interviews and surveys with early integrated reporters (Higgins et al., 2014;
+        Stubbs and Higgins, 2014; Steyn, 2014).
+           The research findings, at this early stage, indicate that, although there is an increase
+        in both the application of IR guidelines (Ernst & Young, 2014) as well as the amount of
+        corporate disclosures following the adoption of IR practice (Solomon and Maroun, 2012;
+        Setia et al., 2015), companies fail to address key aspects of existing IR guidelines as
+        detailed in existing IR frameworks (Wild and van Staden, 2013; IRC, 2015). In particular,
+        connectivity of information, materiality determination process and reliability and
+        completeness of the integrated reports are among a number of aspects that have been
+        identified as poor (PwC, 2013; Wild and van Staden, 2013; IRC, 2015). In addition,
+        disclosures of multiple capitals, particularly the interdependencies and trade-offs
+        between the capitals, or components of a capital, are generic rather than
+        company-specific (IRC, 2015). The studies further reveal that the integrated reports are
+        biased towards positive disclosures as companies continue to employ multiple
+        impression management techniques using rhetorical language to exaggerate positive
+        outcomes whilst ignoring negative outcomes (Solomon and Maroun, 2012; IRC, 2015). In
+        essence, the adoption of IR practice has not really improved organisational reporting
+        practice (Stubbs and Higgins, 2014).
+           For instance, Wild and van Staden (2013) examined IR practices of 58 worldwide
+        companies included in the pilot program of IIRC for the year 2011. The authors report
+        that the integrated reports are lengthy rather than concise, with companies providing
+        general and soft disclosures as opposed to specific and hard disclosures. In addition,
+        majority of the companies have disclosed only four of the capitals (i.e. financial, human,
+        natural and social capitals). A recent study conducted by the IRC of South Africa (2015)
+        concurs with these observations in the South African context. In particular, the study
+        found that there is limited application of IR guidelines, as the integrated reports are
+        biased towards positive disclosures. In terms of the multiple capitals, the study finds
+        that companies focus on financial capital and ignore other capitals even when they are
+        significant to organisational activities.
+           In addition, a number of studies have examined the level of corporate disclosures
+        before and after the introduction of IR practice. Solomon and Maroun (2012), who
+        examined the social, environmental and ethical disclosures of ten major South African
+        companies before (2009) and after (2011) the regulatory changes, documented a
+        significant increase in the quantity of social disclosures following the introduction of IR
+        requirement. Despite the increase in social disclosures, the authors conclude that the
+        “reports construct a discourse imbued with stakeholder accountability rhetoric”
+        (Solomon and Maroun, 2012, p. 51). More recently, Setia et al. (2015) examined changes
+        in disclosure behaviour of top 25 South African companies before (2009/2010) and after
+        (2011/2012) the regulatory changes, with a focus on four capitals (i.e. human, social and
+        relational, natural and intellectual capital). The findings show an overall increase in the
+disclosures on the four capitals. Consistent with previous South African studies (e.g.       The trend of
+Solomon and Maroun, 2012; Steyn, 2014), Setia et al. attribute the increase in disclosures    integrated
+as a corporate legitimation strategy.
+    Case study and survey research find that firms attach their own context-specific
+                                                                                               reporting
+meaning to IR (Stubbs et al., 2014; Steyn, 2014; Higgins et al., 2014; Stubbs and Higgins,       practice
+2014), rather than its intended purpose (King, 2009; IIRC, 2013a). For instance, Stubbs
+et al. (2014), through interviews with Australian investors, reveal that there is a                 197
+significant gap between the information supplied by companies and information
+required by investors. The authors conclude that, although IR has the potential to
+improve business reporting, it is not yet happening. In extension to this study, Higgins
+et al. (2014) reveal, through interviews of early adopting Australian firms, that
+managers conceptualise IR as a “strategic story-telling” and “about meeting
+expectation”. Similarly, Steyn (2014) surveyed the perceptions of senior executives of
+South African listed companies on the perceived challenges and benefits of IR
+implementation. Steyn finds that the perceived primary benefit, and hence motive, of IR
+is enhancement of corporate reputation and legitimacy. In sum, the engagement studies
+conclude that the adoption of IR practice is motivated by considerations other than
+organisational accountability such as enhancement of corporate reputation and
+legitimacy (Steyn, 2014; Higgins et al., 2014).
+    Our study is distinctly different from prior studies in several ways. First, existing
+studies have provided snapshot evidence based on yearly analyses of IR practice (Wild
+and van Staden, 2013; Ernst & Young, 2014), with majority of the studies drawing
+evidence from conventional annual reports rather than integrated reports (ACCA, 2011;
+Stent and Dowler, 2015). In departure from previous studies, we provide longitudinal
+analyses of integrated reports to track the development of IR practice over time. Second,
+unlike the extant IR studies which have largely examined aspects of corporate
+disclosures following the adoption of IR practice (Solomon and Maroun, 2012; Setia et al.,
+2015), we examine the extent and quality of IR practice. In doing so, we construct an IR
+checklist developed based on normative understanding of local and international IR
+guidelines to examine the level of application of IR guidelines. Third, the limited
+empirical evidence on IR practice is largely drawn from voluntary reporting settings
+(Wild and van Staden, 2013; ACCA, 2011; Robertson and Samy, 2015; Stent and Dowler,
+2015). The South African environment offers a different regulatory reporting
+environment, given the country’s initiative to mandate IR. Therefore, there is regulatory
+pressure on South African firms to produce integrated reports. For these reasons, this
+study offers useful insights on the ongoing attempts to map IR practice.
+
+4. Theoretical perspectives
+Socio-political theories such as stakeholder, legitimacy and political economy
+perspectives have been used in isolation or in combination to understand and explain
+organisational reporting practices (Gray et al., 1995; Deegan et al., 2000; Ahmed Haji and
+Mohd Ghazali, 2012; Williams and Adams, 2013; Vourvachis et al., 2016). These
+theoretical resources draw from different perspectives but “all assume a pluralist
+society, a society in which autonomous but interdependent groups either share power or
+continuously compete for power” (Williams and Adams, 2013, p. 454). Differences in
+disclosure practices are explained by corporate tendency to please the many
+autonomous stakeholder groups (Deegan et al., 2000; de Villiers and van Staden, 2006;
+SAMPJ   Ahmed Haji, 2013; Setia et al., 2015). By conforming to social expectations, companies
+7,2     avoid “legitimacy gap” which arises when organisational actions and practices are not
+        congruent with the expectations of “relevant publics” (Lindblom, 2004). We draw from
+        legitimacy theory to explain the nature of IR practice.
+            Legitimacy theory propounds that organisations strive to operate or appear to
+        operate within socially constructed system of norms and values to maintain
+198     organisational legitimacy (Suchman, 1995) because regaining or repairing
+        organisational legitimacy is a very costly endeavour (O’Donovan, 2002). While research
+        shows that legitimacy theory may not always be applicable to explain organisational
+        reporting practices (Guthrie and Parker, 1989), it is particularly useful to explain
+        organisational reactions to changes in the business environment (Deegan et al., 2000;
+        Vourvachis et al., 2016). In the course of corporate legitimation strategies, organisations
+        undertake symbolic or substantive actions, and in some cases, combination of both, to
+        respond to changes in the business environment (Oliver, 1991; Hybels, 1995; Berrone
+        et al., 2009; Soobaroyen and Ntim, 2013; Vourvachis et al., 2016). There are three levels of
+        legitimacy-seeking behaviour of organisations (Suchman, 1995; Berrone et al., 2009).
+            The first level of legitimacy-seeking behaviour is to involve symbolic actions. In this
+        case, companies follow the “form” rather than the “substance” of the social contract
+        using rhetorical language. The management strives to please the constituents
+        controlling the resources through multiple impression management strategies to
+        maintain legitimacy (Deegan et al., 2000; Brennan et al., 2009). However, symbolic
+        actions have no material form and may only have a short-term impact on organisational
+        legitimacy (Hybels, 1995; Berrone et al., 2009). It is also extremely difficult to maintain/
+        gain organisational legitimacy through only symbolic practices (Oliver, 1991; Berrone
+        et al., 2009). The second level of legitimacy-seeking behaviour is to combine symbolic
+        and substantive practices (Berrone et al., 2009). The substantive element of this form of
+        legitimacy-seeking behaviour is that organisations acknowledge the issue and affirm
+        the need to resolve, often registering their (rhetorical) commitment in addressing the
+        social construct. The ensuing activities and response by the company might, for
+        example, be ceremonial in nature designed to acquire/maintain legitimacy. The third
+        level, and highest form of legitimacy-seeking endeavour, is to undertake significant
+        changes and specific organisational actions in direct alignment (response) to social or
+        regulatory changes. Companies often undertake substantive changes in response to real
+        or pressing legitimacy threats. Berrone et al. (2009, p. 2) conclude that:
+           […] (1) Symbolic actions have a weaker positive effect on legitimacy than substantive actions,
+           (2) that the impact of symbolic actions is greater when they are combined with substantive
+           actions, (3) that this impact is only short-term while substantive actions have both short – and
+           long-term effects.
+        However, given the soft regulatory oversight of an “apply or explain” IR requirement in
+        South Africa, the introduction of IR practice may not actually threaten the overall
+        legitimacy of companies. The framing of regulatory requirement may, as a result, limit
+        the extent and quality of IR practice. For instance, companies may only undertake
+        incremental changes, rather than substantively embedding integrated thinking and
+        reporting in organisational process, in response to IR requirement. Therefore, the nature
+        of IR practice might be explained by certain aspects of legitimacy theory such as
+        symbolic legitimacy rather than legitimacy theory as a whole.
+   In this study, we examine the extent of symbolic/ceremonial, combined                      The trend of
+symbolic-substantive and substantive IR practice following the introduction of an              integrated
+“apply or explain” IR requirement in South Africa. In doing so, we engage with the
+content of integrated reports to assess the level of application of IR guidelines in the
+                                                                                                reporting
+context of IR practice. We build on recent studies in South Africa and elsewhere that             practice
+have adopted legitimacy theory to explain the nature of IR practice (Solomon and
+Maroun, 2012; Wild and van Staden, 2013; Setia et al., 2015). For example, Setia et al.              199
+(2015, p. 397) conclude that South African companies are adopting “a legitimation
+strategy based on symbolic management when preparing integrated reports”. Similarly,
+survey studies and case study research have also concluded that the main motivation of
+adopting IR is to maintain organisational legitimacy (Higgins et al., 2014; Steyn, 2014).
+In departure from previous studies, which have only provided snapshot evidence at a
+certain point in time, this study examines IR practice over time. The semi-regulatory
+reporting environment in South Africa provides an interesting setting to understand the
+extent of corporate legitimation strategies following the adoption of IR practice,
+considering the ongoing corporate governance reforms and the advocacy of an
+“inclusive” stakeholder approach in South Africa.
+
+5. Research method
+5.1 Sampling process
+The sampling process of this study began with identifying the largest 100 companies
+listed on Johannesburg Stock Exchange, by market capitalisation, for the years
+2011-2013. South African listed companies with financial year-ending on or after 1
+March 2010 are required to produce an annual integrated report, or else explain why
+they have not done so. Therefore, we chose the years 2011-2013 as the time frame of the
+study because all listed companies were most likely to start publishing integrated
+reports in 2011 (Ernst & Young, 2013). For consistency and comparability purposes, the
+target was to select the same companies with integrated reports throughout the
+three-year period. Owing to the amount of missing data, the final sample of this study
+consists of 82 companies, producing total firm-year observations of 246 cases (82 ⫻ 3
+years ⫽ 246). The integrated reports of the selected companies were retrieved from the
+individual websites of the sample companies.
+    Our focus on large companies is justified in the extant organisational reporting
+literature in several ways (Guthrie and Petty, 2000; de Villiers and van Staden, 2006). For
+example, large companies are more resourceful and can bear the implementation costs of
+emerging and innovative reporting (Guthrie and Petty, 2000). In addition, given their
+visibility, larger companies tend to address and respond regulatory changes quickly to
+avoid any unfavourable media or regulatory attention. Given the IR regulatory
+oversight in South Africa, larger companies are more likely to adopt IR practice because
+of their visibility and pursuit of legitimacy.
+    The information source of this study is from annual integrated reports. While
+companies can provide integrated information through a number of corporate
+communication channels including websites, standalone sustainability reports, press
+releases as well as other reports (IIRC, 2013a), the annual integrated reports are
+regularly produced. Therefore, they are useful for longitudinal studies which intend to
+track specific developments in corporate reporting practices. In addition, the annual
+integrated reports are considered as the primary reporting vehicle for listed companies
+SAMPJ   in South Africa (IRC, 2011). Hence, they are expected to provide a detailed account of
+7,2     material financial and non-financial information in the context of organisational value
+        creation.
+
+        5.2 Integrated reporting frameworks
+        While the introduction of IR requirement in South Africa is largely motivated by specific
+200     national objectives, as stated earlier, the nature and fundamental premises of King III, as
+        detailed in the IRC (2011) of South Africa, and the IIRC proposals are fundamentally the
+        same. The similarities between King and IIRC IR proposals are evident in how the two
+        entities conceptualise the IR agenda. For instance, King III(2009, p. 54) states that IR
+        “means a holistic and integrated representation of the company’s performance in terms
+        of both its finance and its sustainability” aimed to “enable stakeholders to assess the
+        ability of an organisation to create and sustain value over the short-, medium- and
+        long-term”. Similarly, the IIRC (2013a, p. 33) defines IR as “a process founded on
+        integrated thinking that results in a periodic integrated report by an organisation about
+        value creation over time and related communications regarding aspects of value
+        creation”. The aim of IR, according to the IIRC (2013a, p. 2) framework, is to:
+           […] promote a more cohesive and efficient approach to corporate reporting that draws on
+           different reporting strands and communicates the full range of factors that materially affect
+           the ability of an organisation to create value over time.
+        Both frameworks maintain that value creation is not limited to the traditional measures
+        of financial performance and encourage organisations to discuss wider value creation
+        through the lens of multiple capitals (IRC, 2015; Coulson et al., 2015). Given the
+        fundamental similarities between the two IR frameworks, the IRC (2015) of South Africa
+        has recently endorsed the IIRC (2013a) framework as guidance on good IR practice for
+        South African companies as shown below:
+           The International ⬍IR⬎ Framework (Framework) was issued by the International Integrated
+           Reporting Council (IIRC) in December 2013. It has been endorsed by the Integrated Reporting
+           Committee (IRC) of South Africa as guidance on good practice on how to prepare an integrated
+           report (IRC, 2015, p. 2).
+        However, one key difference between the IIRC and IRC frameworks, as identified by
+        Steyn (2014), is the report audience. The stated primary stakeholder of the IIRC
+        framework is the “providers of financial capital”. In contrast, the IRC of South Africa
+        takes an inclusive approach and states that the:
+           […] report provides a holistic view of the organisation and is useful to any stakeholder who has
+           a longer term interest in the organisation enabling them to make an informed assessment of its
+           ability to create and sustain value (IRC, 2011, p. 4).
+        In addition, unlike the IIRC (2013a) framework which gives organisations the flexibility
+        to produce integrated information in standalone reports or as part of other reports (e.g.
+        annual reports), the IRC (2011) of South Africa states that the integrated report is the
+        primary report of an organisation, which is in line with the “apply or explain” IR
+        requirement (Steyn, 2014).
+           Technically, however, there are several minor differences between the two IR
+        guidelines which are largely because of basic institutional differences and different
+        developmental stages of the IR agenda. As an international IR council, the IIRC provides
+a detailed blueprint of what (i.e. eight content elements), how (seven guiding principles)     The trend of
+and why companies should adopt IR practice. While the discussion paper of IRC (2011)            integrated
+of South Africa has similarly eight content elements, it provides limited number of (five)
+guiding principles. Guiding principles such as connectivity of information and
+                                                                                                 reporting
+conciseness of the integrated reports, which are main guiding principles in the IIRC               practice
+framework, are reduced to general recommendations in the IRC of South Africa’s
+discussion paper (Table I). In addition, the IIRC framework encourages companies to                   201
+communicate organisational value creation through the lens of six capitals (i.e. financial,
+manufactured, intellectual, human, social and relationship, and natural capital), as
+opposed to only four (financial, social, economic and environmental) in the IRC
+discussion paper. However, as noted earlier, the IRC (2015) of South Africa has endorsed
+the IIRC framework, and hence, the two reporting frameworks are complementary
+rather than conflicting. As a result, the present study examines IR practice using an IR
+checklist developed based on normative understanding of local and international IR
+guidelines (IRC, 2011; IIRC, 2013a). The ensuing section discusses further the
+development of the IR checklist.
+
+5.3 Content analyses procedures
+Content analysis is a highly used research methodology in organisational reporting
+literature and is regarded as a genuine research approach (Krippendorff, 1980; Milne
+and Adler, 1999). Use of content analyses is largely “motivated by the search for
+techniques to infer from symbolic data what would be either too costly, no longer
+possible, or too obtrusive by the use of other techniques” (Krippendorff, 1980, p. 51). The
+process, which involves making inferences from data to discover meaning of messages,
+is particularly useful to examine trends and patterns in documents (Stemler, 2001).
+Given the degree of subjectivity involved in the content analysis process, researchers are
+cautioned to carefully address two distinct issues, namely, validity of the research
+instrument and reliability of the coding process to ensure consistency and replication of
+the research findings (Krippendorff, 1980; Milne and Adler, 1999; Unerman, 2000). We
+have taken several measures, as discussed in the ensuing sections, to address the
+validity and reliability of the research data.
+    5.3.1 Validity: integrated reporting checklist. A critical stage of the content analyses
+process is the identification and development of categories into which content units can
+be classified to derive patterns in the presentation and reporting of information
+(Krippendorff, 1980; Milne and Adler, 1999). The key is to ensure that the research
+instrument measures what it intends to measure (Krippendorff, 1980). To address this
+essential stage, the current study constructed an IR checklist developed based on
+normative understanding of local and international IR guidelines. In constructing the
+checklist, a number of sources were considered. First, reference was made to existing
+versions of the IIRC frameworks (IIRC, 2011, 2013a, 2013b, 2013c). The guiding
+principles of IIRC framework was used as a starting point.
+    Second, we have examined the guiding principles and content elements in the
+discussion paper of IRC (2011) of South Africa (see Table I). In addition, we have
+considered King III (King Code of Governance for South Africa, 2009) reporting
+recommendations to ensure the relevance and applicability of the checklist items to the
+South African business environment. We have included elements recommended by the
+IRC (2011) and King III in our checklist that the IIRC does not include in its guiding
+ Table I.                                                                                                                                SAMPJ
+                                                                                                                           202
+ Guiding principles                                                                                                                      7,2
+ and content elements
+
+ of IR frameworks
+
+
+
+
+                                 Guiding principles                                              Content elements
+                                                  IRC (2011) of
+No.             IIRC (2013a)                      South Africa        IIRC (2013a)                IRC (2011) of South Africa
+
+ 1              Strategic focus and future        Relevance and       Organisational overview     Report profile (What is the scope and boundary
+                orientation                       materiality         and external environment    of the report?)
+ 2              Connectivity of information       Comparability       Governance                  Organisational overview, business model and
+                                                  and consistency                                 governance structure (How do we create value
+                                                                                                  and make decisions?)
+ 3              Stakeholder relationships         Verifiability       Business model              Understanding the operating context (What are
+                                                                                                  the circumstances under which we operate?)
+ 4              Materiality                       Timeliness          Risks and opportunities     Strategic objectives, competencies, key
+                                                                                                  performance indicators and key risk indicators
+                                                                                                  (Where do we want to go and how do we intend
+                                                                                                  to get there?)
+                Conciseness                       Understandability   Strategy and resource       Account of the organisation’s performance
+                                                  or clarity          allocation                  (How have we fared over the reporting period?)
+ 6              Reliability and completeness      NA                  Performance                 Future performance objectives (Informed by
+                                                                                                  our recent performance, what are our future
+                                                                                                  objectives?)
+ 7              Consistency, comparability        NA                  Outlook                     Remuneration policies (What is our approach
+                and assurances                                                                    towards remuneration?)
+ 8              NA                                NA                  Basis of preparation and    Analytical commentary (What are the views of
+                                                                      presentation                the leadership about the organisation?)
+
+Source: IRC (2011) of South Africa and IIRC (2013a) frameworks
+principles. For instance, King III recommends listed companies to provide extensive risk      The trend of
+disclosures on their risk management initiatives. To examine how the integrated reports        integrated
+convey such risk management disclosures, our checklist contains a section on “Risk
+management practices”. In addition, we have included additional items recommended
+                                                                                                reporting
+by King III that the IIRC framework does not specifically prescribe. Examples of these            practice
+elements include the role of audit committees, in terms of oversight and assurance, in the
+IR process.                                                                                          203
+    As shown in the complete checklist (Appendix), the guiding principles were decoded
+and classified into specific items under each main guiding principle that can potentially
+appear in the integrated reports. For instance, under the heading “Strategic focus and
+future orientation”, one of the items is “connecting strategy to the wider value creation”.
+Similarly, under the second heading “Connectivity of information”, there is “the
+interdependencies and trade-offs between the capitals”. For selection of each item, their
+objectivity in terms of identification and relevance to the South African context were
+considered.
+    Finally, we have examined the integrated reports of companies that have been rated
+as “Excellent” and “Good” by Ernst & Young[1] Excellence in IR awards (Ernst &
+Young, 2013, 2014). The objective of this screening exercise was to familiarise ourselves
+the nature of IR practice and cross-check the identified items against highly regarded
+integrated reports to ensure general applicability of the checklist items to the South
+African environment. In the process, we have drawn additional innovative items from
+the highly regarded integrated reports for inclusion in the checklist while at the same
+time dropping some of the original items. This screening process is consistent with prior
+studies (Li et al., 2008; Ahmed Haji and Mohd Ghazali, 2013). Examples of items
+retrieved from the highly regarded integrated reports include “disappointments,
+improvements made during the year, value-added statements, external assurances and
+steering committees”. We have considered these multiple sources to ensure the validity
+of the IR checklist in measuring IR practice. The final checklist, as shown in Appendix,
+contains eight main categories and 52 specific items under the eight categories.
+    5.3.2 Reliability of the research data. Two approaches are used to increase reliability
+of the research findings. One approach is to use two or more coders. The scores of
+different coders are then compared, with any arising discrepancies between (among) the
+multiple coders requiring further investigation (Milne and Adler, 1999). Alternatively
+using a single coder, after going through initial training, to assign the scores twice with
+some time interval can also enhance the reliability of the research data (Unerman, 2000).
+    This study has undertaken several steps to address reliability concerns. First, both
+researchers had familiarised themselves with a sample of highly regarded integrated
+reports using a preliminary checklist developed based on IR guidelines. Second, after the
+familiarisation exercise, both researchers independently scored the 2013 integrated
+reports of five companies[2] that have won the Ernst & Young Excellence in IR awards
+for two consecutive years (i.e. 2012 and 2013) (Ernst & Young, 2013, 2014). The finalised
+checklist was used in this reliability testing process. Individual scores were then
+compared and the differences between the two independent scores were insignificant.
+For instance, based on the quality of IR measure (as discussed below), the overall IR
+score of the five companies obtained by one researcher was 509, whereas the other
+researcher’s score was 493. The difference, which is 16, was subjected to further scrutiny
+and reconciled. Finally, after the initial exercise, to ensure consistency, one of the
+SAMPJ   researchers has completed the scoring task. During the scoring process, the two
+7,2     researchers would discuss any arising issues.
+            5.3.3 Scoring the integrated reports Once the research instrument (checklist) was
+        finalised, the integrated reports were scored using both un-weighted and weighted
+        scoring methods to arrive at the extent and quality of IR practice. The un-weighted
+        method (dichotomous approach) assigns equal values to the checklist items regardless
+204     of “how” the items appear in the integrated reports (Guthrie and Parker, 1990; Boesso
+        and Kumar, 2007). The dichotomous approach is regarded as more objective and largely
+        avoids any degree of subjectivity commonly known in other content analyses
+        approaches. Contrary to the un-weighted approach, the weighted approach goes beyond
+        “what is said” and identifies “how it is said” (Guthrie and Parker, 1990). For instance,
+        previous researchers justify assigning higher weights to specific and detailed, rather
+        than general and qualitative, disclosures because there is a degree of verifiability
+        (Al-Tuwaijri et al., 2004; Boesso and Kumar, 2007). The implicit assumption is that a
+        higher score, given the specificity and verifiability of such disclosures, would entail high
+        reporting quality (Wiseman, 1982; Boesso and Kumar, 2007). In this study, we use both
+        approaches to mitigate the disadvantages of each approach.
+            In assessing the quality of integrated reports, a weighted scoring approach was used
+        (Wiseman, 1982; Al-Tuwaijri et al., 2004; Boesso and Kumar, 2007). Building on prior
+        organisational reporting literature, this study uses a detailed scoring scheme in
+        measuring the quality of integrated reports (Wiseman, 1982; Boesso and Kumar, 2007).
+        We have designed a scoring scheme of “0-3”, where “0” was assigned when the item in
+        the checklist was not disclosed at all, and1 if the companies provided general qualitative
+        disclosures. A score of 2 was assigned for specific information, and the highest score of
+        3 for a detailed discussion incorporating specific organisational actions. For instance,
+        depending on the nature of the checklist items, the highest score of 3 is awarded if the
+        companies provided substantive information that can be verified, has already been
+        verified by external assurance providers, is company-specific rather than generic and/or
+        incorporates specific names of individuals/institutions. Under this approach, the quality
+        of integrated reporting (QIR) score is computed as the ratio of actual scores (AS) to the
+        maximum possible score (MS) (i.e. 3 ⫻ 52 ⫽ 156). Thus, the QIR score of a company is
+        calculated as follows:
+
+                                                        AS
+                                               QIR ⫽
+                                                        MS
+
+        In measuring the extent of IR practice, a score of 1 was awarded if the checklist items
+        appeared in the integrated reports, regardless of how it appeared, and a score of 0
+        otherwise. Under this approach, the extent of integrated reporting (XIR) score was
+        computed as the ratio of actual scores (AS) to the maximum possible score (MS) (i.e. 52
+        items in the checklist). Thus, the XIR score of a company is calculated as follows:
+
+                                                        AS
+                                               XIR ⫽
+                                                        MS
+        5.4 Data analyses
+        We have conducted several statistical data analyses to examine the current state and
+        trend of IR practice in South Africa. First, descriptive statistics were computed to show
+the overall data distribution over the three-year period. The descriptive results show          The trend of
+that the data are normally distributed, and therefore, parametric data analyses can be           integrated
+performed. Second, to examine the trend of IR practice over time, we have conducted               reporting
+“one-way repeated measures ANOVA” analyses. There are five assumptions[3] for the
+“one-way repeated measures ANOVA”, namely:                                                          practice
+  (1) the dependent variable should be measured at the interval or ratio level (i.e.
+        continuous variable);                                                                          205
+  (2) the independent variable should consist of at least two categorical, related
+        groups or matched pairs;
+  (3) there should be no significant outliers in the differences between the two related
+        groups;
+  (4) the distribution of the dependent variable in the related groups should be
+        normally distributed; and
+  (5) sphericity assumption: the variances of the differences between all combinations
+        of related groups must be equal.
+
+Although the data of this study have satisfied the first four assumptions of one-way
+repeated measures ANOVA, the assumption of sphericity has only been met in 2 of 18
+ANOVA outputs based on Mauchly’s test of sphericity. To account for the violations of
+the sphericity assumption, SPSS automatically prints corrected outputs in two epsilon
+values[4]: Greenhouse-Geisser and the Huynh-Feldt which, based on adjusted degrees of
+freedom, produce a more accurate (conservative) significance (p) values. The results of
+this study, based on the corrected and uncorrected outputs (i.e. the significance values
+shown in Wilk’s lambda, Greenhouse-Geisser or Huynh-Feldt), were largely the same.
+   Additional tests such as “paired-sample t-test” and alternative non-parametric
+analyses (e.g. Friedman test) were performed to provide further insights and ensure
+consistency of the research findings. The following section presents the research
+findings.
+
+6. Research findings
+6.1 Descriptive results
+We have used two approaches to examine IR practice in South Africa, a detailed scoring
+scheme and a dichotomous approach. In the first approach, we examine the level of
+specificity and detail (quality), whereas in the second method, the emphasis is on the
+presence/absence of information pertaining to the items at hand (extent). The maximum
+possible score for the quality measure is 156 (i.e. 52 items ⫻ 3 ⫽ 156), whereas the
+maximum score for the extent measure is 52 (52 ⫻ 1 ⫽ 52). The eight subcategories of the
+IR checklist follow the same pattern.
+    Table II presents descriptive results for the quality of IR practice for the three years
+under investigation (2011-2013). The results show that the mean scores in the quality of
+integrated reports have increased over time, increasing from 43.57 per cent in the year
+2011 to 47.32 per cent in 2012 and to 50.16 per cent in 2013. This finding is consistent
+with prior observations of improving IR practice in South Africa (Ernst & Young, 2013,
+2014). Despite the increase in the mean scores, the findings show that the highest score
+in the quality of IR practice is 66.03 per cent in 2011, and 69.87 per cent in 2012 and 2013,
+SAMPJ                whereas the minimum scores were 12.82 per cent in 2011, and 15.38 per cent in 2012 and
+7,2                  2013, indicating that the IR guidelines are not fully embraced.
+                         Table II also reports results for the extent of IR practice. The results show a similar
+                     increasing trend, with the mean scores increasing from 64.52 per cent in 2011 to 69.75 per
+                     cent in 2012 and to 72.61 per cent in the year 2013. The results show higher scores in the
+                     extent of IR, compared to the quality scores, because the nature of IR practice is mostly
+206                  generic (ceremonial) rather than company-specific (substantive), as shown in the
+                     following extract:
+                        As an African financial services group we have a fundamental role to play in the development
+                        of the societies in which we operate. The success of our customers and stakeholders underpins
+                        our commercial sustainability and our ability to deliver returns to our stakeholders over the
+                        long term. This forms the basis for integrated thinking and integrated reporting for the group
+                        (Integrated Report, 2013a, 2013b, Company B).
+                     In the above-mentioned extract, although the company does well in establishing links
+                     between its fundamental role and financial success to sustainable development,
+                     integrated thinking and reporting, in this context, are loosely used. There is no further
+                     elaboration to highlight “how” integrated thinking and reporting shapes organisational
+                     value creation. Hence, the generic use of “integrated thinking and integrated reporting”,
+                     in the above-mentioned extract, is symbolic, rather than substantive, aimed to showcase
+                     conformity with existing IR guidelines.
+                         Table III presents further insights on IR scores in terms of distribution of the sample
+                     companies. Based on the quality of IR practice, the results show that the IR scores of the
+
+
+                                          Quality of IR scores-scoring (0-3)            Extent of IR scores-scoring (0, 1)
+                                          2011          2012           2013             2011          2012           2013
+
+                       Minimum (%)       12.82         15.38         15.38            19.23           23.08        23.08
+                       Maximum (%)       66.03         69.87         69.87            92.31           96.15        98.08
+Table II.              Mean (%)          43.57         47.32         50.16            64.52           69.75        72.61
+Descriptive statistics SD                10.99         10.8          11.03            15.04           14.62        14.41
+on integrated reports: Skewness          ⫺0.331        ⫺0.54         ⫺0.573           ⫺0.640          ⫺0.840       ⫺0.950
+2011-2013              Kurtosis           0.351         0.446         0.414            0.341           0.918        1.128
+
+
+
+                                2011                               2012                                  2013
+                     Quality    No. of                Quality      No. of                   Quality      No. of
+                     of IR      firms       (%)        of IR       firms        (%)          of IR       firms        (%)
+
+                     ⱖ70           0         0        ⱖ70             0          0          ⱖ70             0          0
+                     60-69.9       5         6.1      60-69.9         8          9.76       60-69.9        13         15.9
+                     50-59.9      20        24.4      50-59.9        29         35.4        50-59.9        33         40.2
+                     40-49.9      29        35.4      40-49.9        28         34.1        40-49.9        22         26.8
+Table III.           30-39.9      21        25.6      30-39.9        12         14.6        30-39.9         9         11
+Distribution of IR   20-29.9       4         4.88     20-29.9         4          4.88       20-29.9         4          4.88
+scores among         10-19.9       3         3.66     10-19.9         1          1.22       10-19.9         1          1.22
+companies-using      1-9.9         0         0.00     1-9.9           0          0.00       1-9.9           0          0.00
+quality scores       Total        82       100        Total          82        100          Total          82        100
+sample companies were above 10 per cent but below 70 per cent throughout the                      The trend of
+three-year period. Most companies (35.4 per cent) had scores ranging from 40 to 49.90              integrated
+per cent in 2011, with only 25 of the sample companies (30.5 per cent) having scores of 50
+per cent or more. In 2012 and 2013, however, most companies had scores of 50 per cent
+                                                                                                    reporting
+to 59.90 per cent. Despite the increasing number of companies with improving IR scores,               practice
+the findings show that the quality of IR practice was lower than 70 per cent throughout
+the three-year period.                                                                                   207
+
+6.2 Analyses of integrated reporting categories
+Building on the IRC (2011) of South Africa and IIRC (2013a) IR guidelines, we examine IR
+practice using eight IR categories. This section presents the scores in each category as
+proportion of maximum possible scores. The results presented in Table IV show the
+quality of IR practice for each category. In terms of the quality scores, the “stakeholder
+relationships” category is ranked highest in all three years, accounting for 59.96 per cent
+in 2011, 63.96 per cent in 2012 and 66.40 per cent in 2013. Ranked second and third are
+“strategic focus” and “conciseness”, respectively. The lowest disclosed categories are
+“consistency, comparability and assurance” (ranked seventh), and “reliability and
+completeness” of IR practice (ranked eighth). These findings are consistent with recent
+studies in South Africa that have observed low levels of application in certain aspects of
+the IR guidelines such as the comparability, reliability and completeness of the
+integrated reports (Ernst & Young, 2014; IRC, 2015).
+   The results presented in Table V show the extent of IR scores by category. The
+results are slightly different from the quality scores described in Table IV as
+“conciseness” and “stakeholder relationships” take the front two positions across all the
+three years, respectively. The “strategic focus” is ranked third in 2011 and 2012, with
+“risk management practices” moving from fifth position in 2011 to fourth in 2012 and to
+third in 2013. However, the lowest disclosed categories are “materiality” (ranking sixth
+in 2011 and seventh thereafter), “connectivity of information” (ranked seventh in 2011
+and sixth thereafter) and “reliability and completeness” (ranked eighth in all three
+years).
+   The findings indicate that the cornerstones of IR (e.g. materiality, connectivity of
+information, and reliability and completeness) are poorly incorporated in the integrated
+reports. This finding is in line with the recent study by the IRC (2015, p. 4) of South
+Africa which observed that:
+   […] the inability to meet to the fullest extent the guiding principles of comparability and
+   reliability, and completeness because of a lack of measurable data or trends, is regarded by
+   some organisations as reason to exclude reporting on outcomes.
+On the other hand, the most disclosed categories, which are “stakeholder relationships”,
+“strategic focus” and “risk management practices”, are imbued with soft and generic
+disclosures to exaggerate positive trends whilst avoiding, or dismissing, negative
+outcomes in organisational performance. In particular, there is an overwhelming
+preference to provide symbolic gestures on stakeholder relationships in an attempt to
+address issues of national concern such as the BBBEE (van Zyl, 2013). However, the
+results show some encouraging progress, in terms of ranking, on certain aspects of IR
+practice including the “connectivity of information”. The next section presents further
+insights into individual aspects of IR categories.
+ Table IV.
+ Scores of integrated                                                                                                           208            SAMPJ
+ reporting by                                                                                                                                  7,2
+ category of
+ information-quality
+ scores (0-3)
+
+
+
+
+                                            Year 2011                                Year 2012                               Year 2013
+                               Maximum     Actual                      Maximum      Actual                     Maximum      Actual
+IR categories                   score      score    (%)     Ranking     score       score    (%)     Ranking    score       score    (%)      Ranking
+
+Strategic focus                  1,968      1,032   52.44   2nd           1,968     1,108    56.30   2nd           1,968     1,158    58.84   2nd
+Connectivity of information      1,968        834   42.38   5th           1,968       927    47.10   4th           1,968     1,014    51.52   4th
+Stakeholder relationships        1,476        885   59.96   1st           1,476       944    63.96   1st           1,476       980    66.40   1st
+Materiality                      1,722        736   42.74   4th           1,722       788    45.76   5th           1,722       816    47.39   5th
+Risk management practices        1,722        684   39.72   6th           1,722       746    43.32   6th           1,722       764    44.37   6th
+Conciseness                      1,230        592   48.13   3rd           1,230       625    50.81   3rd           1,230       654    53.17   3rd
+Reliability and completeness     1,968        578   29.37   8th           1,968       654    33.23   8th           1,968       756    38.41   7th
+Consistency, comparability
+and assurance                      738        233   31.57   7th             738       261    35.37   7th            738        275    37.26   8th
+Total                           12,792      5,574   43.57                12,792     6,053    47.32               12,792      6,417    50.16
+
+Notes: aActual score/maximum score (1,032/1,968 ⫽ 52.44%); for instance, maximum score of 1,968 is obtained among the eight items in “Strategic focus”
+category ⫻ 3 points ⫻ 82 companies
+                                          Year 2011                             Year 2012                             Year 2013
+                               Maximum   Actual                    Maximum     Actual                    Maximum     Actual
+IR categories                   score    score    (%)    Ranking    score      score    (%)    Ranking    score      score    (%)    Ranking
+
+Strategic focus                  656       511   77.90   3rd           656       526   80.18   3rd           656       538   82.01   4th
+Connectivity of info             656       332   50.61   7th           656       381   58.08   6th           656       421   64.18   6th
+Stakeholder relationships        492       385   78.25   2nd           492       412   83.74   2nd           492       414   84.15   2nd
+Materiality                      574       291   50.7    6th           574       321   55.92   7th           574       329   57.32   7th
+Risk management practices        574       414   72.13   5th           574       456   79.44   4th           574       477   83.10   3rd
+Conciseness                      410       356   86.83   1st           410       361   88.05   1st           410       370   90.24   1st
+Reliability and completeness     656       284   43.29   8th           656       327   49.85   8th           656       354   53.96   8th
+Consistency, completeness
+and assurance                     246      178   72.36   4th           246       190   77.24   5th           246       193   78.46   5th
+Total                           4,264    2,751   64.52               4,264     2,974   69.75               4,264     3,096   72.61
+
+Notes: aActual score/maximum score (511/656 ⫽ 77.90%); for instance, maximum score of 656 is obtained 8 items in ‘Strategic Focus’ category ⫻
+1 point ⫻ 82 companies
+
+
+
+
+           Table V.
+ Scores of integrated                                                                                                          The trend of
+        reporting by                                                                                                            integrated
+         category of
+  information-extent
+                                                                                                                                 reporting
+         scores (0, 1)                                                                                                 209         practice
+SAMPJ   6.2 Additional analyses
+7,2     The preceding discussion showed that “stakeholder relationships” and “strategic
+        focus” are the highest disclosed categories. We discuss the IR items in these leading
+        as well as other categories in turn. First, the items in the “stakeholder relationships”
+        category include stakeholder engagement, communication channels to stakeholders
+        and taking stewardship and responsibility for organisational actions. Disclosure of
+210     these items allows a company to appear “socially aware” and, as a result, maintain
+        its legitimacy. In particular, the discussion pertaining to “stakeholder relationships”
+        largely circles around the BBBEE initiatives, with firms disclosing their attempts to
+        alleviate poverty and increase equal employment opportunities. In doing so,
+        companies select positive trends and benchmarks that display organisational image
+        the most favourable way:
+           This past year, we continued to make excellent progress in our transformation activities in
+           South Africa. We achieved level 3 broad-based black economic empowerment (BBBEE)
+           contributor status, improving from level 4. Our unwavering focus on equity ownership,
+           enterprise and socioeconomic development, employment equity, skills development and
+           preferential procurement are delivering exceptional results – well beyond the stretch targets
+           we had set for ourselves (Integrated Report, 2013a, 2013b, Company C).
+        While the above-mentioned disclosures are substantive in terms of verifiability (i.e.
+        improving from Level 4 to Level 3), they are nonetheless selective and represent
+        attempts to address issues of social concern to enhance corporate reputation, with
+        companies using the integrated report as a legitimation tool, rather than an
+        organisational accountability tool which balances both positive and negative trends.
+        There also seems a form of uniformity in the positive tone of disclosure language, with
+        companies conforming to a similar reporting pattern, a pattern which strategically
+        targets the soft spots of relevant publics (e.g. women training, reference to historically
+        disadvantaged groups), as shown in the following extract:
+           We provided significant opportunity for personal advancement in the year. Our group
+           expenditure on training amounted to R638 million (2012: R605 million), of which R19,6 million
+           (2012: R17,7 million) was invested in our graduate programme. Of the 184 people (2012: 181)
+           who participated in the 2013 graduate programme, 43 per cent are women and 80 per cent of
+           the South African complement was black (Integrated Report, 2013a, 2013b, Company D).
+        The second leading category, “strategic focus”, has eight items. The elements
+        included in the “strategic focus” section, despite containing innovative reporting
+        elements, relate to particular IR developments (e.g. basis of IR preparation) and so
+        discussions pertaining such items are expected. For instance, a significant number
+        of companies (71.95 per cent in 2011, 68.29 per cent in 2012 and 69.51 per cent in
+        2013) have reported their “Commitment to continuous integrated thinking and
+        reporting” following the introduction of IR requirement. The chairman of one of the
+        sample companies welcomed the introduction of IR practice in South Africa, as
+        shown in the following extract:
+           An important governance development this year has been the requirement, in terms of the
+           King Code of Governance Principles for South Africa (King III Code), to publish an integrated
+           annual report. This forms part of a broader global governance trend that seeks to promote
+           more effective disclosure of the information needed by stakeholders to assess the true
+           economic value of organisations. I welcome this trend, in the belief that it will prompt an
+   improved appreciation within business of the strategic significance of societal issues, as well   The trend of
+   as encouraging business to play an active role in addressing the social, economic and
+   environmental challenges that we face (Integrated Report, 2011, Company E).
+                                                                                                      integrated
+                                                                                                       reporting
+In line with legitimacy theory’s continuum of symbolic, combined symbolic-substantive and                practice
+substantive actions, the chairman responds to the introduction of IR practice to indicate that
+the company’s reporting practices are congruent with regulatory developments. As a result,
+the company is expected to avoid unfavourable regulatory or stakeholder attention.                          211
+    In terms of “connectivity of information”, the analyses show that the level of
+integration is growing. The number of companies with unique IR disclosures has
+significantly increased over time. For instance, a growing number of companies have
+provided disclosures on “interrelatedness and dependencies between the factors that
+affect a firm’s ability to create value over time” (17.07 per cent in 2011, 23.17 per cent in
+2012 and 37.8 per cent in 2013) and “changes in strategy when new risks and
+opportunities are identified” (24.39, 34.15 and 41.46 per cent, respectively). Similarly, of
+particular significance to IR are the disclosures on “interdependencies and trade-offs
+between the capitals”. The results show that the number of companies reporting “the
+capitals” have started slowly with the trend showing a significant increase over time
+from just 3.66 per cent (three companies) in 2011 to 9.76 per cent in 2012 to 23.17 per cent
+in 2013. The following quote shows how a company responds to the capitals framework:
+   Our ability to create value depends on certain forms of capital, how we use them and our
+   impact on them. We apply the capitals model, initially developed by Forum for the Future, in
+   managing and assessing our ability to create value over time. Our report aims to explain how
+   we use and affect the capitals. We recognise that the capitals are interrelated and fundamental
+   to the long-term viability of our business. Intellectual capital is integrated into the human,
+   financial and manufactured capitals as this better reflects the nature of our business as a
+   financial services organisation (Integrated Report, 2013a, 2013b, Company F).
+However, while the companies are increasingly acknowledging the multiple capitals
+framework, the integrated reports are not actually aligned to the capitals framework. In
+particular, the positive and negative trade-offs between the capitals, or components of a
+capital, are not systematically reported. As a result, the recognition that “the capitals are
+interrelated and fundamental to the long-term viability of our business”, as stated in the
+above extract, is generic rather than company-specific aimed to establish symbolic
+conformity with IR guidelines.
+   Application of other IR guidelines is also disappointing. Discussion of material issues
+is particularly low, and when reported, companies tend to provide rather passive and
+vague disclosures of material issues. For instance, few companies (3.66, 8.54 and 9.76 per
+cent in the respective years) have reported “interrelationships between material issues”.
+Similarly, a limited number of companies (20.73, 26.83t and 25.61 per cent, respectively)
+have disclosed “identification, prioritization and approval of material issues”. The
+limited and ambiguous disclosures notwithstanding, there is nonetheless an increasing
+trend.
+   Another disappointing area of the integrated reports is the “reliability and
+completeness” of the integrated reports. The integrated reports, despite the explicit calls
+to balance positive and negative information in existing IR guidelines, are biased
+towards positive disclosures, with companies exaggerating positive information whilst
+ignoring negative outcomes. Finally, the “consistency, comparability and assurances”
+SAMPJ                   category, despite the increasing number of companies providing limited external
+7,2                     assurance on non-financial information (45.12, 58.54 and 62.2 per cent in respective
+                        years), it is another area which requires significant improvement (IRC, 2015). Taken
+                        together, the findings suggest that there is limited but growing application of IR
+                        guidelines in South Africa.
+
+212                     6.3 Trend of integrated reporting
+                        The aim of our longitudinal analyses is to examine the trend of IR practice, both in
+                        overall and in categories. In line with this aim, we have conducted the parametric
+                        “one-way repeated measures ANOVA” to examine the trend of IR practice over time.
+                        The results presented in Table VI show the trend in the quality and extent of IR practice
+                        for both the overall as well as subcategory scores. The results, based on both corrected
+                        and uncorrected values, indicate that the overall scores in the quality and extent of IR
+                        practice have both increased significantly over the three-year period at the 1 per cent
+                        significance level, p ⫽ 0.000. The results also reveal a significant increasing trend in the
+                        quality and extent of all IR categories.
+                           Given that the one-way repeated measures ANOVA can only reveal a difference
+                        somewhere over the three-year period, we have performed further analyses between
+                        years based on paired sample t-tests. The results in Table VII show that the significant
+
+                                                               Quality of IR                          Extent of IR
+                                                       2011 2012 2013                        2011 2012 2013
+                        Overall and categories             Mean scores       p-value*            Mean scores       p-value*
+
+                        Overall IR scores              43.57   47.32   50.16      0.000***   64.52   69.75   72.61    0.000***
+                        Strategic focus                52.44   56.30   58.84      0.000***   77.90   80.18   82.01    0.002***
+                        Connectivity of information    42.38   47.10   51.52      0.000***   50.61   58.08   64.18    0.000***
+                        Stakeholder relationships      59.96   63.96   66.40      0.001***   78.25   83.74   84.15    0.008***
+                        Materiality                    42.74   45.76   47.39      0.000***   50.7    55.92   57.32    0.000***
+                        Risk management practices      39.72   43.32   44.37      0.000***   72.13   79.44   83.10    0.000***
+                        Conciseness                    48.13   50.81   53.17      0.001***   86.83   88.05   90.24    0.038**
+                        Reliability and completeness   29.37   33.23   38.41      0.000***   43.29   49.85   53.96    0.000***
+                        Consistency, completeness
+Table VI.               and assurance                 31.57 35.37 37.26 0.000*** 72.36 77.24 78.46 0.008***
+One-way repeated
+measures ANOVA:       Notes: * The p-values are presented using both corrected (Greenhouse-Geisser and the Huynh-Feldt)
+mean scores in IR     and uncorrected, as the case may be; the corrected and uncorrected p-values were largely
+over time (2011-2013) similar; *** increased at the 1% significance level; ** increased at the 5% significance level
+
+
+
+                                                  Overall-using detailed scoring                 Overall-using dichotomous
+                                                         scheme (quality)                         scoring scheme (extent)
+                        Years                    t-value            Significance              t-value             Significance
+Table VII.              2011 and 2012            ⫺3.745                0.000***               ⫺5.230                 0.000***
+Paired samples t-test   2011 and 2013            ⫺6.590                0.000***               ⫺8.091                 0.000***
+for differences in IR   2012 and 2013            ⫺2.846                0.000***               ⫺2.861                 0.000***
+scores between any
+two years               Note: *** Increased at the 1% significance level
+increases occurred between any two years, and not just over the three-year period. The         The trend of
+significant increases between the years, in addition to the overall increasing trend,           integrated
+suggest that companies are making progress towards IR practice. This finding is
+consistent with recent studies in South Africa that have observed progress in both
+                                                                                                 reporting
+application of IR guidelines as well as the level of corporate disclosures following the           practice
+adoption of IR practice (Ernst & Young, 2014; Setia et al., 2015).
+                                                                                                      213
+6.4 Discussion: ceremonial versus substantive integrated reporting practice
+We come back to our research question: is IR practice actually ceremonial or substantive
+in nature? We find that the current IR practice is largely ceremonial in nature. We
+provide four main observations to illustrate the ceremonial nature of the IR practice.
+First, given the soft regulatory oversight in South Africa, symbolic conformity with IR
+requirements is enough to maintain organisational legitimacy. Consequently,
+companies provide symbolic gestures based on selected IR terminologies to showcase
+compliance with certain aspects of IR guidelines. For instance, the integrated reports are
+imbued with random IR terms such as “increases, decreases, transformations, outputs
+and outcomes” of the capitals. However, these terms often appear in a generic, even out
+of context, manner in the integrated reports. In particular, companies fail to provide
+contextualised, company-specific disclosures about the interdependencies and
+trade-offs between the factors that affect organisational value creation. In essence, the
+adoption of IR practice has not brought major shifts in how companies establish
+connectivity between various financial and non-financial measures. Second, we find that
+there is no particular reporting identity following the adoption of IR guidelines. The IR
+guidelines emphasise the “comparability and consistency” of the integrated reports “on
+a basis that is consistent over time and in a way that enables comparison with other
+organisations” (IIRC, 2013a, p. 5). However, the integrated reports are chronically
+inconsistent over time and across organisations. This is largely because of the limited
+application of existing IR guidelines and content elements across organisations.
+   Third, despite the calls for inclusion of all material matters, both positive and
+negative, in a balanced way (IRC, 2011; IIRC, 2013a), companies continue to exaggerate
+positive information whilst underplaying, or dismissing, negative outcomes. In
+particular, companies ignore negative trade-offs between multiple capitals, or
+components of a capital. Finally, companies continue to conceptualise organisational
+“value creation” in the traditional measures of financial performance. While the IR
+agenda, and the embedded integrated thinking, promise to bring a shift from “financial
+capital market system” to an “inclusive capital market system” through recognition of
+multiple capitals (Coulson et al., 2015), that is not the case in practice because companies
+continue to discuss “sustainability” issues in the context of traditional financial
+performance measures such as return on equity. However, there are a number of
+emerging themes that have the potential to transform current IR practice into
+substantive practice. We discuss these themes in the following section.
+   6.4.1 Substantive integrated reporting practice. The ceremonial nature of IR practice,
+notwithstanding, there are a number of emerging features that has the potential to
+enhance the quality of IR practice. During the analyses, we have observed features that
+distinctly differentiate the IR practice from conventional reporting norms. Albeit the
+majority of the “features” we have observed were general and at times vague constructs,
+there were, nonetheless, promising indications of a new (substantive) reporting
+SAMPJ   tradition. For instance, in line with IR guidelines’ calls for balancing positive and
+7,2     negative information, a number of companies have shown innovative ways, than has
+        previously been the case in conventional annual reports, to make contrasts from
+        “highlights” to “lowlights”, “great stuff” to “bad stuff”, “achievements” to
+        “disappointments” and “positives” to “negatives”. There seemed an “IR factor” pushing
+        companies to disclose unfavourable information, beyond image-building good news
+214     disclosures. For instance, the following extract discloses specific challenges a company
+        faced during the year:
+           The year did have its challenges though, with a regrettable network outage on 30 June that
+           affected some of our customers for a part of the day. We learned a number of good lessons from
+           that event and based on this we made both process changes and targeted investment to
+           increase network resilience and limit the risk of this happening again (Integrated Report, 2012,
+           Company G).
+        The “risks and opportunities” aspect of IR guidelines, which encourage companies to go
+        beyond the predictable positive disclosures and include negative and disappointing
+        stories in a balanced way, is gaining momentum. The following quote shows how a
+        company reports several significant challenges, using negative wording, in its
+        integrated report:
+           We are under siege on many fronts. We have lost credibility with some of our customers,
+           especially residential, in terms of service and our inability to communicate with them.
+
+           • Shrinking revenues and profits. The business faces many pressures, notably
+             increased competition and pricing pressure throughout.
+           • Our culture is not where it should be. Currently it neutralizes any initiative
+             because of old hierarchical structures and lack of accountability.
+           • Our traditional business revenues are declining and, as a result, we have to get the
+             basics in place and focus on growing where our strengths lie
+           • Costs. Compared to our peers we are less efficient than they are. Given the decline
+             in revenue streams it is vital that we find an effective process to drive down cost
+             (Integrated Report, 2012, Company H).
+
+        Although traditionally it is common for South African firms to disclose fatalities in their
+        annual reports, there is nonetheless an increasing trend in doing so:
+           In terms of the lows, while we improved our safety performance we still had three contractor
+           fatalities. This is unacceptable and we’re redoubling our efforts to achieve zero fatalities in all
+           our operations (Integrated Report, 2013a, 2013b, Company I).
+        While the discussions on multiple capitals are largely generic, a growing number of
+        companies recognise the interrelatedness and trade-offs between the capitals, or
+        components of a capital as shown below:
+           Our report aims to explain how we use and affect the capitals. We recognise that the capitals
+           are interrelated and fundamental to the long-term viability of our business. Intellectual capital
+           is integrated into the human, financial and manufactured capitals as this better reflects the
+           nature of our business as a financial services organisation (Integrated Report, 2013a, 2013b,
+           Company J).
+A third emerging feature in the integrated reports is the increasing number of                             The trend of
+companies reporting external assurances in non-financial information. Companies                             integrated
+incorporate innovative features in the integrated reports to highlight that certain                          reporting
+non-financial information is assured by external assurance providers. Albeit companies
+tend to seek “limited” external assurances in non-financial information, a significant
+                                                                                                               practice
+number of companies report that the audit committee function assumes responsibility
+for the integrity of the integrated reports to compensate the limited level of external                           215
+assurance in non-financial information. Conventionally, the responsibility of the audit
+committee function was limited to monitoring the quality of financial reporting process.
+This emerging trend in non-financial information assurances seems to extend the role of
+audit committee in monitoring the quality of non-financial information. External
+assurance in non-financial information, and the involvement of audit committee in the
+process, has the potential to enhance the veracity and reliability of corporate disclosures.
+Examples of such disclosures in integrated reports include.
+   External assurance obtained in the current year also included limited assurance on
+selected sustainability information. Environmental targets are provided for the first
+time and, therefore, no comparisons against targets for prior years were possible […].
+The combined assurance approach will be enhanced further in future years to confirm
+the appropriate application of integrated reporting principles and the integrity of data
+contained in future Reports (Integrated Report, 2011, Company K).
+   The report is reviewed by the audit committee and the board of directors to satisfy
+themselves of the materiality, accuracy and balance of disclosures. In addition, the
+various aspects of the integrated report are independently assured by a number of
+assurance providers (Integrated Report, 2012, Company L).
+   Finally, companies reveal difficulties and challenges in the IR process. In particular, firms
+have challenges in the identification, prioritisation and determination of material matters. In
+most cases, companies use traditional organisational proxies such as risk management
+framework to describe organisational material issues, as shown in the following extract:
+   The diversity of businesses in the [XYZ] Group and the corresponding diversity of stakeholders
+   sometimes makes it difficult to determine which issues pass the test of materiality. For the purposes
+   of this first Integrated Report, management has chosen to use the Company’s risk management
+   framework as a guide to materiality (Integrated Report, 2011, Company N).
+The confusion on what constitutes “material” issues results in rhetorical disclosures and
+generic statements, rather than company-specific material matters, with companies citing
+general issues such as regulation, economic and political challenges, as well as stiff
+competition as material issues. In addition, companies provide mere indications that
+the material matters were considered without describing the process, in particular, whether
+the company has engaged with relevant stakeholders in identifying material issues. The
+following extract indicates challenges in the identification of material issues, with some
+companies seeking external expertise to assist them in the identification process:
+   During the year under review, management appointed an external service provider to assist
+   the Group with the implementation of integrated reporting. This included the determination of
+   material issues and the way in which the Group would report internally each month. The
+   Chairman of the ARC Committee was nominated by the Board as the Group’s champion for
+   integrated reporting (Integrated Report, 2011, Company P).
+SAMPJ   In summary, at this developmental stage of the IR journey, we find that there is evidence
+7,2     of both ceremonial and substantive IR practice. The trend analyses show that
+        companies are increasingly aligning the integrated reports to existing IR guidelines.
+        However, the integrated reports are biased towards positive disclosures as companies
+        continue to use the integrated report as a legitimation tool. In addition, there is limited
+        application of key IR aspects such as connectivity of information, materiality
+216     determination process and trade-offs between the multiple capitals, or components of a
+        capital, in the integrated reports.
+
+        7. Concluding remarks
+        The purpose of this study is to examine the state and trend of IR practice in South Africa.
+        In particular, we examine whether the IR practice is ceremonial or substantive in nature,
+        based on the existing IR guidelines. In doing so, we engage with the content of integrated
+        reports to examine the extent and quality of IR practice for the years 2011-2013,
+        following the introduction of an “apply or explain” IR requirement in South Africa.
+        Drawing from 246 integrated reports over the three-year period, the findings show a
+        significant increase in the extent and quality of IR practice over time. We find that
+        companies are increasingly acknowledging the interdependencies and trade-offs
+        between the factors that affect organisational value creation. The increasing trend,
+        notwithstanding, the results reveal that key aspects of IR practice (e.g. issues of
+        materiality and connectivity of information) are poorly incorporated in the integrated
+        reports. In addition, the reliability and completeness of the integrated reports is low as
+        companies continue to exaggerate positive disclosures whilst obscuring, or dismissing,
+        negative information. Moreover, multiple capital disclosures are generic, rather than
+        company-specific, as companies hardly discuss trade-offs between the capitals. In sum,
+        while there is evidence of both symbolic and substantive IR practice in South Africa, our
+        findings generally suggest that the current IR practice is largely ceremonial in nature,
+        aimed to acquire organisational legitimacy (Steyn, 2014; Setia et al., 2015).
+            This study has a number of implications for several groups. First, for academics,
+        given the “embryonic” state of IR research, this study provides a longitudinal account of
+        the state and development of IR practice. On the one hand, the research findings show
+        that IR practice is taking shape, with companies increasingly, albeit metaphorically,
+        aligning the integrated reports to IR guidelines. This suggests that companies are open
+        to new organisational reporting innovations (Robertson and Samy, 2015). However, the
+        ceremonial nature of IR practice is largely because of lack of proper understanding of
+        “how” IR works. Part of this is due to limited academic and professional research that
+        have attempted to decode existing IR guidelines and provide specific instruments to
+        assist companies into the transition of IR practice (Haller and van Staden, 2014; Adams,
+        2015a). Academic researchers could engage with companies through interventionist
+        research to help them implement integrated thinking and substantive reporting. There
+        is also a need to develop additional reporting instruments and tools that incorporate and
+        elaborate the central ideas of IR guidelines (Haller and van Staden, 2014).
+            Second, for international policymakers, the empirical insights of this study, which
+        are drawn from a regulatory IR environment, highlight IR practice, despite challenges,
+        is making progress over time. Emerging countries, in particular, may find the research
+        results from the South African IR experience useful towards introducing IR requirement
+        in their bids to enhancing their competitiveness and reputation in the global financial
+markets. Third, the findings inform local regulatory authorities the extent and quality of          The trend of
+IR practice over time, and draws attention to specific areas of IR practice that require             integrated
+improvement. In particular, the authorities should provide specific reporting guidelines
+on issues of materiality, connectivity of information and disclosure of multiple capitals.
+                                                                                                      reporting
+Finally, for educators, there is a need to incorporate IR in the curriculum. For instance,              practice
+ACCA has already embedded IR in its qualifications since December 2014, in particular
+in four papers (i.e. P3, P4, P5 and P7) (ACCA, 2014). At the university level, we argue that               217
+the best way to introduce IR is in a “ubiquitous” spread in accounting and management
+courses.
+    The findings of this study must be interpreted within the context of several
+limitations. First, the study is limited to South Africa where IR is mandatory. Future
+studies should draw evidence from other countries, or provide comparative analyses
+involving South Africa and elsewhere (voluntary setting) to provide useful insights.
+Second, the content analyses task is inherently subject to reliability and validity
+concerns that could potentially undermine the research findings (Milne and Adler, 1999).
+However, we have taken several measures to reduce the level of subjectivity and
+enhance the reliability of research findings. An alternative research approach is to
+undertake an in-depth investigation involving few cases to observe IR in action, in
+particular to consider “production and transmission of the message” as well as the
+“construction of the message” (Tregidga et al., 2012). Finally, this study did not
+specifically examine the tone, language and placement of disclosures in the integrated
+reports (Williams and Adams, 2013). Future studies should present a more focused
+assessment through discourse analyses to examine the language of the integrated
+reports, in particular, how companies integrate and discuss issues of materiality and the
+multiple capitals in the context of organisational value creation.
+
+
+Notes
+ 1. Ernst & Young introduced Excellence in Integrated Reporting Awards for IR practice in 2011.
+    The aim of the award is to enhance the quality of integrated reporting practice of South
+    African listed companies and state-owned entities.
+ 2. The five companies that have consistently won the Ernst & Young Excellence in Integrated
+    Reporting Awards are Sasol, Royal Bafokeng Platinum, Standard Bank, Truworths
+    International Ltd. and Gold Fields.
+ 3. For further discussion on the assumptions of one-way repeated measures ANOVA,
+    see https://statistics.laerd.com/spss-tutorials/one-way-anova-repeated-measures-using-spss-
+    statistics.php
+ 4. If the Mauchly’s test is insignificant, then the sphericity assumption has been met. However,
+    if it is significant, Greenhouse-Geisser and the Huynh-Feldt should be considered. To choose
+    between them, Huynh-Feldt is used when the epsilon value is greater than 0.75. If the epsilon
+    value is less than 0.75, then Greenhouse-Geisser is used.
+
+
+References
+ACCA (2011), “Adoption of integrated reporting by the ASX 50: a joint report from ACCA and the
+     Net Balance Foundation”, available at: www.accaglobal.com/content/dam/acca/global/
+     PDF-technical/sustainability-reporting/tech-tp-air2.pdf (accessed 22 April 2015).
+SAMPJ   ACCA (2014), “ACCA embeds integrated reporting”, available at: www.accaglobal.com/my/
+               en/student/acca-qual-student-journey/sa/features/acca-embeds-integrated-reporting.
+7,2            html (accessed 22 April 2015).
+        Adams, C. (2015a), Understanding Integrated Reporting: The Concise Guide to Integrated
+               Thinking and the Future of Corporate Reporting, Doˉ Sustainability, Oxford.
+        Adams, C. (2015b), “The international integrated reporting council: a call to action”, Critical
+218            Perspectives on Accounting, Vol. 27, pp. 23-28.
+        Adams, C.A. (2014), “Changing the way business is done: a critical review of two South African
+               integrated reports”, The Sustainability and Integrated Reporting Handbook, Alive2Green.
+        Ahmed Haji, A. (2013), “Corporate social responsibility disclosures over time: evidence from
+               Malaysia”, Managerial Auditing Journal, Vol. 28 No. 7, pp. 647-676.
+        Ahmed Haji, A. and Mohd Ghazali, N.A. (2012), “The influence of the financial crisis on corporate
+               voluntary disclosure: some Malaysian evidence”, International Journal of Disclosure and
+               Governance, Vol. 9 No. 2, pp. 101-125.
+        Ahmed Haji, A. and Mohd Ghazali, N.A. (2013), “A longitudinal examination of intellectual capital
+               disclosures and corporate governance attributes in Malaysia”, Asian Review of Accounting,
+               Vol. 21 No. 1, pp. 27-52.
+        Al-Tuwaijri, S., Christensen, T. and Huges, K. (2004), “The relations among environmental
+               disclosure, environmental performance, and economic performance: a simultaneous
+               equations approach”, Accounting, Organizations and Society, Vol. 29, pp. 447-471.
+        Andreasson, S. (2011), “Understanding corporate governance reform in South Africa
+               Anglo-American divergence, the King reports, and hybridization”, Business and Society,
+               Vol. 50 No. 4, pp. 647-673.
+        Atkins, J.F., Solomon, A., Norton, S. and Joseph, N.L. (2015), “The emergence of integrated private
+               reporting”, Meditari Accountancy Research, Vol. 23 No. 1, pp. 28-61.
+        Barter, N. (2015), “Natural capital: dollars and cents/dollars and sense”, Sustainability Accounting,
+               Management and Policy Journal, Vol. 6 No. 3, pp. 366-373.
+        Berrone, P., Gelabert, L. and Fosfuri, A. (2009), “The impact of symbolic and substantive actions
+               of environmental legitimacy”, Working Paper Business School, University of Navarra.
+        Boesso, G. and Kumar, K. (2007), “Drivers of corporate voluntary disclosure: a framework and
+               empirical evidence from Italy and the United States”, Accounting, Auditing &
+               Accountability Journal, Vol. 20 No. 2, pp. 269-296.
+        Brennan, N.M., Guillamon-Saorin, E. and Aileen Pierce, A. (2009), “Impression management:
+               developing and illustrating a scheme of analysis for narrative disclosures – a
+               methodological note”, Accounting, Auditing & Accountability Journal, Vol. 22 No. 5,
+               pp. 789-832.
+        Brown, J. and Dillard, J. (2014), “Integrated reporting: on the need for broadening out and opening
+               up”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7, pp. 1120-1156.
+        Coulson, A.B., Adams, C., Nugent, M. and Haynes, K. (2015), “Exploring metaphors of capitals and
+               the framing of multiple capitals: challenges and opportunities for IR”, Sustainability
+               Accounting, Management and Policy Journal, Vol. 6 No. 3, pp. 290-314.
+        de Villiers, C., Rinaldi, L. and Unerman, J. (2014), “Integrated reporting: insights, gaps and an
+               agenda for future research”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+               pp. 1042-1067.
+        de Villiers, C. and van Staden, C.J. (2006), “Can less environmental disclosure have a legitimizing
+               effect? Evidence from Africa”, Accounting, Organizations and Society, Vol. 31 No. 8,
+               pp. 763-781.
+Deegan, C., Rankin, M. and Voght, P. (2000), “Firms’ disclosure reactions to major social incidents:   The trend of
+        Australian evidence”, Accounting Forum, Vol. 24 No. 1, pp. 101-130.
+                                                                                                        integrated
+Eccles, R.G. and Armbrester, K. (2011), “Integrated reporting in the cloud”, IESE Insight, Vol. 8
+        No. 1, pp. 13-20.
+                                                                                                         reporting
+Ernst & Young (2013), EY’s Excellence in Integrated Reporting Awards 2013: A Survey of
+                                                                                                           practice
+        Integrated Reports from South Africa’s Top 100 JSE Listed Companies and Top 10 State
+        Owned Companies, Ernst & Young Global Limited, London.                                                219
+Ernst & Young (2014), EY’s Excellence in Integrated Reporting Awards 2014: A Survey of
+        Integrated Reports from South Africa’s Top 100 JSE-Listed Companies and Top 10
+        State-Owned Companies, Ernst & Young Global Limited, London.
+Flower, J. (2015), “The international integrated reporting council: a story of failure”, Critical
+        Perspectives on Accounting, Vol. 27, pp. 1-17.
+Gray, R., Kouhy, R. and Lavers, S. (1995), “Corporate social and environmental reporting: a review
+        of the literature and a longitudinal study of UK disclosure”, Accounting, Auditing &
+        Accountability Journal, Vol. 8 No. 2, pp. 47-77.
+Guthrie, J. and Parker, L.D. (1989), “Corporate social reporting: a rebuttal of legitimacy theory”,
+        Accounting and Business Research, Vol. 19 No. 76, pp. 343-352.
+Guthrie, J. and Parker, L.D. (1990), “Corporate social disclosure practice: a comparative
+        international analysis”, Advances in Public Interest Accounting, Vol. 3, pp. 159-175.
+Guthrie, J. and Petty, R. (2000), “Intellectual capital: Australian annual reporting practices”,
+        Journal of Intellectual Capital, Vol. 1 No. 3, pp. 241-251.
+Haller, A. and van Staden, C. (2014), “The value added statement – an appropriate instrument for
+        integrated reporting”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+        pp. 1190-1216.
+Higgins, C., Stubbs, W. and Love, T. (2014), “Walking the talk(s): organisational narratives of
+        integrated reporting”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+        pp. 1090-1119.
+Hybels, R.C. (1995), “On legitimacy, legitimation, and organizations: a critical review and
+        integrative theoretical model”, Academy of Management Journal, pp. 241-245.
+Integrated Reporting Committee (IRC) of South Africa (2011), “Framework for integrated
+        reporting and the integrated report”, Discussion Paper.
+Integrated Reporting Committee (IRC) of South Africa (2015), “Reporting outcomes: an
+        information paper”, Discussion Paper.
+International Integrated Reporting Council (IIRC) (2011), “Towards integrated reporting:
+        communicating value in the 21st century”, Discussion Paper, London.
+International Integrated Reporting Council (IIRC) (2013a), The International Integrated Reporting
+        Framework, International Integrated Reporting Committee (IIRC), London.
+International Integrated Reporting Council (IIRC) (2013b), Basis for Conclusions, International
+        Integrated Reporting Committee (IIRC), London.
+International Integrated Reporting Council (IIRC) (2013c), Summary of Significant Issues,
+        International Integrated Reporting Committee (IIRC), London.
+King III (2009), “King report on Governance for South Africa”, King Code of Governance
+        Principles Series.
+Krippendorff, K. (1980), Content Analysis: An Introduction to its Methodology, Sage, London.
+Li, J., Pike, R. and Haniffa, R. (2008), “Intellectual capital disclosure and corporate governance
+        structure in UK firms”, Accounting and Business Research, Vol. 38 No. 2, pp. 137-159.
+SAMPJ   Lindblom, C.K. (2004), “The implications of organizational legitimacy for corporate social
+               performance and disclosure”, paper presented at Critical Perspectives Conference, New
+7,2            York, NY.
+        Milne, M.J. and Adler, R.W. (1999), “Exploring the reliability of social and environmental
+               disclosures content analysis”, Accounting, Auditing & Accountability Journal, Vol. 12 No. 2,
+               pp. 237-256.
+220     Milne, M.J. and Gray, R. (2013), “W(h)ither ecology? The triple bottom line, the global reporting
+               initiative, and corporate sustainability reporting” Journal of Business Ethics, Vol. 118,
+               pp. 13-29.
+        O’Donovan, G. (2002), “Environmental disclosures in the annual report: extending the
+               applicability and predictive power of legitimacy theory”, Accounting, Auditing &
+               Accountability Journal, Vol. 15 No. 3, pp. 344-371.
+        Oliver, C. (1991), “Strategic responses to institutional processes”, Academy of Management
+               Review, Vol. 16 No. 1, pp. 145-179.
+        PwC (2013), “The value creation journey: a survey of JSE Top-40 companies’ integrated reports”,
+               available at: www.pwc.co.za/en/assets/pdf/integrated-reporting-august-2013.pdf (accessed
+               2 April 2015).
+        Robertson, F.A. and Samy, M. (2015), “Factors affecting the diffusion of integrated reporting – a
+               UK FTSE 100 perspective”, Sustainability Accounting, Management and Policy Journal,
+               Vol. 6 No. 2, pp. 190-223.
+        Setia, N., Abhayawansa, S., Joshi, M. and Huynh, A.V. (2015), “Integrated reporting in South
+               Africa: some initial evidence”, Sustainability Accounting, Management and Policy Journal,
+               Vol. 6 No. 3, pp. 397-424.
+        Simnett, R. and Huggins, A.L. (2015), “Integrated reporting and assurance: where can research add
+               value?”, Sustainability Accounting, Management and Policy Journal, Vol. 6 No. 1, pp. 29-53.
+        Solomon, J. and Maroun, W. (2012), Integrated Reporting: the Influence of King III on Social,
+               Ethical and Environmental Reporting, The Association of Chartered Certified Accountants,
+               London.
+        Soobaroyen, T. and Ntim, C.G. (2013), “Social and environmental accounting as symbolic and
+               substantive means of legitimation: the case of HIV/AIDS reporting in South Africa”,
+               Accounting Forum, Vol. 37, pp. 92-109.
+        Stemler, S. (2001), “An overview of content analysis”, Practical Assessment, Research &
+               Evaluation, Vol. 7 No. 17, available at: http://PAREonline.net/getvn.asp?v⫽7&n⫽17
+               (accessed 10 April 2015).
+        Stent, W. and Dowler, T. (2015), “Early assessments of the gap between integrated reporting and
+               current corporate reporting”, Meditari Accountancy Research, Vol. 23 No. 1, pp. 92-117.
+        Steyn, M. (2014), “Organisational benefits and implementation challenges of mandatory
+               integrated reporting”, Sustainability Accounting, Management and Policy Journal, Vol. 5
+               No. 4, pp. 476-503.
+        Stubbs, W., Colin Higgins, C., Milne, M. and Hems, L. (2014), “Financial capital providers’
+               perceptions of integrated reporting”, Working Paper, available at: http://ssrn.com/
+               abstract⫽2473426
+        Stubbs, W. and Higgins, C. (2014), “Integrated reporting and internal mechanisms of change”,
+               Accounting, Auditing & Accountability Journal, Vol. 27 No. 7, pp. 1068-1089.
+        Suchman, M.C. (1995), “Managing legitimacy: strategic and institutional approaches”, Academy of
+               Management Review, Vol. 20 No. 3, pp. 571-610.
+Tregidga, H., Milne, M. and Lehman, G. (2012), “Analyzing the quality, meaning and                    The trend of
+      accountability of organizational reporting and communication: directions for future
+      research”, Accounting Forum, Vol. 36, pp. 223-230.                                               integrated
+Unerman, J. (2000), “Methodological issues: reflections on quantification in corporate social           reporting
+      reporting content analysis”, Accounting Auditing & Accountability Journal, Vol. 13 No. 5,           practice
+      pp. 667-680.
+Van Bommel, K. (2014), “Towards a legitimate compromise? An exploration of integrated                        221
+      reporting in the Netherlands”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+      pp. 1157-1189.
+van Zyl, A.S. (2013), “Sustainability and integrated reporting in the South African Corporate
+      Sector”, International Business & Economics Research Journal, Vol. 12 No. 8, pp. 903-926.
+Vourvachis, P., Woodward, T., Woodward, D.G. and Patten, D.M. (2016), “CSR disclosure in
+      response to major airline accidents: a legitimacy-based exploration”, Sustainability
+      Accounting, Management and Policy Journal, Vol. 7 No. 1.
+West, A. (2006), “Theorising South Africa’s corporate governance”, Journal of Business Ethics,
+      Vol. 68 No. 4, pp. 433-448.
+Wild, S. and van Staden, C. (2013), “Integrated reporting: an initial analysis of early reporters”,
+      paper presented at the Massey University Accounting Research Seminar, Auckland.
+Williams, S.J. and Adams, C.A. (2013), “Moral accounting? Employee disclosures from a
+      stakeholder accountability perspective”, Accounting, Auditing & Accountability Journal,
+      Vol. 26 No. 3, pp. 449-495.
+Wiseman, J. (1982), “An evaluation of environmental disclosures made in corporate annual
+      reports”, Accounting, Organisations and Society, Vol. 7 No. 1, pp. 53-63.
+SAMPJ                  Appendix
+7,2
+                                                                                     Year 2011            Year 2012            Year 2012
+                                                                                   No. of               No. of               No. of
+                       No.    IR checklist                                       companies     (%)    companies     (%)    companies     (%)
+
+222                    Strategic focus and future orientation
+                        1     Connecting strategy to the wider value creation       78        95.12      81        98.78      82       100
+                        2     Lessons from past experiences in determining          24        29.27      28        34.15      33        40.24
+                              future strategic directions
+                        3     Basis of preparation of the IAR                       71        86.59      69        84.15      68        82.93
+                        4     Commitment to continuous integrated thinking          59        71.95      56        68.29      57        69.51
+                              and reporting
+                        5     Major Challenges                                      80        97.56      81        98.78      81        98.78
+                        6     Disappointments                                       59        71.95      64        78.05      63        76.83
+                        7     Achievements during the year                          58        70.73      66        80.49      72        87.8
+                        8     Improvements made during the year                     82       100         81        98.78      82       100
+
+                       Connectivity of information
+                        9    A holistic picture of the combination,                 14        17.07      19        23.17      31        37.8
+                             interrelatedness and dependencies between the
+                             factors that affect a firm’s ability to create
+                             value over time
+                       10    Connecting sustainability information to the           74        90.24      75        91.46      74        90.24
+                             company’s financial statements
+                       11    Changes in strategy when new risks and                 20        24.39      28        34.15      34        41.46
+                             opportunities are identified or performance is
+                             not as expected
+                       12    Aligning the business model to changes in the          31        37.8       52        63.41      61        74.39
+                             business environment
+                       13    An analysis of the past, present and future            82       100         82       100         82       100
+                       14    The interdependencies and trade-offs between            3         3.66       8         9.76      19        23.17
+                             the capitals: financial, manufactured,
+                             intellectual, human, social and relationship and
+                             natural
+                       15    Information on expected revenue growth or              80        97.56      80        97.56      80        97.56
+                             market share or investment in human
+                             resources
+                       16    Connecting information in the integrated report        28        34.15      37        45.12      40        48.78
+                             to information in the ‘organisation’s other
+                             communication channels
+
+                       Stakeholder relationships
+                       17    Providing insights into the nature and quality         78        95.12      79        96.34      80        97.56
+                             of the ‘organisation’s relationships with its key
+                             stakeholders
+                       18    Info the organisation receives from                    49        59.76      57        69.51      56        68.29
+                             stakeholders including economic,
+                             environmental and social issues
+                       19    Frequency of engagement with stakeholders              53        64.63      58        70.73      57        69.51
+                             (e.g., day-to-day liaison with customers and
+                             suppliers)
+                       20    Communication channels with stakeholders               62        75.61      68        82.93      67        81.71
+                       21    Disclosure of how key stakeholders’ legitimate         75        91.46      78        95.12      79        96.34
+Table AI.                    needs and interests are understood, taken into
+Integrated reporting         account and responded
+checklist                                                                                                                          (continued)
+                                                                Year 2011            Year 2012            Year 2012
+                                                                                                                            The trend of
+                                                              No. of               No. of               No. of               integrated
+No.    IR checklist                                         companies     (%)    companies     (%)    companies     (%)
+                                                                                                                              reporting
+22     Taking stewardship and responsibility for the           68        82.93      72        87.8       75        91.46        practice
+       effects of ‘organisation’s activities and
+       operations
+
+Materiality                                                                                                                        223
+23    Disclosure of information about matters that             74        90.24      78        95.12      78        95.12
+      substantively affect the ‘organisation’s ability
+      to create value
+24    The materiality determination process                    27        32.93      41        50         48        58.54
+25    Identification, prioritisation and approval of           17        20.73      22        26.83      21        25.61
+      material issues
+26    Interrelationships between material issues                3         3.66       7         8.54       8         9.76
+27    Process of determining information to disclose           13        15.85      16        19.51      17        20.73
+      (internal and external parties)
+28    Reporting boundary (are employees, customers,            77        93.9       77        93.9       77        93.9
+      suppliers, business partners, communities and
+      others)
+29    Financial reporting entity (includes                     80        97.56      80        97.56      80        97.56
+      subsidiaries’, joint ventures’ and associates’
+      transactions and related events)
+
+Risk management practices
+30    Discussion of risk management practices in               81        98.78      82       100         82       100
+      place
+31    The presence of a risk management                        46        56.1       53        64.63      55        67.07
+      strategy/policy
+32    The role of board in risk management practices           54        65.85      63        76.83      69        84.15
+      and policy development
+33    The role of the internal audit function in RM            61        74.39      69        84.15      68        82.93
+      process-does it offer assurances?
+34    The views of the board on the RM process-its             35        42.68      46        56.1       57        69.51
+      satisfaction
+35    Risk mitigation                                          69        84.15      74        90.24      75        91.46
+36    Improvements in risk and governance                      68        82.93      69        84.15      71        86.59
+      framework
+
+Conciseness
+37    Value-added statement                                    56        68.29      55        67.07      57        69.51
+38    Includes sufficient context to understand the            70        85.37      74        90.24      74        90.24
+      ‘organisation’s strategy, governance,
+      performance and prospects without being
+      burdened with less relevant information
+39    Follows a logical structure and includes                 67        81.71      69        84.15      75        91.46
+      internal cross-references as appropriate to limit
+      repetition
+40    Favours plain language over the use of jargon            82       100         82       100         82       100
+      or highly technical terminology
+41    Avoids highly generic disclosures, often                 81        98.78      81        98.78      82       100
+      referred to as “boilerplate”, that are not specific
+      to the organisation
+                                                                                                              (continued)       Table AI.
+SAMPJ                                                                    Year 2011            Year 2012            Year 2012
+7,2                                                                    No. of               No. of               No. of
+            No.   IR checklist                                       companies     (%)    companies     (%)    companies     (%)
+
+            Reliability and completeness
+            42     An integrated reporting steering committee            7        8.537       8        9.756       7        8.537
+            43     Discussion of who approves the integrated            60       73.17       67       81.71       71       86.59
+224                report
+            44     Declaring inclusion of all material matters,         48       58.54       50       60.98       61       74.39
+                   both positive and negative, in a balanced way
+                   and without material error
+            45     Disclosing information about robust internal         64       78.05       68       82.93       69       84.15
+                   control and reporting systems, stakeholder
+                   engagement, internal audit or similar functions
+                   and independent, external assurance
+            46     Statement on the assessment of the                   26       31.71       35       42.68       40       48.78
+                   independence of the independent non-executive
+                   directors
+            47     Maintaining an audit trail when preparing an         39       47.56       50       60.98       53       64.63
+                   integrated report to ensure information is
+                   sufficiently reliable to be included in the IR
+            48     Relevant disclosures when material                    1        1.22        5        6.098       3        3.659
+                   information is omitted (e.g. because of the
+                   unavailability of reliable data)
+            49     Balanced: has no bias in the selection or            39       47.56       44       53.66       50       60.98
+                   presentation of information in the IAR
+
+            Consistency, comparability and assurances
+            50    Assurances in non-financial information by            37       45.12       48       58.54       51       62.2
+                  external parties
+            51    The info in the report is presented on a              77       93.9        79       96.34       80       97.56
+                  consistent basis over time (otherwise explain
+                  the reasons for significant changes)
+            52    Whether or not the audit committee oversees           64       78.05       63       76.83       62       75.61
+                  and provides any assurances to the integrated
+Table AI.         report
+
+
+
+            Corresponding author
+            Abdifatah Ahmed Haji can be contacted at: fitka7@hotmail.com
+
+
+
+
+            For instructions on how to order reprints of this article, please visit our website:
+            www.emeraldgrouppublishing.com/licensing/reprints.htm
+            Or contact us for further details: permissions@emeraldinsight.com
+

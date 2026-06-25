@@ -1,0 +1,901 @@
+                     The current issue and full text archive of this journal is available on Emerald Insight at:
+                     www.emeraldinsight.com/2049-372X.htm
+
+
+
+                                                                                                                                Content
+A mixed content analysis model of                                                                                               analysis
+ethics in the accounting profession
+                                       Mohammad Namazi
+                               Shiraz University, Shiraz, Iran, and
+                                       Hossein Rajabdorri
+         Islamic Azad University, Bandar Abbas Branch, Bandar Abbas, Iran                                               Received 19 July 2018
+                                                                                                                       Revised 9 January 2019
+                                                                                                                                 26 April 2019
+                                                                                                                                  29 June 2019
+                                                                                                                                  22 July 2019
+Abstract                                                                                                                Accepted 29 July 2019
+Purpose – The purpose of this study is to propose a contemporary-speciﬁc model entitled “sustainable
+development model of accounting professional ethics (SDM-APE)” and empirically investigate and
+quantitatively prioritize its components.
+Design/methodology/approach – The study adopts the mixed content analysis research method and
+integrates both qualitative and quantitative approaches. The necessary data for the initial model are extracted
+after examining 569 published articles related to professional ethics of accounting in Iran during 2005-2015.
+Then, the ethical codes are reviewed, summarized and extracted via “content analysis.” Based on the ﬁndings
+of this study, a sustainable accounting model is developed, which consists of four constructs, including
+personal, social, economic-organizational and environmental factors, with 69 components. Afterward, the
+model is tested through collecting questionnaires and simple random sampling by 217 academic and
+professional experts. Accordingly, the second-order conﬁrmatory factor analysis in LISREL software is used.
+Findings – The paper clearly demonstrates that ethics in the professional accounting are underpinned by
+four major constructs: personal, social, economic-organizational and environmental factors; all four mentioned
+constructs of the model are interconnected and affect professional ethics in accounting and maintain a proper
+goodness of ﬁt. Meanwhile, social, personal, economic-organizational and environmental features reveal the
+greatest ﬁt accordingly. The variable of “avoiding the misuse of organizational property and information” is
+the most important variable of the model. It is followed by deontology, responsibility and accountability for
+environment, preventing environment degradation and emission of environmental pollutants, promoting the
+culture of environmental conservation, standing in the second to ﬁfth priority levels, respectively.
+Originality/value – This paper has developed a contemporary practical model in professional accounting
+ethics, which is extensive and applicable to various organizations.
+Keywords Accounting, Professional ethics, Sustainable development, Factor analysis,
+Mixed content analysis
+Paper type Research paper
+
+
+1. Introduction
+Accounting ethics is the guideline for an accountant’s decision. A professional accountant is
+not exclusively responsible to satisfy the needs of clients or the employing organization, and
+they should follow the ethical codes (IESBA, 2018). When important issues such as ethics
+and accounting are dovetailed, more attention and consideration are necessary. In these
+situations, ignoring some ethical criteria creates ﬁnancial corruption and is of great concern
+in governmental and nongovernmental sectors. Indeed, consideration of ethics is the main
+solution for such a crisis as the nature of affairs conducted by accountants and auditors
+
+The authors are sincerely grateful to the anonymous prestigious editor, who is also a Professor and                Meditari Accountancy Research
+two anonymous referees for their valuable comments which greatly enhanced the quality of the                          © Emerald Publishing Limited
+                                                                                                                                       2049-372X
+article.                                                                                                          DOI 10.1108/MEDAR-07-2018-0365
+MEDAR   requires a high level of ethics (Mitschow and Asgary, 2004). Shareholders and other users of
+        ﬁnancial statements also rely on the ﬁnancial statements of companies because they can
+        make superior decisions about their investments through this information. They also rely on
+        auditors who have conﬁrmed the ﬁnancial statements. In all of these situations, ethics play a
+        signiﬁcant role because they create a public trust on the information provided by the
+        accountants and auditors and prevents them from misdeeds to a great extent.
+            Unfortunately, comprehensive and seminal empirical and practical studies on accounting
+        professional ethics are scarce. This scarcity also involves ethical charters as well as codes of
+        professional ethics and models. A study of the ethical codes prescribed by international
+        institutions suggests that these codes are not comprehensive and generally encompass
+        organizational issues. For instance, the Code of Ethics of the Institute of Management
+        Accountants (IMA) emphasizes competence, conﬁdentiality, integrity and reality
+        (Verschoor, 2005). The IFAC (International Federation of Accountants) (2014) also provides
+        the enforceable codes of ethics, including the generalities and principles, integrity,
+        objectivity, professional competence and care, conﬁdentiality and professional behavior and
+        customs (Catherine, 2010). Although formulation of these codes is considered as a positive
+        step toward improving the accounting professional ethics, their effect has been negligible
+        because the constructs identiﬁed in codes of ethics are neither comprehensive nor based on
+        systematic research and are prescriptive, and they rely more on deductive reasoning.
+        Furthermore, the prescribed components of the codes are scattered and separated from each
+        other and are unsystematic. Therefore, there is an ambiguous relationship between various
+        components of the code of ethics. The importance of each prescribed ethical element is also
+        equivocal in comparison with other codes of ethics. Hence, the inﬂuence of each factor
+        cannot be recognized, and thus, the beneﬁt of each code of ethics is nuanced. Consideration
+        of this issue necessitates identifying other dimensions and factors affecting professional
+        ethics of accounting and developing a model.
+            This study eliminates the preceding problems by providing a comprehensive and
+        quantitative model of accounting professional ethics, which can overcome the
+        aforementioned deﬁciencies by creating a practical model which is applicable in various
+        organizations. The assumption of this study, based on the current literature (Payne et al.,
+        2018; Blay et al., 2018), is that ethical behavior of the professional accountants cannot be
+        improved merely by promulgating accounting codes of ethics; rather, it will be enhanced
+        when the effects of various complex personal, organizational and social factors affecting the
+        behavior of accountants are considered simultaneously. Actually, a professional accountant
+        must comply with ethical considerations over and above the needs of their speciﬁc clients/
+        organizations.
+            In effect, based on the literature that will be presented in a later section, we speculate that
+        professional ethical conduct of the accountants is comprised of the comprehensive functions
+        of the personal, social, economic and organizational and sustainable development factors.
+        To determine the exact effect, the elements of each factor must be unambiguously speciﬁed,
+        and their relationship should be examined quantitatively.
+            The importance of this study is that it uses “mixed content analysis approach” (Creswell
+        and Plano Clark, 2011; Creamer and Ghoston, 2013) to provide a qualitative and quantitative
+        and practical model applicable in different organizations. This model is comprehensive,
+        whose constructs are based on empirical variables, not inductive (qualitative) and deductive
+        (quantitative) reasoning. The importance of constructs is scientiﬁcally and systematically
+        determined via the “second-order conﬁrmatory factor analysis (CFA) technique” (Agostini
+        et al., 2016; Mustapha and Bojuwon, 2015), and the systematic relationship of the model is
+then speciﬁed. Accordingly, this study can signiﬁcantly expand the knowledge boundaries,          Content
+especially in the ﬁeld of mixed model of professional accounting ethics.                          analysis
+    The structure of this study is as follows. Theoretical development and literature review
+will be presented in Section 2 which also introduces a novel contemporary model entitled as
+“(SDM-APE).” Section 3 elaborates on the research method and outlines the hypotheses, data
+collection methods, the statistical sample and population and the “second-order CFA.” The
+ﬁndings of the descriptive statistics as well as tests of the factorial analysis on various
+components of the model are presented in Section 4. Section 5 discusses the results and
+draws the conclusions. Lastly, Section 6 provides suggestions and limitations of the
+research.
+
+2. Theoretical development and literature review
+Although various theories of professional ethics such as Aristotelian thoughts,
+utilitarianism, deontology, inclusive justice, libertarianism and teleology have been
+promoted and used in accounting (Dessler, 2015; Argandoña, 2016; Kolk, 2016; Marilyn and
+Fisher, 2017), this study is generally based on inclusive justice. This is because the
+philosophy of accounting is devised on positive paradigms and theories, especially justice.
+Generally, based on the “theory of the stakeholders,” which is merged with justice oriented
+theory (Donaldson and Preston, 1995; Jones, 1995), accounting is an information system
+which provides different internal and external users with ﬁnancial and non-ﬁnancial
+information of the organization to make economic decisions. This information is especially
+expended by various users, including the government, investors, debtors, creditors, banks
+and credit institutions, stock markets, employees and managers of organizations and
+communities. They can be applied to fulﬁll and evaluate the organization’s current and
+future operations, change the real and legal entities’ behavior and optimally allocate scarce
+resources of the organizations (IFAC, 2014; Horngren et al., 2017). To attain these objectives,
+the “qualitative characteristics of accounting information” such as relevancy, timeliness and
+cost–beneﬁt analysis should also be taken into account in addition to its technical and
+quantitative aspects to make accounting information reliable and useful. The stakeholder
+theory is concerned with the principle that ﬁrms and managers should behave such that it is
+ethically acceptable when dealing with their stakeholders and others (Jones, 1991). In this
+case, ethical compliance would increase both the quantity and quality of the accounting
+information (Smith, 2003; Khan and Gray, 2016).
+
+2.1 Sustainable development model of professional accounting ethics
+The speciﬁc theoretical basis of this article, however, is based on the argument that
+dominant paradigms leading accountants to comply with professional ethics are affected
+by various constructs. Consequently, the question that this paper intends to answer ﬁrst
+is, what are the constructs that support the ethical behavior of professional accountants?
+By studying the literature, adopting qualitative content analysis and adopting the
+following theories, we propose “The sustainable development model of accounting
+professional ethics” (SDM-APE) model. The four most important constructs of the model
+are presented in Figure 1.
+    These four consecutive constructs are: personal constructs, social constructs, economic-
+organizational constructs and environmental constructs. The foundation of these constructs
+along with relevant supporting studies will be explained in the following. These constructs
+are explained by dovetailing “behavior change theories” (Glanz et al., 1997; Witte, 1997) and
+its three components: social cognitive theory (Bandura, 1986; Perry et al., 1990), theory of
+planned behavior (Ajzen, 1991; Armitage and Conner, 2001) and theoretical stages of the
+MEDAR
+
+
+
+
+Figure 1.
+SDM-APE
+
+
+                    change (Prochaska et al., 1994) and sustainable development theory of accounting
+                    (McKinley, 2008).
+
+
+                    2.2 Personal constructs
+                    Based on this model, the ethical behavior of an accountant is ﬁrst affected by the constructs
+                    inﬂuencing the personal behavior. Figure 2 shows the main components of this personal
+                    behavior.
+                        It indicates that an accountant’s personal constructs, which include instincts, drives,
+                    traits and other motivational drivers, are affected by two holistic variables: accountant’s
+                    attitude and perceived behavior control. The ﬁrst variable relates to the degree to which the
+                    accountant’s behavior is positively or negatively valued by himself/herself. The second
+                    variable involves the accountant’s perceptions of his/her ability to conduct the designated
+                    behavior to feel self-efﬁcacy. When these variables are combined, the output leads to the
+                    emergence of the accountant’s “intension.” Intention relates to the accountant’s plans to
+                    perform the identiﬁed task, which is expected to produce the desired behavior. Intention is
+                    also determined by the accountant’s attitude (beliefs and values about the outcome of the
+                    behavior) and subjective norms (beliefs about what other people think the accountant should
+                    do or general social pressure). It is also shown that it is the most important variable in
+                    predicting behavioral change.
+                        In this regard, Yoon (2011) considered individuals’ ethical behavior under the impact of
+                    two groups of factors. The ﬁrst group, which can be considered as personal characteristics,
+                    includes justice, deontology, relativism, degree of selﬁshness and utilitarianism. All these
+
+                                  Personal                    Individual                   Intensive
+                                  Behavior                     Attitude                    Behavior
+
+Figure 2.
+Components of the
+personal behavior                                             Perceived
+                                                              Behavior
+construct                                                      Control
+factors affect the ethical judgment as the latter group of factors. Finally, ethical judgment,      Content
+utilitarianism, degree of selﬁshness and justice directly affect ethical behavior.                  analysis
+    West (2017) found that several aspects of Aristotle’s ethics can be fruitfully applied to the
+ethics of professional accountants. These include the relationship between function, goals
+and the good and awareness of the human goal to achieve Eudemonia, development of both
+excellences of character and of intelligence and the signiﬁcance of non-rational aspects of
+morality, including emotions, will, responsibility and choice.
+    Waldron and Fisher (2017) found signiﬁcant differences in both the structure of personal
+values and ethical judgments between practitioners and accounting students. Life-stage
+effects play an important role in explaining these differences. Hedonistic values appear to
+lose their prominence through the maturation process, while others such as security become
+increasingly important. Unexpectedly, values are found to have a little direct impact on
+ethical judgments. In the work of Payne et al. (2018), a moral decision-making basis is
+provided for accounting professionals to employ during times of ethical dilemmas.
+
+2.3 Social constructs
+Accountant’s behavior, however, is not only driven by personal inner forces, but also by
+external impediment constructs. Thus, the second major construct affecting the ethical
+behavior of an accountant, which is represented in Figure 2, is the social pressures exerted
+on the accountant by social actors, including parents, spouse and friends, to engage in or
+refrain from conducting designated actions. Based on this construct, an accountant’s ethical
+behavior is deeply inﬂuenced by the social factors consisting of affectability by what others
+think and do as well as by norms and practices prevailing in the society. In effect, social
+norms and structures largely deﬁne the accountants’ behavior. Some of the social factors
+that inﬂuence an accountant’s behavior are: commitment, messenger, ego and social norms.
+    Moreover, Mo et al. (2017) found that team fault lines signiﬁcantly moderated the
+curvilinear relationship between ethical leadership and team creativity such that the
+inverted U-shaped relationship was more signiﬁcant among teams with weak team fault
+lines. Another research has scrutinized the usefulness of the social norm theory in empirical
+business ethics (Blay et al., 2018). To show the merits of the social norm theory, examples
+where the theory is applied effectively to experimental accounting research were presented
+to generate new insights. They pinpointed the situations where the theory may be useful in
+empirical business ethics research by providing those examples.
+
+2.4 Economic-organizational construct
+The third important construct affecting an accountant’s ethical behavior is the economic-
+organizational factor. This construct includes the effect of the industry, type, size and
+economic conditions of the organization on ethical behavior of the accountant. Here,
+“organizational justice” is particularly considered as an inﬂuential factor, as it reﬂects the
+compliance of the organization in enumerating the “fairness principle” (Whiteside and
+Barclay, 2013). In the process of social exchange, when the accountant observes and
+comprehends the justice and fairness behavior of the organization, he/she would provide
+greater services to the organization far more than his/her designated duties, which will
+provide higher returns and proﬁts for the organization. Organizational justice, on the other
+hand, consists of three perspectives of distributive justice, procedural justice and
+interactional justice (Adams, 1965). Distributive justice focuses on the equity and fairness of
+the outcome of the behavior such that the accountant is compensated for his/her desirable
+actions. Procedural justice emphasizes the fairness of organization’s process. Consistency of
+procedures, lack of bias in performing procedures, maintaining accurate information for
+MEDAR   decision-making and compliance of the procedures with ethical standards are the prime
+        examples of this justice. Interactional justice relates to the personal relations interaction
+        between management and accountants. Accountants who believe that managers maintain a
+        fair relationship with them, with a greater probability, manage their relationships through
+        exchanging social transactions, which ultimately leads to increased beneﬁts for the
+        organization (Seifert et al., 2014).
+            Having investigated factors affecting accountants’ ethical decisions in Sri Lanka,
+        Liyanapathirana and Samkin (2014) provided a model based on which environmental factors,
+        organizational factors such as organizational culture and demographic factors such as age,
+        gender, experience, educational level and religion affect ethical decision-making. Knowledge
+        about law and personal intention affects the ethical decision-making process. Nevertheless,
+        ethical problems can also yield negative effects on personal decisions. The study of Latan et al.
+        (2018) provided insights into the relationship of the individual levels of the precursor and how
+        the intention of whistle-blowing is received by perceived organizational support, team norms
+        and perceived moral intensity. Their ﬁndings suggested that the perceived organizational
+        support, team norms and perceived moral intensity are important in controlling organizational
+        behavior.
+
+        2.5 Environmental constructs
+        The fourth signiﬁcant construct regarding the ethical behavior of accountants relates to
+        environmental and sustainable development factors. Environmental factors refer to the
+        importance, protection, conservation and ethics of the environment. The importance of
+        “corporate social responsibility” (CSR) is a major reason for dealing with environmental
+        factors. When viewed from the outside, it is concerned with the organization’s impacts on
+        society. However, when viewed from the inside, it explains how reﬂection on the ﬁrm and its
+        role in society and acceptance of the resulting responsibilities inﬂuence the management of
+        the ﬁrm (Argandoña, 2016). In recent years, businesses have begun to acknowledge the
+        importance of CSR (Basu and Palazzo, 2008). The term CSR refers to the emergence of a
+        movement which seeks to include social and environmental factors in business decisions of
+        companies as well as accounting and business strategies with the aim of enhancing social
+        and environmental performance alongside the economic dimensions such that they are
+        beneﬁcial for the business, society and environment (McKinley, 2008). In other words,
+        organizations are in charge of social responsibility, suggesting that they have to be careful
+        not to inﬂuence the social life in a malicious way. Generally, not polluting the environment,
+        being fair in employment, not engaging in immoral activities and informing customers
+        about the quality of products are some duties of organizations. Also, this duty can be
+        interpreted as having a positive inﬂuence on people’s lives (Fassin, 2008). The concept of
+        CSR is very close to the concept of sustainable development, which depends on factors such
+        as environmental support, economic growth and social justice. CSR refers to voluntary
+        participation of a company in sustainable development beyond legal requirements and is
+        considered as a method for reducing the gap between companies and stakeholders’
+        expectations by reporting and disclosing additional information through a sustainable
+        approach. One of the concepts in the area of professional accounting ethics is social
+        responsibility which has also appeared in economics, law, ethics and religion. This indicates
+        that accountants are committed to maximizing social beneﬁts and to minimizing social
+        costs. So, there is a close link between professional accounting ethics and social
+        responsibility in organizations (Cacioppo et al., 2008).
+           From a general point of view on the development of CSR, it is observed that in recent
+        years, the discussion on CSR has been closely related to previously predominant business
+ethics with legal requirements, to address issues of incompliance of CSR and labor laws             Content
+(Pﬂugrath et al., 2011). Now, countries are making it obligatory for enterprises to follow          analysis
+labor laws and CSR practices (Asad et al., 2018).
+   Note that the four key constructs and their components in the SDM-APE model are not
+independent of each other and provide causal mutual interactions. For instance, personal
+construct affects other constructs and their components. At the same time, it is also
+inﬂuenced by other constructs. Therefore, the constructs of the SDM-APE model will
+establish multi-interactions with each other. Accordingly, accounting ethics paradigms are
+always being exchanged in the process of interactions, and constantly changing. Thus, a
+paradigm may be considered dominant in some periods and cultures, while other paradigms
+may be prevalent in other periods and cultures. Furthermore, accountants’ ethical behavior
+is not an instant and revolutionary behavior; rather, it is an evolutionary process which
+adopts the following consecutive paths according to theoretical stages of the change
+(Prochaska et al., 1994):
+    precontemplation: No recognition of need for or interest in change;
+    contemplation: Thinking about change;
+    preparation: Planning for change;
+    action: Adopting contemporary habits; and
+    maintenance: Ongoing practice of new, healthier behavior
+
+Thanks to the comprehensiveness of the model and inclusion of signiﬁcant and robust
+ethical constructs, implementation of this ethical model could provide the potential to
+enhance efﬁciency, economic and social development, administrative integrity, satisfaction
+and generally organizational excellence. Furthermore, this model will promote the
+professional ethics and improve the organizational culture, augment the productivity, create
+competitive advantage at the organizational level and promote public ethics, sustainable
+growth and development at the national level. In general, it leads to the development of
+healthy global competition and achieving a more desirable business world. Inclusion of the
+sustainable development factor in the presented model also indicates the importance of
+paying attention to surrounding environment and current accounting topics which have
+been taken into account in contemporary studies by Kolk (2016), Khan and Gray (2016) and
+Schaltegger and Burritt (2018).
+
+3. Research methodology
+This article used the mixed approach of qualitative and quantitative content analysis
+(Creswell and Plano Clark, 2011). The research design is a quasi-design because it applies
+past data to the research model (Smith, 2017).
+
+3.1 Statistical population and data collection
+The initial population of the present study consists of all ethical papers and theses published
+in Iran during 2005-2015. Iran is selected as the statistical population because it is an ancient
+country with a history of over 2,500 years, and thanks to the presence of famous
+philosophers and ethicists such as Avicenna and Zakariyya al-Razī (Farsam, 2009). For
+instance, the European people became familiar with “The Canon of Medicine,” a book by
+Avicenna translated by Gerard of Cremona in the ﬁfteenth century which was then taught in
+Louvain and Montpellier medical faculties until the seventeenth century. According to
+UNESCO Journal, Avicenna’s Canon of Medicine book and his medical ethics were taught at
+the University of Brussels until 1909 (Abu Ali, 2011, p. 21) . Furthermore, Iran has an ancient
+MEDAR   and Islamic culture, philosophers and civilization, which have signiﬁcantly helped to
+        develop a comprehensive and leading ethical model, that is well developed and beyond the
+        existing models. Researchers’ knowledge of published ethical sources in the ﬁeld of
+        accounting has also been another important criterion in selecting Iran as the statistical
+        population.
+           By using the preceding population study, we followed the guidelines for conducting the
+        mixed approach of content analysis provided by Creswell and Plano Clark (2011) and
+        Creamer and Ghoston (2013). Consequently, at ﬁrst, the process of qualitative content
+        analysis approach presented by Bengtsson (2016), which is shown in the appendix, was
+        implemented. This step involved performing from planning stages (aim of the study, unit of
+        analysis, etc.) to data collection approach (publications of professional ethics), data
+        analyzing approach (latent analysis and its stages) to responding to the research question:
+
+           RQ1. What are the underlying constructs of the professional ethics in the accounting
+                profession, and how important are they?
+        By following the preceding steps, 569 papers and theses, which explicitly contained “ethics”
+        in their titles and were related to professional and organizational ethics, were extracted from
+        Iranian journals during the period of the study. Two types of articles, those containing
+        articles about accounting professional ethics and other articles, were collected in this regard.
+        The articles associated with accounting ethics were those with the main variables related to
+        assessing ethical values or providing solution for accounting environment or accountants.
+        Other articles explored the general status or provided solutions for various topics and
+        professions such as Islamic, medical, engineering ethics, etc. in Iran. For this purpose, 16
+        theses and 553 articles were studied as resources. As a result of this qualitative approach,
+        four signiﬁcant constructs in professional accounting ethics were found: personal
+        constructs, social constructs, economic-organizational constructs and environmental
+        constructs. These constructs were entitled as elements of the SDM-APE model.
+            Afterward, the articles were evaluated qualitatively and quantitatively in more depth by
+        two independent researchers, and the obtained codes were allocated to each group of the
+        SDM-APE model. The checklist was given to accounting experts and approved to determine
+        its validity. Kappa’s coefﬁcient of agreement was applied in SPSS 22 software to inspect the
+        reliability and researchers’ agreement.
+            In Kappa’s formula, the ratio of a particular value, which is used by the coder in a group,
+        is multiplied by the ratio of using the same value by the second coder. These ratios are then
+        added together to obtain the expected agreement (Raif et al., 2002). The result we obtained
+        from the Kappa test was 0.788. Reliability investigates different individuals’ agreement on
+        coding a particular case. Landis and Koch’s (1997) grading was applied to judge the
+        reliability status using the Kappa coefﬁcient. Based on their conclusion, the result we
+        obtained lied within the range of acceptable coefﬁcients of agreement. As the agreement was
+        between 0.61 and 0.80, the agreement was acceptable based on Landis and Koch’s (1997)
+        grading.
+
+        3.2 Importance of the components of the model of sustainable development of accounting
+        In the second phase, this article used “quantitative content analysis” (Neuendorf, 2002;
+        Smith, 2017) to obtain a quantitative model and its subsets, and applied “factor analysis” to
+        quantitatively evaluate the importance of the elements of the four factors of the SDM-APE
+        model. The preceding content analysis led to the discovery of 69 ethical factors distributed
+        among four key constructs of the SDM-APE. Speciﬁcally, 12 out of these 69 variables were
+        related to personal constructs, 29 to social constructs, 19 to organizational-economic
+constructs and nine to environmental constructs. At this step, the following steps were              Content
+taken, and the second-order CFA was used to investigate the importance of components of              analysis
+the SDM-APE model from the perspectives of experts, professionals and academics by
+converting the factors of the model into a questionnaire.
+
+3.3 Statistical population and research sample
+The statistical population of this part of research consisted of all professionals and academics
+of accounting and other ﬁelds (auditing, management accounting, ﬁnancial accounting, tax
+accounting, etc. in Iran). Given that it is extremely difﬁcult and somewhat impossible to
+access the entire population and there is not any ofﬁcial statistics of their numbers, the
+number of statistical population was assumed unknown. Therefore, equation (2) was
+expended to calculate the sample size in an uncertain population. Based on equation (1), the
+standard deviation d for a ﬁve-point Likert scale data was equal to 0.667 (Winner, 2009).
+According to equation (2), the sample size was found to be 170:
+
+                                maxðxi Þ  minðxi Þ 5  1
+                          d ¼                      ¼      ¼ 0=667                              (1)
+                                         6            6
+
+                                  z2 a2 d 2 ð1=96Þ2 ð0=667Þ2
+                             n5            ¼                 ¼ 170                             (2)
+                                    «2          ð0=1Þ2
+
+However, to compensate for non-responses and low rate of responses, and based on the
+researchers’ experience in Iran, approximately 25 per cent were added to the number of
+questionnaires, and so, 217 questionnaires were used in this research.
+
+3.4 Data collection
+The construct validity was utilized to investigate the validity of the questionnaire, and
+Cronbach’s a was used to study the reliability. The validity was approved by different
+experts and the obtained result of Cronbach’s a was equal to 0.94. As Cronbach’s a
+coefﬁcient was higher than 0.70, the reliability of the research questionnaire was conﬁrmed.
+   Data were collected via both face-to-face and virtual methods. In the former method, 54
+questionnaires were completed by referring to available university professors, graduate
+students and accounting experts. In the virtual method, the invitation was completed and
+sent to the mentioned individuals after designing the questionnaire in Google Forms. They
+were asked to send it to other professors, students and accounting experts for obtaining
+accurate responses. In this method, 163 usable questionnaires were received, and
+accordingly, a total of 217 questionnaires were collected.
+
+3.5 Conﬁrmatory factor analysis
+The second-order CFA was adopted to operationalize SDM-APE model. The second-order
+CFA aims at examining hypotheses concerning the number of fundamental factors in a set
+of variables, relationships of factors with indicators and ﬁt of the measurement model.
+Nevertheless, in contrast with the ﬁrst-order CFA, it is applied when the latent factors in a
+set of variables have multiple levels where the latent factors result from other latent factors.
+Therefore, CFA is used to assure that data have been measured accurately. The magnitude
+of the relationship between the factor (latent factor) and observable variable is represented
+using factor loading. If the factor loading posits a value less than 0.2, the relationship will be
+MEDAR                characterized as weak and neglected. A factor loading ranging from 0.2 to 0.6 is acceptable,
+                     and if it is greater than 0.6, it will be more desired. The minimum factor loading accepted in
+                     some resources is considered to be 0.2, though the t-statistic is the main criterion for
+                     judgment. If the test statistic is above the critical value of t0.05 or 1.96, the observed factor
+                     loading will be “signiﬁcant” (Kline, 1998).
+
+                     4. Research results
+                     4.1 Descriptive statistics
+                     In this study, the mean age of respondents was 31.24 years, with a standard deviation of
+                     7.24, and the mean work experience was 8.12 years, with a standard deviation of 7.18. Of the
+                     respondents, 19 had PhD degrees (8.75 per cent), 59 were PhD students (27.2 per cent), 67
+                     had master’s degrees (30.9 per cent), 46 were MA students (21.2 per cent) and 26 had
+                     bachelor’s degrees (11.9 per cent). Accordingly, the statistical population of this study was in
+                     a favorable condition and eligible. As a result, as far as demographic features are concerned,
+                     the ﬁndings maintain necessary qualitative characteristics, including the internal validity.
+
+                     4.2 Conﬁrmatory factor analysis of the personal construct
+                     The results of CFA for personal features, including the general factors and moderation, are
+                     presented in Figure 3. General factors reﬂect the underlying constructs associated with an
+                     accountant’s personal characteristics, while moderation refers to the optimal use of the
+                     mentioned variables without extremity. Two main factors (latent variable) and 12 questions
+                     (observable variables) were utilized to measure the personal constructs. Each of these
+                     variables has been displayed by Q1 to Q12 indices. The observable factor loading has been
+                     somehow greater than 0.3 in all cases, which indicates that there is an acceptable correlation
+                     between latent variables (dimensions of each main construct) and observable variables. The
+                     signiﬁcance test was performed after identifying the correlation between variables.
+
+
+
+
+Figure 3.
+Standard factor
+loading of the
+personal construct
+test
+T-value statistics were used to determine the signiﬁcance of the relationship between                    Content
+variables. As the signiﬁcance was investigated at an error level of 5 per cent, the                      analysis
+relationship was signiﬁcant if the t-values test was greater than the critical value of 1.96
+Based on the ﬁndings of Figure 4, t-values of measurement indices for each applied scale has
+been greater than 1.96 at the conﬁdence level of 5 per cent; therefore, the observed
+correlation is signiﬁcant.
+    The goodness of ﬁt was investigated in the next step. Normal x 2 index, which is
+obtained from simple division of x 2 by the degree of freedom, is one of the general indices
+for determining free parameters in calculating the ﬁt indices. If this value ranges from 1
+to 5, it is desirable. Normal x 2 was equal to 1.393 and thus, the result has been desired.
+Furthermore, the RMSEA index is used as a main ﬁt index in most CFAs and structural
+equation models. If this index is less than 0.05, the result will be optimal. This index was
+equal to 0.043 in this model; hence, the goodness of the ﬁt of the model has also been
+optimal.
+
+4.3 Conﬁrmatory factor analysis of the social construct
+The results of CFA of social characteristics, including social responsibility, personal
+constructs and effective interaction, are presented in Figure 5. Although it is difﬁcult to
+determine the boundary between personal and social factors, the main difference of
+personal and social factors is that personal factors refer to an accountant’s personal
+characteristics, while social factors deal with his/her social characteristics. In this regard,
+social responsibility indicates an accountant’s commitment to community with regard to
+his/her duties and responsibilities, while personal factors represent his/her intrinsic
+characteristics in social communication. Effective interaction also refers to increased
+
+
+
+
+                                                                                                          Figure 4.
+                                                                                                  T-value statistic of
+                                                                                                        the personal
+                                                                                                       construct test
+MEDAR
+
+
+
+
+Figure 5.
+Standard factor
+loading of the social
+construct test
+
+
+
+
+                        efﬁciency in an accountant’s social communication. Three main factors (latent variables)
+                        and 28 questions (observable variables) were used to measure social characteristics. All
+                        of these variables have been shown with indices of Q13 to Q40. The observed factor
+                        loading has been greater than 0.3 in all cases, which suggests that there is an acceptable
+                        correlation between latent variables (aspects of each main construct) and observable
+                        variables. After identifying the variables, it is necessary to run the signiﬁcance test. For
+                        this purpose, t-values statistics is used. As signiﬁcance is investigated at an error level of
+                        0.05, if t-values is greater than the critical value of 1.96, the relationship is signiﬁcant.
+                        Figure 6 shows that t-values of measurement indices for each applied scale has been
+                                                                                               Content
+                                                                                               analysis
+
+
+
+
+                                                                                                 Figure 6.
+                                                                                         T-value statistic of
+                                                                                        the social construct
+                                                                                                         test
+
+
+
+
+greater than 1.96 at a conﬁdence level of 5 per cent, indicating that the observed
+correlations have been signiﬁcant.
+   Normal x 2 proved to be 1.458 for the goodness of ﬁt. Furthermore, the RMSEA index
+was equal to 0.046, indicating the desirability of the model ﬁt.
+MEDAR             4.4 Conﬁrmatory factor analysis of the economic-organizational construct
+                  The results of CFA of economic-organizational features, including the general
+                  characteristics, integrity, compliance with professional principles and criteria, competence
+                  and commitment, are presented in Figure 7. The general characteristics include the
+                  underlying and general attributes required for an accountant. Integrity refers to the correct
+                  implementation of the work by an accountant. Compliance with professional principles and
+                  criteria represents implementation of rules and regulations of accounting by accountants.
+                  Competence refers to an accountant’s professional qualiﬁcation and commitment to his/her
+                  tasks. Overall, ﬁve main factors (latent variables) and 20 questions (observable variables)
+                  were used to assess the economic-organizational features. All of these variables have been
+                  shown by indices of Q41 to Q60. In all cases, the observed factor loading has been greater
+                  than 0.3, indicating that the correlation has been acceptable between the latent variable
+                  (dimensions of each main construct) and the observed variable. The t-value statistic was
+                  also used to study the signiﬁcant correlation between variables. Figure 8 illustrates that the
+                  t-test statistic has been greater than the critical value of 1.96, indicating that the observed
+                  correlation has been signiﬁcant.
+                      Normal x 2 was found to be 1.287 for the goodness of ﬁt. Furthermore, the RMSEA index
+                  was equal to 0.037, indicating the goodness of ﬁt of the model.
+
+
+                  4.5 Conﬁrmatory factor analysis of the environmental construct
+                  Overall, nine questions (observable variables) were used to measure the environmental
+                  construct. Each of these variables has been displayed by indices of Q61 to Q69. The observed
+                  factor loading in all cases (except for Questions 62 and 65) was greater than 0.3, indicating an
+                  acceptable correlation between latent variables (dimensions of each main structure) and
+                  observable variables. The t-value statistic was also used to investigate the signiﬁcance of the
+                  correlation between variables. Based on the ﬁndings of Figure 10, the t-values measurement
+
+
+
+
+Figure 7.
+Standard factor
+loading of the
+economic-
+organizational
+construct test
+                                                                                                        Content
+                                                                                                        analysis
+
+
+
+
+                                                                                                         Figure 8.
+                                                                                                 T-value statistic of
+                                                                                                      the economic-
+                                                                                                     organizational
+                                                                                                      construct test
+
+
+
+
+of the indices for each applied scale has been greater than 1.96 at the signiﬁcance level of 5
+per cent, showing the signiﬁcance of the observed correlation (Figures 9 and 10).
+    The normal x 2 proved to be 1.369 according to examination of the goodness of ﬁt of the
+model. Furthermore, the RMSEA index was also equal to 0.041, indicating the ﬁtness of the
+model.
+
+4.6 Overall ﬁtness of the model
+The results of CFA for all constructs of the SDM-APE model have been presented
+individually in Figure 11. It shows that the maximum overall factor loading ﬁrst
+belongs to the social construct, followed by personal, economic-organizational and
+environmental constructs. This suggests that special attention should be paid to the
+“social construct” for attaining and enhancing the dynamics and level of accounting
+professional ethics.
+
+5. Discussion and conclusion
+The present study aimed at identifying and determining the importance of constructs of
+accounting professional ethics through quantitative and qualitative analysis. In this regard,
+the SDM-APE model was ﬁrst introduced. Then, 69 variables related to the four interrelated
+constructs (personal, social, economic-organizational and environmental factors) of the
+model were identiﬁed via content analysis. Afterward, the importance of each group of the
+MEDAR
+
+
+
+
+Figure 9.
+Standard factor
+loading of the
+environmental
+construct test
+
+
+
+
+Figure 10.
+T-value statistic of
+the environmental
+construct test
+
+
+
+                       main constructs of the model and their key components were determined through “second-
+                       order CFA.” The research population consisted of all professionals and academics in
+                       accounting and other relevant ﬁelds (auditing, management accounting, ﬁnancial
+                       accounting, tax accounting, etc.) in Iran. The data were collected by distributing 217
+                       questionnaires across the statistical population.
+                          Figures 3 and 4, which exhibit details of the personal construct affecting ethics, conﬁrm
+                       the signiﬁcance of the elements of the “behavior change theories” (Glanz et al., 1997; Witte,
+                       1997). They speciﬁcally indicate that the “moderation” component with a factor loading of
+0.58 has had the greatest impact factors in comparison with the general factors (0.41).                    Content
+Further, “avoiding the extravagance and wastefulness” (0.67) among the moderation factors,                 analysis
+and “humility” (0.58) among the general factors, revealed the maximum factor loadings. Our
+ﬁndings demonstrate the signiﬁcance of these data with respect to the prevalent theories in
+this regard. The reason might be related to the importance of the nature of moderation
+factors which persuade accountants not to behave unethically, in comparison with the
+signiﬁcance of general factors dealing with committing ethical issues.
+    The ﬁndings of Figures 5 and 6 conﬁrm the signiﬁcance of the “social cognitive theory”
+(Bandura, 1986; Perry et al., 1990). They speciﬁcally illustrate that the factor analysis of the
+social construct consists of three components, namely, social responsibility, personal factors
+and effective interaction. Based on the ﬁndings, personal factors with a factor loading of 0.96
+and social responsibility with a factor loading of 0.91 possess a higher impact factor than
+that of the effective interaction with a factor loading of 0.63. The criticism from personal
+factors (0.96), deontology (conscientiousness) from social responsibility (0.91) and abstaining
+from harming other people from effective interaction (0.63) gave the maximum factor
+loadings and hence are far more important than other factors. Our ﬁndings in terms of the
+“social cognitive theory” revealed the signiﬁcance of these variables, which might have been
+because of the strong inﬂuence of family and other factors affecting personal values, less
+awareness and beliefs concerning CSR and attaching less importance to interaction effects
+variables by accounting professionals.
+    Five main factors (latent variables) and 19 questions (observable variables) were utilized
+to measure the economic-organizational construct, as displayed in Figures 7 and 8. These
+ﬁgures conﬁrm the underlying principle of the economics and “organizational justice” in
+enumerating the “fairness principle” (Whiteside and Barclay, 2013). Speciﬁcally, according
+to the results of the CFA, professional and organizational commitment (0.67), general
+characteristics (0.65), compliance with professional principles and criteria (0.62), integrity
+(0.47) and competence (0.31) presented the highest impact factors. In this regard, avoiding
+misuse of organizational property and information (0.93) from integrity factor, providing
+timely information (0.93) from professional competence, quality orientation (0.74) from
+professional and organizational commitment, caution and prudence (0.73) from compliance
+with professional principles and criteria and conﬁdentiality (0.60) from general
+characteristics harbored the greatest factor loadings and importance. This might be
+attributed to the interests of Iranian accountants in professional and organizational
+commitment and avoiding misuse of organizational property and information.
+
+
+
+
+                                                                                                            Figure 11.
+                                                                                                   Overall ﬁtness of the
+                                                                                                            sustainable
+                                                                                                    development model
+                                                                                                          of accounting
+                                                                                                     professional ethics
+MEDAR   Furthermore, nine questions (observable variables) were extracted to assess the
+        environmental construct, as shown in Figures 9 and 10. These ﬁgures provide information
+        with respect to the “sustainable development accounting theory” (McKinley, 2008).
+        According to the results, “responsibility and accountability for environment” revealed the
+        maximum impact factor with a factor loading of 0.89. Part of the reason might be due to the
+        discussions of the sustainable development in the ethics literature and conferences which
+        are organized on this subject (Namazi, Rajabdorri and Rostameymandi, 2017). The results
+        also show that the issue of sustainable development has been mainly neglected in ethics, and
+        more effort needs to be exerted in this domain.
+            The ﬁndings illustrated in Figure 11 show that all constructs of the SDM-APE model,
+        including personal, social, economic-organizational and environmental constructs, exhibited
+        a good ﬁt, where the social, (0.71) personal (0.64), economic-organizational (0.57) and
+        environmental characteristics (0.53) indicated the maximum ﬁt. In other words, the social
+        construct presented the maximum ﬁt, while the environmental construct showed the
+        minimum ﬁt. Part of the reason stems from the fact that accounting professionals are more
+        inﬂuenced by social and cultural issues of ethics, and environmental considerations are not
+        still an ethical priority for the accounting profession. This ﬁnding also suggests that there is
+        an unequivocal need for more investment on these issues to move toward the ethics.
+            Considering the lack of research in this ﬁeld, these ﬁndings are not directly comparable
+        with the results of previous studies; however, the ﬁnal research results, suggesting that
+        more attention should be paid to modeling professional ethics in accounting are consistent
+        with the ﬁndings of numerous studies, such as Jones (1995), Wooten (2001), Yoon (2011),
+        Liyanapathirana and Samkin (2014), West (2017), Namazi et al. (2017) and Payne et al. (2018),
+        and related ethical theories. The ﬁndings also indicate that SDM-APE is a useful ethical
+        model which is based on empirical proliferation of various important and comprehensive
+        factors. This model qualitatively revealed major elements, correlations, priority and status
+        of all essential factors of ethical components in the accounting profession through empirical
+        investigation. Therefore, it can be applied in real practice, and be considered as a roadmap
+        for future accounting model for ethics.
+
+        6. Research limitations and suggestions
+        This study had several limitations. It developed the SDM-APE model and its components
+        according to content analysis, which indicated four constructs (personal, social,
+        organizational-economic and environmental factors). The research model was also based on
+        the 69 variables identiﬁed via content analysis of the published studies and administering
+        questionnaires. The statistical analysis was conducted through CFA. Use of content
+        analysis, questionnaires and CFA as a statistical technique bring inherent limitations
+        (Smith, 2017). Although this model and its constructs are comprehensive and include
+        personal, social, economic-organizational and even environmental constructs, it is limited to
+        69 identiﬁed variables. Nevertheless, an attempt was made to control the internal and
+        external validity of the study as much as possible.
+           Given the importance of ethics, managers, accountants, researchers and
+        professional accounting associations should pay special attention to four elements of
+        the professional ethical model of this study, as organizations and societies are
+        increasingly demanding ethical considerations and increased levels of professional
+        ethics, particularly after recent scandals. Under these circumstances, practical
+        implementation of the current model and investigation of other variables in real
+        organizations are suggested to accelerate the role of ethics and determine relevant
+        variables and their priorities in the organization. Professional accounting associations
+can also consider the development of code of ethics in their plans by beneﬁting from                       Content
+variables identiﬁed in this study, thereby promulgating appropriate standards of                           analysis
+ethics, investigating comprehensive studies in this sphere and encouraging members
+to be active in this domain. In addition, appropriate ethical educational programs and
+research can be established by accounting bodies, universities and educational centers
+to educate and emphasize the importance of planning and implementation of major
+ethical issues in organizations. This research can also enhance the level of professional
+ethics by highlighting the importance of each factor identiﬁed in the model of this
+study.
+
+References
+Abu Ali, M.A. (2011), “Law and bone fractures”, Training Magazine, Vol. 24 No. 4, pp. 20-26.
+Adams, J. (1965), Inequity in Social Exchange, Academic Press, New York, NY.
+Agostini, L., Nosella, A. and Filippini, R. (2016), “Towards an integrated view of the ambidextrous
+       organization: a second-order factor model”, Creativity and Innovation Management, Vol. 25
+       No. 1, pp. 129-141.
+Ajzen, I. (1991), “The theory of planned behavior”, Organizational Behavior and Human Decision
+       Processes, Vol. 50 No. 2, pp. 179-211.
+Argandoña, A. (2016), “Social responsibility and ethics in organizational management”, Working
+       Paper, IESE Business School – University of Navarra.
+Armitage, C. and Conner, M. (2001), “Efﬁcacy of the theory of planned behaviour: a meta-analytic
+       review”, British Journal of Social Psychology, Vol. 40 No. 4, pp. 471-499.
+Asad, M., Haider, H. and Fatima, M. (2018), “Corporate social responsibility, business ethics, and labor
+       laws: a qualitative study on SMEs in Sialkot”, Journal of Legal, Ethical and Regulatory Issues,
+       Vol. 21 No. 3, pp. 1-7.
+Bandura, A. (1986), Social Foundations of Thought and Action, Prentice-Hall, NJ.
+Basu, K. and Palazzo, G. (2008), “Corporate social responsibility: a process model of sense making”,
+       Academy of Management Review, Vol. 33 No. 1, pp. 122-136.
+Bengtsson, M. (2016), “How to plan and perform a qualitative study using content analysis”,
+       Nursingplus Open, Vol. 2 No. 1, pp. 8-14.
+Blay, A.D., Gooden, E.S., Mellon, M.J. and Douglas, E. (2018), “The usefulness of social norm theory in
+       empirical business ethics research: a review and suggestions for future research”, Journal of
+       Business Ethics, Vol. 152 No. 1, pp. 191-206.
+Cacioppo, J., Hawkley, L., Kalil, A., Hughes, M.E., Waite, L. and Thisted, R.A. (2008), “Happiness
+       and the invisible threads of social connection: the Chicago health, aging, and social relations
+       study”, in Eid, M. and Larsen, R. (Eds), The Science of Well-Being, Guilford, New York, NY,
+       pp. 195-219.
+Catherine, A. (2010), “Comparing the ethics codes: AICPA and IFAC: institute’s efforts focus on
+       codifying and aligning rules with international standards”, Journal of Accountancy, Vol. 21
+       No. 4, p. 4152.
+Creswell, J.W. and Plano Clark, V.L. (2011), Designing and Conducting Mixed Methods Research, 2nd
+       ed., Sage Publications, Los Angeles.
+Creamer, E.G. and Ghoston, M.R. (2013), “Mixed content analysis: using a mixed methods content
+       analysis to analyze mission statements from colleges of engineering”, Journal of Mixed Methods
+       Research, Vol. 7 No. 2, pp. 110-120.
+Dessler, G. (2015), Fundamentals of Human Resource Management, 4th ed., Global Edition, Pearson
+       International.
+MEDAR   Donaldson, T. and Preston, L. (1995), “The stakeholder theory of the corporation: concepts, evidence,
+               and implications”, Academy of Management Review, Vol. 20 No. 1, pp. 65-91.
+        Farsam, H. (2009), “Brief history of pharmacy ethics in Iran”, Journal of Medical Ethics and History of
+               Medicine, Vol. 2 No. 13, pp. 1-4.
+        Fassin, Y. (2008), “SMEs and the fallacy of formalizing CSR”, Business Ethics: A European Review,
+               Vol. 17 No. 4, pp. 364-378.
+        Glanz, K., Lewis, F.M. and Rimer, B.K. (1997), Health Behavior and Health Education: Theory Research
+               and Practice, Jossey-Bass, San Francisco.
+        Horngren, C.T., Srikant, M.D. and Madhav, R. (2017), Cost Accounting: A Managerial Emphasis, 16th
+               ed., Pearson.
+        International Ethics Standards Board for Accountants (IESBA) (2018), “Handbook of the international
+               code of ethics for professional accountants”.
+        International Federation of Accountants (IFAC) (2014), “Handbook of the code of ethics for
+               professional accountants of the international ethics standards board for accountants
+               (IESBA)”.
+        Jones, T. (1995), “Instrumental stakeholder theory: a synthesis of ethics and economics”, Academy of
+               Management Review, Vol. 20 No. 2, pp. 404-437.
+        Jones, T.M. (1991), “Ethical decision making by individuals in organizations: an issue-contingent
+               model”, Academy of Management Review, Vol. 16 No. 2, pp. 366-395.
+        Khan, T. and Gray, R. (2016), “Accounting, identity, autopoiesis þ sustainability: a comment,
+               development and expansion on Lawrence, Botes, Collins and Roper (2013)”, Meditari
+               Accountancy Research, Vol. 24 No. 1, pp. 36-55.
+        Kline, R.B. (1998), Principles and Practice of Structural Equation Modeling, Guilford Press, New York,
+               NY.
+        Kolk, A. (2016), “The social responsibility of international business: from ethics and the environment to
+               CSR and sustainable development”, Journal of World Business, Vol. 51 No. 1, pp. 23-34.
+        Landis, R.J. and Koch, G.G. (1997), “The measurement of observer agreement for categorical data”,
+               Biometrics, Vol. 33 No. 1, pp. 159-174.
+        Latan, H., Ringle, C.M. and Jabbour, C.J.C. (2018), “Whistleblowing intentions among public
+               accountants in Indonesia: Testing for the moderation effects”, Journal of Business Ethics,
+               Vol. 152 No. 2, pp. 573-588.
+        Liyanapathirana, N.S. Samkin, G. (2014), “Towards an integrated ethical decision making model for
+               the accounting profession, a developing country, Sri Lanka”, available at: https://cdn.
+               auckland.ac.nz/assets/business/about/seminars-events/2014/Towards%20an%20integrated%
+               20ethical%20decision%20making%20model%20for%20the%20accounting%20p. . ..pdf
+               (accessed 25 November 2016).
+        McKinley, A. (2008), “The drivers and performance of corporate environmental and social
+               responsibility in the Canadian mining industry”, Master Thesis Geography Department and
+               Center for Environment University of Toronto.
+        Marilyn, W. and Fisher, R. (2017), “Values and ethical judgments: the adequacy of students as
+               surrogates for professional accountants”, Meditari Accountancy Research, Vol. 25 No. 1,
+               pp. 37-64.
+        Mitschow, M. and Asgary, N. (2004), “Ethics in auditing”, in Jeffrey, C, (Ed.), Research on Professional
+               Responsibility and Ethics in Accounting, Research on Professional Responsibility and Ethics in
+               Accounting, Vol. 9, Emerald Publishing Limited, pp. 49-72.
+        Mo, S., Ling, C.D. and Xie, X.Y. (2017), “The curvilinear relationship between ethical leadership and
+               team creativity: the moderating role of team faultiness”, Journal of Business Ethics, Vol. 140
+               No. 1, pp. 1-14.
+Mustapha, B. and Bojuwon, Y.B. (2015), “Measuring lecturers commitment scales: a second order               Content
+        conﬁrmatory factor analysis (CFA)”, International Journal of Education and Research, Vol. 3
+        No. 3, pp. 505-516.                                                                                 analysis
+Namazi, M., Rajabdorri, H. and Rostameymandi, A. (2017), “Codifying sustainable development pattern
+        of accounting professional ethics”, Journal of Ethics in Science and Technology, Vol. 12 No. 4,
+        pp. 1-11.
+Neuendorf, K. (2002), The Content Analysis Guidebook, Cleveland State University.
+Payne, D., Corey, C. and Raiborn, C. (2018), “A model code of ethics for decision making in accounting
+        professions”, Southwest Academy of Management Proceedings Annual Meeting, Albuquerque,
+        NM, 7-10 March, pp. 215- 230.
+Perry, C.L., Barnowski, T. and Parcel, G.S. (1990), How Individuals, Environments, and Health Behavior
+        Interact: Social Learning Theory, San Francisco, CA.
+Pﬂugrath, G., Roebuck, P. and Simnett, R. (2011), “Impact of assurance and assurer’s professional
+        afﬁliation on ﬁnancial analysts’ assessment of credibility of corporate social responsibility
+        information”, Auditing: A Journal of Practice and Theory, Vol. 30 No. 3, pp. 239-254.
+Prochaska, J.O., Norcross, J.C., D. and Clemente, C.C. (1994), Changing for Good: The Revolutionary
+        Program That Explains the Six Stages of Change and Teaches You How to Free Yourself from
+        Bad Habits, W. Morrow, New York, NY.
+Raif, D., Lacey, S. and Fico, F. (2002), Analyzing Media Messages: Using Quantitative Content Analysis
+        in Research (Communication), Routledge.
+Schaltegger, S. and Burritt, R. (2018), “Business cases and corporate engagement with sustainability:
+        differentiating ethical motivations”, Journal of Business Ethics, Vol. 147 No. 2, pp. 241-259.
+Seifert, D.L., Stammerjohan, W.W. and Martin, R.B. (2014), “Trust, organizational justice, and
+        whistleblowing: a research note”, Behavioral Research in Accounting, Vol. 26 No. 1, pp. 157-168.
+Smith, M. (2003), “A fresh look at accounting ethics”, Accounting Horizons, Vol. 17 No. 1, pp. 47-49.
+Smith, M. (2017), Research Methods in Accounting, Sage Publications, London.
+Verschoor, C. (2005), “Do the right thing: IMA issues new ethics guidance”, Strategic Finance, Vol. 87,
+        pp. 42-47.
+Waldron, M. and Fisher, R. (2017), “Values and ethical judgments: the adequacy of students as
+        surrogates for professional accountants”, Meditari Accountancy Research, Vol. 25 No. 1, pp. 1-39.
+West, A. (2017), “The ethics of professional accountants: an Aristotelian perspective”, Accounting,
+        Auditing and Accountability Journal, Vol. 30 No. 2, pp. 1-28.
+Whiteside, D.B. and Barclay, L.J. (2013), “Echoes of silence: employee silence as a mediator between
+        overall justice and employee outcomes”, Journal of Business Ethics, Vol. 116 No. 2, pp. 251-266.
+Winner, L. (2009), Applied Statistical Methods, Department of Statistics, and University of FL.
+Witte, K. (1997), “Preventing teen pregnancy through persuasive communication”, Journal of
+        Community Health, Vol. 22 No. 2, pp. 137-155.
+Wooten, K.C. (2001), “Ethical dilemmas in human resource management: an application of a
+        multidimensional framework, a unifying taxonomy, and applicable codes”, Human Resource
+        Management Review, Vol. 11, pp. 159-175.
+Yoon, C. (2011), “Ethical decision-making in the internet context: development and test of an initial
+        model based on moral philosophy”, Computers in Human Behavior, Vol. 27 No. 6, pp. 2401-2409.
+MEDAR                 Appendix
+
+
+
+
+Figure A1.
+An overview of the
+process of a
+qualitative content
+analysis from
+planning to
+presentation
+
+
+
+                      Corresponding author
+                      Hossein Rajabdorri can be contacted at: hosrado@gmail.com
+
+
+
+
+                      For instructions on how to order reprints of this article, please visit our website:
+                      www.emeraldgrouppublishing.com/licensing/reprints.htm
+                      Or contact us for further details: permissions@emeraldinsight.com
+

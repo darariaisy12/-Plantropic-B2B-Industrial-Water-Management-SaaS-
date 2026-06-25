@@ -1,0 +1,420 @@
+46       Int. J. Globalisation and Small Business, Vol. 9, No. 1, 2017
+
+
+Clustering Indonesian companies’ Annual Reports:
+preliminary assessment of the implementation of
+integrated reporting by Indonesian listed companies
+
+         Arie Pratama
+         Department of Accountancy,
+         Faculty of Economics and BusinessUniversitas Padjadjaran,
+         Jl. Dipati Ukur No. 35,
+         Bandung West Java, Indonesia
+         Email: arie.pratama@fe.unpad.ac.id
+
+         Abstract: The purpose of this research is to explore and analyse whether
+         Indonesian companies’ Annual Reports already disclose matters according to
+         the Integrated Reporting (IR) Framework. This research analyses eight IR
+         components. The research method employed is exploratory descriptive. The
+         population is 493 companies listed on the Indonesian Stock Exchange that
+         issued an Annual Report for the year 2014. The data were collected by
+         browsing reports on the companies’ websites and checking for disclosure using
+         a checklist consisting of 55 items. The research uses cluster analysis and shows
+         that, on average, Indonesian companies disclosed 53.81% of the IR components
+         in their Annual Reports. This research also classifies the companies into four
+         clusters, with Cluster 3 having the highest disclosure level, and Cluster 4 the
+         lowest. Clusters 2 and 1 have moderate results, and the majority of companies
+         belong to these clusters.
+
+         Keywords: Annual Report; business sectors; disclosure; integrated reporting.
+
+         Reference to this paper should be made as follows: Pratama, A. (2017)
+         ‘Clustering Indonesian companies’ Annual Reports: preliminary assessment of
+         the implementation of integrated reporting by Indonesian listed companies’,
+         Int. J. Globalisation and Small Business, Vol. 9, No. 1, pp.46–54.
+
+         Biographical note: Arie Pratama is a Lecturer of Accounting at Faculty of
+         Economics and Business, Universitas Padjadjaran, Indonesia. He received
+         bachelor’s and master’s degree in Accounting from Universitas Padjadjaran,
+         Indonesia. He also held various certification in Accounting, particularly
+         Certified PSAK (CPSAK) from Indonesian Institute of Chartered Accountant,
+         Certified Professional Management Accountant (CPMA) from Indonesian
+         Institute of Management Accountant, Certified International Financial
+         Reporting (CertIFR) from Association of Certified Chartered Accountant, UK
+         and Certified Public Accountant (CPA) from Indonesian Institute of Public
+         Accountant. He is currently teaching in the field of Financial Accounting,
+         Public Sector Accounting and Taxation. He is currently serving as one of the
+         members of Indonesian Financial Accounting Standard Implementation Board,
+         Indonesian Institute of Chartered Accountant from 2015–2019. His current
+         research interests are in the field of integrated reporting, financial accounting
+         standard and taxation.
+
+         This paper is revised and expanded version of a paper entitled: ‘Clustering
+         Indonesian companies’ Annual Reports: preliminary assessment of the
+         implementation of integrated reporting by Indonesian listed companies’,
+
+
+Copyright © 2017 Inderscience Enterprises Ltd.
+Implementation of integrated reporting by Indonesian listed companies                 47
+
+        presented at Society of Interdisciplinary Business Research Conference,
+        February 12th–13th, 2016, Kuala Lumpur, Malaysia.
+
+
+
+
+1   Introduction and literature review
+
+Reporting is a way to communicate information to stakeholders. Currently, many forms
+of reporting exist. Besides traditional financial disclosure, environmental and CSR
+disclosures began to be made towards the end of the 20th century. Murdayanti,
+Gurendrawati and Iyabu (2014) stated that the purpose of disclosure is to submit a report
+to serve a variety of parties who have different interests. Although many forms of
+reporting exist, there is still doubt about the value of the information contained in a
+report. Purnomo and Widianingsih (2012) indicated that CSR disclosure is unable to
+strengthen the association between environmental performance and financial
+performance. The Federation of European Accountants (2015) stated in its report that
+corporate reporting is evolving and is now facing several issues, one of which is the
+absence of a single comprehensive report that summarises a company’s affairs. To meet
+the great demands of stakeholders, the International Integrated Reporting Committee
+(IIRC) issued the integrated reporting (IR) Framework in 2013.
+    IIRC (2013) defined integrated reporting as a concise communication about how an
+organisation’s strategy, governance, performance and prospects, in the context of its
+external environment, will lead to the creation of value over the short-, medium- and
+long-term. IIRC (2013) also stated that a full integrated report must have nine
+components, covering:
+1   organisational overview and external environment
+2   governance
+3   business model
+4   risks and opportunities
+5   strategy and resource allocation
+6   performance
+7   outlook
+8   basis of preparation and presentation, and (in doing this, taking into account)
+9   general reporting guidance.
+There are several guiding principles that must be followed when preparing an integrated
+report, namely:
+1   strategic focus and future orientation
+2   connectivity of information
+3   stakeholder relationships
+4   materiality
+48       A. Pratama
+
+5    conciseness
+6    reliability and completeness
+7    consistency and comparability.
+Currently, several countries already require companies to adopt Integrated Reporting or at
+least urge them to do so. South Africa has already required all listed companies to use
+Integrated Reporting, based on the King Code III. Several companies in Australia elected
+to adopt Integrated Reporting early, while France and UK already require companies to
+issue integrated sustainability and financial reports, for which the framework is similar to
+the IIRC integrated framework. Germany already requires combined financial and
+sustainability reporting but has yet to mandate Integrated Reporting.
+    Current research has proved that IR will be useful for financial decision-making.
+Bernardi and Stark’s (2015) research concluded that IR results in environmental, social
+and governance (ESG) disclosure being associated with forecast accuracy. Research
+conducted by Zhou, Simnett and Green (2015) on companies listed on the Johannesburg
+Stock Exchange also showed that IR is providing the capital markets with information
+that is incrementally useful over existing reporting mechanisms. Some research has also
+suggested that IR implementation is not easy. Bavagnoli et al. (2014) suggested that
+companies still interpret ‘materiality’ and ‘conciseness’ in IR in different ways. Stubbs
+and Higgins (2014) stated that the adoption of IR does not trigger a radical or innovative
+way of disclosing items, but rather is just a form of reporting that is incrementally
+different from the previous sustainability reporting. Stubbs et al. (2014) conclude that
+implementing IR is a tough challenge, and that the lack of specific guidance is one factor
+that means that financial capital providers will not understand much of the detail about
+IR. Van Zyl (2013) also found that although many companies are attempting or claiming
+to be creating Integrated Reports, the level of integration and the understanding of what a
+truly Integrated Report should represent is still very low. Abeysekera (2013) stated that
+IR brings new challenges to auditors, and that auditors need detailed information about
+the assumptions for IR to help them develop an informed opinion about information
+outside financial reports. Levels of IR disclosure can vary depending on business sectors.
+Serafeim (2015) indicated that companies whose investors are more active in
+environmental and social issues may practise IR more consistently.
+    Several countries implement IR by simply requiring companies to combine financial
+information and non-financial information. Research conducted by Hao (2014) has
+indicated that it is necessary to view Integrated Reporting as a staged process, which
+evolves from combined reporting, to financial integration reporting and eventually to
+holistic reporting. As of 2016, Indonesia had not obliged or persuaded its companies to
+adopt or implement full IR, but Indonesian companies already publish Annual Reports
+that combine financial and non-financial information. It is very interesting to analyse
+whether Indonesian companies’ Annual Reports already disclose what is required by the
+IR components, to give a preliminary assessment of what ‘gaps’ will have to be filled by
+Indonesian companies once they are required to apply IR. The purpose of this research is
+to explore the disclosure of the IR components in Indonesian companies’ Annual
+Reports. This research will be useful for companies, so that they can assess whether there
+are any gaps between their Annual Reports and the IR Framework, and for regulators, to
+allow them to assess how near Indonesian companies are to implementing IR. It can also
+help with formulating work programs to help companies to implement IR.
+Implementation of integrated reporting by Indonesian listed companies                       49
+
+2      Research methodology
+
+This research employed an exploratory descriptive method. Since research about the
+process of adopting IR by examining Annual Reports in Indonesia is new, and research
+about IR is still limited, this is the best approach to adopt. The research population is all
+companies listed on the Indonesian Stock Exchange (the IDX) in 2014, a total of 521
+companies. This research will describe eight out of the nine IR components. We decided
+to exclude the ninth component, general reporting guidance, since the assessment of this
+component requires heavy judgements to be made by a researcher, and these could be
+biased and subjective.
+    We collected the data by downloading Annual Reports from companies’ and the stock
+exchange’s websites and conducting content analysis by making a disclosure checklist of
+55 items that have to be disclosed under the IR Framework. The checklist indicated
+whether the IR component was disclosed or not. The company scored 1 if the item was
+disclosed, or 0 if it was not. The total disclosure score was calculated by adding together
+the individual disclosure checklist items. The disclosure checklist used in this research
+can be described as follows (Table 1):
+Table 1        Integrated reporting components checklist
+
+    Items to be disclosed                                        Number of items on checklist
+    Organisational overview and external environment (Org_Ovw)               11
+    Governance (Gov)                                                          9
+    Business model (Bus_Mod)                                                 10
+    Risks and opportunities (RO)                                              4
+    Strategy and resource allocation (Strat_RA)                               8
+    Performance (Perf)                                                        4
+    Outlook (OL)                                                              3
+    Basis of preparation and presentation (BPP)                               4
+    Total                                                                    55
+
+We analysed the data in several steps. First, we described the data for IR component
+disclosure according to the eight IR components and the nine sectors of companies in
+IDX, namely:
+1      Agriculture (AGRI)
+2      Mining (MINING)
+3      Basic Industry and Chemicals (BASIC-IND)
+4      Miscellaneous Industry (MISC-IND)
+5      Consumer Goods Industry (CONS)
+6      Property, Real Estate and Building Construction (PROP)
+7      Infrastructure, Utilities and Transportation (INFST)
+8      Finance (FIN)
+9      Trade, Services and Investment (TRADE). Second, we clustered the companies into
+       several clusters using cluster analysis.
+50         A. Pratama
+
+Cluster analysis is a multivariate analysis used to classify members of populations into
+groups with similar characteristics (Hair et al., 2005). We assigned the companies into
+clusters using the IR components as the characteristics of the clusters. To determine the
+number of clusters to be formed, hierarchical analysis using Ward’s method was used,
+and the analysis proceeded using non-hierarchical analysis and the K-means method to
+distribute the companies into clusters. We also conducted a multicollinearity test and an
+F-test to check the validity of the cluster model.
+
+
+3     Results and analysis
+
+
+3.1 Data collection and descriptive statistics
+From 521 companies, we found 493 Annual Reports (94.63%) from either the IDX
+website or the company’s website. For the remaining 18 companies (5.37%), the Annual
+Report was unavailable on the IDX website or the company’s website, and/or there was a
+broken link or website issues. The results for the overall IR component disclosure from
+the Indonesian companies’ Annual Reports classified by IDX business sector can be
+presented in Table 2 as follows:
+
+Table 2        Descriptions of IR component disclosure
+
+                                            IR component disclosures
+                                                                                                  Sector
+                    Org_Ovw     Gov     Bus_Mod     RO      Strat_RA    Perf    OL       BPP     average
+Industrial sector     (%)       (%)       (%)       (%)        (%)      (%)     (%)      (%)       (%)
+AGRI                  78.18     49.44     45.00    93.75     40.63     50.00   83.33     23.33    55.36
+MINING                79.67     46.20     24.68    79.61     35.54     35.53   86.84     36.84    51.72
+BASIC-IND             75.51     48.75     30.00    80.65     21.57      4.84   59.14     32.80    43.72
+MISC-IND              69.00     52.71     30.77    69.87     33.65      8.97   67.52     33.33    45.97
+CONS                  71.25     68.47     40.27    64.19     50.34     35.81   80.18     49.10    57.10
+PROP                  81.48     62.68     53.40    86.32     37.50     58.49   49.06     44.03    59.73
+INFST                 80.87     79.63     63.13    91.15     39.84     46.35   65.97     60.42    66.67
+FIN                   74.19     49.17     49.31    89.08     46.98     26.44   61.69     50.96    56.01
+TRADE                 72.73     61.57     38.07    81.88     37.39     22.48   46.79     40.52    51.54
+Average               75.32     57.93     41.90    82.11     37.94     28.87   61.54     43.06    53.81
+
+           Note:    For presentation in the table, the scores have been converted into
+                     percentages.
+The result in Table 2 shows us several interesting facts. First, overall the IR component
+disclosure in Indonesian companies’ Annual Reports is 53.81%, or on average, 26 items
+out of 49 were disclosed. This also means that, on average, Indonesian companies only
+disclosed half of the information stipulated by the IR framework. Second, of the eight IR
+components analysed, Indonesian companies made most disclosures under the risk
+component, with an average of 82.11%, and they made fewest disclosures under the
+performance component, with an average of 28.87%. Indonesian companies are normally
+required to disclose the key risks and opportunities for their business and to analyse the
+impact of these on their business, so the disclosure rate for risk is high. The performance
+Implementation of integrated reporting by Indonesian listed companies                           51
+
+component scored low, because most of the companies only disclosed financial matters,
+as required by the accounting/regulatory standard. Third, of the nine Indonesian Stock
+Exchange sectors analysed, companies in the Infrastructure, Utilities and Transportation
+sector disclosed most items, with an average of 66.67%, while companies in the Basic
+Industries and Chemicals sector disclosed the fewest items, at an average of 43.72%. The
+results show that Basic Industries companies only scored 4.84% on the performance
+component, the lowest score over all sectors.
+
+3.2 Cluster analysis
+Based on the multicollinearity test conducted using a statistical software package, all the
+variance inflation factors (VIF) were between 0.1 and 10, indicating that multicollinearity
+did not exist in the data. ANOVA analysis showed that all the IR components varied
+significantly in each cluster, with a p-value less than 0.05. The ANOVA tables and
+calculations are as follows (Table 3):
+Table 3      Multicollinearity and ANOVA test results
+
+ IR component                              VIF                    F           Significance value
+                                                                                  (p-value)
+ Org_Ovw                                   1.651                151.175             0.000
+ Gov                                       1.596                128.547             0.000
+ Bus_Mod                                   2.132                163.970             0.000
+ RO                                        1.462                189.219             0.000
+ Strat_RA                                  1.442                64.458              0.000
+ Perf                                      1.498                81.937              0.000
+ OL                                        1.192                126.577             0.000
+ BPP                                       1.461                144.341             0.000
+
+The next step is to determine the clusters for classifying the Annual Reports of the 493
+companies according to the eight IR components. Before conducting the analysis using
+the Ward’s method, the data were transformed into z-scores, to eliminate problems
+associated with the variability of data. The analysis using the Ward’s method is shown in
+Table 4:
+Table 4      Hierarchical analysis cluster forming using Ward’s method
+
+                                                      Decrease in             Decreasing
+ Number of clusters    Agglomeration coefficient     coefficient (%)           rate (%)
+ 1                             3.936.000                    –                      –
+ 2                             2.978.241                  24.33                  24.33
+ 3                             2.490.848                  1637                    7.97
+ 4                             2.295.059                  7.86                    8.50
+ 5                             2.130.830                  7.16                    0.70
+ 6                             1.995.009                  6.37                    0.78
+          Note:   The numbers of clusters to be formed using Ward Method will be determined
+                  from decreasing rate of coefficient (%) and decreasing rate (%). Since the
+                  decreasing rate of coefficient and decreasing rate from cluster 5 onward is
+                  relatively small, so the cluster formed should be four.
+52           A. Pratama
+
+Based on the Ward’s method, we can see that the decreasing rate of the agglomeration
+coefficient from one cluster to four clusters is significant, but from five clusters onwards,
+the decreasing rate is relatively stable. Based on the Ward’s method, the number of
+clusters to be formed is determined as four.
+
+3.3 Final cluster solutions and discussion
+After determining the number of clusters, the next step is to divide the 493 companies
+into four clusters. After processing the data using the K-means method, the final clusters,
+with descriptions of the mean of the rate of disclosure of the items in each clusters (please
+see Table 5 for detail descriptions) are as follows:
+
+Table 5         Final cluster descriptions
+
+                                                                           Cluster name
+    Descriptions                                                    1       2       3       4
+    Org_Ovw                                                        8.313   8.867   9.233   6.935
+    Gov                                                            4.755   4.842   7.243   4.293
+    Bus_Mod                                                        4.000   4.683   6.602   1.943
+    RO                                                             3.741   3.667   3.757   2.016
+    Strat_RA                                                       2.864   3.658   4.029   1.797
+    Perf                                                           0.912   1.358   2.175   0.447
+    OL                                                             1.272   2.667   2.233   1.439
+    BPP                                                            2.259   2.350   3.728   2.179
+    Ranking of cluster (1st is the best, while 4th is the worst)    3rd    2nd      1st     4th
+    Total number of companies                                      147     120     103     123
+
+The profile of each cluster can be described as follows:
+1        Cluster 1 consists of 147 companies. This is the cluster that includes the highest
+         number of companies. This cluster has an overall IR component score lower than
+         that for cluster number 2, but there is more extensive disclosure on risk. Disclosure
+         on outlook is the lowest among the clusters. Companies in this cluster are
+         predominantly in the Trading sector, followed by the Financial sector and the
+         Property sector.
+2        Cluster 2 consists of 120 companies. This cluster has an overall IR component score
+         lower than that of cluster number 3, but the disclosure on outlook is the best among
+         all the clusters. Disclosure on risk is the second lowest among all the clusters.
+         Members of this cluster are mostly in the Mining sector, followed by the Financial
+         and Agricultural sectors.
+3        Cluster 3 consists of 103 companies. This is the cluster with the lowest total number
+         of companies. This cluster has the highest overall IR component score among all the
+         clusters, with an exception only for the outlook component, which is the second
+         highest. Members of this cluster belong mostly to the Infrastructure sectors, followed
+         by the Financial and Property sectors.
+Implementation of integrated reporting by Indonesian listed companies                        53
+
+4       Cluster 4 consists of 123 companies. This cluster has the lowest overall IR
+        component score among all the clusters, with an exception only for the outlook
+        component, which is the second lowest. Members of this cluster predominantly come
+        from the Basic Industries sector, followed by the Trade and Miscellaneous Industry
+        sectors. Table 6 showed number of companies according to sectors in each clusters.
+
+Table 6        Sectors of companies in each cluster
+
+                                     Total number of companies per sector
+    Cluster                        BASIC-    MISC-
+    number    AGRI     MINING       IND       IND     CONS     PROP     INFST    FIN   TRADE
+    1           3          1         22        11       5       22          4    23     56
+    2           15        24         12         9      10       10          6    24     10
+    3           0          2          2         1      10       18          33   23     14
+    4           2         11         26        18      12        3          5    17     29
+
+
+
+4       Conclusion and suggestions
+
+This research gives a preliminary assessment of Indonesian companies’ progress towards
+adopting Integrated Reporting. The research shows that Indonesian companies only
+disclosed 53.81% of the components described in the IR framework. The difficulty of
+adopting Integrated Reporting will vary across business sectors. Companies in some
+sectors, like the Infrastructure sector, disclosed more than companies in other sectors,
+while companies in sectors like Basic Industries and Miscellaneous Industries disclosed
+less than 50% of the components. Companies in these sectors need to make a great
+improvement in their reporting disclosure, while other industries also need to improve,
+since the disclosure levels range from 50% to 67%. Cluster analysis has already showed
+us that out of the four clusters, Cluster 3, which has the best disclosure level, only
+contains 103 companies from the total of 493 companies. Cluster 4, which has the worst
+disclosure level, contains 123 companies, which is higher than the number in Cluster 3.
+The majority of companies were classified in Cluster 1, which has the second lowest
+disclosure rate. This result shows that companies in Indonesia still need to improve their
+reporting disclosure.
+    Finally, this research is exploratory analysis, so it still needs improvement in the
+future. Using cluster analysis has limitations in its results, descriptions and
+interpretations. If Indonesia was to adopt Integrated Reporting, then further research
+could find more factors that influence or determine the level of adoption of Integrated
+Reporting. Further research can also consider using a combination of quantitative and
+qualitative techniques, such as interviews in companies to assess the difficulties in
+adopting Integrated Reporting, or interviews of regulators regarding how the regulators
+are reacting to the process of the adoption of Integrated Reporting.
+54        A. Pratama
+
+References
+Abeysekera, I. (2013) ‘A template of integrated reporting’, Journal of Intellectual Capital, Vol. 14,
+     No. 2, pp.227–245.
+Bavagnoli, F., Comoli, M., Gelmini, L. and Riva, P. (2014). An Open Question in the Integrated
+     Reporting: Materiality or Conciseness? Available at SSRN: http://ssrn.com/abstract=2508657
+     or http://dx.doi.org/10.2139/ssrn.2508657
+Bernardi, C. and Stark, A.W. (2015) Environmental, Social and Governance Disclosure, Integrated
+     Reporting, and the Accuracy of Analyst Forecasts. Available at SSRN: http://ssrn.com/
+     abstract=2641699 or http://dx.doi.org/10.2139/ssrn.2641699
+Federation of European Accountants. (2015) A Future of Corporate Reporting – Creating the
+     Dynamics for Change, FEE, Brussels.
+Hair, J.J., Black, W.C., Babin, B.J. and Anderson, R.E. (2009) Multivariate Data Analysis 7th ed.,
+     Pearson Higher Education, New York.
+Hao, S. (2014) Corporate Integrated Reporting in Canada: Are the Businesses Ready?. Available at
+     SSRN: http://ssrn.com/abstract=2531522 or http://dx.doi.org/10.2139/ssrn.2531522
+International Integrated Reporting Committee (IIRC). (2013) The International (IR) Framework,
+     IIRC, London.
+Murdayanti, Y., Gurendrawati, E. and Iyabu, Y.F. (2014) ‘Analysis of factors affecting level of
+     disclosure in regional sector’s financial statements’, Review of Integrative Business and
+     Economics Research, Vol. 4, No. 1, pp.253–261.
+Purnomo, P.K. and Widianingsih, L.P. (2012) ‘The influence of environmental performance on
+     financial performance with corporate social responsibility (CSR) disclosure as a moderating
+     variable: evidence from listed companies in Indonesia’, Review of Integrative Business and
+     Economics Research, Vol. 1, No. 1, pp.57–69.
+Serafeim, G. (2015) ‘Integrated reporting and investor clientele’, Journal of Applied Corporate
+     Finance, Vol. 27, No. 2, pp.34–51, Spring 2015.
+Stubbs, W. and Higgins, C. (2014) ‘Integrated reporting and internal mechanisms of change’,
+     Accounting, Auditing & Accountability Journal, Vol. 27, No. 7, pp.1068–1089.
+Stubbs, W., Higgins, C., Milne, M.J.and Hems, L. (2014) Financial Capital Providers’ Perceptions
+     of Integrated Reporting. Available at SSRN: http://ssrn.com/abstract=2473426 or
+     http://dx.doi.org/10.2139/ssrn.2473426
+Van Zyl, A.S. (2013) ‘Sustainability and integrated reporting in the South African corporate
+     sector’, International Business and Economics Research Journal, Vol. 12, No. 8, pp.903–926.
+Zhou, S., Simnett, R. and Green, W. (2015) Does Integrated Reporting Matter to theCapital
+     Market?. Available at SSRN: http://ssrn.com/abstract=2600364 or http://dx.doi.org/10.2139/
+     ssrn.2600364
+

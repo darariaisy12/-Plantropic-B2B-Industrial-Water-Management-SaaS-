@@ -1,0 +1,2245 @@
+                                                             H. RUSSELL BERNARD
+                                                                     GERY RYAN
+
+
+
+                                        Sixteen
+
+
+
+                              Text Analysis:
+                Qualitative and Quantitative Methods
+
+
+
+
+                                    Introduction
+There is growing interest across the social sciences in the systematic analysis of
+“text.”1 Little wonder: Most of the recoverable data about human thought and human
+behavior is text of one kind or another. In this chapter, we survey methods of text
+analysis in the social sciences and particularly how anthropologists have used those
+methods to look for meaning and pattern in written text.2
+   We cover two broad types of text analysis: the linguistic tradition, which treats text
+as an object of analysis itself, and the sociological tradition,which treats text as a
+window into human experience. For the linguistic tradition, we review how
+anthropologists have collected and produced texts, analyzed indigenous literatures,
+discovered patterns and structures in performance styles, and compared the pro-
+duction of narratives within and across cultures. For the sociological tradition, we
+review the methods of schema analysis, grounded theory, classical content analysis,
+semantic network analysis, cognitive mapping, and Boolean analysis.
+   Throughout, we focus on methods for collecting and analyzing written texts such
+as political speeches, song lyrics, personal diaries, transcriptions of interviews,
+newspaper editorials, and so on. Many of these methods serve just as well in dealing
+with images, such as photographs, home movies, video tape, commercial movies,
+kinescopes of old television shows, etc.
+   In the study of text, some scholars use methods identified with the humanist
+tradition while others use methods identified with the positivist tradition. The former
+
+                                          595
+596       BERNARD / RYAN
+
+involves interpretation and the search for meaning. The latter involves the reduction
+of texts to codes that represent themes or concepts and the application of quantitative
+methods to find patterns in the relations among the codes. Nowhere is Eric Wolf’s
+aphorism that “anthropology is the most humanistic of the sciences and the most
+scientific of the humanities” (1964:88) better demonstrated than in the practice of text
+analysis.
+
+
+               Anthropology: A Passion for Collecting Texts
+Debates about the value of structuralism, functionalism, historical particularism,
+materialism, and postmodernism come and go, but the value of faithfully produced
+texts is undisputed. Among Franz Boas’s lasting contributions is the corpus of texts
+he collected, translated. and published (or deposited in archives) from speakers of
+Bella Bella (1928b), Sahaptin and Salishan (1917), Keresan (1928a) and, with
+George Hunt, Kwakiutl (Boas and Hunt 1902–1905, 1906; Boas 1910, 1935–1943).
+In 1893, Boas taught Hunt to write Kwakiutl, Hunt’s native language. By the time
+Hunt died in 1933, he had produced 5,650 pages of text— a corpus from which Boas
+produced most of his reports about Kwakiutl life (Rohner 1966).
+   To the extent possible before the invention of voice-recording devices, Boas
+trained his students and collaborators to collect verbatim texts.3 Following Boas’s
+example with Hunt, Paul Radin worked with Sam Blowsnake, a Winnebago.
+Blowsnake wrote the original manuscript (in Winnebago) that became (in translation)
+Crashing Thunder: An Autobiography of a Winnebago Indian (Blowsnake and Radin
+1983 [1920, 1926]). Among Boas’s other students, Swanton (1909), Goddard (1911),
+Kroeber (1907), Lowie (1930), and Sapir (Sapir and Dixon 1910; Sapir and Curtain
+1974; Sapir and Swadesh 1978) collected and analyzed indigenous language text, and
+Margaret Mead produced hours and hours of cinema verité about Bali dance— a rich,
+textual record that can be turned to again and again as new insights and new methods
+of analysis become available.
+   The concern for the collection and archiving of text remains undiminished in
+anthropology. In the 1970s, Eric Hamp edited the Native American Texts Series of
+the International Journal of American Linguistics (see, for example, Furbee-Losee
+1976; Bernard and Salinas Pedraza 1976). As the literary language of a pre–Colonial
+Era civilization, Maya has attracted particular attention. Munro Edmonson’s
+translations of the books of Chilam Balam (1982, 1986) and Dennis Tedlock’s
+translation of the Popol Vuh (1985) are outstanding examples.
+   Following the example of Boas with Hunt and Radin with Blowsnake, Bernard
+(Salinas Pedraza and Bernard 1978; Bernard and Salinas Pedraza 1989), El Guindi
+and Hernández Jiménez (1986), Lurie (1961), and Sexton (Bizarro and Sexton
+1981, 1985), among others, have helped indigenous people create narratives
+themselves in indigenous languages. Bernard (1997) has provided indigenous people
+with the computer technology and training to produce their own books in their own
+                                                              Text Analysis        597
+
+languages. Here again, the emphasis is on the production of texts, not on their
+analysis. (See Salinas Pedraza [1997] and González Ventura [1997] for indigenous
+perspectives on the production of indigenous-language text by computer.)
+
+
+                      Analysis of Indigenous Literature
+There are about 240 languages in the world spoken by more than a million people.
+Some of those languages have very long literary histories, and while smaller
+languages are disappearing, other indigenous ones are developing new literary tradi-
+tions. Postel-Coster (1977) studies an indigenous tradition of novels in Indonesia that
+goes back to around 1920 when a thriving production of new literature appeared in
+Malay by western Sumatran, or Minangkabau, writers.
+    Postel-Coster does not see such novels as a source of factual information, but as
+the modern continuation of the myth in nonliterary societies. Although novels can not
+be taken as documentaries, he says, important elements of social reality can be
+exposed in novels without allusion to actual events. In novels about young couples
+who must struggle against social rules and disapproval to marry, Postel-Coster finds
+that “many problems of Minangkabau culture are explicitly dealt with: matrilineal
+succession, polygynous marriage, the enormous impact of the extended family on an
+individual’s life, and the question of merantau— the traditional emigration of young
+people, mostly men, to other areas” (1977:137).
+    Besnier (1995) has studied an indigenous literacy tradition on the Polynesian atoll
+of Nukulaelae. The texts produced by the people of Nukulaelae include letters,
+sermons, and announcements of events. Besnier analyzes correspondence by identify-
+ing and presenting exemplars of structural regularities. For example, the main body
+of letters on Nukulaelae “usually begins with a greeting identical to the greeting used
+in face-to-face interactions (taalofa “hello,” a Samoan borrowing). This is followed
+by references to the health of everyone at the writer’s and recipient’s ends, and
+sometimes a very long series of invocations to God’s grace and kindness” (Besnier
+1995:86). Besnier follows this with a series of exemplars.
+    Besnier noticed that letter writers “always adhere to a religious reference scheme
+in opening themes, Christian for the majority, or Baha’i, etc., for the handful of
+religious converts. In letters written by younger people, the introduction is usually
+much shorter and more predictable in content than that of letters written by older
+individuals. These introductions bear many similarities to the beginning of formal
+speeches” (1995:87).
+    Using literary methods of analysis, then, Besnier identifies covariation between
+certain elements of style in text and independent variables like religious affiliation
+and age.
+598       BERNARD / RYAN
+
+
+                            Patterns in Performance
+The discovery of regularities in narrative performance is achieved mostly through the
+analysis of written text (for a review, see Hanks 1989). The work of Dell Hymes is of
+singular importance. In 1977, Hymes reported that “the narratives of the Chinookan
+peoples of Oregon and Washington can be shown to be organized in terms of lines,
+verses, stanzas, scenes, and what many call acts.” Hymes felt that this discovery
+might be relevant to many indigenous languages of the Americas (1977:431).
+    Hymes looked at texts in Shoalwater Chinook and Kathlamet Chinook. The texts
+had been collected by Boas between 1890–1894 from one informant who happened
+to speak both mutually unintelligible languages. Hymes also examined texts from
+Clackamas Chinook (collected in 1930 and 1931 by Melville Jacobs) and in Wasco
+(Wishram) Chinook (collected by Sapir in 1905, by Hymes in the 1950s. and by
+Michael Silverstein in the 1960s and ’70s). Hymes found that features of Chinook
+that might have seemed idiosyncratic to the speakers of Shoalwater, Kathlamet, and
+Clackamas Chinook “are in fact part of a common fabric of performance style” so that
+the three languages “share a common form of poetic organization” (Hymes
+1977:431).
+    This was a truly important discovery, for it made clear that Native North American
+texts have something to contribute to a general theory of poetics and literature. Hymes
+discovered verses, not by counting lines of text “but by recognizing repetition within
+a frame. . . . Covariation between form and meaning, between units with a recurrent
+Chinookan pattern of narrative organization, is the key” (Hymes 1977:438).
+    In some texts, Hymes found recurrent linguistic elements that made the task easy.
+Linguists who have worked with precisely recorded texts in Native American
+languages have noticed the recurrence of elements like “Now,” “Then,” “Now then,”
+and “Now again.” These often signal the separation of verses and “once such
+patterning has been discovered in cases with such markers, it can be discerned in
+cases without them” (1977:439). The method is to look for “abstract features that
+co-occur with the use of initial particle pairs in the narratives” of other speakers
+who use initial particle pairs. The method, then, is a form of controlled comparison.
+    In a series of articles and books (1976, 1977, 1980a, 1980b, 1981) Hymes showed
+that most Native American texts of narrative performance (going back to the early
+texts collected by Boas and his students and continuing in today’s narrative
+performance as well) are organized into verses and stanzas that are aggregated into
+groups of either fives and threes or fours and twos. Boas and his students organized
+the narratives of American Indians into lines. This hid from view “a vast world of
+poetry waiting to be released by those of us with some knowledge of the languages”
+(Virginia Hymes 1987:65).
+    According to Virginia Hymes (1987:67–68), Dell Hymes’s method involves
+“working back and forth between content and form, between organization at the level
+of the whole narrative and at the level of the details of lines within a single verse or
+even words within a line.” Gradually, an analysis emerges that reflects the analyst’s
+                                                                Text Analysis       599
+
+understanding of the narrative tradition and of the particular narrator. Virginia
+Hymes emphasizes that it is “only through work with many narratives by many
+narrators that the analyst builds up a knowledge of the range of narrative devices used
+in the language and the variety of uses to which they may be put” (1987:67–68).
+    In his study of Zuni narratives, Tedlock (1972:221) found that such paralinguistic
+features as voice quality, loudness, and pausing are key indicators of performance
+(and see Woodbury [1987] for an examination of prosodic features in Yup’ik Eskimo
+narrative). Hymes points out that the texts recorded by people like Sapir and Jacobs
+often had paralinguistic features such as nonphonemic vowel length and nonpho-
+nemic stress (for emphasis) marked. Some linguists of the time emphasized phonemic
+transcription under “the unquestioned assumption that linguistic structure should be
+built up on the basis of referential function alone, to the exclusion of features serving
+stylistic function” (Hymes 1977:452–453). This wasn’t, of course, how Boas and his
+students did things. They used all manner of conventions for indicating expressive
+as well as strictly phonemic features of narratives that they recorded.
+    Thus, says Hymes, the view of the Boasians that “one should regard and present
+conventional phonetic habits, expressive as well as referential, comes to seem in the
+context of ethnopoetics, not old hat, but a cause for gratitude” (1977:453).
+    Tedlock (1987) showed the exegetical power that linguistic methods can bring to
+text analysis. He had translated the Popol Vuh, a sixteenth-century Quiché Maya
+manuscript that had been written out by Francisco Ximénez, a missionary of the time.
+Suppose, Tedlock asked, we have an ancient text, one that was meant to have been
+narrated. Can we narrate it today as performers would have done in ancient times?
+In achieving his translation of the Popol Vuh, Tedlock had relied on Andrés Xiloj,
+a modern speaker of Quiché. Xiloj had not been trained to read Maya, but he was
+literate in Spanish and made the transition very quickly. “When given his first chance
+to look at the Popol Vuh text, he produced a pair of spectacles and began reading
+aloud, word by word” (Tedlock 1987:145).
+    As was true of many medieval manuscripts in Europe, Ximénez’s rendition of the
+Popol Vuh was more or less an undifferentiated mass of text with almost no
+punctuation— that is, no clues on how a performer might have “emphasized or elided
+the boundaries of . . . segments of discourse through the use of intonational contours,
+or how he might have varied his timing through the placement of pauses” (Tedlock
+1987:147).
+    The solution to this problem was to capture oral narratives (not just casual speech)
+from modern speakers of the language— speeches, prayers, songs, stories— and to
+look for “patterns in the wording that have analogs in the ancient text” and how these
+patterns are enunciated (Tedlock 1987:147). Tedlock devises conventions for marking
+pauses, accelerations, verse endings, and so on. It is in the very use of such written
+marks that we see Tedlock’s analysis— that is, his understanding of how a
+performance went. He can apply the written conventions to ancient texts once the
+analysis of performance is done. Then, by using techniques from linguistics (such as
+systematic comparison to look for recurrent sound patterns that signify variations in
+600       BERNARD / RYAN
+
+meaning), Tedlock found that Quiché verse has the same structure as ancient Middle
+Eastern texts— texts that predate Homer. Indeed, he concluded it is the same structure
+found in all living oral traditions that have not yet been influenced by writing. This
+is a contribution to a general theory of poetics and literature of the sort that Hymes
+had envisioned a decade earlier for the methods of ethnopoetics.
+    Sherzer (1994) presents a detailed analysis of a two-hour performance by Chief
+Olopinikwa of a traditional San Blas Kuna chant. The chant was recorded in 1970.
+Like many linguistic anthropologists, Sherzer had taught an assistant, Alberto
+Campos, to use a phonetic transcription system. After the chant, Sherzer asked
+Campos, to transcribe and translate the tape. Campos put Kuna and Spanish on left-
+and right-facing pages (1994:907).
+    By studying Campos’s translation against the original Kuna, Sherzer was able to
+pick out certain recurrent features. Campos left out the chanted utterances of the
+responding chief (usually something like “so it is”), which turned out to be markers
+for verse endings in the chant. Campos also left out so-called framing words and
+phrases (like “Thus” at the beginning of a verse and “it is said, so I pronounce” at the
+end of a verse). These contribute to the line and verse structure of the chant. Finally,
+“instead of transposing metaphors and other figurative and allusive language into
+Spanish” Campos “explains them in his translation” (Sherzer 1994:908).
+    A key method of text analysis in ethnopoetics is text presentation. It turns out that
+verse breaks are determined by the regular turn-taking between Chief Olopinikwa and
+the responding chief and that verses and lines have a regular melodic shape. In his
+presentation of Chief Olopinikwa’s performance, Sherzer breaks the work into lines
+and verses, using the convention of beginning verses and lines flush on the left of
+each page and indenting the lines of the responding chief. Earlier, in his presentation
+of The Hot Pepper Story, Sherzer (1990:178) used a highly literal translation. The
+text repeats a small number of words and themes, and Sherzer felt that a more liberal
+translation would fail to capture the poetics of performance. So, Sherzer describes the
+thematic elements he sees in the text but uses the device of literalness in the
+translation to draw the reader’s attention to those elements.
+    Text analysis produces new text, which in turn can be analyzed. Hanks (1988)
+reviewed Edmunson’s (1982) translation of The Book of Chilam Balam of Tizimin.
+Edmunson had translated and annotated the original Mayan corpus into 5,514 lines
+of text, changing the format of presentation in the process. In the original, the lines
+had run clear across the page, but Edmonson presented the text in short lines to
+emphasize what he considered to be the verse structure. Hanks analyzes not only the
+Mayan text, but the literary style that Edmonston used in his presentation.
+    In translating Ñähñu (Otomí) parables, folk tales, and jokes, Bernard and Salinas
+(1976) presented a fully literal translation and a fully liberal translation, in addition
+to a transcription of the Ñähñu. At the time, Bernard felt that there was no way to
+mediate between the characteristics of the original, free Ñähñu and a free English
+translation. Later, in translating Salinas’s four-volume ethnography of the Ñähñu,
+Bernard tried a middle course— one in which the English is grammatical but also one
+                                                              Text Analysis        601
+
+which makes clear from the style that it is a translation (see Bernard and Salinas
+1989).
+   Anthropologists are still experimenting with methods for presenting text of
+indigenous performance that capture the subtleties of performance. How can one
+know if a particular presentation does, in fact, capture regular features of narrative?
+Tedlock’s work with Andrés Xiloj, Sherzer’s with Alberto Campos, and Bernard’s
+with Jesús Salinas are, we think, experiments in method.
+   Sherzer and Woodbury (1987) observed that highly artistic, creative performance
+may be based on an underlying cognitive representation. These representations are
+knowable, they said, by systematically comparing texts across performances. Thus,
+they pose the possibility that there are schemas for performance— schemas that go
+beyond the lexical and syntactic levels of grammar. We will return to the methods of
+schema analysis.
+
+
+            Inter- and Intracultural Comparisons of Narratives
+Comparing how people produce narratives in different cultures has long been of
+interest to many social scientists. In 1975, Wallace Chafe and five colleagues received
+a grant from the National Institutes for Mental Health to conduct research on how
+people store knowledge in the mind. In the spirit of the pioneering work by F. C.
+Bartlett (1967 [1932]) on how people remembered and retold folk tales, Chafe and
+his colleagues hired a professional filmmaker and produced the Pear Story film.4
+They showed it to more than 50 speakers of English in California, and to 20 or more
+speakers of Chinese, Japanese, Malay, Greek, Thai, German, Haitian Creole, Persian,
+and Sapultec (a Mayan language in Guatemala). They asked their informants for
+narratives about the film within half an hour of viewing and transcribed the tapes
+verbatim (with lots of attention to pauses, pause filters, stutterings, and such).
+    Examining the Pear Stories, Chafe (1980) identified the existence of idea units
+(about six seconds long and containing about six words) commonly marked by an
+intonation contour that involves a rise in pitch or a fall. Chafe suggests “that these
+idea units, these spurts of language, are linguistic expressions of focuses of
+consciousness” (1980:15) that are packaged into sentences. Children often package
+entire narratives into a single unit, but so do adults sometimes.
+    Downing (1980) compared the 20 English and 20 Japanese Pear story narratives,
+marking all nominal references to concrete entities (1,363 in the English narratives;
+786 in the Japanese). She found that speakers of both languages make extensive use
+of a similar body of “basic” lexemes, but that cognitive, stylistic, and textual
+constraints may cause individual speakers to substitute other words and phrases for
+the basic terms at a given point in the narrative.
+    Herzfeld (1977) analyzed multiple renditions of the khelidonisma, or swallow
+song, sung in modern Greece as part of the welcoming of spring. He collected texts
+of the song from ancient, medieval, and modern historical sources and recorded texts
+602       BERNARD / RYAN
+
+of current-day renditions in several locations across Greece. His purpose was to show
+that inconsistencies in the texts come not from “some putative irrationality in the
+processes of oral tradition” but are, in fact, reflections of structural principles that
+underlie the rite de passage for welcoming spring in rural Greece. To make his point,
+Herzfeld looks for anomalies across renditions— like “March, my good March” in one
+song compared to “March, terrible March” in another. Herzfeld claims that the word
+“good” is used ironically in Greek where the referent is a source of anxiety.
+    Is March a subject of symbolic anxiety for Greek villagers? Yes, says, Herzfeld, it
+is, as evidenced by widely observed practices such as avoidance of certain activities
+during the drimata (the first three days of March). Herzfeld supports his analysis by
+referring to the drimes, a word that denotes the first three days of August, which are
+associated with malevolent spirits. Since March is the transition from winter to
+summer and August is the transition from summer to winter, Herzfeld concludes that
+there is symbolic danger associated with these mediating months. He finds support
+for this analysis in the fact that February is never referred to with an unequivocally
+good epithet.
+    This is symbolic analysis— the search for symbols and their interconnection in the
+expression of culture. The method for doing this kind of analysis requires deep
+involvement with the culture, including an intimate familiarity with the langauge, so
+that the symbolic referents emerge during the study of those expressions— as in the
+study of texts here. You can’t see the connections among symbols if you don’t know
+what the symbols are and what they are supposed to mean.
+    Furbee (1996) is doing an ongoing study of a new cult in and around Lomantán,
+a Tojolabal Maya village in the state of Chiapas, Mexico. According the the local
+story, Dominga Hernández was cutting wood on April 30, 1994, when God appeared
+and gave her images to care for. The images included the Christ Child, the Virgin
+Mary, Saint Joseph, and animals of the crèche. Hernández was to keep the images in
+her house and have a church built in Lomantán. Then she could turn over care of the
+the images to the community. Within 43 days, Hernández had mobilized support for
+purchase of materials and for the donated labor that went into building the church
+that now houses the images.
+    In 1996, Furbee and Jill Brody collected 26 versions of the Lomantán miracle. The
+tellers of these stories come from eighteen different villages across the region,
+including ten that are loyal to the PDR (an opposition party) and eight that are loyal
+to the PRI (the ruling political party).
+    Spanish loan words in the texts run from 1.9%–12.5% (the high end is the tale
+told by Hernández herself), but the number of Spanish loan words in the texts from
+the PRI-affiliated villages is 22% greater than the number of loan words in the texts
+from the PDR-affiliated villages (the difference is statistically significant). In other
+words “the greater Spanish loan usage is where one would expect to find it, with
+people from villages sympathetic to prevailing power.” The PDR-affiliated villages
+are more sympathetic to the Zapatista cause and the speech of those villages contains
+fewer Spanish loan words— “just what one might predict from those who oppose the
+                                                                      Text Analysis          603
+
+prevailing hegemony and who are engaged in a revitalization movement” (Furbee
+1996:13).
+   La Llorona (the weeping woman) is a morality tale told across Mexico. Mathews
+(1992) collected 60 tellings of it. Here is one telling, which Mathews says is typical:
+
+   La Llorona was a bad woman who married a good man. They had children and all was
+   well. Then one day she went crazy and began to walk the streets. Everyone knew but
+   her husband. When he found out he beat her. She had much shame. The next day she
+   walked into the river and drowned herself. And now she knows no rest and must forever
+   wander the streets wailing in the night. And that is why women must never leave their
+   families to walk the streets looking for men. If they are not careful they will end up like
+   La Llorona. (1992:128)
+
+    In another telling, La Llorona kills herself because her husband becomes a drunk
+and loses all their money. In yet another, she kills herself because her husband is seen
+going with other women and La Llorona, in disbelief, finally catches him paying off
+a woman in the streets.
+    Borrowing from Mandler’s (1984) notion that stories are composed of an ordered
+series of constituent units, Mathews builds a grammar of the La Llorona stories. It is
+this grammar, says Mathews, this schema, that accounts for the success of the tale’s
+motivational force. The morality tale succeeds in shaping people’s behavior because
+“the motives of the main characters draw upon culturally shared schemas about
+gendered human nature” (1992:129). Men, according to Mathews’s understanding
+of the cultural model in rural mestizo Oaxaca, view women as sexually uncontrolled.
+Unless they are controlled, or control themselves, their true nature will emerge and
+they will begin (as the story says) to “walk the streets” in search of sexual
+gratification. Men, for their part, are viewed by women as sexually insatiable. Men
+are driven, like animals, to satisfy their desires, even at the expense of family
+obligations. In her grammar of La Llorona tales, Mathews shows that women have
+no recourse but to kill themselves when they cannot make their marriages work.
+    Mathews, however, goes beyond simply identifying the schema; she offers an
+explanation of where key parts of the schema come from. Most marriages in the
+village where Mathews did her research are arranged by parents and involve some
+exchange of resources between the families. Consequently, “natal families are usually
+unwilling to take back a daughter permanently and thereby contribute to the break-up
+of a marriage. So the only option perceived to be open to a woman who wants to
+terminate her marriage is suicide” (1992:150). Thus, Mathews offers a materialist
+explanation of how structural features in the society effect superstructural outcomes
+(perceptions) and consequent behavior— the inclusion of suicide by the woman in
+virtually all tellings of the La Llorona morality tale, despite significant variations in
+the tellings by men and women.
+    We now turn to the sociological analysis of text, beginning with the search for
+schemas.
+604       BERNARD / RYAN
+
+
+                       Schemas, Models, and Metaphors
+Schema analysis combines elements of the linguistic and sociological traditions. It
+pays particular attention to linguistic and paralinguistic features such as metaphors,
+proverbs, repetitions, pauses, speaker transitions, turn taking, and interruptions in the
+search for mental models that motivate action (D’Andrade 1984, 1987, 1995). (For
+a review of the concept of mental models, see Johnson-Laird [1983, 1989].)
+   Schema analysis is based on the idea that there is too much information about
+reality for people to deal with and that people must carry around some simplifications
+that help make sense of the welter of information to which they are exposed (Casson
+1983:430). Early work by Bartlett (1967 [1932]) on how people remember things
+suggested the existence of such simplifications or “building blocks of cognition”
+(Rumelhart 1980).
+   In an influential book, Schank and Abelson (1977) postulated that schemas— or
+scripts, as they called them— enable culturally skilled people to fill in details of a
+story. We often say things like “Fred lost his data because he forgot to save his work.”
+We know that Fred’s forgetting to save his work did not actually cause him to lose
+his data. A whole set of links are left out, but they are easily filled in by any listeners
+who have the background to do so. It is, says Wodak (1992:525), our schemas that
+lead us to interpret Mona Lisa’s smile as evidence of her perplexity or of her
+desperation.
+   Some schemas may be universal. Piaget (1970) studied cognitive schemas in
+children that he thought were universal in human development. Some are surely
+idiosyncratic (each person speaks a language that is, in some ways, like no other).
+Somewhere between universal and idiosyncratic schemas are cultural schemas: They
+are developed through experience but are held by a population (Rice 1980:154;
+D’Andrade 1995:130).
+   Rice (1980) developed what she called the American schema for telling a story,
+which she contrasted with the Eskimo schema for doing the same thing. Using an
+experimental design, she took two Eskimo stories, adjusted them to about 20 phrases
+each, and presented one of five, systematically distorted versions to 12 Americans.
+She also presented the complete, original Eskimo story (in English) or an
+Americanized version of the story to 12 people. Then she asked informants to recall
+and write down, in their own words, certain passages from the stories.
+   When the passages fit the American story schema (as they did in the Americanized
+versions of the stories), subjects agreed about which events they remembered.
+Furthermore, subjects recalled vastly more exactly worded phrases from the
+Americanized versions of the stories than from the Eskimo ones. Thus, people distort
+stories in recall to fit their cultural expectations (their schemas) about what stories
+ought to be like.
+   Cognitive scientists, including anthropologists like Rice, often study schemas by
+setting up experiments so that they can observe the act of reasoning under uncom-
+plicated conditions. Hutchins takes a naturalist’s perspective. “If what we want to
+                                                              Text Analysis       605
+
+know about is how people reason in the real world,” he says, “let’s look at them
+doing that” (1980:123). Hutchins (1980) recorded and transcribed a formal dispute
+in the Trobriands. Two men claim the right to cultivate a particular garden plot.
+The antagonists have different views of the facts but, as Hutchins shows, they share
+an underlying logic— a schema— for how land claims are to be understood
+(1980:128).
+    Of course, it is not always possible to record people who are reasoning about
+important issues in their lives. The intermediate step, between experiments on
+reasoning and recording natural discourse on reasoning, is to collect texts. In 1979,
+Naomi Quinn and her students collected and transcribed interviews about marriage
+from 11 North American couples. Some of the couples were recently married; others
+had been married a long time. The couples came from different parts of the country
+and represented various occupations, educational levels, and ethnic and religious
+groups. Each of the 22 people were interviewed separately for 15–16 hours, and the
+interviews were transcribed.
+    In a series of articles, Quinn (1982, 1987, 1992, 1996, 1997) has analyzed this
+body of text to discover and document the concepts underlying American marriage
+and to show how these concepts are tied together— how they form a cultural model
+shared by people from different backgrounds about what constitutes success and
+failure in marriage.
+    Quinn’s method is to “exploit clues in ordinary discourse for what they tell us
+about shared cognition— to glean what people must have in mind in order to say the
+things they do” (1997:140). She begins by looking at patterns of speech and the
+repetition of key words and phrases, paying particular attention to informants’use of
+metaphors and the commonalities in their reasoning about marriage. For example,
+Nan, one of her informants, uses a popular metaphor, that “marriage is a manu-
+factured product”— something that has properties, like strength and staying power,
+and that requires work to produce. Some marriages are “put together well,” while
+others “fall apart” like so many cars or toys or washing machines (Quinn 1987:174).
+    Quinn’s emphasis on metaphor owes much to the pioneering work by Lakoff and
+Johnson (1980). The object is to look for metaphors in rhetoric and deduce the
+schemas, or underlying principles, that might produce patterns in those metaphors.
+For instance, Quinn found that people talk about their surprise at the breakup of a
+marriage by saying that they thought the couple’s marriage was “like the Rock of
+Gibraltar” or that they thought the marriage had been “nailed in cement.” People use
+these metaphors because they assume that their listeners know that cement and the
+Rock of Gibraltar are things that last forever.
+    But Quinn reasons that if schemas or scripts are what make it possible for people
+to fill in around the bare bones of a metaphor, then the metaphors must be surface
+phenomena and cannot themselves be the basis for shared understanding. Quinn
+found that the hundreds of metaphors in her corpus of texts fit into just eight linked
+classes that she calls: lastingness, sharedness, compatibility, mutual benefit, dif-
+ficulty, effort, success (or failure), and risk of failure. For example, Quinn’s
+606       BERNARD / RYAN
+
+informants often compared marriages (their own and those of others) to manufactured
+and durable products (“it was put together pretty good”) and to journeys (“we made
+it up as we went along; it was a sort of do-it-yourself project”). Quinn sees these
+metaphors, as well as references to marriage as “a lifetime proposition,” as exemplars
+of the overall expectation of lastingness in marriage.
+    The classes of metaphors, the underlying concepts, are linked together in a schema
+that guides the discourse of ordinary Americans about marriage:
+
+   Marriages are ideally lasting, shared and mutually beneficial. Marriages that are not
+   shared will not be mutually beneficial and those not mutually beneficial will not last.
+   Benefit is a matter of fulfillment. Spouses must be compatible in order to be able to fill
+   each other’s [emotional] needs so that their marriages will be fulfilling and hence
+   beneficial. Fulfillment and, more specifically, the compatibility it requires, are difficult
+   to realize but this difficulty can be overcome, and compatibility and fulfillment
+   achieved, with effort. Lasting marriages in which difficulty has been overcome by effort
+   are regarded as successful ones. Incompatibility, lack of benefit, and the resulting
+   marital difficulty, if not overcome, put a marriage at risk of failure. (Quinn 1997:164)
+
+    Quinn presents extended excerpts from eight informants to illustrate the relation-
+ship between lastingness and success. She hopes that the examples she gives will
+familiarize readers with her mode of analysis and “convince them of the pattern
+exemplified” in the cases she presents. “Finding this structure,” Quinn says, “was a
+methodological challenge” (1997:167).
+    Other examples of the search for cultural schemas in texts include Holland’s
+(1985) study of the reasoning that Americans apply to interpersonal problems,
+Kempton’s (1987) study of ordinary Americans’theories of home heat control, and
+Claudia Strauss’s (1997) study of what chemical plant workers and their neighbors
+think about the free enterprise system.
+    Examining metaphors and proverbs are not the only linguistic features used to
+infer meaning from text. D’Andrade notes that “perhaps the simplest and most direct
+indication of schematic organization in naturalistic discourse is the repetition of
+associative linkages” (1991:294). He observes that “indeed, anyone who has listened
+to long stretches of talk— whether generated by a friend, spouse, workmate, infor-
+mant, or patient— knows how frequently people circle through the same network of
+ideas” (1991:287).
+    In a study of blue-collar workers in Rhode Island, Claudia Strauss (1992) refers
+to these ideas as “personal semantic networks.” She describes such a network from
+one of her informants. On rereading her intensive interviews with one of the workers,
+Strauss found that her informant repeatedly referred to ideas associated with greed,
+money, businessmen, siblings, and “being different.” She displays the relationships
+among these ideas by writing the concepts on a page of paper and interconnected with
+lines and explanations.
+    Price (1987) observes that when people tell stories, they assume that their listeners
+share many assumptions about how the world works and so they leave out
+                                                               Text Analysis        607
+
+information that “everyone knows.” Thus, in her study of 14 narratives of illness and
+misfortune in a Mestizo community in Ecuador, Price looks for what is not said in
+order to identify underlying cultural assumptions (1987:314).
+   If underlying schemas exist, then, with a native speaker’s command of the
+language and a deep understanding of one another’s metaphors (about marriage and
+so many other things), we can recognize the surface representations of those schemas.
+Understanding the complete lexicon of a language, then, makes it possible to do text
+analysis. Language competence is nine-tenths of method.
+   We turn next to the two methods most widely used across the social sciences for
+analyzing text: grounded theory and classical content analysis. Grounded theory
+emphasizes the discovery and labeling of concepts (variables) and the building of
+models based on a close reading of the text. Classic content analysis emphasizes the
+formal description of concepts and the testing of models and hypotheses.
+
+
+                                Grounded Theory
+Grounded theory is a set of techniques that: (1) brings the researcher close to
+informants’experiences; (2) provides a rigorous and detailed method for identifying
+categories and concepts that emerge from text; and (3) helps the researcher link the
+concepts into substantive and formal theories (Glaser and Strauss 1967; Lincoln and
+Guba 1985; Strauss 1987; Lonkila 1995; Charmaz 1990; Strauss and Corbin 1990;
+Wilson and Hutchinson 1996). Miles and Huberman (1994) refer to their own brand
+of text analysis as “soft-nosed positivism”— a good characterization of most work in
+grounded theory as well, in our view.
+    Grounded theory has been used to examine topics in public health (Hitchcock and
+Wilson 1992; Sohier 1993; Kearney et al. 1994, 1995; Irurita 1996; Wright 1997),
+social welfare (Silverberg et al. 1996), and business (Hunt and Ropo 1995; Locke
+1996). It also has a long history in ethnographic case studies (Becker et al. 1961;
+Agar 1979, 1980, 1983). Journals such as Nursing Research, Qualitative Health
+Research, and Qualitative Sociology have been outlets for this type of research.
+    The mechanics of grounded theory are deceptively simple: produce verbatim
+transcripts of interviews and read through a small sample of text (usually line by
+line). Identify potential themes that arise. As analytic categories emerge, pull all the
+data (that is, exemplars) from those categories together and compare them, con-
+sidering not only what text belongs in each emerging category but also how the
+categories are linked together. Use the relationships among categories to build theo-
+retical models, constantly checking the models against the data— particularly against
+negative cases. Throughout the process, keep running notes about the coding and
+about potential hypotheses and new directions for the research. This is called
+“memoing” in the vocabulary of grounded theory. Grounded theory is an iterative
+process by which the analyst becomes more and more “grounded” in the data and
+develops increasingly richer concepts and models of how the phenomenon being
+studied really works.
+608      BERNARD / RYAN
+
+
+
+                                Identifying Themes
+
+    Many researchers offer specific advice and schemes for inductive or “open” coding
+of text (Taylor and Bogdan 1984; Lincoln and Guba 1985; Strauss and Corbin 1990;
+Bogdan and Biklen 1992; Bernard 1994; Lofland and Lofland 1995; Agar 1996).
+Sandelowski (1995a:373) observes that analysis of texts begins with proofreading the
+material and simply underlining key phrases “because they make some as yet inchoate
+sense.” Identifying the categories and terms used by informants themselves is called
+“in vivo coding” (Strauss and Corbin 1990). Spradley (1979:199–201) advised
+searching texts for evidence of social conflict, cultural contradictions, informal
+techniques of social control, methods that people use in managing impersonal social
+relationships, the methods by which people acquire and maintain achieved and
+ascribed status, and information about how people solve problems. Each of these
+arenas, he said, is likely to yield major themes in cultures.
+    Others suggest that coders start with some general themes derived from reading
+the literature and add more themes and subthemes as they go (Willms et al. 1990;
+Miles and Huberman 1994). Regardless of which strategy is used, by the time one
+identifies the themes and refines them to the point where they can be applied to the
+whole text, a lot of the interpretive analysis has been done. Miles and Huberman say
+simply: “Coding is analysis” (1994:56).
+
+
+                                 Building Models
+
+   The next step is to identify how themes are linked to each other in a theoretical
+model. Memoing is one of the principal techniques for recording relationships among
+themes. When reviewing the text, you continually write down your thoughts about
+what you’re reading. These thoughts become a set of information on which to develop
+theory. We think of memoing as taking field notes on observations about texts.
+   Strauss and Corbin discuss three kinds of memos: code notes, theory notes, and
+operational notes (1990:18, 73–74, 109–129, 197–219). Code notes describe the
+concepts that are being discovered in “the discovery of grounded theory.” In theory
+notes, the researcher tries to summarize his or her ideas about what’s going on in the
+text. Operational notes are about practical matters.
+   Once a model starts to take shape, researchers specifically look for negative
+examples that do not fit the pattern. Negative case analysis is discussed in detail by
+Becker et al. (1961:37–45), Strauss and Corbin (1990:108–109), Lincoln and Guba
+(1985:309–313), Dey (1993:226–233), and Miles and Huberman (1994:271). Nega-
+tive cases either disconfirm parts of the model or suggest new connections that need
+to be made. In either case, these negative examples need to be accommodated when
+results are presented.
+   When the steps of the grounded theory approach are followed, models or
+“theories” are produced that are, indeed, “grounded” in the text. These models,
+however, are not the final product of the grounded theory approach. In their
+                                                              Text Analysis       609
+
+original formulation, Glaser and Strauss (1967) emphasized that the building of
+grounded theory models is a step in the research process. The next, of course, is
+to confirm the validity of a model by testing it on an independent sample of data.
+   The grounded theory approach, including iterative coding and analysis by constant
+memoing, has been the inspiration for several of the most widely used software
+packages in text analysis, including Atlas/ti (Muhr 1991), NUD*IST (Richards and
+Richards 1991), and Kwalitan (Peters and West 1990). In fact, 17 of the 24 text
+analysis packages reviewed by Weitzman and Miles (1995:316–325) have some
+provision for writing memos on the fly and retrieving them during analysis.5
+
+                        Displaying Concepts and Models
+
+   Much of grounded theory involves presenting segments of text— verbatim quotes
+from informants— as exemplars of concepts and theories. These illustrations may be
+prototypical examples of central tendency or they may represent exceptions to the
+norm. Grounded theory researchers may display their theoretical results in maps of
+the major categories and the relationships among them (Miles and Huberman
+1994:134–137, Kearney et al. 1995). These “concept maps” are similar to the
+personal semantic networks described by C. Strauss (1992) and D’Andrade (1991)
+(see below).
+
+
+                        An Example of Grounded Theory
+
+   Kearney et al. (1995) interviewed 60 women who reported using crack cocaine an
+average of at least once weekly during pregnancy. The semistructured interviews
+lasted from one–three hours and covered childhood, relationships, life context,
+previous pregnancies, and actions during the current pregnancy related to drug use,
+prenatal care, and self-care. Transcripts were coded and analyzed as soon as they
+became available so that data collection and data analysis were intricately linked. As
+new topics emerged, investigators asked about the topics in subsequent interviews.
+   Kearney et al. coded the data first for the general topics they used to guide the
+interviews. Later, they would use these codes to search for and retrieve examples of
+text related to various interview topics. Next, team members reread each transcript
+searching for examples of social psychological themes in the women’s narratives.
+Each time they found an example, they considered “What is this an example of?”.
+The answers suggested substantive categories that were refined with each new
+transcript.
+   Kearney et al. (1995) looked at how substantive categories were related. They
+recorded their ideas about these interactions in the forms of memos and developed a
+preliminary model. With each subsequent transcript, they looked for negative cases
+and pieces of data that challenged their emerging model. They adjusted the model to
+include the full range of variation that emerged in the transcripts.
+   To begin with, Kearney et al. identified five major categories, which they
+called: VALUE, HOPE, RISK, HARM REDUCTION, and STIGMA MAN-
+610       BERNARD / RYAN
+
+AGEMENT. (Capital letters are often for code names in grounded theory research,
+just as in statistical research.) Women valued their pregnancy and the baby-to-be
+in relation to their own life priorities (VALUE); women expressed varying degrees
+of hope that their pregnancies would end well and that they could be good
+mothers (HOPE) and they were aware that cocaine use posed risks to their fetus
+but they perceived that risk differently (RISK). Women tried in various ways to
+minimize the risk to the fetus (HARM REDUCTION) and they used various
+stratagems to reduce social rejection and derision (STIGMA MANAGEMENT).
+   By the time they had coded 20 interviews, Kearney et al. realized that the
+categories HARM REDUCTION and STIGMA MANAGEMENT were components
+of a more fundamental category that they labeled EVADING HARM. After about 30
+interviews had been coded, they identified and labeled an overarching psychological
+process they called SALVAGING SELF that incorporated all five of the major
+categories. “Theoretical saturation” was reached at approximately 40 interviews and
+Kearney et al. conducted another 20 without discovering any new categories or
+relationships.
+   Kearney et al. (1995) present their model graphically with ties to supporting
+textual evidence. They describe in rich detail each of the major categories that they
+discovered. Finally, they checked the validity of their model by presenting it to
+knowledgeable informants (pregnant drug users), members of the project staff, and
+health and social service professionals who were familiar with the population under
+study.
+
+
+                           Classical Content Analysis
+While grounded theory is concerned with the discovery of data-induced hypotheses,
+content analysis comprises techniques for (1) reducing the symbol-laden artifacts
+produced by human behavior (including, but not limited to texts) to a unit-by-variable
+matrix and (2) analyzing that matrix quantitatively in order to test hypotheses. The
+matrix is produced by applying a set of codes to artifacts and checking the reliability
+of human coders against one another. When the artifacts are texts, the coding may be
+done by a computer, using a content analysis dictionary. In addition to written text,
+the symbol-laden artifacts of human effort include television sit-coms, political
+cartoons, advertisements, song lyrics, and clay pots. The object is to test hypotheses
+about the producers of the symbolic artifacts, the consumers, or both.6
+   Cowan and O’Brien (1990), for example, tested whether males or females were
+more likely to be survivors in slasher films. The corpus of “text” in this case was 56
+slasher films. The films contained a total of 474 victims, who were coded for gender
+and survival. Conventional wisdom about slasher films holds that victims are mostly
+women and slashers are mostly men. While slashers in these films were, in fact,
+mostly men, it turned out that victims were equally likely to be male or female.
+Surviving as a female slasher victim, however, was strongly associated with the
+absence of sexual behavior and with being less physically attractive than
+                                                                  Text Analysis        611
+
+nonsurviving females. The male nonsurvivors were cynical, egotistical, and dic-
+tatorial. Cowan and O’Brien conclude that, in slasher films, sexually pure women
+survive and that “unmitigated masculinity” ends in death (1990:195).
+   The methodological issues associated with content analysis are all evident here.
+Does the sample of 56 films used by Cowan and O’Brien justify generalizing to
+slasher films in general? Did the coders who worked on the project make correct
+judgments in deciding things like the physical attractiveness of female victims or the
+personality and behavioral characteristics of the male victims? These two issues in
+particular, sampling and coding, are at the heart of content analysis.
+
+
+                                        Sampling
+
+    There are two components to sampling. The first is the identification of the corpus
+of texts; the second is the identification of the units of analysis within the texts. If one
+collects 40 or 50 life histories, then the entire set of texts is analyzed. When the units
+of data run into the hundreds or even thousands (i.e., all television commercials that
+ran during prime time in August 1997, all front-page stories of The New York Times
+from 1887–1996, all campaign speeches by Bill Clinton and George Bush during the
+1996 presidential campaign), then a representative sample of records must be made.
+    Gilly (1988) did a cross-cultural study of gender roles in advertising. She vide-
+otaped a sample of 12 hours of programming in Los Angeles (U.S.), Monterrey
+(Mexico), and Brisbane (Australia), from 8 a.m. to 4 p.m. on Tuesday and 7 p.m. to
+11 p.m. on Wednesday. To control for seasonal variation between the hemispheres,
+the U.S. and Mexico samples were taken in September 1984, while the Australia
+sample was taken in February 1985. There were 617 commercials: 275 from the U.S.,
+204 from Mexico, and 138 from Australia. Because of her research question, Gilly
+used only adult men and women who were on camera for at least three seconds or
+who had at least one line of dialogue. There were 169 women and 132 men in the
+U.S. ads; 120 women and 102 men in the Mexican ads; and 52 women and 49 men
+in the Australian ads.
+    Cohen (1990) wanted to know whether the unpredictability of the environment
+(floods, drought, etc.) would be reflected in a society’s folktales. He selected a sample
+of 19 societies using two criteria: (1) two independent coders had to agree on the
+presence of three variables about resources in a cross-cultural study of warfare done
+by Ember and Ember (1992); and (2) there had to be at least 9 folktales for each
+society in the Human Relations Area Files (as of 1988). Cohen then selected up to 10
+folktales from each society. If there were more than that, he numbered them and
+selected them randomly. In all, Cohen had 187 different folktales to code and
+analyze.
+    Waitzkin and Britt (1993:1121) did an interpretive analysis of 50 encounters
+between patients and doctors by randomly selecting texts from 336 audiotaped
+encounters. Nonquantitative text analysis is often based on purposive sampling. Trost
+(1986) thought the relationship between teenagers and their families might be
+612       BERNARD / RYAN
+
+affected by five different dichotomous variables. To test this idea, he intentionally
+selected five cases from each of the 32 possible combinations of the five variables and
+conducted 160 interviews.
+   Nonquantitative studies in content analysis may also be based on extreme or
+deviant cases, cases that illustrate maximum variety on variables, cases that are
+somehow typical of a phenomenon, or cases that confirm or disconfirm a hypothesis.
+A single case may be sufficient to display something of substantive importance, but
+Morse (1994) suggests using at least six participants in studies in which one is trying
+to understand the essence of experience. Morse also suggests 30–50 interviews for
+ethnographies and grounded theory studies. Patton (1990: 169–186) and Sandelowski
+(1995b) provide useful reviews of the nonrandom strategies for sampling texts.
+Finding themes and building theory may require fewer cases than comparing across
+groups and testing hypotheses or models.
+   Once a sample of texts is established, the next step (called “unitizing”
+[Krippendorf 1980] or “segmenting” [Tesch 1990]) is to identify the basic, nonover-
+lapping units of analysis. The units may be the entire texts (books, interviews,
+responses to an open-ended question on a survey) or segments (words, word-senses,
+sentences, themes, paragraphs). Where the object is to compare across texts— to see
+whether or not certain themes occur— the whole text (representing an informant or
+an organization) is the appropriate unit of analysis. When the object is to compare the
+number of times a theme occurs across a set of texts, then what Kortendick (1996)
+calls a context unit— a chunk of text that reflects a theme— is likely to be the
+appropriate unit of analysis.
+   With a set of texts in hand, the next steps are to develop a codebook and mark
+(actually code) the text. This is the heart and soul of sociological text analysis,
+whether it is schema analysis, grounded theory, or classic content analysis. How to
+develop a codebook is covered in detail by Dey (1993:95–151), Crabtree and Miller
+(1992), Miles and Huberman (1994:55–72). Richards and Richards (1991) discuss
+the theoretical principles related to hierarchical coding structures that emerge out of
+the data. Araujo (1995) uses an example from his own research on the traditional
+British manufacturing industry to describe the process of designing and refining
+hierarchical codes. The development and refinement of coding categories has long
+been a central task in classical content analysis (for example, Bereleson 1952:
+147–168; Holsti 1969:95–126) and is particularly important in the construction of
+concept dictionaries (Stone et al. 1966:134–168; Deese 1969). Krippendorff (1980:
+71–84) and Carey et al. (1996) note that much of codebook refinement comes during
+the training of coders to mark the text and in the act of checking for intercoder
+agreement.
+   The word “code” has two quite different meanings. Codes are sometimes simply
+tags that mark off sections of text in a corpus and sometimes are values of a variable.
+When codes are used as tags, they are reference markers, like an index in the back of
+a book. When they are used as values of a variable, they identify nominal, ordinal, or
+even ratio characteristics of episodes, cases or persons (Bernard 1991, 1994:193–194;
+Seidel and Kelle 1995). Below we look more closely at these distinctions.
+                                                              Text Analysis       613
+
+                                 Inductive Coding
+
+   In hypothesis-testing content analysis, codes are typically formulated first and
+the codebook is then tested for reliability, using multiple coders and modified if
+necessary. In exploratory content analysis, inductive coding (open coding in
+grounded theory terms) is appropriate. Kortendick (1996), for example, interviewed
+43 members of a three-generation extended family in Holland, all of whom were
+related to three sisters (the first generation) who had immigrated from Indonesia.
+Some of the interviews were done with individuals, others with groups of several
+people. After reading eight interviews carefully, Kortendick found that he was no
+longer identifying any new themes and he constructed a codebook.
+   Kortendick used a numerical coding scheme. (Miles and Huberman [1994:65]
+warn against this, but it’s really a matter of taste— whatever works for individual
+researchers.) Kortendick applied his coding scheme to all the interview texts,
+tagging each text for things like the level of competence in Dutch versus
+Indonesian that people evinced, whether they mentioned any of 21 family myths
+that he had identified, and whether each person felt fully Dutch, fully Indonesian,
+or ambivalent about their identity. Kortendick built a matrix of informants-by-
+themes so he could count and compare references to these myths across all 43
+informants.
+   Ryan and Weisner (1996) asked fathers and mothers to describe their adolescent
+children. Ryan and Weisner generated a list of the unique words in the corpus and the
+number of times each word was used. They used the list to look for differences
+between fathers and mothers and to look for themes that might be coded in a content
+analysis. Mothers, for example, were more likely to use words like friends, creative,
+time, and honest; fathers were more likely to use words like school, good, lack,
+student, enjoys, independent, and extremely.
+
+                                 Deductive Coding
+
+    Deductive coding is appropriate in confirmatory research. From her reading of
+literature on the theory of resources, Hirschman (1987) thought that she would find
+ten kinds of resources in personal ads: love, physical characteristics, educational
+status, intellectual status, occupational status, entertainment services (nonsexual),
+money status, demographic information (age, marital status, residence), ethnic char-
+acteristics, and personality info (not including sexual or emotional characteristics).
+Hirschman formulated and tested hypotheses about which resources men and women
+would offer and seek in personal ads.
+    She selected 20 test ads at random from the New York Magazine and The
+Washingtonian and checked that the ten kinds of resources were, in fact, observable
+in the ads. Sexual traits and services were less than 1% of all resources coded. This
+was 1983–84, but even then, ads with explicit references to sexual traits and services
+were more common in other periodicals than in The Washingtonian and New York
+Magazine.
+    Hirschman next gave 10 men and 11 women the list of resource categories and a
+614       BERNARD / RYAN
+
+list of 100 actual resources (“young,” “attractive,” “fun loving,” “divorced,” “32-year-
+old,” etc.) gleaned from the 20 test ads. The respondents were asked to match the 100
+resources with the resource category that seemed most appropriate. This exercise
+demonstrated that the resource items were mutually exclusive and exhaustive: No
+resource items were left over and all could be categorized into just one of the ten
+resource categories.
+    When she was confident her codebook worked, Hirschman tested her hypotheses.
+She sampled approximately 100 female-placed ads and 100 male-placed ads from
+each magazine. A male and a female coder, working independently (and unaware of
+the hypotheses of the study) coded 3,782 resource items taken from the 400 ads as
+belonging to one of the ten resource categories. The coding took three weeks. This is
+not easy work.
+    A third coder was given the data and identified discrepancies between the first
+two coders. Of 3,782 resource items coded, there were theme contrasts on 636
+(16.8%) and one of the coders failed to code 480 items (12.7%). The theme contrasts
+were resolved by Hirschman. The omissions were checked against the ads to see if,
+in fact, the one coder who had made an assignment had done so because the resource
+was in the ad. This was always the case, so the 480 resource items omitted by one
+coder were counted as if they had been assigned to the ad by both coders.
+    Hirschman found that men were more likely than women to offer monetary
+resources, whereas women were more likely than men to seek monetary resources.
+Women were more likely than men to offer physical attractiveness. It would be very
+interesting to repeat this study today with the same magazines. After all, Washington,
+DC and New York City are supposed to be hip places. Are the stereotypes of how men
+and women market themselves to one another today very different from what they
+were in 1983–84?
+    Confirmatory hypothesis testing and deductive coding are also used by
+anthropologists and other scholars who examine the Human Relations Area Files.
+The “codes” in the Outline of Cultural Materials are tags, however, not measure-
+ments. “Tagging” a paragraph in a text on the Yanomamo with “warfare” indicates
+textual material on the topic. It says nothing about how much the Yanomamo engage
+in warfare, or how intense their battles are, or whether Yanomamo men are at high
+or low risk of dying in battle. These kinds of measurements require a close reading
+of the segments of text that deal with warfare. Absent any prior knowledge about the
+Yanomamo, the tag “warfare” could just as well indicate that the Yanomamo are a
+peaceful people who despise and preach actively against violence. [Methodological
+issues associated with cross-cultural research are dealt with at length in Chapter 17
+of this volume. Ed.]
+
+
+                               Intercoder Agreement
+
+   The marking of text often involves multiple coders. The idea is to see whether the
+constructs being investigated are shared and whether multiple coders see the same
+                                                               Text Analysis        615
+
+constructs as applying to the same chunks of text. Carey et al. (1996) asked 51 newly
+arrived Vietnamese refugees in New York State 32 open-ended questions about
+tuberculosis. Topics included knowledge and beliefs about TB symptoms and causes,
+as well as beliefs about susceptibility to the disease, prognosis for those who contract
+the disease, skin testing procedures, and prevention and treatment methods. The
+investigators read the responses and created a code list based simply on their
+judgment. The initial code book contained 171 codes.
+   Next, the researchers broke the text into 1,632 segments (each segment repre-
+senting a single informant’s response to each of the 32 questions) and two coders
+independently coded 320 segments. Text segments could be marked with multiple
+codes. Segments were counted as reliably coded if both coders used the same codes
+on it. If one coder left off a code or assigned an additional code, then this was
+considered a coding disagreement. On their first try, only 144 (45%) out of 320
+responses were coded the same by both coders. The coders discussed their
+disagreements and found that some of the 171 codes were redundant, some were
+vaguely defined, and some were not mutually exclusive. In some cases, coders simply
+had different understandings of what a code meant. When these problems were
+resolved, a new, streamlined codebook was issued and the coders marked up the data
+again. This time they were in agreement 88.1% of the time.
+   This seems like high reliability, but analysts typically apply a correction formula
+to take account of the fact that some fraction of agreement will always occur by
+chance. Cohen’s Kappa, or K is a popular measure for taking these chances into
+account (Jacob Cohen 1960). When K is zero, agreement is what might be expected
+by chance.7 When K is negative, the observed level of agreement is less than one
+expects by chance. Of the 152 codes in the new code list that had been applied to the
+320 sample segments, the coders agreed perfectly (kappa = 1.0) for 82.9% of the
+codes. Only 17 (11.2%) of the codes had final K values #0.89. As senior investigator,
+Carey resolved any remaining intercoder discrepancies himself (Carey et al. 1996).
+   How much intercoder agreement is enough? The standards are still evolving, but
+Krippendorf (1980:147–148) advocates agreement of at least .70 and notes that some
+scholars (Brouwer et al. [1969] use a cutoff of .80. In developing software to create
+psychological scales from texts, Gottschalk and Bechtel (1993) ensured that the
+reliability of the computer scores were greater than .80 when compared to human
+coders. Including several measures of intercoder agreement in popular text analysis
+packages would encourage much needed research on this issue.8
+
+
+                                    Dictionaries
+
+   Computer-based, general-purpose content analysis dictionaries are a kind of auto-
+mated codebook. To build such dictionaries, words are assigned, by hand, to one or
+more categories (there are typically 60–50 categories in computerized content
+analysis dictionaries), according to a set of rules. The rules are part of a computer
+program that parses new texts, assigning words to categories.
+616       BERNARD / RYAN
+
+   Work began in the 1960s on the best-known system, the General Inquirer and
+continues to this day (Stone et al. 1966; Kelly and Stone 1975; Zuell et al. 1989). The
+system comprises a computer program (the General Inquirer), which uses a
+dictionary (the Harvard Psychosocial Dictionary) in parsing text and categorizing
+text. An early version of the system was tested on 66 suicide notes— 33 written by
+men who had actually taken their own lives, and 33 written by men who were asked
+to produce simulated suicide notes. The control group men were matched with the
+men who had written actual suicide notes on age, occupation, religion, and ethnicity.
+The General Inquirer program parsed the texts and picked the actual suicide notes
+91% of the time (Ogilvie et al. 1966).
+   The 1975 update of the Harvard Psychosocial Dictionary, called Harvard IV,
+initially contained about 4,000 entries (Kelly and Stone 1975:47), and the Dartmouth
+adaptation of Harvard IV now contains about 8,500 (Rosenberg et al. 1990). The next
+version will contain around 10,000 (Philip Stone, personal communication).9 Unlike
+its predecessors, the Harvard IV dictionaries can distinguish among multiple
+meanings of many words. If the program runs into the word “broke,” for example, it
+looks at the context and determines whether the meaning is “fractured,” or
+“destitute,” or “stopped functioning,” or (when the word is paired with “out”)
+“escaped” (Rosenberg et al. 1990:303). Of course, dictionaries do not include all the
+words in a text, so investigators must still look at words that are not tagged and
+decide how to tag them independently.10
+   Content dictionaries do not need to be very big to be useful. In his study of
+Navaho and Zuni responses to thematic apperception tests, Colby’s (1966) initial
+impression was that the Navajo regarded their homes as havens and places of
+relaxation, whereas the Zuni depicted their homes as places of discord and tension.
+To test this idea, Colby created a special-purpose dictionary that contained two
+word groups that he and his colleagues had developed before looking at the data.
+   One word group, the “relaxation” group, comprised the words assist, comfort,
+easy, affection, happy, and play. The other, the “tension” group, comprised the words
+destruction, discomfort, difficult, dislike, sad, battle and anger. Colby examined the
+35 sentences that contained the word “home” and one of the words in either of the
+two word groups. The Navajos were more than twice as likely to use words from the
+relaxation group when they were talking about home as they were to use words from
+the tension group. The Zuni were almost twice as likely to use tension words as they
+were to use relaxation words.
+   Colby (1966) also found that the Navajo were more likely to use words associated
+with exposure such as storm, cold, freezing, hot, heat, and windy. Colby was not
+surprised at the results; he noted that the Navajo were sheep herders and were
+concerned about protecting their sheep from the elements, whereas the Zuni were
+crop growers and were concerned about the water they need to grow their corn. What
+was surprising was that the texts were generated from pictures that had nothing to do
+with sheep or crops. (See Jehn and Werner [1993] and Furbee [1996] for other
+examples of the application of a special-purpose content dictionary.)11
+   Content dictionaries are attractive because they are entirely reliable but, as Shapiro
+                                                                    Text Analysis          617
+
+(1997) argues, this may be offset by a decrease in validity. In many cases, only
+humans can parse the subtleties of meaning reflected in context (Viney 1983), but
+dictionary-based markup of text is producing better and better results as time goes on,
+particularly in well-defined domains. For example, texts are now scored by computer
+for the Gottschalk-Gleser psychological scales (measuring various forms of anxiety
+and hostility) with greater than .80 reliability (Gottschalk and Bechtel 1993).12 We
+expect to see increasing use of computer-based dictionaries in text analysis.
+   For additional examples of special-purpose dictionaries in content analysis, see
+Fan and Shaffer (1990), Holsti (1966), Laffal (1990, 1995), McTavish and Pirro
+(1990), and Schnurr et al. (1986).
+
+
+                        Combining Grounded Theory and
+                         Content Analysis Approaches
+Techniques from grounded theory and content analysis can be fruitfully combined.
+Jehn and Doucet (1996, 1997) asked 76 U.S. managers who had worked in Sino-
+American joint ventures to describe recent interpersonal conflicts with business
+partners. Each person described a situation with a same-culture manager and a
+different-culture manger. They made sure that the manager included the relationship
+to the person, who was involved, what the conflict was about, what caused the
+conflict, and how the conflict was resolved.
+   Jehn and Doucet used three quite different methods to identify themes in these
+data: (1) word counts combined with consensual coding by expert judges; (2) factor
+analysis of a traditional content-analysis (text unit-by-variable) matrix; and (3)
+multidimensional scaling of similarity judgments by experts of the scenarios.
+
+   1. Word counts and consensual coding. There were 7,479 unique words in the
+      corpus on intercultural conflicts compared to 2,747 in the corpus on the
+      intracultural conflicts. Jehn and Doucet wanted to identify words that were
+      related to conflict, but did not want to impose their own definitions. They asked
+      three expatriate managers who had experiences similar to those of their 76
+      informants and who were blind to the conditions of the study to go through both
+      word lists and select the words that seemed related to conflict. The three judges
+      went over the lists together and settled on a list of 542 conflict words from the
+      intercultural list and 242 words from the intracultural list. Two out of three
+      judges had to agree before a word was put on the final lists.
+          In an open discussion to reach consensus, the judges assigned each conflict
+      word to a category. The judges developed 15 subcategories for the intercultural
+      data— things like conflict, expectations, rules, power, and volatile— and 15
+      categories for the intracultural data— things like conflict, needs, standards,
+      power, contentious, and lose. Taking into consideration the total number of
+      words in each corpus, conflict words were used more in intracultural interviews
+      and resolution terms were more likely to be used in intercultural interviews.
+   2. Traditional content analysis. Next, two coders read the 152 conflict scenarios
+      (76 intracultural and 76 intercultural) and evaluated (on a 5-point scale) each on
+618       BERNARD / RYAN
+
+      27 different themes. This produced two 76x27 scenario-by-theme profile
+      matrices— one for the intracultural conflicts and one for the intercultural
+      conflicts. The first three factors from the intercultural matrix reflect: (1)
+      interpersonal animosity and hostility; (2) aggravation; and (3) the volatile nature
+      of the conflict. The first two factors from the intracultural matrix reflect: (1)
+      hatred and animosity with a volatile nature and (2) conflicts conducted calmly
+      with little verbal intensity.
+   3. Scenario comparisons. Finally, Jehn and Doucet identified the 30 intracultural
+      and the 30 intercultural scenarios that they felt were the most clear and pithy.
+      Fifty more expatriate managers assessed the similarities (on a 5-point scale) of
+      60–120 randomly selected pairs of scenarios (each pair of scenarios was seen and
+      judged by eight respondents) and described the basis for their judgments. When
+      combined across informants, this produced two aggregate, scenario-by-scenario,
+      similarity matrices— one for the intracultural conflicts and one for the
+      intercultural conflicts. Multidimensional scaling of the intercultural similarity
+      data identified four dimensions: (1) open versus resistant to change, (2)
+      situational causes versus individual traits, (3) high- versus low-resolution
+      potential based on trust, and (4) high- versus low-resolution potential based on
+      patience. Scaling of the intracultural similarity data identified four different
+      dimensions: (1) high versus low cooperation, (2) high versus low confrontation,
+      (3) problem-solving versus accepting, and (4) resolved versus ongoing.
+
+    The research by Jehn and Doucet illustrates the rich combination of qualitative and
+quantitative methods now available for text analysis. Jehn and Doucet collected
+narratives from their informants and asked their informants to help identify the emic
+themes in the narratives. Informants sorted key words, coded each scenario for
+potential themes, and compared scenarios to each other. The analysis of the data from
+these tasks produced different sets of themes. All three emically induced theme sets
+have some intuitive appeal and all three yield analytic results that are useful.
+    In a series of articles on young adult “occasional” drug users, Agar (1979, 1980,
+1983) described his grounded methods for content analysis. Agar conducted and
+transcribed three interviews with each of his three informants. In the 1979 article,
+Agar describes his initial, intuitive analysis. He pulled all the statements that
+pertained to informants’interactions or assessments of other people. He then looked
+at the statements and sorted them into piles based on their content. He named each
+pile as a theme and assessed how the themes interacted. Agar found that he had three
+piles. The first contained statements where the informant was expressing negative
+feelings for a person in a dominant social position. The second pile emphasized the
+other’s knowledge or awareness. The third small cluster emphasized the importance
+of change or an openness to new experiences.
+    From this intuitive analysis, Agar felt that his informants were telling him that
+those in authority were only interested in displaying their authority unless they had
+knowledge or awareness; knowledge or awareness comes through openness to new
+experience; most in authority are close to new experience or change.
+    In his second article (1983), Agar systematically tested his intuitive understanding
+of the data. He used all the statements from a single informant and coded the
+                                                                Text Analysis       619
+
+statements for their role type (kin, friend/acquaintance, educational, occupational, or
+other), power (dominant, symmetrical, subordinate, or undetermined), and affect
+(positive, negative, ambivalent, or absent). Agar realized that he could analyze the
+covariations among role type, power, and affect, or he could examine the distribution
+of the themes as they occur throughout the text, or he could simply count the number
+of statements in the different categories.
+    Agar restricted his analysis to check his earlier primary finding: that for a given
+informant, a particular negative sentiment is expressed toward those in dominant
+social roles. He found that out of 40 statements coded as dominant, 32 were coded
+negative and 8 were coded positive. For the 36 statements coded as symmetrical, 20
+were coded positive and 16 negative, lending support to his original theory.
+    Next, Agar looked closely at the deviant cases— the eight statements where the
+informant expressed positive affect toward a person in a dominant role. These
+counterexamples suggested that the positive affect was expressed toward a dominant
+social other when the social other possessed, or was communicating to the informant,
+knowledge that the informant valued.
+    Finally, Agar (1980) developed a more systematic questionnaire to further test
+his hypothesis with an independent set of data for one of his informants. He
+selected 12 statements, four from each of the control, knowledge, and change
+themes identified earlier. Some statements came directly from the informant.
+Others he made up. Then he selected eight roles from the informant’s transcript
+(father, mother, employer, teacher, friend, wife, co-worker, and teammate). Each
+role term was matched with each statement and the informant was asked if the
+resulting statement was true, false, or irrelevant. (In no case, did the informant
+report “irrelevant.”) Agar then took the responses and compared them to what his
+hypotheses suggested. The results both met and did not meet his expectations. On
+balance, there seemed to be general support for his hypothesis, but discrepancies
+between Agar’s expectations and his results suggested areas for further research.
+    Increasingly, text analysis is about extracting models or schemas from
+transcriptions of human discourse. In the next section, we review some of the main
+currents: semantic network analysis, cognitive mapping analysis, Boolean analysis,
+and schema analysis.
+
+
+                 Structural Analysis and Semantic Networks
+The fundamental point of structuralism is that abstractions, called “structures,” are
+in some important way responsible for, or govern, human action. Modern network
+analysis is based on this principle. Traditional sociological analysis involves a profile
+matrix— a matrix of things (rows) characterized by values on variables (columns) that
+characterize the things. Structural analysis, or network analysis, examines the
+properties that emerge from relations among a set of things. Here the matrix is one
+of similarities, where rows and columns represent the same things.
+   The relations among even a small a set of things (the relations among, say, the 30
+620       BERNARD / RYAN
+
+households in a village, for example, or the 15 countries of the European Union) can
+be wildly complex. Seeing patterns, if they exist, in such complexity is made possible
+by applying graph-theoretic methods that enable the visualization of structure through
+the messiness of surface reality. Hage and Harary (1983) provide other examples of
+structuralist analysis in anthropology.
+    The application of graph-theoretic principles and methods to the study of meaning
+in text is sometimes called semantic network analysis. As early as 1959, Charles
+Osgood (1959) created word co-occurrence matrices and applied factor analysis and
+dimensional plotting to describe the relation of major factors to one another. The
+development of computers has made the construction and analysis of co-occurrence
+matrices much easier and has stimulated the development of this field (Danowski
+1982, 1993; Barnett and Danowski 1992).
+    Jang and Barnett (1994) examined whether there was a national culture— U.S. or
+Japanese— discernible in the annual letters to stockholders of CEOs in U.S. and
+Japanese corporations. Jang and Barnett selected 35 Fortune 500 companies,
+including 18 U.S. and 17 Japanese firms, matched by their type of business. For
+example, Ford was matched with Honda, Xerox with Canon, and so on.
+    All of these firms are traded on the New York Stock Exchange, and each year
+stockholders receive an annual message from the CEO or president of these com-
+panies. (Japanese firms that trade on the New York Exchange send the annual letters
+in English to their U.S. stockholders.) Jang and Barnett read through the 1992 annual
+letters to shareholders and (ignoring a list of common words like “the,” “because,”
+“if,” and so on) isolated 94 words that occurred at least eight times across the corpus
+of 35 letters. This produced a 94(word)-by-35(company) matrix, where the cells
+contained a number from 0–25, 25 being the largest number of times any word ever
+occurred in one of the letters.
+    Next, Jang and Barnett created a 35(company)-by-35(company) similarity matrix
+of companies, based on the co-occurrence of words in their letters. They analyzed the
+matrix by multidimensional scaling. Figure 1 shows the result— a twodimensional
+plot of similarities between companies.
+                                                                   Text Analysis          621
+
+
+
+Figure 1. Multidimensional scaling, in two dimensions, of Jang’s word co-occurrence matrix
+for 35 Japanese and American companies. J=Japanese company. A=American company.
+(Adapted from Jang and Barnett [1994:48]. Reprinted with permission of Bulletin de
+Méthodologie Sociologique.)
+
+   It’s clear that there are two styles of corporate reporting to stockholders, one
+American and one Japanese. From a close reading of the texts, Jang concludes that
+U.S. executives discuss financial information and the structure of their organizations
+in their letters and Japanese executives focus more on organizational operations.
+   What is so appealing about word-by-word co-occurrence matrices is that they are
+produced by computer programs and there is no coder bias introduced other than to
+determine which words are examined. (See Borgatti [1992] and Doerfel and Barnett
+[1996] for computer programs that produce word-by-word co-occurrence matrices.
+See Schnegg and Bernard [1996] for another example of their use.) There is,
+however, no guarantee that the output of any word co-occurrence matrix will be
+meaningful, and it is notoriously easy to read pattern (and, thus, meaning) into any
+set of items.
+
+
+                                   Cognitive Maps
+Cognitive map analysis combines the intuition of human coders with the quantitative
+methods of network analysis. Carley’s work is instructive. If mental models, or
+schemas, are in there, she says, they are expressed in the texts of people’s speech and
+can be represented as networks of concepts (Carley and Palmquist 1992:602), an
+approach also suggested by D’Andrade (1991). To the extent that mental models are
+widely shared, she asserts, even a very small set of texts will contain the information
+required for describing the models, especially for narrowly defined arenas of life.
+   In one study, Carley (1993) asked students some questions about the work of
+scientists. Here are two brief texts that address questions about the motivation of
+scientists and their collaboration with colleagues:
+
+   Student A: I found that scientists engage in research in order to make discoveries and
+   generate new ideas. Such research by scientists is hard work and often involves
+   collaboration with other scientists which leads to discoveries which make the scientists
+   famous. Such collaboration may be informal, such as when they share new ideas over
+   lunch, or formal, such as when they are coauthors of a paper.
+
+   Student B: It was hard work to research famous scientists engaged in collaboration and
+   I made many informal discoveries. My research showed that scientists engaged in
+   collaboration with other scientists are coauthors of at least one paper containing their
+   new ideas. Some scientists make formal discoveries and have new ideas. (Carley
+   1993:89)
+622       BERNARD / RYAN
+
+   Carley compares these texts (one 64 words long, the other 48 words) by counting
+11 concepts: I, scientists, research, hard work, collaboration, discoveries, new ideas,
+formal, informal, coauthors, paper. Each concept occurs exactly the same number of
+times in both texts, yet the texts clearly have different meanings. To analyze the
+differences in meaning, Carley produces maps of the relation between and among
+concepts. Concepts are coded for their strength, sign (positive or negative), and
+direction (whether one concept is logically prior to others), not just for their
+existence. Figure 2 shows Carley’s maps of the two texts.
+
+
+
+
+Figure 2. Coded maps of two student’s texts (from Carley [1993:104]. Reprinted with the
+permission of the American Sociological Association).
+
+
+   This approach to text analysis holds a lot of promise, combining, as it does, the
+sensitivity of human intuition and interpretation with the labor-saving characteristics
+of automation. As Carley recognizes, though, a lot depends on who does the
+                                                              Text Analysis        623
+
+coding— just as in classical content analysis. Different coders (with more or less
+knowledge of the implicit culture lurking in a text) will produce different maps by
+making different coding choices. In the end, as with the search for schemas,
+competency in the native language is one of the fundamental methodological
+requirements for analysis (see also Carley and Palmquist 1992; Carley 1993, 1997;
+Carley and Kaufer 1993; Palmquist et al. 1997).
+
+                    Analytic Induction and Boolean Tests
+Analytic induction is a formal, nonquantitative method for building up causal
+explanations of phenomena from a close examination of cases. It was proposed as
+an alternative to statistical analysis by Znaniecki (1934:249–331), and is discussed
+by Denzin (1978) and Manning (1982), among others. The method involves the
+following steps: First, define a phenomenon that requires explanation and propose
+an explanation. Examine a case to see if the explanation fits. If it does, then
+examine another case. An explanation is accepted until a new case falsifies it.
+   When a case is found that doesn’t fit, then, under the rules of analytic induction,
+the alternatives are to change the explanation to include the new case or redefine the
+phenomenon to exclude the nuisance case. Ideally, the process continues until a
+universal explanation for all known cases of a phenomenon is attained. Explaining
+cases by declaring them all unique is not an option of the method. Classic examples
+of analytic induction include Lindesmith’s (1947) study of drug addicts, Cressey’s
+(1953) study of embezzlers, and McCleary’s (1978) study of how parole officers
+decide when one of their charges is in violation of parole.
+   Ragin (1987, 1994) formalized the logic of analytic induction, offering a Boolean
+approach, and Romme (1995) applies the approach to textual data. Boolean algebra
+involves two states, true and false (present and absent). With just three dichotomous
+causal conditions (A and not A, B and not B, and C and not C) and one dependent
+variable (D and not D), there are 16 possible outcomes (A, B, C, D; A, not B, C, D;
+A, B, not C, D; and so on).
+   Schweizer (1991, 1996) applied Boolean logic in his analysis of conflict and social
+status in Chen Village, China. In the 1950s, the village began to prosper with the
+application of technology to agriculture. The Great Leap Forward and the Cultural
+Revolution of the 1960s, however, reversed the village’s fortunes. Chan et al. (1984)
+reconstructed the recent history of Chen Village, focusing on the political fortunes of
+key actors there.
+   Schweizer coded the Chan et al. text for whether each of 13 actors experienced an
+increase or a decrease in status after each of 14 events (such as the Great Leap
+Forward, land reform and collectivization, the collapse of Brigade leadership, and an
+event known locally as “the great betrothal dispute”). Thus, he has a 13-actor-by-14-
+event matrix, where a 1 means that an actor had success in a particular event and a
+0 means failure (loss of status). When Schweizer looked at the actor-by-event matrix
+he found that, over time, 9 of the actors consistently won or lost, but 4 of the actors
+lost sometimes and won other times. This produces 17 unique combinations of actors
+624          BERNARD / RYAN
+
+and outcomes.
+    Schweizer then partitioned the 17 unique cases according to three binary
+independent variables (urban versus rural origin, proletarian versus nonproletarian
+background, presence versus absence of external ties) and one dependent variable
+(whether the actor was a success overall). Table 1 shows the 16 possible outcomes,
+given four binary variables.
+    By setting up the logical possibilities, Schweizer was able to discern and test
+several hypotheses about success and failure in Chen Village. People from an urban
+background have an advantage, but inspection of Table 1 shows that it’s not enough.
+To ensure success, you should come from a proletarian family or have good external
+ties and access to information and power at the regional level. Failure is predicted
+even better: If an actor has failed in the Chen Village disputes, then he or she is of
+rural origin (comes from the village) OR comes from a nonproletarian family AND
+has no ties to authorities beyond the village. The Boolean formula for this statement
+is: Lack of success 6 nonurban v (nonproletarian & lack of ties).13 The substantive
+conclusions from this analysis are intuitively appealing: In a communist revolutionary
+environment, it pays over the years to have friends in high places; people from urban
+areas are more likely to have those ties; and it helps to have been born into a
+politically correct (that is, proletarian) family.
+
+                                         TABLE 1
+               The Outcome of 17 Cases from Schweizer’s (1996) Text Analysis
+   Success          External           Proletarian       Urban             No. of
+   Ties             Background          Origin                             Cases
+    0                  0                  0                0           2
+      0                0                  0                1           2
+      0                0                  1                0           1
+      0                0                  1                1           0
+      0                1                  0                0           0
+      0                1                  0                1           0
+      0                1                  1                0           2
+      0                1                  1                1           0
+      1                0                  0                0           1
+      1                0                  0                1           3
+      1                0                  1                0           0
+      1                0                  1                1           0
+      1                1                  0                0           0
+      1                1                  0                1           1
+      1                1                  1                0           4
+      1                1                  1                1           1
+
+
+
+   Analytic induction helps identify the simplest model that logically explains the
+data. Like classic content analysis and cognitive mapping, it requires that human
+coders read and code the text into an event-by-variable matrix. The object of the
+analysis, however, is not to show the relationships between all codes, but to find the
+minimal set of logical relationships among the concepts that accounts for a single
+                                                               Text Analysis        625
+
+dependent variable. With three binary independent variables, as in Schweizer’s data,
+two logical operators (OR and AND), and three implications (“if A then B,” “if B
+then A,” and “if A, then and only then, B”), there are 30 multivariate hypotheses: 18
+when all three independent variables are used, plus 12 when two variables are used.
+With more variables, the analysis becomes much more difficult. Computer programs
+like QCA (Drass 1980) and ANTHROPAC (Borgatti 1992) test all possible
+multivariate hypotheses and find the optimal solution. (QCA is reviewed in
+Weitzman and Miles 1995.)
+
+
+                       Computer-Assisted Text Analysis
+One problem with text as data, as all field workers know, is that it piles up quickly.
+The sheer volume and the problems of handling and sorting through so much
+information has made text analysis less popular in the past than it is now. What has
+changed is the presence of computers and of programs that help researchers code and
+analyze text.
+   A useful review of the features of currently popular programs is given by
+Weitzman and Miles (1995). Each of the most popular programs has a devoted group
+of users who communicate regularly with one another (and with the authors of the
+programs) on Internet lists. Academic centers specializing in text analysis have also
+emerged, though mostly outside the United States. Centers at universities in Surrey
+(Centre for Computer Assisted Qualitative Data Analysis Software) and Kent,
+England (Centre for Social Anthropology and Computers), as well as Mannheim,
+Germany (Zentrum für Umfragen Methoden und Analysen) and La Trobe, Australia
+(Qualitative Solutions and Research) have helped to promote the use of qualitative
+data across the social sciences.
+   The panorama with regard to text-processing software is changing quickly. Like
+early word processors and database managers, the first generation of text processors
+was designed to help us do what we already did. Today’s word processors let us do
+things that printing presses could not do before computers, and today’s database
+managers, with built-in statistical analysis capabilities, let us do things at our desks
+that could only be done on a mainframe 15 years ago (and could not be done by
+anyone 60 years ago).
+   The first generation of text analysis programs made light work of chores like
+coding and finding the right quotes with which to illuminate a point in an article.
+Text processors today still focus on coding and retrieving, but more and more we find
+features that help with building conceptual models, linking concepts into networks,
+and producing numerical text-by-variable matrices. Eventually, we expect text
+processors to contain modules for doing word counts, concordances, KWIC (key-
+word-in-context) studies, Boolean analysis, map analysis, and semantic network
+analysis.
+626       BERNARD / RYAN
+
+
+                            Some General Observations
+Text analysis as a research strategy permeates the social sciences, and the range of
+methods for conducting text analysis is breathtaking. Investigators examine words,
+sentences, paragraphs, pages, documents, ideas, meanings, paralinguistic features,
+and even what is missing from the text. They interpret, mark, retrieve, and count. By
+turns, they apply interpretive analysis and numerical analysis. They use text analysis
+for exploratory and confirmatory purposes. Researchers identify themes, describe
+them, compare them across cases and groups, and try to explain them. Text analysis
+is used by avowed positivists and interpretivists alike.
+    Text analysts who are linguistically oriented rarely cite the work of their
+sociologically and anthropologically oriented colleagues, and vice versa. Even within
+the sociological tradition, the literatures on schema analysis, grounded theory, and
+content analysis are essentially distinct, though they all involve identifying and
+refining concepts (for example, categories, codes, themes), coding/marking concepts
+in text, and linking concepts into theoretical models. One of our goals in this chapter
+has been to make clear the importance of text analysis for all the social sciences.
+    We close this review by noting that some questions that might guide research on
+methods of text analysis include the following:
+
+   1. What effect does the selection of textual units (thematic segments, sentences, or
+      words) have on the number, kind, and organization of themes that coders
+      identify?
+   2. To what extent does increasing or decreasing the number of coders affect the size
+      and composition of these themes?
+   3. Do different measures of intercoder agreement affect the content of themes?
+   4. How do different techniques for coding data (into thematic segments, sentences,
+      or words) affect descriptions of the range, central tendency, and distribution of
+      specific themes across informants?
+   5. Can different coding techniques produce contradictory findings? For example,
+      does an analysis of text segments make groups appear more or less similar than
+      does an analysis of words? Does an analysis of words suggest dimensions of
+      similarity or dissimilarity that are not captured by thematic or sentence
+      segments?
+   6. Do different methods for systematically treating text identify different sets of
+      prototypical quotes for illustrating major and minor themes?
+   7. How can we use qualitative and quantitative instruments to produce
+      complementary results? For example, can we identify informants who score high
+      and low on particular survey scale variables based only on their textual data?
+
+Answers to these questions will help us understand better how to make the outcomes
+and interpretations of qualitative data replicable.
+                                                                      Text Analysis          627
+
+                                            NOTES
+
+    1. Holsti (1969) counted 2.5 content analysis studies per year, on average during the first
+two decades of this century. By the 1920s, the number had risen to 13.3 per year; in the 1930s
+it was 22.8, and in the 1940s it was 43.3. By the end of the 1950s, there were over 100 studies
+a year using content analysis. We did a keyword survey in mid-1997 and retrieved more than
+500 book titles, including more than 200 books written since 1990, on “qualitative data
+analysis” or “text analysis.” The number of journal articles runs into the thousands, with entire
+journals dedicated specifically to the analysis of qualitative data. These include: Qualitative
+Sociology, Qualitative Inquiry, Journal of Contemporary Ethnography, Symbolic Interaction,
+Qualitative Health Research, Quality and Quantity, Studies in Qualitative Methodology, and
+International Journal of Qualitative Studies in Education. In anthropology, Cultural
+Anthropology Methods Journal covers text analysis and other methods.
+2. We do not review the fields of literary text analysis, biblical text analysis, authorship
+studies, or hermeneutics. Text analysis in the social sciences owes much to these fields. On
+hermeneutics, see Bleicher (1982), Bruns (1992), and Dilthey (1996). For a review of methods
+in literary text analysis, see Segre and Kemeny (1988). For an introduction to biblical
+hermeneutics, see Hayes and Holladay (1987). An important method, shared by all text
+analysts, is the production of concordances and KWIC (key-words-in-context) lists.
+Concordances are annotated lists, by page and/or line number, of the occurrence of every word,
+phrase, or theme in a text or set of texts. KWIC lists are created by finding all the places in a
+text where a particular word or phrase appears and printing it out in the context of some
+number of words (say, 30) before and after it. For examples of major concordances, see Young
+(1982), Kassis (1983), Spevack (1973), Prendergast (1971). See McKinnon (1993) and Burton
+(1981a, 1981b, 1982) on the use of concordances in modern literary studies. In authorship
+studies, differences in the use of words common to the writings of James Madison and
+Alexander Hamilton led Mosteller and Wallace (1964) to conclude that Madison and not
+Hamilton had written twelve of the Federalist Papers. See Yule (1944) and Martindale and
+McKenzie (1995) for other examples of authorship studies.
+    3. Not all of Boas's students agreed that faithful reproduction of narrative was important.
+Between 1903–1907, Clark Wissler collected 94 Blackfoot tales, all in English. His indigenous
+collaborator, D. C. Duvall, provided the English translations, which Wissler edited and revised
+for publication (Wissler and Duvall 1908). As it turned out, only a few of the tales were
+translated from actual texts. Wissler explained:
+
+   In narration the Blackfoot often repeat sentences at irregular intervals, as if they wished
+   to prevent the listener from forgetting their import. Naturally such repetitions were
+   eliminated in the translations. A few narratives were recorded as texts. While texts will
+   be indispensable for linguistic research, the present condition of Blackfoot mythology
+   is such that its comparative study would not be materially facilitated by such records.
+   Each narrator has his own version, in the telling of which he is usually consistent; and
+   while the main features of the myths are the same for all, the minor differences are so
+   great that extreme accuracy of detail with one individual would avail little. (p. 5)
+4. The Pear Story chronicles what happens to a bushel of pears after they have been picked
+from a tree. The film is a series of scenes: A man picks the pears from a tree; another man and
+a goat pass by; a boy on a bicycle stops and rides off with a basket of pears; when the boy turns
+to look at a passing girl, his hat falls off, he runs into a rock and tips over; three other boys
+help him up; on walking off, one of the three boys finds the hat; a whistle is heard; and the hat
+628        BERNARD / RYAN
+
+is exchanged for three pears; the film returns to the picker who looks down at the baskets and
+scratches his head. The three boys appear eating their pears, and the picker watches them walk
+off into the distance.
+5. For reviews of popular software for text analysis, see Weitzman and Miles (1995). This
+volume is the current best source of information on the features available in the array of
+software available for text analysis. For an early, but still useful discussion of software issues
+in text analysis, see Tesch (1990). For discussions of epistemological issues involved in using
+computers for the qualitative analysis of texts, see Kelle (1995, 1997), and Lee and Fielding
+(1995, 1996). Review articles are also found in the Cultural Anthropology Methods Journal,
+Qualitative Sociology, and Computers and the Humanities.
+6. Content analysis has a long history in the social sciences. Good reviews are available in
+Krippendorf (1980) and Weber (1990). Monitoring newspapers by counting the space given
+to various themes was already in vogue in the late nineteenth century and early twentieth. By
+1910, at the first meeting of the German Sociological Society, Max Weber proposed a major
+effort at content analysis of the German press (Krippendorf 1980:13). Weber’s proposal was
+not implemented, but content analysis became, and remains, an important method for tracking
+the impact of news events across time and across print venues (see Danielson and Lasorsa
+[1997] and Kleinnijenhuis et al. [1997]— and many recent issues of Journalism Quarterly— for
+current examples).
+    Methods for content analysis were developed vigorously during World War II in studying
+speeches by Germany's leaders for clues about their intentions in the conduct of the war. In
+1955, the Social Science Research Council’s Committee on Linguistics and Psychology
+sponsored a conference on content analysis, bringing together experts from across the social
+sciences. Their contributions appear in a landmark volume, edited by de Sola Pool (1959).
+Since then, extensive reviews have appeared every decade or so: Gerbner et al. (1969), Holsti
+(1969), Krippendorf (1980), Weber (1990), and Roberts (1997).
+    Today, classical content analysis continues to be used across the social sciences in the study
+of media (Brouwer et al. 1969; Spiggle 1986; Hirschman 1987; Gilly 1988; Craig 1992;
+Cameron and Blount 1996; Fink and Gantz 1996; Kolbe and Albanese 1996), political rhetoric
+(Kaid, Tedesco, and McKinnon 1996; Franzosi 1997), business (Spears et al. 1996), medicine
+(Cardador et al. 1995; Potts et al. 1996; Sleath et al. 1997), psychiatry, clinical psychology,
+and counseling (Rosenberg 1990; Smith et al. 1992; Gottschalk 1994, 1997; Handron and
+Legget-Frazier 1994), and law (Imrich et al. 1995). Content analysis is represented in
+anthropology in cross-cultural hypothesis testing (White and Burton 1988; Bradley et al. 1990;
+Ember et al. 1992) and in quantitative, comparative studies of folklore (Colby et al. 1991;
+Johnson and Price-Williams 1997).
+7. The amount of that fraction depends on the number of coders and the precision of
+measurement for each code. If two people code a theme present or absent, they could agree,
+ceteris paribus, on any answer 25% of the time by chance. If a theme, like wealth, is measured
+ordinally (low, medium, high); then the likelihood of chance agreement changes accordingly.
+Fleiss (1971) and Light (1971) expand Kappa to handle multiple coders. Another measure of
+intercoder agreement for two coders is Scott's pi (Scott 1955), which was generalized by
+Krippendorf (1980:147–154) for multiple coders, metric data, and any sample size. Craig
+(1981) generalized Scott's pi for subsets of coders. Craig’s measure is particularly useful when
+one wants to use majority rule in making coding decisions like two out of three coders. See
+Holsti (1969) for several other measures.
+                                                                     Text Analysis          629
+
+8. Monte Carlo studies might prove helpful. Various types of error could be introduced to see
+how well a model performs under conditions of uncertainty. Ultimately, however, there may
+be no single solution but one that is derived within the context of each research problem
+(Holsti 1969:143).
+9. The General Inquirer also uses the Lasswell Value Dictionary (Namenwirth and Weber
+1987; Zuell et al. 1989). More dictionaries are being built for the system.
+10. Developing rules for sorting words into dictionary categories requires an understanding
+of the multiple meanings of words. Concordances (see Note 2) and KWIC (pronounced
+“quick”), or key-word-in-context lists are used as aids in this process. KWIC lists are created
+by finding all the places in a text where a particular word or phrase appears and printing it out
+in the context of some number of words (say, 30) before and after it. Stone et al. (1966:158)
+created KWIC lists on a corpus of text that had more than a half million words to help revise
+the Harvard III Psychological Dictionary.
+11. See Namenwirth and Weber (1987) and Zuell et al. (1989) for information on other
+dictionaries. Laffal (1990, 1995) created a 43,000-word dictionary that categorized each word
+into 1–5 of 168 potential concept categories to distinguish themes in different literary works.
+12. Rosenberg et al. (1990) transcribed seventy-one speech samples from people who had been
+diagnosed with psychological disorders (depression, paranoia, somatisization) or cancer. The
+transcripts were hand scored by an expert and analyzed using various editions of the Harvard
+Psychosociological Dictionary (Schnurr et al. 1986). The human coder did better than the
+computer in diagnosing patients who had cancer, but the computer beat the human coder in
+identifying the transcripts of people who had been diagnosed with the various psychological
+disorders.
+13. Here are the details of the logic of Schweizer’s analysis. Three possible hypotheses can
+be derived from two binary variables: “if A then B,” “if B then A,” and “if A, then and only
+then, B.” In the first hypothesis, A is a sufficient condition to B and B is necessary to A. This
+hypothesis is falsified by all cases having A and not B. In the second hypothesis, B is a
+sufficient condition to A and A is necessary to B. The second hypothesis is falsified by all
+cases of B and not A. These two hypotheses are implications or conditional statements. The
+third hypothesis (an equivalence or biconditional statement) is the strongest: whenever you see
+A, you also see B and vice versa; the absence of A implies the absence of B and vice versa.
+This hypothesis is falsified by all cases of A and not B, and all cases of B and not A.
+    Applied to the data from Chen Village, the strong hypothesis is falsified by many cases, but
+the sufficient condition hypotheses (urban origin implies success; proletarian background
+implies success; having external ties implies success) are true in 86% of the cases (this is an
+average of the three sufficient condition hypotheses). The necessary condition hypotheses (suc-
+cess implies urban origin; success implies proletarian background; success implies external
+ties) is true in just 73% of cases (again, an average). (There are 7 disconfirming cases in 51
+possible outcomes of the 12 sufficient condition possibilities— 4 possible outcomes for each
+of 3 independent variables and one dependent variable. There are 14 disconfirming cases in
+51 possible outcomes of the 12 necessary condition possibilities.) To improve on this,
+Schweizer tested multivariate hypotheses, using the logical operators OR and AND.
+630        BERNARD / RYAN
+
+We are sure that many Blackfoot today (not to mention linguists) would rather that Wissler had
+followed Boas's instructions to gather the texts in the original language and to record the texts
+as faithfully as possible. See Werner (1995) for a recent argument in favor of verbatim
+transcription of text.
+    4. The Pear Story chronicles what happens to a bushel of pears after they have been picked
+from a tree. The film is a series of scenes: A man picks the pears from a tree; another man and
+a goat pass by; a boy on a bicycle stops and rides off with a basket of pears; when the boy turns
+to look at a passing girl, his hat falls off, he runs into a rock and tips over; three other boys
+help him up; on walking off, one of the three boys finds the hat; a whistle is heard; and the hat
+is exchanged for three pears; the film returns to the picker who looks down at the baskets and
+scratches his head. The three boys appear eating their pears, and the picker watches them walk
+off into the distance.
+    5. For reviews of popular software for text analysis, see Weitzman and Miles (1995). This
+volume is the current best source of information on the features available in the array of
+software available for text analysis. For an early, but still useful discussion of software issues
+in text analysis, see Tesch (1990). For discussions of epistemological issues involved in using
+computers for the qualitative analysis of texts, see Kelle (1995, 1997), and Lee and Fielding
+(1995, 1996). Review articles are also found in the Cultural Anthropology Methods Journal,
+Qualitative Sociology, and Computers and the Humanities.
+    6. Content analysis has a long history in the social sciences. Good reviews are available in
+Krippendorf (1980) and Weber (1990). Monitoring newspapers by counting the space given
+to various themes was already in vogue in the late nineteenth century and early twentieth. By
+1910, at the first meeting of the German Sociological Society, Max Weber proposed a major
+effort at content analysis of the German press (Krippendorf 1980:13). Weber’s proposal was
+not implemented, but content analysis became, and remains, an important method for tracking
+the impact of news events across time and across print venues (see Danielson and Lasorsa
+[1997] and Kleinnijenhuis et al. [1997]— and many recent issues of Journalism Quarterly— for
+current examples).
+    Methods for content analysis were developed vigorously during World War II in studying
+speeches by Germany's leaders for clues about their intentions in the conduct of the war. In
+1955, the Social Science Research Council’s Committee on Linguistics and Psychology
+sponsored a conference on content analysis, bringing together experts from across the social
+sciences. Their contributions appear in a landmark volume, edited by de Sola Pool (1959).
+Since then, extensive reviews have appeared every decade or so: Gerbner et al. (1969), Holsti
+(1969), Krippendorf (1980), Weber (1990), and Roberts (1997).
+    Today, classical content analysis continues to be used across the social sciences in the study
+of media (Brouwer et al. 1969; Spiggle 1986; Hirschman 1987; Gilly 1988; Craig 1992;
+Cameron and Blount 1996; Fink and Gantz 1996; Kolbe and Albanese 1996), political rhetoric
+(Kaid, Tedesco, and McKinnon 1996; Franzosi 1997), business (Spears et al. 1996), medicine
+(Cardador et al. 1995; Potts et al. 1996; Sleath et al. 1997), psychiatry, clinical psychology,
+and counseling (Rosenberg 1990; Smith et al. 1992; Gottschalk 1994, 1997; Handron and
+Legget-Frazier 1994), and law (Imrich et al. 1995). Content analysis is represented in
+anthropology in cross-cultural hypothesis testing (White and Burton 1988; Bradley et al. 1990;
+Ember et al. 1992) and in quantitative, comparative studies of folklore (Colby et al. 1991;
+Johnson and Price-Williams 1997).
+
+  7. The amount of that fraction depends on the number of coders and the precision of
+measurement for each code. If two people code a theme present or absent, they could agree,
+                                                                     Text Analysis          631
+
+ceteris paribus, on any answer 25% of the time by chance. If a theme, like wealth, is measured
+ordinally (low, medium, high); then the likelihood of chance agreement changes accordingly.
+Fleiss (1971) and Light (1971) expand Kappa to handle multiple coders. Another measure of
+intercoder agreement for two coders is Scott's pi (Scott 1955), which was generalized by
+Krippendorf (1980:147–154) for multiple coders, metric data, and any sample size. Craig
+(1981) generalized Scott's pi for subsets of coders. Craig’s measure is particularly useful when
+one wants to use majority rule in making coding decisions like two out of three coders. See
+Holsti (1969) for several other measures.
+    8. Monte Carlo studies might prove helpful. Various types of error could be introduced to
+see how well a model performs under conditions of uncertainty. Ultimately, however, there
+may be no single solution but one that is derived within the context of each research problem
+(Holsti 1969:143).
+    9. The General Inquirer also uses the Lasswell Value Dictionary (Namenwirth and Weber
+1987; Zuell et al. 1989). More dictionaries are being built for the system.
+    10. Developing rules for sorting words into dictionary categories requires an understanding
+of the multiple meanings of words. Concordances (see Note 2) and KWIC (pronounced
+“quick”), or key-word-in-context lists are used as aids in this process. KWIC lists are created
+by finding all the places in a text where a particular word or phrase appears and printing it out
+in the context of some number of words (say, 30) before and after it. Stone et al. (1966:158)
+created KWIC lists on a corpus of text that had more than a half million words to help revise
+the Harvard III Psychological Dictionary.
+    11. See Namenwirth and Weber (1987) and Zuell et al. (1989) for information on other
+dictionaries. Laffal (1990, 1995) created a 43,000-word dictionary that categorized each word
+into 1–5 of 168 potential concept categories to distinguish themes in different literary works.
+    12. Rosenberg et al. (1990) transcribed 71 speech samples from people who had been
+diagnosed with psychological disorders (depression, paranoia, somatisization) or cancer. The
+transcripts were hand scored by an expert and analyzed using various editions of the Harvard
+Psychosociological Dictionary (Schnurr et al. 1986). The human coder did better than the
+computer in diagnosing patients who had cancer, but the computer beat the human coder in
+identifying the transcripts of people who had been diagnosed with the various psychological
+disorders.
+    13. Here are the details of the logic of Schweizer’s analysis. Three possible hypotheses can
+be derived from two binary variables: “if A then B,” “if B then A,” and “if A, then and only
+then, B.” In the first hypothesis, A is a sufficient condition to B and B is necessary to A. This
+hypothesis is falsified by all cases having A and not B. In the second hypothesis, B is a
+sufficient condition to A and A is necessary to B. The second hypothesis is falsified by all
+cases of B and not A. These two hypotheses are implications or conditional statements. The
+third hypothesis (an equivalence or biconditional statement) is the strongest: whenever you see
+A, you also see B and vice versa; the absence of A implies the absence of B and vice versa.
+This hypothesis is falsified by all cases of A and not B, and all cases of B and not A.
+    Applied to the data from Chen Village, the strong hypothesis is falsified by many cases, but
+the sufficient condition hypotheses (urban origin implies success; proletarian background
+implies success; having external ties implies success) are true in 86% of the cases (this is an
+average of the three sufficient condition hypotheses). The necessary condition hypotheses (suc-
+cess implies urban origin; success implies proletarian background; success implies external
+ties) is true in just 73% of cases (again, an average). (There are 7 disconfirming cases in 51
+possible outcomes of the 12 sufficient condition possibilities— 4 possible outcomes for each
+632       BERNARD / RYAN
+
+of 3 independent variables and one dependent variable. There are 14 disconfirming cases in
+51 possible outcomes of the 12 necessary condition possibilities.) To improve on this,
+Schweizer tested multivariate hypotheses, using the logical operators OR and AND.
+
+
+
+                                       REFERENCES
+
+Agar, Michael. 1979. Themes Revisited: Some Problems in Cognitive Anthropology.
+Discourse Processes 2:11–31.
+Agar, Michael. 1980. Getting Better Quality Stuff: Methodological Competition in an
+Interdisciplinary Niche. Urban Life 9:34–50.
+Agar, Michael. 1983. Microcomputers as Field Tools. Computers and the Humanities
+17:19–26.
+Agar, Michael. 1986. Speaking of Ethnography. Qualitative Research Methods Series, Vol.
+2. Thousand Oaks, CA: Sage Publications.
+Agar, Michael. 1996. The Professional Stranger, 2d ed. San Diego: Academic Press.
+Araujo, Luis. 1995. Designing and Refining Hierarchical Coding Frames. In Computer-Aided
+Qualitative Data Analysis: Theory, Methods and Practice. Udo Kelle, ed. Pp. 96–104.
+London: Sage Publications.
+Barnett, George, and James Danowski. 1992. The Structure of Communication: A Network
+Analysis of the International Communication Association. Human Communication Resources
+19:164–285.
+Bartlett, F. C. 1967 [1932]. Remembering: A Study in Experimental and Social Psychology.
+Cambridge: Cambridge University Press.
+Becker, Howard, B. Geer, E. C. Hughes, and A. L. Strauss. 1961. Boys in White: Student
+Culture in Medical School. Chicago: University of Chicago Press.
+Berelson, Bernard. 1952. Content Analysis in Communication Research. Glencoe, IL: Free
+Press.
+Bernard, H. Russell. 1991. About Text Management and Computers. CAM Newsletter
+3(1):1–4, 7, 12.
+Bernard, H. Russell. 1994. Research Methods in Anthropology: Qualitative and Quantitative
+Approaches, 2d ed. Walnut Creek, CA: AltaMira Press.
+Bernard, H. Russell. 1997. Language Preservation and Publishing. In Indigenous Literacy in
+the Americas. Nancy H. Hornberger, ed. Pp. 139–156. Berlin: Mouton de Gruyter.
+Bernard, H. Russell, and Jesús Salinas Pedraza. 1976. Otomí Parables, Folktales, and Jokes.
+International Journal of American Linguistics, Native American Texts Series 1(2). Chicago:
+University of Chicago Press.
+Bernard, H. Russell, and Jesús Salinas Pedraza. 1989. Native Ethnography. A Mexican Indian
+Describes His Culture. Thousand Oaks, CA: Sage Publications.
+Besnier, Niko 1995. Literacy, Emotion, and Authority. Reading and Writing on a Polynesian
+Atoll. Cambridge: Cambridge University Press.
+Bizarro Ujpan, Ignacio, and James Sexton. 1981. Son of Tecun Uman: A Maya Indian Tells
+His Life Story. Tucson: University of Arizona Press.
+Bizarro Ujpan, Ignacio, and James Sexton. 1985. Campesino: The Diary of a Guatemalan
+                                                                 Text Analysis        633
+
+Indian. Tucson: University of Arizona Press.
+Bleicher, J. 1982. The Hermeneutic Imagination: Outline of a Positive Critique of Scientism
+and Sociology. London: Routledge and Kegan Paul.
+Blowsnake, Sam, and Paul Radin (ed. and tr.). 1983. Crashing Thunder: Autobiography of a
+Winnebago Indian. Lincoln: University of Nebraska Press. Orig. pub. 1920 by the University
+of California Press and again in 1926 by Appleton.
+Boas, Franz. 1910. Kwakiutl Tales. New York: Columbia University Press.
+Boas, Franz. 1917. Folk-Tales of Salishan and Sahaptin Tribes. Lancaster, PA: American
+Folk-Lore Society.
+Boas, Franz. 1928a. Kerasan Texts. New York: The American Ethnological Society.
+Boas, Franz. 1928b. Bella Bella Texts. New York: Columbia University Press.
+Boas, Franz. 1935–43. Kwakiutl Tales, New Series. New York: Columbia University Press.
+Boas, Franz, and George Hunt. 1902–1905. Kwakiutl Texts. Leiden: E. J. Brill.
+Boas, Franz, and George Hunt. 1906. Kwakiutl Texts, Second Series. Memoirs of the
+American Museum of Natural History, 14. New York: G. E. Stechert.
+Bogdan, Robert, and Sari Knopp Biklen. 1992. Qualitative Research for Education: An Intro-
+duction to Theory and Methods, 2d ed. Boston: Allyn and Bacon.
+Borgatti, Steven. 1992. ANTHROPAC 4.0. Columbia, SC: Analytic Technologies
+(www.analytictech.com).
+Bradley, Candice, C. C. Moore, M. L. Burton, and D. R. White. 1990. A Cross-Cultural
+Historical Analysis of Subsistence Change. American Anthropologist 92:447–457.
+Brouwer, M., C. C. Clark, G. Gerbner, and K. Krippendorff. 1969. The Television World of
+Violence. In Mass Media and Violence: A Report to the National Commission on the Causes
+and Prevention of Violence. R. K. Baker and S. J. Ball, eds. Pp. 311–339, 519–591.
+Washington, DC: Government Printing Office.
+Bruns, Gerald. 1992. Hermeneutics Ancient and Modern. New Haven: Yale University Press.
+Burton, Dolores M. 1981a. Automated Concordances and Word Indexes: The Early Sixties and
+the Early Centers. Computers and the Humanities 15:83–100.
+Burton, Dolores M. 1981b. Automated Concordances and Word Indexes: The Process, the
+Programs, and the Products. Computers and the Humanities 15:139–154.
+Burton, Dolores M. 1982. Automated Concordances and Word-Indexes: Machine Decisions
+and Editorial Revisions. Computers and the Humanities 16:195–218.
+Cameron, G. T., and D. Blount. 1996. VNRs and Air Checks: A Content Analysis of the Use
+of Video News Releases in Television Newscasts. Journalism and Mass Communication
+Quarterly 73(4):890–904.
+Cardador, M. T., A. R. Hazan, and S. A. Glantz. 1995. Tobacco Industry Smokers’ Rights
+Publications— A Content Analysis. American Journal of Public Health 85(9): 1212–1217.
+Carey, James W., Mark Morgan, and Margaret J. Oxtoby. 1996. Intercoder Agreement in
+Analysis of Responses to Open-Ended Interview Questions: Examples from Tuberculosis
+Research. Cultural Anthropology Methods Journal 8(3):1–5.
+Carley, Kathleen. 1993. Coding Choices for Textual Analysis: A Comparison of Content
+Analysis and Map Analysis. In Sociological Methodology. P. Marsden, ed. Pp. 75–126.
+634       BERNARD / RYAN
+
+Oxford: Blackwell.
+Carley, Kathleen. 1997. Network Text Analysis: The Network Position of Concepts. In Text
+Analysis for the Social Sciences: Methods for Drawing Statistical Inferences from Texts and
+Transcripts. Carl W. Roberts, ed. Pp. 79–100. Mahwah, NJ: Lawrence Erlbaum.
+Carley, Kathleen, and D. S. Kaufer. 1993. Semantic Connectivity: An Approach for Analyzing
+Semantic Networks. Communication Theory 3:182–213.
+Carley, Kathleen, and Michael Palmquist. 1992. Extracting, Representing, and Analyzing
+Mental Models. Social Forces 70:601–636.
+Casson, Ronald. 1983. Schemata in Cultural Anthropology. Annual Review of Anthropology
+12:429–462.
+Chafe, W. 1980. The Deployment of Consciousness in the Production of Narrative. In The Pear
+Stories. Cognitive, Cultural, and Linguistic Aspects of Narrative Production. W. Chafe, ed.
+Pp. 9–50. Norwood, NJ: Ablex.
+Chan, Anita, R. Madsen, and J. Unger. 1984. Chen Village. The Recent History of a Peasant
+Community in Mao’s China. Berkeley: University of California Press.
+Charmaz, Kathy. 1990. “Discovering” Chronic Illness: Using Grounded Theory. Social Science
+and Medicine 30:1161–1172.
+Cohen, Alex. 1990. A Cross-Cultural Study of the Effects of Environmental Unpredictability
+on Aggression in Folktales. American Anthropologist 92:474–481.
+Cohen, Jacob. 1960. A Coefficient of Agreement for Nominal Scales. Educational and
+Psychological Measurement 20:37–48.
+Colby, B. N. 1966. The Analysis of Culture Content and the Patterning of Narrative Concern
+in Texts. American Anthropologist 68:374–388.
+Colby, B. N., S. Kennedy, and L. Milanesi. 1991. Content Analysis, Cultural Grammars, and
+Computers. Qualitative Sociology 14:373–384.
+Cowan, G., and M. O’Brien. 1990. Gender and Survival Versus Death in Slasher Films— A
+Content Analysis. Sex Roles 23(3/4):187–196.
+Crabtree, Benjamin F., and William L. Miller. 1992. A Template Approach to Text Analysis:
+Developing and Using Codebooks. In Doing Qualitative Research. William L. Miller and
+Benjamin F. Crabtree, eds. Pp. 93–109. Thousand Oaks, CA: Sage Publications.
+Craig, Robert T. 1981. Generalization of Scott’s Index of Intercoder Agreement. Public
+Opinion Quarterly 45:260–264.
+Craig, R. Stephen. 1992. The Effect of Television Day Part on Gender Portrayals in Television
+Commercials: A Content Analysis. Sex Roles 26(5/6):197–211.
+Cressey, Donald R. 1973 (orig 1953). Other People’s Money: A Study in the Social Psychology
+of Embezzlement. Montclair, NJ: Patterson Smith.
+D’Andrade, Roy. 1984. Cultural Meaning Systems. In Culture Theory: Essays on Mind, Self,
+and Emotion. R. A. Shweder and R. A. Levine, eds. Pp. 88–119. Cambridge: Cambridge
+University Press.
+D’Andrade, Roy. 1987. A Folk Model of the Mind. In Cultural Models in Language and
+Thought. N. Quinn and D. Holland, eds. Pp. 112–148. Cambridge: Cambridge University
+Press.
+D’Andrade, Roy. 1991. The Identification of Schemas in Naturalistic Data. In Person Schemas
+                                                                     Text Analysis          635
+
+and Maladaptive Interpersonal Patterns. Mardi J. Horowitz, ed. Pp. 279–301. Chicago:
+University of Chicago Press.
+D’Andrade, Roy. 1995. The Development of Cognitive Anthropology. Cambridge: Cambridge
+University Press.
+Danielson, Wayne A., and D. L. Lasorsa. 1997. Perceptions of Social Change: 100 Years of
+Front-Page Content in The New York Times and The Los Angeles Times. In Text Analysis for
+the Social Sciences: Methods for Drawing Statistical Inferences from Texts and Transcripts.
+Carl W. Roberts, ed. Pp. 103–116. Mahwah, NJ: Lawrence Erlbaum.
+Danowski, James. 1982. A Network-Based Content Analysis Methodology for Computer-
+Mediated Communication: An Illustration with a Computer Bulletin Board. In Commu-nica-
+tion Yearbook. R. Bostrom, ed. Pp. 904–925. New Brunswick, NJ: Transaction Books.
+Danowski, James. 1993. Network Analysis of Message Content. In Progress in Commu-
+nication Science, XII. W. D. Richards and G. A. Barnett, eds. Pp. 197–221. Norwood, NJ:
+Ablex Publishing.
+de Sola Pool, Ithiel, ed. 1959. Trends in Content Analysis. Urbana: University of Illinois Press.
+Deese, James. 1969. Conceptual Categories in the Study of Content. In The Analysis of
+Communication Content: Development in Scientific Theories and Computer Techniques.
+George Gerbner, Ole R. Holsti, Klaus Krippendorff, William J. Paisley, and Philip J. Stone,
+eds. Pp. 39–56. New York: Wiley.
+Denzin, N. K. 1978. The Research Act. A Theoretical Introduction to Sociological Methods,
+2d ed. New York: McGraw-Hill.
+Dey, I. 1993. Qualitative Data Analysis: A User-Friendly Guide for Social Scientists. London:
+Routledge and Kegan Paul.
+Dilthey, Wilhelm. 1996. Hermeneutics and the Study of History. Princeton: Princeton
+University Press.
+Doerfel, Marya L., and George A. Barnett. 1996. The Use of Catpac for Text Analysis.
+Cultural Anthropology Methods Journal 8(2):4–7.
+Downing, Pamela. 1980. Factors Influencing Lexical Choice in Narrative. In The Pear Stories.
+Cognitive, Cultural, and Linguistic Aspects of Narrative Production. W. Chafe, ed. Pp.
+89–126. Norwood, NJ: Ablex Publishing.
+Drass, K. 1980. The Analysis of Qualitative Data: A Computer Program. Urban Life
+9:332–353.
+Edmonson, Munro S. 1982. The Ancient Future of the Itza: The Book of Chilam Balam of
+Tizimin. Austin: University of Texas Press.
+Edmonson, Munro S., tr. and ed. 1986. Heaven Born Mérida and Its Destiny: The Book of
+Chilam Balam of Chumayel. Austin: University of Texas Press.
+El Guindi, Fadwa, and Abel Hernández Jiménez. 1986. The Myth of Ritual. A Native’s
+Ethnography of Zapotec Life-Crisis Rituals. Tucson: University of Arizona Press.
+Ember, Carol R., and Melvin Ember. 1992. Resource Unpredictability, Mistrust, and War: A
+Cross-Cultural Study. Journal of Conflict Resolution 36:242–262.
+Ember, Carol R., Melvin Ember, and B. M. Russett. 1992. Peace Between Participatory
+Polities: A Cross-Cultural Test of the ‘Democracies Rarely Fight Each Other’ Hypothesis.
+World Politics 44:573–599.
+636       BERNARD / RYAN
+
+
+Fan, David P., and Carol L. Shaffer. 1990. Use of Open-Ended Essays and Computer Content
+Analysis to Survey College Students’ Knowledge of AIDS. College Health 38 (March):
+221–229.
+Fielding, Nigel G., and Raymond M. Lee. 1992. Using Computers in Qualitative Research,
+rev. ed. London: Sage Publications.
+Fink, E. J., and W. Gantz. 1996. A Content Analysis of Three Mass Communication Research
+Traditions— Social Science, Interpretive Studies, and Critical Analysis. Journalism and Mass
+Communication Quarterly 73:114–134.
+Fleiss, Joseph L. 1971. Measuring Nominal Scale Agreement among Many Raters.
+Psychological Bulletin 76:378–382.
+Franzosi, Roberto. 1997. Labor Unrest in the Italian Service Sector: An Application of
+Semantic Grammars. In Text Analysis for the Social Sciences: Methods for Drawing Statistical
+Inferences from Texts and Transcripts. Carl W. Roberts, ed. Pp. 131–146. Mahwah, NJ:
+Lawrence Erlbaum.
+Furbee, Louanna 1996. The Religion of Politics in Chiapas: Founding a Cult of Com-
+municating Saints. Presented at the 96th Meeting of the American Anthropological
+Association, San Francisco.
+Furbee-Losee, Louanna, ed. 1976. Mayan Texts I. International Journal of American
+Linguistics. Native American Texts Series, 1(1). Chicago: University of Chicago Press.
+Gerbner, G., O. R. Holsti, K. Krippendorf, W. J. Paisey, and P. J. Stone, eds. 1969. The
+Analysis of Communication Content: Developments in Scientific Theories and Computer
+Techniques. New York: Wiley.
+Gilly, Mary C. 1988. Sex Roles in Advertising: A Comparison of Television Advertisements
+in Australia, Mexico, and the United States. Journal of Marketing 52(April):75–85.
+Glaser, Barney G., and Anselm Strauss. 1967. The Discovery of Grounded Theory: Strategies
+for Qualitative Research. New York: Aldine.
+Goddard, Pliny E. 1911. Jicarilla Apache Texts. Anthropological Papers of the American
+Museum of Natural History 8. New York: The Trustees.
+González Ventura, Josefa. 1997. Experiences in the Development of a Writing System for Ñuu
+Savi. In Indigenous Literacy in the Americas. Nancy H. Hornberger, ed. Pp. 157–171. Berlin:
+Mouton de Gruyter.
+Gottschalk, Louis A. 1994. The Development, Validation, and Applications of a Com-
+puterized Measurement of Cognitive Impairment from the Content Analysis of Verbal
+Behavior. Journal of Clinical Psychology 50(3):349–361.
+Gottschalk, Louis A. 1997. The Unobtrusive Measurement of Psychological States and Traits.
+In Text Analysis for the Social Sciences: Methods for Drawing Statistical Inferences from
+Texts and Transcripts. Carl W. Roberts. ed. Pp. 117–129. Mahway, NJ: Lawrence Erlbaum
+Associates.
+Gottschalk, Louis A., and R. J. Bechtel. 1993. Psychologic and Neuropsychiatric
+Assessment Applying the Gottschalk-Gleser Content Analysis Method to Verbal Sample
+Analysis Using the Gottschalk-Bechtel Computer Scoring System. Palo Alto, CA: Mind
+Garden.
+Hage, Per, and Frank Harary 1983. Structural Models in Anthropology. New York: Cambridge
+University Press.
+                                                                   Text Analysis         637
+
+Handron, D.S., and N. K. Leggett-Frazier. 1994. Utilizing Content Analysis of Counseling
+Sessions to Identify Psychosocial Stressors among Patients with Type II Diabetes. The Diabetes
+Educator 20(6):515–520.
+Hanks, William F. 1988. Grammar, Style, and Meaning in a Maya Manuscript. Review of
+Heaven Born Mérida and Its Destiny: The Book of Chilam Balam of Chumayel. Inter-national
+Journal of American Linguistics 54:331–369.
+Hanks, William F. 1989. Texts and Textuality. Annual Review of Anthropology 18: 95–127.
+Hayes, John, and Carl Holladay. 1987. Biblical Exegesis, rev. ed. Atlanta: John Knox Press.
+Herzfeld, Michael. 1977. Ritual and Textual Structures: The Advent of Spring in Rural
+Greece. In Text and Context. Ravindra K. Jain, ed. Pp. 29–45. Philadelphia: Institute for the
+Study of Human Issues.
+Hirschman, E. C. 1987. People as Products: Analysis of a Complex Marketing Exchange.
+Journal of Marketing 51:98–108.
+Hitchcock, J., and H. S. Wilson. 1992. Personal Risking: Lesbian Self-Disclosure to Health
+Professionals. Nursing Research 41:178–183.
+Holland, Dorothy. 1985. From Situation to Impression: How Americans Get to Know Them-
+selves and One Another. In Directions in Cognitive Anthropology. J.W.D. Dougherty, ed. Pp.
+389–412. Urbana: University of Illinois Press.
+Holsti, Ole R. 1966. External Conflict and Internal Consensus: The Sino-Soviet Case. In The
+General Inquirer: A Computer Approach to Content Analysis. P. J. Stone, D. C. Dunphy, M.
+S. Smith, and D. M. Ogilvie, eds. Pp. 343–358. Cambridge: M.I.T. Press.
+Holsti, Ole R. 1969. Content Analysis for the Social Sciences and Humanities. Reading, MA:
+Addison-Wesley.
+Hunt, J. G., and A. Ropo. 1995. Multi-Level Leadership— Grounded Theory and Mainstream
+Theory Applied to the Case of General Motors. Leadership Quarterly 6:379-412.
+Hutchins, Edwin. 1980. Culture and Inference. Cambridge: Harvard University Press.
+Hymes, Dell. 1976. Louis Simpson’s ‘The Deserted Boy.’ Poetics 5:119–155.
+Hymes, Dell. 1977. Discovering Oral Performance and Measured Verse in American Indian
+Narrative. New Literary History 8:431–457.
+Hymes, Dell. 1980a. Verse Analysis of a Wasco Text: Hiram Smith’s “At’unaqa.” Inter-
+national Journal of American Linguistics 46:65–77.
+Hymes, Dell 1980b. Particle, Pause, and Pattern in American Indian Narrative Verse.
+American Indian Culture and Research Journal 4(4):7–51).
+Hymes, Dell. 1981. In Vain I Tried to Tell You: Essays in Native American Ethnopoetics.
+Philadelphia: University of Pennsylvania Press.
+Hymes, Virginia. 1987. Warm Springs Sahaptin Narrative Analysis. In Native American
+Discourse: Poetics and Rhetoric. Joel Sherzer and Anthony Woodbury, eds. Pp. 62–102.
+Cambridge: Cambridge University Press.
+Imrich, D. J., C. Mullin, and D. Linz. 1995. Measuring the Extent of Prejudicial Pretrial
+Publicity in Major American Newspapers— A Content Analysis. Journal of Commu-nication
+45(3):94–117.
+Irurita, V. F. 1996. Hidden Dimensions Revealed— Progressive Grounded Theory Study of
+638       BERNARD / RYAN
+
+Quality Care in the Hospital. Qualitative Health Research 6:331–349.
+Jang, H-Y., and G. Barnett. 1994. Cultural Differences in Organizational Communication: A
+Semantic Network Analysis. Bulletin de Méthodologie Sociologique 44 (Septem-ber):31–59.
+Jehn, Karen A., and Lorna Doucet. 1996. Developing Categories from Interview Data: Text
+Analysis and Multidimensional Scaling. Part 1. Cultural Anthropology Methods Journal
+8(2):15–16.
+Jehn, Karen A., and Lorna Doucet. 1997. Developing Categories for Interview Data:
+Consequences of Different Coding and Analysis Strategies in Understanding Text. Part 2.
+Cultural Anthropology Methods Journal 9(1):1–7.
+Jehn, Karen A., and O. Werner. 1993. Hapax Legomenon II: Theory, A Thesaurus, and Word
+Frequency. Cultural Anthropology Methods Journal 5(1):8–10.
+Johnson, Allen, and Douglass Price-Williams. 1997. Oedipus Ubiquitous: The Family Com-
+plex in World Folk Literature. Stanford: Stanford University Press.
+Johnson-Laird, P. N. 1983. Mental Models: Towards a Cognitive Science of Language,
+Inference, and Consciousness. Cambridge: Harvard University Press.
+Johnson-Laird, P. N. 1989. Mental Models. In Foundations of Cognitive Science. Michael I.
+Posner, ed. Pp. 469–500. Cambridge: M.I.T. Press.
+Kaid, Lynda Lee, John C. Tedesco, and Lori Melton McKinnon. 1996. Presidential Ads as
+Nightly News: A Content Analysis of 1988 and 1992 Televised Adwatches. Journal of
+Broadcasting Electronic Media 40:297–308.
+Kassis, Hanna. 1983. A Concordance of the Qur’an. Berkeley: University of California Press.
+Kearney M. H., S. Murphy, and M. Rosenbaum. 1994. Mothering on Crack Cocaine— A
+Grounded Theory Analysis. Social Science and Medicine 38:351–361.
+Kearney, M. H., S. Murphy, K. Irwin, and M. Rosenbaum. 1995. Salvaging Self— A Grounded
+Theory of Pregnancy on Crack Cocaine. Nursing Research 44(4):208–213.
+Kelle, Udo. 1995. An Overview of Computer-Aided Methods in Qualitative Research. In
+Computer-Aided Qualitative Data Analysis: Theory, Methods and Practice. Udo Kelle, ed. Pp.
+1–18. London: Sage Publications.
+Kelle, Udo. 1997. Theory Building in Qualitative Research and Computer Programs for the
+Management of Textual Data. Sociological Research Online 2 (2):
+http://www.socresonline.org.uk/socresonline/2/1/1.html.
+Kelly, E. F., and P. J. Stone. 1975. Computer Recognition of English Word Senses.
+Amsterdam: North-Holland.
+Kempton, Willett. 1987. Two Theories of Home Heat Control. In Cultural Models in
+Language and Thought. D. Holland and N. Quinn, eds. Pp. 222–242. Cambridge: Cambridge
+University Press.
+Kleinnijenhuis, Jan, J. A. de Ridder, and E. M. Rietberg. 1997. Reasoning in Economic
+Discourse: An Application of the Network Approach to the Dutch Press. In Text Analysis
+for the Social Sciences: Methods for Drawing Statistical Inferences from Texts and
+Transcripts. Carl W. Roberts, ed. Pp. 191–208. Mahwah, NJ: Lawrence Erlbaum.
+Kolbe, R. H., and J. P. Albanese. 1996. Man to Man: A Content Analysis of Sole-Male Images
+in Male-Audience Magazines. Journal of Advertising 25(4):1–20.
+Kortendick, Oliver. 1996. Drei Schwestern un ihre Kinder. Rekonstruktion von
+                                                                 Text Analysis        639
+
+Familiengeschichte und Identitätstransmission bei Indischen Nederlanders mit Hilfe
+computerunterstützer Inhaltsanlyze. Canterbury, England: University of Kent, Center for
+Anthropology and Computing.
+Krippendorf, Klaus. 1980. Content Analysis: An Introduction to Its Methodology. Beverly
+Hills, CA: Sage Publications.
+Kroeber, Alfred. 1907. Gros Ventre Myths and Tales. Anthropological Papers of the American
+Museum of Natural History 1(Part 3). New York: The Trustees.
+Laffal, Julius. 1990. A Concept Dictionary of English, with Computer Programs for Content
+Analysis. Essex, CT: Gallery Press.
+Laffal, Julius. 1995. A Concept Analysis of Jonathan Swift’s A Tale of a Tub and Gulliver’s
+Travels. Computers and the Humanities 29:339–361.
+
+Lakoff, George, and Mark Johnson. 1980. Metaphors We Live By. Chicago: University of
+Chicago Press.
+Lee, Raymond M., and Nigel G. Fielding. 1995. User’s Experiences of Qualitative Data
+Analysis Software. In Computer-Aided Qualitative Data Analysis: Theory, Methods and
+Practice. Udo Kelle, ed. Pp. 29–40. London: Sage Publications.
+Lee, Raymond M., and Nigel G. Fielding. 1996. Qualitative Data Analysis: Representations
+of a Technology— A Comment on Coffey, Holbrook and Atkinson. Sociological Research
+Online 1(4): <http://www.socresonline.org.uk/socresonline/1/4/lf.html>.
+Light, Richard J. 1971. Measures of Response Agreement for Qualitative Data: Some
+Generalizations and Alternatives. Psychological Bulletin 76(5):365–377.
+Lincoln, Yvonna S., and Egon G. Guba. 1985. Naturalistic Inquiry. Beverly Hills, CA: Sage
+Publications.
+Lindesmith, A. R. 1968 [1947]. Addiction and Opiates. Chicago: Aldine.
+Locke, K. 1996. Rewriting the Discovery of Grounded Theory— After 25 Years. Journal of
+Management Inquiry 5(3):239–245.
+Lofland, John, and Lyn H. Lofland. 1995. Analyzing Social Settings, 3rd ed. Belmont, CA:
+Wadsworth.
+Lonkila, Markku. 1995. Grounded Theory as an Emerging Paradigm for Computer-Assisted
+Qualitative Data Analysis. In Computer-Aided Qualitative Data Analysis. Udo Kelle, ed. Pp.
+41–51. Thousand Oaks, CA: Sage Publications.
+Lowie, Robert H. 1930. A Crow Text, with Grammatical Notes. Berkeley: University of
+California Press.
+Lurie, Nancy. 1961. Mountain Lone Wolf Woman, Sister of Crashing Thunder: The
+Autobiography of a Winnebago Woman. Ann Arbor: University of Michigan Press.
+Mandler, Jean. 1984. Stories, Scripts, and Scenes: Aspects of Schema Theory. Hillsdale, NJ:
+Lawrence Erlbaum.
+Manning, Peter K. 1982. Analytic Induction. In Handbook of Social Science Methods, Vol. 2,
+Qualitative Methods. R. Smith and P. K. Manning, eds. Pp. 273–302. New York: Harper.
+Martindale, Colin, and Dean McKenzie. 1995. On the Utility of Content Analysis in Author
+Attribution: The Federalist. Computers and the Humanities 29:259–270.
+Mathews, Holly. 1992. The Directive Force of Morality Tales in a Mexican Community. In
+640       BERNARD / RYAN
+
+Human Motives and Cultural Models. Roy D’Andrade and Claudia Stauss, eds. Pp. 127–162.
+New York: Cambridge University Press.
+McCleary, R. 1978. Dangerous Men: The Sociology of Parole. Beverly Hills, CA: Sage
+Publications.
+McKinnon, Alastair. 1993. The Multi-Dimensional Concordance: A New Tool for Literary
+Research. Computers and the Humanities 27:165–183.
+McTavish, Donald G., and E. B. Pirro. 1990. Contextual Content Analysis. Quality and
+Quantity 24:44–63.
+Miles, Matthew, and A. Michael Huberman. 1994. Qualitative Data Analysis, 2d ed.
+Thousand Oaks, CA: Sage Publications.
+Morse, J. M. 1994. Designing Funded Qualitative Research. In Handbook of Qualitative
+Research. Norman K. Denzin and Y. S. Lincoln, eds. Pp. 220–235. Thousand Oaks, CA: Sage
+Publications.
+Mosteller, F., and D. L. Wallace. 1964. Inference and Disputed Authorship: The Federalist
+Papers. Reading, MA: Addison-Wesley.
+Muhr, Thomas. 1991. Atlas/ti— A Protoype for the Support of Text Interpretation. Qualitative
+Sociology 14(4):349–371.
+Namenwirth, J., and R. Weber. 1987. Dynamics of Culture. Winchester, MA: Allen and
+Unwin.
+Ogilvie, D. M., P. J. Stone, and E. S. Schneidman. 1966. Some Characteristics of Genuine
+Versus Simulated Suicide Notes. In The General Inquirer: A Computer Approach to Content
+Analysis. P. J. Stone, D. C. Dunphy, M. S. Smith, and D. M. Ogilvie, eds. Pp. 527–535.
+Cambridge: M.I.T. Press.
+Osgood, Charles. 1959. The Representational Model and Relevant Research Methods. In
+Trends in Content Analysis. Ithiels de Sola Pool, ed. Pp. 33–88. Urbana: University of Illinois
+Press.
+Palmquist, Michael, Kathleen M. Carley, and Thomas Dale. 1997. Two Applications of
+Automated Text Analysis: Analyzing Literary and Non-Literary Texts. In A Theoretical Map
+for Selecting among Text Analysis Methods. C. W. Roberts, ed. Chap. 10. Mahwah, NJ:
+Lawrence Erlbaum.
+Patton, Michael Q. 1990. Qualitative Evaluation and Research Methods, 2d ed. Thousand
+Oaks, CA: Sage Publications.
+Peters, Vincent, and F. West. 1990. Qualitative Analysis in Practice. Nijmegen, Netherlands:
+University of Nijmegen.
+Piaget, Jean. 1970. Piaget’s Theory. In Carmichael’s Manual of Child Psychology, 3rd ed.,
+Vol. 1. P. Mussen, ed. Pp. 703–732. New York: Wiley.
+Postel-Coster, Els. 1977. The Indonesian Novel as a Source of Anthropological Data. In Text
+and Context. Ravindra K. Jain, ed. Pp. 135–150. Philadelphia: Institute for the Study of
+Human Issues.
+Potts R., D. Runyan, A. Zerger, and K. Marchetti. 1996. A Content Analysis of Safety
+Behaviors of Television Characters— Implications for Children’s Safety and Injury. Journal
+of Pediatric Psychology 21(4):517–528.
+Prendergast, Guy L. 1971. A Complete Concordance to the Illiad of Homer. Hildesheim,
+                                                                  Text Analysis        641
+
+Germany: G. Olms.
+Price, Laurie. 1987. Ecuadorian Illness Stories. In Cultural Models in Language and
+Thought. D. Holland and N. Quinn, eds. Pp. 313–342. Cambridge: Cambridge University
+Press.
+Quinn, Naomi. 1982. ‘Commitment’ in American Marriage: A Cultural Analysis. American
+Ethnologist 9:755–798.
+Quinn, Naomi. 1987. Convergent Evidence for a Cultural Model of American Marriage. In
+Cultural Models in Language and Thought. N. Quinn and D. Holland, eds. Pp. 173–192.
+Cambridge: Cambridge University Press.
+Quinn, Naomi. 1992. The Motivational Force of Self-Understanding: Evidence from Wives’
+Inner Conflicts. In Human Motives and Cultural Models. Roy D’Andrade and Claudia Stauss,
+eds. Pp. 90–126. New York: Cambridge University Press.
+Quinn, Naomi. 1996. Culture and Contradiction: The Case of Americans Reasoning about
+Marriage. Ethos 24:391–425.
+Quinn, Naomi. 1997. Research on the Psychodynamics of Shared Task Solutions. In A
+Cognitive Theory of Cultural Meaning. Claudia Strauss and Naomi Quinn, eds. Pp. 189–209.
+Cambridge: Cambridge University Press.
+Ragin, Charles C. 1987. The Comparative Method: Moving Beyond Qualitative and
+Quantitative Strategies. Berkeley: University of California Press.
+Ragin, Charles C. 1994. Introduction to Qualitative Comparative Analysis. In The Com-
+parative Political Economy of the Welfare State. T. Janowski and A. M. Hicks, eds. Pp.
+299–317. Cambridge: Cambridge University Press.
+Richards, Tom, and Lyn Richards. 1991. The NUDIST Qualitative Data Analysis System.
+Qualitative Sociology 14:307–325.
+Rice, G. Elizabeth. 1980. On Cultural Schemata. American Ethnologist 7:152–171.
+Richards, Thomas J. Using Computers in Qualitative Research. In Handbook of Qualitative
+Research. Norman K. Denzin and Yvonna S. Lincoln, eds. Pp. 445–462. Thousand Oaks, CA:
+Sage Publications.
+Roberts, Carl W. 1997. A Theoretical Map for Selecting among Text Analysis Methods. In
+Text Analysis for the Social Sciences: Methods for Drawing Statistical Inferences from Texts
+and Transcripts. Carl W. Roberts, ed. Pp. 275–283. Mahwah, NJ: Lawrence Erlbaum.
+Rohner, Ronald. 1966. Franz Boas, Ethnographer of the Northwest Coast. In Pioneers of
+American Anthropology. June Helm, ed. Pp. 149–212. Seattle: University of Washington
+Press.
+Romme, A.G.L. 1995. Boolean Comparative Analysis of Qualitative Data: A Methodological
+Note. Quality & Quantity 29(3):317–329.
+Rosenberg, Stanley D., P. P. Schnurr, and T. E. Oxman 1990. Content Analysis: A Comparison
+of Manual and Computerized Systems. Journal of Personality Assessment 54(1 and
+2):298–310.
+Rumelhart, David E. 1980. Schemata: The Building Blocks of Cognition. In Theoretical Issues
+in Reading Comprehension: Perspectives from Cognitive Psychology, Linguistics, Artificial
+Intelligence, and Education. R. J. Spiro, B. C. Bruce, and W. B. Brewer, eds. Pp. 33–58.
+Hillsdale, NJ: Lawrence Erlbaum.
+Ryan, Gery, and Thomas Weisner. 1996. Analyzing Words in Brief Descriptions: Fathers
+642       BERNARD / RYAN
+
+and Mothers Describe Their Children. Cultural Anthropology Methods Journal 8(3): 13–16.
+Salinas Pedraza, Jesús, and H. Russell Bernard. 1978. Rc Hnychnyu. The Otomí. Albuquerque:
+University of New Mexico Press.
+Salinas Pedraza, Jesús. 1997. Saving and Strengthening Indigenous Mexican Languages: The
+CELIAC Experience. In Indigenous Literacy in the Americas. Nancy H. Hornberger, ed. Pp.
+171–188. Berlin: Mouton de Gruyter.
+Sandelowski, Margarete. 1995a. Qualitative Analysis: What It Is and How to Begin. Research
+in Nursing and Health 18:371–375.
+Sandelowski, Margarete 1995b. Sample Size in Qualitative Research. Research in Nursing and
+Health 18:179–183.
+Sapir, Edward, and Jeremiah Curtain. 1974 [1909]. Wishram Texts. New York: AMS Press.
+
+Sapir, Edward, and Roland B. Dixon. 1910. Yana Texts. University of California
+Publications in American Archeology and Ethnology 9(1). Berkeley: University of California
+Press.
+Sapir, Edward, and Morris Swadesh. 1978 [1939]. Nootka Texts: Tales and Ethnological
+Narratives. New York: AMS Press.
+Schank, Robert C., and Robert P. Abelson, 1977. Scripts, Plans, Goals, and Understanding:
+An Enquiry into Human Knowledge Structures. Hillsdale, NJ: Lawrence Erlbaum.
+Schnegg, Michael, and H. Russell Bernard. 1996. Words as Actors: A Method for Doing
+Semantic Network Analysis. Cultural Anthropology Methods Journal 8(2):7–10.
+Schnurr, P. P., S. D. Rosenberg, T. E. Oxman, and G. Tucker. 1986. A Methodological Note
+on Content Analysis: Estimates of Reliability. Journal of Personality Assessment 50: 601–609.
+Schweizer, Thomas. 1991. The Power Struggle in a Chinese Community, 1950–1980: A Social
+Network Analysis of the Duality of Actors and Events. Journal of Quantitative Anthropology
+3:19–44.
+Schweizer, Thomas. 1996. Actor and Event Orderings Across Time: Lattice Representation and
+Boolean Analysis of the Political Disputes in Chen Village, China. Social Networks
+18:247–266.
+Scott, William A. 1955. Reliability of Content Analysis. The Case of Nomimal Scale Coding.
+Public Opinion Quarterly 19:321–325.
+Segre, Cesare, and T. Kemeny. 1988. Introduction to the Analysis of the Literary Text. John
+Meddemmen, tr. Bloomington: Indiana University Press.
+Seidel, John, and Udo Kelle. 1995. Different Functions of Coding in the Analysis of Textual
+Data. In Computer-Aided Qualitative Data Analysis: Theory, Methods and Practice. Udo
+Kelle, ed. Pp. 52–61. London: Sage Publications.
+Shapiro, Gilbert. 1997. The Future of Coders: Human Judgments in a World of Sophisticated
+Software. In Text Analysis for the Social Sciences: Methods for Drawing Statistical Inferences
+from Texts and Transcripts. Carl W. Roberts, ed. Pp. 225–238. Mahwah, NJ: Lawrence
+Erlbaum.
+Sherzer, Joel. 1990. Verbal Art in San Blas. Cambridge: Cambridge University Press.
+Sherzer, Joel. 1994. The Kuna and Columbus: Encounters and Confrontations of Discourse.
+American Anthropologist 96:902–925.
+                                                                     Text Analysis         643
+
+Sherzer, Joel, and Anthony Woodbury. 1987. Introduction. In Native American Discourse:
+Poetics and Rhetoric. Joel Sherzer and Anthony Woodbury, eds. Pp. 1–16. Cambridge:
+Cambridge University Press.
+Silverberg, S. B., S. C. Betts, A. J. Huebner, and S. Cotarobles. 1996. Implicit Beliefs about
+Change: A Theory-Grounded Measure Applied to Community Organizations Serving
+Children, Youth, and Families. Journal of Sociology and Social Welfare 23(4):57–76.
+Sleath, B., B. Svarstad, and D. Roter. 1997. Physician Versus Patient Initiation of Psychotropic
+Prescribing in Primary Care Settings: A Content Analysis of Audiotapes. Social Science and
+Medicine 44(4):541–548.
+Smith, Charles P., S. C. Feld, and C. E. Franz. 1992. Methodological Considerations: Steps
+in Research Employing Content Analysis Systems. In Motivation and Personality: Handbook
+of Thematic Content Analysis. C. Smith, J. N. Atkinson, D. C. McClelland, and J. Veroff, eds.
+Pp. 515–536. Cambridge: Cambridge University Press.
+Sohier, R. 1993. Filial Reconstruction: A Theory on Development Through Adversity.
+Qualitative Health Research 3(4):465–492.
+Spears N. E, J. C. Mowen, and G. Chakraborty. 1996. Symbolic Role of Animals in Print
+Advertising— Content Analysis and Conceptual Development. Journal of Business Research
+37(2):87–95.
+Spevack, Marvin. 1973. The Harvard Concordance to Shakespeare. Cambridge: Belknap
+Press.
+Spiggle, S. 1986. Measuring Social Values: A Content Analysis of Sunday Comics and
+Underground Comix. Journal of Consumer Research 13:100–113.
+Spradley, James. 1979. The Ethnographic Interview. New York: Holt, Rinehart and
+Winston.
+Stone, P. J., D. C. Dunphy, M. S. Smith, and D. M. Ogilvie, eds. 1966. The General Inquirer:
+A Computer Approach to Content Analysis. Cambridge: M.I.T. Press.
+Strauss, Anselm. 1987. Qualitative Analysis for Social Scientists. Cambridge: Cambridge
+University Press.
+Strauss, Anselm, and J. Corbin. 1990. Basics of Qualitative Research. Grounded Theory
+Procedures and Techniques. Thousand Oaks, CA: Sage Publications.
+Strauss, Claudia. 1992. What Makes Tony Run? Schemas as Motive Reconsidered. In Human
+Motives and Cultural Models. Roy D’Andrade and Claudia Strauss, eds. Pp. 191–224.
+Cambridge: Cambridge University Press.
+Strauss, Claudia. 1997. Research on Cultural Discontinuities. In A Cognitive Theory of
+Cultural Meaning. Claudia Strauss and Naomi Quinn, eds. Pp. 210–251. Cambridge:
+Cambridge University Press.
+Swanton, John Reed. 1909. Tlingit Myths and Texts. Washington, DC: Government Printing
+Office.
+Taylor, Steven J., and Robert Bogdan. 1984. Introduction to Qualitative Research Methods,
+2d ed. New York: Wiley.
+Tedlock, Dennis. 1972. Finding the Center: Narrative Poetry of the Zuni Indians. New York:
+Dial.
+Tedlock, Dennis. 1985. Popol Vuh: The Mayan Book of the Dawn of Life and the Glories of
+644       BERNARD / RYAN
+
+Gods and Kings. New York: Simon and Schuster.
+Tedlock, Dennis. 1987. Hearing a Voice in an Ancient Text: Quiché Maya Poetics in
+Performance. In Native American Discourse: Poetics and Rhetoric. Joel Sherzer and Anthony
+Woodbury, eds. Pp. 140–175. Cambridge: Cambridge University Press.
+Tesch, R. 1990. Qualitative Research: Analysis Types and Software Tools. New York: Falmer
+Press.
+Trost, J. E. 1986. Statistically Nonrepresentative Stratified Sampling: A Sampling Technique
+for Qualitative Studies. Qualitative Sociology 9:54–57.
+Viney, L. L. 1983. The Assessment of Psychological States Through Content Analysis of
+Verbal Communications. Psychological Bulletin 94:542–563.
+Waitzkin, Howard, and Theron Britt. 1993. Processing Narratives of Self-Destructive Behavior
+in Routine Medical Encounters: Health Promotion, Disease Prevention, and the Discourse of
+Health Care. Social Science and Medicine 36(9):1121–1136.
+Weber, Robert. 1990. Basic Content Analysis, 2d ed. Quantitative Applications in the Social
+Sciences, Vol. 48. Thousand Oaks, CA: Sage Publications.
+Weitzman, E., and M. Miles. 1995. Computer Programs for Qualitative Data Analysis.
+Thousand Oaks, CA: Sage Publications.
+Werner, Oswald. 1995. The Case for Verbatim Cases. Cultural Anthropology Methods
+Journal 7(1):6–8.
+White, Douglas R., and M. L. Burton. 1988. Causes of Polygyny: Ecology, Economy, Kinship,
+and Warfare. American Anthropologist 90:871–887.
+Willms, D. G., J. A. Best, D. W. Taylor, J. R. Gilbert, D.M.C. Wilson, E. A. Lindsay, and J.
+Singer. 1990. A Systematic Approach for Using Qualitative Methods in Primary Prevention
+Research. Medical Anthropology Quarterly 4:391–409.
+Wilson, Holly Skodol, and Sally Ambler Hutchinson. 1996. Methodologic Mistakes in
+Grounded Theory. Nursing Research 45(2):122–124.
+Wissler, C., and D. C. Duvall. 1908. Mythology of the Blackfoot Indians. Anthropological
+Papers of the American Museum of Natural History 2(Pt. 1). New York: Trustees, AMNH.
+Wodak, Ruth. 1992. Strategies in Text Production and Text Comprehension: A New
+Perspective. In Cooperating with Written Texts. Dieter Stein, ed. Pp. 493–528. New York:
+Mouton de Gruyter.
+Wolf, Eric. 1964. Anthropology. Englewood Cliffs, NJ: Prentice-Hall.
+Woodbury, Anthony C. 1987. Rhetorical Structure in a Central Alaskan Yupik Eskimo
+Traditional Narrative. In Native American Discourse: Poetics and Rhetoric. Joel Sherzer and
+Anthony Woodbury, eds. Pp. 176–239. Cambridge: Cambridge University Press.
+Wright, K. B. 1997. Shared Ideology in Alcoholics Anonymous: A Grounded Theory Approach.
+Journal of Health Communication 2(2):83–99.
+Young, Robert 1982. Analytical Concordance to the Bible. Nashville: T. Nelson.
+Yule, G. U. 1968 [1944]. The Statistical Study of Literary Vocabulary. Hamden, CT: Archon
+Books.
+Znaniecki, Florian. 1934. Analytic Induction in Sociology. In The Method of Sociology. New
+York: Farrar and Rinehart.
+                                                                Text Analysis        645
+
+Zuell, C., R. P. Weber, and P. Mohler, eds. 1989. Computer-Assisted Text Analysis for the
+Social Sciences: The General Inquirer III. Mannheim, Germany: Center for Surveys, Methods,
+and Analysis (ZUMA).
+

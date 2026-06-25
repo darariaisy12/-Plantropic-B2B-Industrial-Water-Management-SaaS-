@@ -1,0 +1,701 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/316881109
+
+
+
+Content Analysis of Sustainability Reports: A Practice in Turkey *
+
+Conference Paper · January 2017
+
+
+
+CITATION                                                                                               READS
+
+1                                                                                                      1,464
+
+
+3 authors, including:
+
+           Fikret Çankaya                                                                                         Züleyha Yilmaz
+           Karadeniz Technical University                                                                         Ordu Üniversitesi
+           38 PUBLICATIONS 94 CITATIONS                                                                           24 PUBLICATIONS 28 CITATIONS
+
+              SEE PROFILE                                                                                            SEE PROFILE
+
+
+
+
+Some of the authors of this publication are also working on these related projects:
+
+
+
+                BİNA MALİYET ORANI VE BİNA GÜÇLENDİRME MALİYETİNİ ETKİLEYEN FAKTÖRLER ARASINDAKİ İLİŞKİ View project
+
+
+
+
+ All content following this page was uploaded by Fikret Çankaya on 12 May 2017.
+
+ The user has requested enhancement of the downloaded file.
+                                Proceedings of 7th European Business Research Conference
+                                15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                               ISBN: 978-1-925488-203-4
+
+      Content Analysis of Sustainability Reports: A Practice in
+                              Turkey*
+             Zeynep Şahin**, Fikret Çankaya*** and Züleyha Yılmaz****
+        Recent corporate scandals show the importance of corporate social responsibility and
+        corporate sustainability. Corporate social responsibility has gradually been replaced by
+        sustainability, and sustainability reports have been published instead of corporate social
+        responsibility reports. Unlike financial reports, sustainability reports include non-financial
+        information and the effects of environmental and social events. The purpose of this study is to
+        analyze the content of 96 sustainability reports prepared by 42 companies in Turkey according
+        to the Global Reporting Initiative (GRI) guidelines by 2015. As a result of the study, it is found
+        that disclosures on strategy and profile were more than disclosures on management approach
+        and performance indicators in Turkey. Following that, economic performance indicators are
+        the most disclosed indicators by Turkish Companies. It is observed that there is an increasing
+        interest in sustainability reporting in Turkey.
+
+JEL Codes: Q56 and L25
+
+1. Introduction
+After 1960 it was understood that the ecological balance was deteriorating due to the neglect
+of the links between environment and development, and this realisation led to the
+emergence of the concept of sustainability (Altunbaş, 2008). Sustainability for business is to
+make economic expectations balance with environmental and social responsibility.
+Corporate sustainability, which is the equivalent of sustainability concept at the business
+level, attaches importance to growth and profitability of company as well as environmental
+protection, social equality and economic development. Reporting of these events is possible
+with sustainability reports.
+
+Financial information produced by financial accountant is considered to be insufficient to
+evaluate a company. Therefore, it is aimed to complete these reports with sustainability
+activities and performance (Yanık & Türker, 2012). As a deficiency, financial reporting deals
+with only financial aspects of business operations. The purpose of financial reporting is to
+disclose increases and decreases related to the assets and resources. However,
+sustainability accounting goals to measure a company’s sustainability performance to
+provide accountability to the shareholders, to contribute to the decision making process of
+managers, and to provide information wanted by stakeholders (Yönet, 2010).
+
+
+* This study was adapted from a PhD thesis which was named as “Relationship Between SMEs’ Sustainability
+Reports and Business Performance in Turkey”. In addition, it has been supported by TÜBİTAK, the Scientific and
+Technological Research Council of Turkey, under project number 215K361 within the TÜBİTAK 3001 Program as
+the project output of the study named as “Current State of Sustainability Reports in Turkey and Sustainability in
+SMEs”.
+** Lecturer Zeynep Şahin, Accounting and Tax Department, Vakfıkebir Vocational School, Karadeniz Technical
+University, Cumhuriyet Mahallesi Cezaevi Caddesi, Sağlık Sokak, No:2, Vakfıkebir/Trabzon, Turkey, e-mail:
+ktuzeynepsahin@gmail.com, phone: +90-462-841-7363/3833; fax: +90-462-841-7364; Accounting.
+*** Prof. Dr. Fikret Çankaya, Business Administration Department, Faculty of Economics and Administrative
+Sciences, Karadeniz Technical University, 61080, Trabzon, Turkey, e-mail: cankayaf@yahoo.com, phone: +90-462-
+377-3147, fax: +90-462-325-7281, Accounting.
+**** Dr. Züleyha Yılmaz, Business Administration Department, Unye Faculty of Economics and Administrative
+Sciences, Ordu University, Gölevi Mah. Devlet Sahil Yolu, Ünye/Ordu, Turkey, e-mail: zuleyhayilmaz@odu.edu.tr,
+phone: +90-452-323-8255/3005, fax: +90-452-323-8256, Accounting.
+                          Proceedings of 7th European Business Research Conference
+                          15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                         ISBN: 978-1-925488-203-4
+
+2. Literature Review
+When the studies on the content analysis of sustainability reports are summarized, Yönet
+(2010) observed that just a few Turkish banks have prepared a sustainability report.
+Sustainability reports of 116 Chinese banks were reviewed by Huang and Wang (2010), and
+they found that economic, environmental, social and governance issues were more focused.
+Likewise, Dong (2011) investigated sustainability reports in Chinese mining sector. Roca
+and Searcy (2011) examined the sustainability reports of 94 companies and found that 585
+different economic, environmental and social indicators were used. Sobhani et al. (2012)
+analyzed reports of the banking sector in Bangladesh, and found that social indicators were
+more than environmental and economic indicators. Similarly, Aktaş et al. (2013) examined
+the sustainability reports of 9 big companies in Turkey and revealed that disclosures on
+strategy and profile were more than disclosures on management approach and performance
+indicators.
+
+Maubane et al. (2014) examined the sustainability reports in Johannesburg and found that
+the reports contained disclosures on mostly environmental and social indicators rather than
+disclosures on management approach. Hinson et al. (2015) found that there were 56
+indicators of strategy and profile, reporting approaches, economic, environmental, social,
+and human rights indicators in higher education sustainability reports. Alcaraz Quiles et al.
+(2015) observed that social disclosures are more than others in the sustainability reports.
+Moreover, Kozlowski et al. (2015) found that the topics covered in sustainability reports in
+14 different apparel sectors are sustainable supply chain management, design practices,
+business innovation, consumer responsibility, and product sustainability.
+
+When the literature was evaluated, detailed studies on the sustainability reports were not
+found in Turkey. The sustainability reports, which were analyzed in this study, include 121
+indicators of strategy and profile, management approach and performance indicators.
+
+3. Methodology
+Literature review process revealed inadequacy of studies done regarding sustainable
+reporting in Turkey. Every new study on this issue seems helpful for Turkey to improve
+awareness of sustainability, and to provide guidance to business managers to enhance
+performance of their companies. The purpose of this study is to examine scope and quality
+of the sustainability reports prepared according to the GRI guidelines by 2015 in Turkey.
+
+Content analysis, frequently used in the field of social and environmental reporting, was
+used as a method of this study. Content analysis is defined as a method in which various
+reports and explanations are analyzed objectively and systematically (Guthrie &
+Abeysekera, 2006). The GRI guidelines and studies of Leszczynska (2012) and Aktaş et al.
+(2013) have been used for the determination and codification of the categories in the study.
+In the content analysis, the most disclosed and undisclosed indicators were identified among
+the disclosures on strategy and profile, management approach, and performance indicators
+of the companies.
+
+157 reports of 66 companies prepared according to the GRI guidelines by 2015 were
+included in the scope of the content analysis. 96 Of these reports prepared by 42 companies
+were obtained from the GRI website. Reports without GRI Index were excluded from the
+study. The data set obtained from these reports was analyzed in the SPSS 22.00 package
+program. In the content analysis, if strategy and profile, management approach, and
+                           Proceedings of 7th European Business Research Conference
+                           15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                          ISBN: 978-1-925488-203-4
+
+performance indicators are fully disclosed, this report was coded as 2; if disclosures were
+partial, this report was coded as 1; and lastly if there is no disclosure, this report was coded
+as 0. Thus, indicators which are the most disclosed and never disclosed have been
+identified. Categories in the sustainability reports prepared according to the GRI guidelines
+are listed below.
+
+       Strategy and Profile
+
+           Strategy and Analysis (SA)
+
+              (SA1)-Statement from the most senior decision maker of the organisation
+              about the relevance of sustainability to the organisation and its strategy.
+              (SA2)-Description of key impacts, risks and opportunities.
+
+           Organizational Profile (OP)
+
+              (OP1)-Name of the organisation.
+              (OP2)-Primary brands, products, and/or services.
+              (OP3)-Operational structure of the organization, including main divisions,
+              operating companies, subsidiaries, and joint ventures.
+              (OP4)-Location of organization's headquarters.
+              (OP5)-Number of countries where the organization operates, and names of
+              countries with either majör operations or that are specifically relevant to the
+              sustainability issues covered in the report.
+              (OP6)-Nature of ownership and legal form.
+              (OP7)-Markets served.
+              (OP8)-Scale of the reporting organization.
+              (OP9)-Significant changes during the reporting period regarding size,
+              structure, or ownership.
+              (OP10)-Awards received in the reporting period.
+
+           Report Parameters (RP)
+
+              (RP1)-Reporting period for information provided.
+              (RP2)-Date of most recent report.
+              (RP3)-Reporting cycle.
+              (RP4)-Contact point for questions regarding the report or its contents.
+              (RP5)-Process for defining report content.
+              (RP6)-Boundary of the report.
+              (RP7)-State any specific limitations on the scope or boundary of the report.
+              (RP8)-Basis for reporting on joint ventures, subsidiaries, leased facilities,
+              outsourced operations, and other entities that can significantly affect
+              comparability from period to period and/or between organizations.
+              (RP9)-Data measurement techniques and the bases of calculations, including
+              assumptions and techniques underlying estimations applied to the compilation
+              of the Indicators and other information in the report.
+              (RP10)-Explanation of the effect of any restatements of information provided
+              in earlier reports, and the reasons for such re-statement.
+              (RP11)-Significant changes from previous reporting periods in the scope,
+              boundary, or measurement methods applied in the report.
+              (RP12)-Table identifying the location of the Standard Disclosures in the report.
+                  Proceedings of 7th European Business Research Conference
+                  15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                 ISBN: 978-1-925488-203-4
+
+     (RP13)-Policy and current practice with regard to seeking external assurance
+     for the report.
+
+   Governance, Commitments and Engagement (GCE)
+
+     (GCE1)-Governance structure of the organization.
+     (GCE2)-Governance structure of the organization.
+     (GCE3)-For organizations that have a unitary board structure, state the
+     number and gender of members of the highest governance body that are
+     independent and/or non-executive members.
+     (GCE4)-Mechanisms for shareholders and employees to provide
+     recommendations or direction to the highest governance body.
+     (GCE5)-Linkage between compensation for members of the highest
+     governance body, senior managers, and executives and the organization's
+     performance.
+     (GCE6)-Processes in place for the highest governance body to ensure
+     conflicts of interest are avoided.
+     (GCE7)-Process for determining the composition, qualifications, and expertise
+     of the members of the highest governance body and its committees.
+     (GCE8)-Internally developed statements of mission or values, codes of
+     conduct, and principles relevant to economic, environmental, and social
+     performance and the status of their implementation.
+     (GCE9)-Procedures of the highest governance body for overseeing the
+     organization's identification and management of economic, environmental,
+     and social performance.
+     (GCE10)-Processes for evaluating the highest governance body's own
+     performance, particularly with respect to economic, environmental, and social
+     performance.
+     (GCE11)-Explanation of whether and how the precautionary approach or
+     principle is addressed by the organization Address the organisations approach
+     to risk management in operational planning or the development and
+     introduction of new products.
+     (GCE12)-Externally developed economic, environmental, and social charters,
+     principles, or other initiatives to which the organization subscribes or endorses.
+     (GCE13)-Memberships in associations and/or national/international advocacy
+     organizations.
+     (GCE14)-List of stakeholder groups engaged by the organization.
+     (GCE15)-Basis for identification and selection of stakeholders with whom to
+     engage.
+     (GCE16)-Approaches to stakeholder engagement.
+     (GCE17)-Key topics and concerns that have been raised through stakeholder
+     engagement, and how the organization has responded to those key topics and
+     concerns, including through its reporting.
+
+Management Approach and Performance Indicators
+
+   Economic Performance Indicators (EC)
+
+     (EC1)-Direct economic value generated and distributed.
+     (EC2)-Financial implications and other risks and opportunities for the
+     organisations activities due to climate change fırsatlar.
+     (EC3)-Coverage of the organisation’s defined benefit plan obligations.
+               Proceedings of 7th European Business Research Conference
+               15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                              ISBN: 978-1-925488-203-4
+
+  (EC4)-Significant financial assistance received from government.
+  (EC5)-Range of ratios of standard entry level wage compared to local minimum
+  wage at significant locations of operation.
+  (EC6)-Policy, practices, and proportion of spending on locally based suppliers
+  at significant locations of operation.
+  (EC7)-Procedures for local hiring and proportion of senior management hired
+  from the local community at locations of significant operation.
+  (EC8)-Development and impact of infrastructure investments and services
+  provided primarily for public benefit through commercial, in-kind, or pro-bono
+  engagement.
+  (EC9)-Understanding and describing significant indirect economic impacts.
+
+Environmental Performance Indicators (EN)
+
+  (EN1)-Materials used by weight or volume.
+  (EN2)-Percentage of materials used that are recycled input materials.
+  (EN3)-Direct energy consumption by primary energy source.
+  (EN4)-Indirect energy consumption by primary source.
+  (EN5)-Energy saved due to conservation and efficiency improvements.
+  (EN6)-Initiatives to provide energy-efficient or renewable energy based
+  products and services, and reductions in energy requirements as a result of
+  these initiatives.
+  (EN7)-Initiatives to reduce indirect energy consumption and reductions
+  achieved.
+  (EN8)-Total water withdrawal by source.
+  (EN9)-Water sources significantly affected by withdrawal of water.
+  (EN10)-Percentage and total volume of water recycled and reused.
+  (EN11)-Location and size of land owned, leased, managed in, or adjacent to,
+  protected areas and areas of high biodiversity value outside protected areas.
+  (EN12)-Description of significant impacts of activities, products, and services
+  on biodiversity in protected areas and areas of high biodiversity value outside
+  protected areas.
+  (EN13)-Habitats protected or restored.
+  (EN14)-Strategies, current actions, and future plans for managing impacts on
+  biodiversity.
+  (EN15)-Number of IUCN Red List species and national conservation list
+  species with habitats in areas affected by operations, by level of extinction risk.
+  (EN16)-Total direct and indirect greenhouse gas emissions by weight.
+  (EN17)-Other relevant indirect greenhouse gas emissions by weight.
+  (EN18)-Initiatives to reduce greenhouse gas emissions and reductions
+  achieved.
+  (EN19)-Emissions of ozone-depleting substances by weight.
+  (EN20)-NOx, SOx, and other significant air emissions by type and weight.
+  (EN21)-Total water discharge by quality and destination.
+  (EN22)-Total weight of waste by type and disposal method.
+  (EN23)-Total number and volume of significant spills.
+  (EN24)-Weight of transported, imported, exported, or treated waste deemed
+  hazardous under the terms of the Basel Convention Annex I, II, III, and VIII,
+  and percentage of transported waste shipped internationally.
+  (EN25)-Identity, size, protected status, and biodiversity value of water bodies
+  and related habitats significantly affected by the reporting organization's
+  discharges of water and runoff.
+              Proceedings of 7th European Business Research Conference
+              15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                             ISBN: 978-1-925488-203-4
+
+  (EN26)-Initiatives to mitigate environmental impacts of products and services,
+  and extent of impact mitigation.
+  (EN27)-Percentage of products sold and their packaging materials that are
+  reclaimed by category.
+  (EN28)-Monetary value of significant fines and total number of non-monetary
+  sanctions for non-compliance with environmental laws and regulations.
+  (EN29)-Significant environmental impacts of transporting products and other
+  goods and materials used for the organization's operations, and transporting
+  members of the workforce.
+  (EN30)-Total environmental protection expenditures and investments.
+
+Labour Practices and Decent Work Performance Indicators (LA)
+
+  (LA1)-Total workforce by employment type, employment contract, and region,
+  broken down by gender.
+  (LA2)-Total number and rate of new employee hires and employee turnover
+  by age group, gender, and region.
+  (LA3)-Benefits provided to full-time employees that are not provided to
+  temporary or partime employees, by major operations.
+  (LA4)-Percentage of employees covered by collective bargaining agreements.
+  (LA5)-Minimum notice period(s) regarding significant operational changes.
+  (LA6)-Percentage of total workforce represented in formal joint management-
+  worker health and safety committees that help monitor and advice on
+  occupational health and safety programs.
+  (LA7)-Rates of injury, occupational diseases, lost days, and absenteeism, and
+  number of work-related fatalities by region and by gender.
+  (LA8)-Education, training, counselling, prevention, and risk-control programs
+  in place to assist workforce members, their families, or community members
+  regarding serious diseases.
+  (LA9)-Health and safety topics covered in formal agreements with trade
+  unions.
+  (LA10)-Average hours of training per year per employee by gender, and by
+  employee category.
+  (LA11)-Programs for skills management and lifelong learning that support the
+  continued employability of employees and assist them in managing career
+  endings.
+  (LA12)-Percentage of employees receiving regular performance and career
+  development reviews, by gender.
+  (LA13)-Composition of governance bodies and breakdown of employees per
+  employee category according to gender, age group, minority group
+  membership, and other indicators of diversity.
+  (LA14)-Ratio of basic salary and remuneration of women to men by employee
+  category, by significant locations of operation.
+
+Human Rights Performance Indicators (HR)
+
+  (HR1)-Percentage and total number of significant investment agreements and
+  contracts.
+  (HR2)-Percentage of significant suppliers, contractors and other business
+  partners that have undergone human rightsscreening, and actions taken.
+               Proceedings of 7th European Business Research Conference
+               15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                              ISBN: 978-1-925488-203-4
+
+  (HR3)-Total hours of employee training on policies and procedures concerning
+  aspects of human rights that are relevant to operations, including the
+  percentage of employees trained.
+  (HR4)-Total number of incidents of discrimination and actions taken.
+  (HR5)-Operations and significant suppliers identified in which the right to
+  exercise freedom of association and collective bargaining may be violated or
+  at significant risk, and actions taken to support these rights.
+  (HR6)-Operations and significant suppliers identified as having significant risk
+  for incidents of child labour, and measures taken to contribute to the effective
+  abolition of child labour.
+  (HR7)-Operations and significant suppliers identified as having significant risk
+  for incidents of forced or compulsory labour, and measures to contribute to the
+  elimination of all forms of forced or compulsory labour.
+  (HR8)-Percentage of security personnel trained in the organization's policies
+  or procedures concerning aspects of human rights that are relevant to
+  operations.
+  (HR9) Total number of incidents of violations involving rights of indigenous
+  people and actions taken.
+
+Product Responsibility Performance Indicators (PR)
+
+  (PR1)-Life cycle stages in which health and safety impacts of products and
+  services are assessed for improvement, and percentage of significant products
+  and services categories subject to such procedures.
+  (PR2)-Total number of incidents of noncompliance with regulations and
+  voluntary codes concerning health and safety impacts of products and services
+  during their life cycle, by type of outcomes.
+  (PR3)-Type of product and service information required by procedures and
+  percentage of significant products and services subject to such information
+  requirements.
+  (PR4)-Total number of incidents of noncompliance with regulations and
+  voluntary codes concerning product and service information and labelling, by
+  type of outcomes.
+  (PR5)-Practices related to customer satisfaction, including results of surveys
+  measuring customer satisfaction.
+  (PR6) Programs for adherence to laws, standards, and voluntary codes related
+  to marketing communications, including advertising, promotion, and
+  sponsorship.
+  (PR7)-Total number of incidents of noncompliance with regulations and
+  voluntary codes concerning marketing communications.
+  (PR8)-Total number of substantiated complaints regarding breaches of
+  customer privacy and losses of customer data.
+  (PR9) Monetary value of significant fines for noncompliance with laws and
+  regulations concerning the provision and use of products and services.
+
+Social Performance Indicators (SO)
+
+  (SO1)-Percentage of operations with implemented local community
+  engagement, impact assessments, and development programs.
+  (SO2)-Percentage and total number of business units analyzed for risks
+  related to corruption.
+                             Proceedings of 7th European Business Research Conference
+                             15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                            ISBN: 978-1-925488-203-4
+
+                (SO3)-Percentage of employees trained in organization's anti-corruption
+                policies and procedures.
+                (SO4)-Actions taken in response to incidents of corruption.
+                (SO5) Public policy positions and participation in public policy development
+                and lobbying.
+                (SO6)-Total value of financial and in-kind contributions to political parties,
+                politicians, and related institutions by country.
+                (SO7)-Total number of legal actions for anticompetitive behaviour, anti-trust,
+                and monopoly practices and their outcomes.
+                (SO8)-Monetary value of significant fines and total number of non-monetary
+                sanctions for non-compliance with laws andregulations.
+
+4. Findings
+Firstly, frequency distrubitions of strategy and profile disclosures were calculated in the
+study. According to the Table 1, all companies fully disclosed OP1, OP2, OP3, OP4, RP3,
+RP4, RP6, and RP12. Contrarily, GCE10 is the most undisclosed indicator.
+
+  Table 1: Frequency Distrubition Results of Disclosures on Strategy and Profile
+                                   Indicators
+   Strategy                Frequency               Strategy and             Frequency
+  and Profile                                         Profile
+  Indicators    Undis     Partially      Fully      Indicators    Undis     Partially     Fully
+                closed   Disclosed     Disclosed                  closed   Disclosed    Disclosed
+    SA1              -            2           94      RP10            7             -          89
+    SA2             23            6           67      RP11            5             -          91
+    OP1              -            -           96      RP12            -             -          96
+    OP2              -            -           96      RP13           16             1          79
+    OP3              -            -           96     GCE1             1             1          94
+    OP4              -            -           96     GCE2             3             -          93
+    OP5              1            -           95     GCE3             3             1          92
+    OP6              3            1           92     GCE4             3             7          86
+    OP7              -            1           95     GCE5            28             6          62
+    OP8              -            4           92     GCE6            23             2          71
+    OP9              -            1           95     GCE7            28             2          66
+    OP10             1            -           95     GCE8            18             2          76
+    RP1              -            1           95     GCE9            27             4          65
+    RP2              1            -           95     GCE10           30             7          59
+    RP3              -            -           96     GCE11           21             2          73
+    RP4              -            -           96     GCE12           15             -          81
+    RP5              -            5           91     GCE13           13             2          81
+    RP6              -            -           96     GCE14            1             2          93
+    RP7              1            -           95     GCE15            6             8          82
+    RP8              5            -           91     GCE16           17             3          76
+    RP9             12            4           80     GCE17           21             5          70
+
+As seen in Table 2, EC1 is the most fully disclosed indicator among Economic Performance
+Indicators. Conversely, EC6 is the one has the most undisclosed among other indicators.
+                            Proceedings of 7th European Business Research Conference
+                            15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                           ISBN: 978-1-925488-203-4
+
+ Table 2: Frequency Distrubition Results of Disclosures on Economic Performance
+                                    Indicators
+  Economic                Frequency                                            Frequency
+                                                     Economic
+  Performan
+               Undis     Partially       Fully      Performance     Undis     Partially       Fully
+      ce
+               closed   Disclosed      Disclosed     Indicators     closed   Disclosed      Disclosed
+  Indicators
+     EC1           7             21           69        EC6            39             13           44
+     EC2          34             26           36        EC7            29             22           45
+     EC3          29             18           49        EC8            11             21           64
+     EC4          32              5           59
+                                                        EC9            29             27           40
+     EC5          36             21           39
+According to the frequency distribution results in Table 3, the most fully disclosed indicator
+of environmental performance indicators is EN8. In other respect, EN19 and EN24 are the
+most undisclosed indicators.
+
+     Table 3: Frequency Distrubition Results of Disclosures on Environmental
+                             Performance Indicators
+  Environme               Frequency                 Environmenta               Frequency
+     ntal                                           l Performance
+  Performan                                            Indicators
+      ce       Undis     Partially       Fully                      Undis     Partially       Fully
+  Indicators   closed   Disclosed      Disclosed                    closed   Disclosed      Disclosed
+     EN1           55            11            30       EN16            33            11            52
+     EN2           50            15            31       EN17            58              7           31
+     EN3           18            17            61       EN18            22            21            53
+     EN4           31            19            46       EN19            75              1           20
+     EN5           18            20            58       EN20            62            11            23
+     EN6           26            15            55       EN21            41            10            45
+     EN7           36            23            37       EN22             9            29            58
+     EN8           14            12            69       EN23            54              3           39
+     EN9           48              4           44       EN24            75              7           14
+    EN10           62              9           25       EN25            55              5           36
+    EN11           37              2           57       EN26            14            20            62
+    EN12           53              5           38       EN27            48            16            32
+    EN13           49            10            37       EN28            39              1           56
+    EN14           48            15            33       EN29            45            23            28
+    EN15           70              -           26       EN30            44            12            40
+
+Frequency distribution results in Table 4 show that the most fully disclosed indicator of
+Labour Practices and Decent Work Performance Indicators is LA1. Contrarily, LA9 is the
+most undisclosed indicator.
+                            Proceedings of 7th European Business Research Conference
+                            15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                           ISBN: 978-1-925488-203-4
+
+  Table 4: Frequency Distrubition Results of Disclosures on Labour Practices and
+                      Decent Work Performance Indicators
+    Labour
+                         Frequency                                         Frequency
+   Practices
+                                                     Labour
+      and
+                                                 Practices and
+    Decent
+                                                 Decent Work
+     Work      Undis     Partially     Fully                     Undis     Partially     Fully
+                                                 Performance
+  Performan    closed   Disclosed    Disclosed                   closed   Disclosed    Disclosed
+                                                   Indicators
+       ce
+  Indicators
+     LA1           2            15          79        LA8           21            19          56
+     LA2          14            28          54        LA9           49             8          39
+     LA3          32             4          60       LA10            7            32          57
+     LA4          30             -          66       LA11           18            17          61
+     LA5          25             5          66       LA12           13            19          64
+     LA6          42             7          47       LA13           14            22          60
+     LA7          16            28          52       LA14           31             6          59
+
+As seen in Table 5, while the most fully disclosed indicator of human rights performance
+indicators is HR6, the most undisclosed indicator is HR3.
+
+      Table 5: Frequency Distrubition Results of Disclosures on Human Rights
+                              Performance Indicators
+    Human                Frequency                                         Frequency
+                                                    Human
+    Rights
+                                                    Rights
+  Performan
+               Undis     Partially     Fully     Performance     Undis     Partially     Fully
+      ce
+               closed   Disclosed    Disclosed    Indicators     closed   Disclosed    Disclosed
+  Indicators
+     HR1          50            20          26       HR6            14             8          74
+     HR2          42            20          34       HR7            19             8          69
+     HR3          58             9          29       HR8            54             -          42
+     HR4          18            10          68
+                                                     HR9            54             5          37
+     HR5          30            10          56
+
+Table 6 indicates that PR5 is the most fully disclosed indicator of Product Responsibility
+Performance Indicators. Thereagainst, PR4 is the most undisclosed indicator.
+
+ Table 6: Frequency Distrubition Results of Disclosures on Product Responsibility
+                              Performance Indicators
+   Product
+                         Frequency                 Product                 Frequency
+  Responsib
+                                                 Responsibilit
+     ility
+                                                       y
+  Performan    Undis     Partially     Fully                     Undis     Partially     Fully
+                                                 Performance
+      ce       closed   Disclosed    Disclosed                   closed   Disclosed    Disclosed
+                                                  Indicators
+  Indicators
+     PR1          44            11          41       PR6            36            12          48
+     PR2          52             1          43       PR7            48             4          44
+     PR3          32             6          58       PR8            40             5          51
+     PR4          50             1          45
+                                                     PR9            43             3          50
+     PR5           9            14          73
+
+According to the frequency distribution results in Table 7, while the most fully disclosed
+indicator of Social Performance Indicators is SO4, the most undisclosed indicator is SO7.
+                            Proceedings of 7th European Business Research Conference
+                            15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                           ISBN: 978-1-925488-203-4
+
+   Table 7: Frequency Distrubition Results of Disclosures on Social Performance
+                                    Indicators
+    Social
+                         Frequency                    Social                Frequency
+  Performan
+                                                   Performance
+      ce       Undis     Partially      Fully                    Undis     Partially       Fully
+                                                    Indicators
+  Indicators   closed   Disclosed     Disclosed                  closed   Disclosed      Disclosed
+     SO1           27            26           43      SO5            46              9           41
+     SO2           28            29           39      SO6            49              2           45
+     SO3           33            16           47      SO7            51              1           44
+     SO4           25            13           58      SO8            47              -           49
+When the study results are summarized, it is seen that disclosures on Strategy and Profile
+Indicators are more than disclosures on Management Approach and Performance Indicators
+in GRI reports of companies in Turkey. Aktaş et al. (2013) and Maubane et al. (2014)
+concluded similar results in their studies. It is believed that the main reason for this results
+is additional cost of technical knowledge and calculation for economic, environmental and
+social performance indicators.
+
+5. Conclusion
+Growing significance of sustainability reveals that companies are an important tool to bring
+current situation about sustainability practices in the World into view. Therefore, corporate
+dimension of sustainability has emerged. Corporate sustainability, called business
+sustainability, deals with economic, environmental, social and managerial issues. Besides,
+developments related to corporate sustainability are tracked through sustainability reports.
+
+This study indicates that disclosures on Strategy and Profile Indicators are more than
+disclosures on Management Approach and Performance Indicators in Turkey. The most
+disclosed indicators in the Management Approach and Performance Indicators are
+respectively economic, social and environmental performance indicators. Economic
+performance indicators are the most disclosed indicators since companies are already
+preparing their financial reports. However, environmental performance indicators are the
+least disclosed indicators in Turkey since their calculation and reporting is costly and
+requires extra time and qualified staff. On the other hand, there is an increasing interest in
+sustainability reporting in Turkey. The lack of relevant regulations and qualified staffs and
+the additional costs of sustainability reporting can be considered as the reasons of
+insufficient number of prepared sustainability reports in Turkey.
+
+It is believed that results of this study may provide guidance to academics for future studies
+on sustainability issue. Besides, it can help them to see deficiencies related to sustainability
+in the literature. It is expected that this study will also provide awareness on sustainability
+and its importance by academics and all of the other information users. In addition, the study
+results may help business managers to improve their performance on sustainability and
+policy makers to make new regulations on sustainability reporting. Moreover, this study will
+contribute significantly to the literature since new researches in Turkey have been started
+studies related to sustainability, which has been already the subject of many international
+conferences and seminars in recent years.
+                             Proceedings of 7th European Business Research Conference
+                             15 - 16 December 2016, University of Roma Tre, Rome, Italy
+                                                            ISBN: 978-1-925488-203-4
+
+   References
+   Aktaş, R., Kayalıdere, K. and Kargın, M. (2013). Corporate Sustainability Reporting and
+        Analysis of Sustainability Reports in Turkey. International Journal Economics and
+        Finance, 5(3), pp. 113-125.
+   Altunbaş, D. (2008). The Role of Local Managements in Urban Sustainability: The İzmir
+        Metropolitan Municipality Example. MS. Çanakkale Onsekiz Mart University.
+   Alcaraz Quiles, F.J., Navarro-Galera, A. and Ortiz-Rodriguez, D. (2015). Factors
+        Determining Online Sustainability Reporting by Local Governments. International
+        Review of Administrative Sciences, 81(1), pp. 79-109.
+   Dong, S. (2011). An Assessment of CSR Reporting Practice in China’s Mining and Minerals
+        Industry. [online] www.unisa.edu.au. Available at: https:// www.unisa.edu.au
+        /Global/business /centres/cags/ docs/seminars/ Paper%20Shidi.pdf [Accessed 1 Feb.
+        2015].
+   GlaxoSmithKline (2013). Global Reporting Initiative (GRI) Index. [online]
+        www.globalreporting.org. Available at: https://www.globalreporting.org/standards
+        [Accessed 1 Feb. 2015].
+   Guthrie, J. and Abeysekera, I. (2006). ContentAnalysis of Social, Environmental Reporting:
+        What is New? Journal of Human Resource Costing and Accounting, 10(2),. pp. 114-
+        126.
+   Hinson, R., Gyabea, A. and Masud, I. (2015). Sustainability Reporting among Ghanaian
+        Universities. Communicatio, 41(1), pp. 22-42.
+   Huang, T. and Wang, A. (2010). Sustainability Reports in China: Content Analysis. In: 2010
+        International Conference on Future Information Technology and Management
+        Engineering. Cape Town: Curran Associates, pp. 154-158.
+   Kozlowski, A., Searcy, C. and Bardecki, M. (2015). Corporate Sustainability Reporting in the
+        Apparel İndustry. International Journal of Productivity and Performance Management,
+        64(3), pp. 377-397.
+   Leszczynska, A. (2012). Towards Shareholders’ Value: An Analysis of Sustainability
+        Reports. Industrial Management & DataSystems, 112(6), pp. 911-928.
+   Maubane, P., Prinsloo, A. and Van Rooyen, N. (2014). Review Sustainability Reporting
+        Patterns of Companies Listed on the Johannesburg Securities Exchange. Public
+        Relations Review, 40, pp. 153-160.
+   Roca, L. and Searcy, C. (2011). An Analysis of İndicators Disclosed in Corporate
+        Sustainability Reports. Journal of Cleaner Production, 120, pp. 103-118.
+   Sobhani, F.A., Amran, A. and Zauniddin, Y. (2012). Sustainability Disclosure in Annual
+        Reports and Websites: A Study of the Banking Industry in Bangladesh. Journal of
+        Cleaner Production, 23, pp. 75-85.
+   Yanık, S. and Türker, İ. (2012). Developments in Sustainability and Social Responsibility
+        Reporting (Integrated Reporting). Istanbul University Journal of Faculty of Political
+        Sciences, 47, pp. 291-308.
+   Yönet, N. K. (2010). The Role of Professionally Qualified Accountants in Corporate
+        Sustainability Reporting. Journal of Istanbul University Graduate School of Business
+        Management, 21(65), pp. 65-80.
+
+
+
+
+View publication stats
+

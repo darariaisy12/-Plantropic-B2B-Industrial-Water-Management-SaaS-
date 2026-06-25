@@ -2,30 +2,37 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { useRouter } from 'next/navigation'
-; // Tambahkan ini
+import { useRouter } from 'next/navigation';
 import AppLogo from '@/components/ui/AppLogo';
+import { createClient } from '@/lib/supabase/client';
 
 export default function LoginPage() {
-  const router = useRouter(); // Inisialisasi router
+  const router = useRouter();
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
   const [showPassword, setShowPassword] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
     setLoading(true);
-    
-    // Simulasi proses autentikasi (misal: verifikasi ke backend)
-    setTimeout(() => {
-      setLoading(false);
-      // Set auth state in localStorage
-      localStorage.setItem('isLoggedIn', 'true');
-      localStorage.setItem('userName', 'John Doe');
-      // Redirect to homepage
-      router.push('/'); 
-    }, 1500);
+
+    const supabase = createClient();
+    const { error: signInError } = await supabase.auth.signInWithPassword({
+      email,
+      password,
+    });
+
+    setLoading(false);
+    if (signInError) {
+      setError(signInError.message);
+      return;
+    }
+
+    router.push('/dashboard');
+    router.refresh();
   };
 
   return (
@@ -211,6 +218,17 @@ export default function LoginPage() {
                 Keep me signed in
               </label>
             </div>
+
+            {/* Error message */}
+            {error && (
+              <p
+                role="alert"
+                className="text-sm rounded-xl px-4 py-2.5"
+                style={{ background: 'rgba(220,38,38,0.08)', color: '#b91c1c' }}
+              >
+                {error}
+              </p>
+            )}
 
             {/* Submit */}
             <button

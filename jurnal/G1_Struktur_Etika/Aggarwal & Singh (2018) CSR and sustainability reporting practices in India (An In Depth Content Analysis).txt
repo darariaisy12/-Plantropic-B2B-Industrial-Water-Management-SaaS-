@@ -1,0 +1,1091 @@
+CSR and sustainability reporting practices
+in India: an in-depth content analysis of
+top-listed companies
+Priyanka Aggarwal and Ajay Kumar Singh
+
+
+
+
+Abstract                                                                                                                                Priyanka Aggarwal is based
+Purpose – The purpose of this paper is to comprehensively analyze the corporate social responsibility                                   at the Shri Ram College of
+(CSR) and sustainability reporting (SR) practices of Indian companies in terms of disclosure quantity and                               Commerce, University of
+quality, and to investigate the differences in SR practices by SR dimension, industry, ownership structure,                             Delhi, New Delhi, India.
+firm size and profitability.                                                                                                            Ajay Kumar Singh is based
+Design/methodology/approach – Data are collected from annual reports/business responsibility                                            at the Department of
+reports (BRR)/CSR/sustainability reports of 60 top-listed companies in India. A comprehensive
+                                                                                                                                        Commerce, Delhi School of
+sustainability reporting index is developed. Content analysis technique is used. Inter-coder reliability is
+                                                                                                                                        Economics, University of
+established.
+                                                                                                                                        Delhi, New Delhi, India.
+Findings – Altogether, 18 items of the index are not disclosed by the majority of companies in India. SR
+quality is found significantly lower than the SR quantity. Moreover, SR practices significantly differ by
+dimension/category, industry-type and firm-size but are not influenced by ownership structure. However,
+the study fails to establish any conclusive relationship between SR and profitability.
+Practical implications – The present study has several implications for corporates, practitioners,
+policymakers and stakeholders. The findings underscore the need for amendments in the Global
+Reporting Initiative guidelines and BRR framework of the Securities and Exchange Board of India to avoid
+patchy disclosures and ensure complete reporting by companies.
+Originality/value – This study is among the foremost studies in India evaluating SR practices of top-
+listed companies in the wake of the mandatory BRR requirement from a quantitative as well as qualitative
+perspective using a multidimensional index.
+Keywords Content analysis, Integrated reporting, Sustainability reporting,
+Corporate social responsibility (CSR), Global Reporting Initiative (GRI),
+Business responsibility reporting (BRR)
+Paper type Research paper
+
+
+
+Introduction
+The concept of corporate social responsibility (CSR) dates back to the 1950s. Howard
+R. Bowen – considered the pioneer of CSR – defined CSR as “the obligations of
+businessmen to pursue those policies, to make those decisions, or to follow those lines
+of action which are desirable in terms of objectives and values of our society” (Bowen,
+1953, p. 6).
+The stakeholders, being more cognizant, have been progressively demanding information on                                                Received 27 March 2018
+non-financial performance of companies. Sustainability reporting (SR) is, thus, a pertinent                                             Revised 3 May 2018
+                                                                                                                                        14 June 2018
+issue for companies today. It is defined by the Global Reporting Initiative (GRI) as –“the                                              9 August 2018
+                                                                                                                                        Accepted 29 September 2018
+practice of measuring, disclosing and being accountable to internal and external stakeholders
+                                                                                                                                        Note: There is no potential
+for organizational performance toward the goal of sustainable development” (Global Reporting                                            conflict of interest in this
+Initiative, 2011).                                                                                                                      research.
+
+
+
+
+DOI 10.1108/SRJ-03-2018-0078               VOL. 15 NO. 8 2019, pp. 1033-1053, © Emerald Publishing Limited, ISSN 1747-1117   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1033
+                                           According to KPMG, “sustainability reports include quantitative and qualitative information
+                                           on financial, social and environmental performance of companies in a balanced way” (Kolk
+                                           et al., 2002).
+                                           According to the KPMG Survey 2015, four developing countries including India emerged as
+                                           frontrunners in SR; however, Europe was the leader in 2011 (KPMG, 2015). The quality and
+                                           reliability of CSR/SR is a great concern even for developed nations; e.g. Swiss companies
+                                           have an average SR score of only 33 per cent (Daub, 2007). Moreover, multiple standards
+                                           exist in this realm, e.g. GRI, SA8000, ISO 26000, etc. causing inconsistency in SR. India is
+                                           among the leading countries that formally recognizes CSR with mandatory CSR spending
+                                           and reporting regulations. The purpose of this paper is to assess the status of CSR/SR in
+                                           India from the quantitative and qualitative perspectives, especially in the wake of mandatory
+                                           BRR requirement by the SEBI. Particularly, the present study seeks to explore the following
+                                           research questions (RQs) in Indian context:
+                                               RQ1. Which sustainability issues/topics currently lack attention from Indian corporates
+                                                    and managers?
+                                               RQ2. What are the plausible motives behind sustainability reporting in India – regulatory
+                                                    pressure vs voluntary approach?
+                                               RQ3. Is there any significant difference between the quantity and quality of sustainability
+                                                    disclosures?
+                                               RQ4. Do SR practices differ across dimensions/categories?
+                                               RQ5. Do SR practices differ by industry-type?
+                                               RQ6. Do SR practices of environmentally sensitive companies differ from other
+                                                    companies?
+                                               RQ7. Is there any difference in SR by ownership structure?
+                                               RQ8. Is SR influenced by economic/corporate financial performance (CFP) indicators?
+
+
+                                           Theoretical background
+                                           The drivers of SR include firm-size, profitability, age, media-exposure, ownership structure
+                                           and capital structure (Dienes et al., 2016). The probable motives of companies behind
+                                           undertaking SR are discussed below.
+
+
+                                           Regulatory pressure
+                                           In some form, CSR/SR has entered into the realm of mandatory requirements in several
+                                           countries. The G20 members – European Union and 19 countries including India, China and
+                                           the UK and USA– require environmental, social and governance (ESG) disclosures. Such
+                                           regulations impel companies to undertake SR to avoid disciplinary actions. This can be
+                                           linked to the legal dimension of CSR, wherein organizations are expected to meet only
+                                           minimum legal requirements (Carroll, 1991). Thus, if a company makes meager disclosures
+                                           only to comply with the SEBI BRR requirement and doesn’t voluntarily disclose information
+                                           as per global standards such as GRI; such a company is perhaps reporting merely out of
+                                           regulatory pressure.
+
+
+                                           Legitimacy theory
+                                           Legitimacy theory proposes existence of an apparent contract between the company and
+                                           society, which compels companies to meet societal norms to ensure their survival (Burhan
+                                           and Rahmanti, 2012; Schmelzer, 2013). CSR/SR lends legitimacy/acceptability to corporate
+                                           actions by influencing the public perception affirmatively and helps in avoiding undesirable
+                                           media coverage (Patten, 1992; Deegan, 2002; Campbell et al., 2003). Thus, legitimacy
+
+
+
+PAGE 1034   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+theory propagates the ethical dimension of CSR, wherein firms are expected to comply with
+social norms beyond legal requirements (Carroll, 1991). Thus, if a company makes
+considerably more society/community disclosures over other dimensions, it is possibly
+driven by legitimacy theory.
+
+
+Stakeholder theory
+Stakeholder theory advocates that organizations should pursue the interests of all
+stakeholder groups, including investors, customers, suppliers, employees, government,
+community and environment in an equitable manner (Clarkson, 1995). Stakeholders are
+capable of affecting the organization’s performance and reputation. SR helps firms in
+building strong ties with stakeholders yielding several benefits such as lower risk, enhanced
+reputation and competitive advantage (Barnett, 2007; Schmelzer, 2013). Stakeholder theory
+corresponds to the discretionary dimension of CSR, which urges organizations to be good
+corporate citizens who contribute back to the society while going beyond social norms and
+laws (Carroll, 1991). Therefore, the companies that voluntarily disclose ESG information with
+quantitative data while catering to stakeholders across-the-board are adopting the
+stakeholder theory perspective.
+
+
+Literature review and hypotheses development
+CSR research gained popularity in the 1980s. Initially, CSR studies were conducted only in
+developed countries such as the USA and UK. Several previous researchers have
+investigated the determinants of CSR/sustainability disclosures in terms of firm-specific
+factors such as firm-size, profitability, industry and ownership structure (Jain and Winner,
+2016; Mertens et al., 2012).
+
+
+Corporate social responsibility/sustainability reporting in India
+CSR has become a buzzword for India Inc. in recent years, particularly after the enactment
+of the New Companies Act, 2013, which requires companies to spend at least 2 per cent of
+their average profits on CSR activities. CSR/SR in India commenced in the 1980s with the
+mandatory disclosure on the Conservation of Energy in Directors’ Report. Over the years,
+India has progressed radically in the sphere of CSR. In 2012, the SEBI made it mandatory
+for the top 100 listed companies to practice the National Voluntary Guidelines (NVG) on
+social, environmental and economic responsibility issued by the Ministry of Corporate
+Affairs (MCA) and to uniformly disclose their CSR activities in BRR as part of the Annual
+Report (SEBI, 2012, August 13). From April 1, 2016 onward, the BRR requirement has been
+extended to the top 500 listed companies. SEBI has also clarified that failure to provide BRR
+shall be interpreted as non-compliance with Clause 55 of the listing agreement calling for
+grave aftermaths such as heavy penalties, fines, suspensions and even delisting if non-
+compliance persists. Recently, the SEBI recommended and urged the top 500 listed
+companies to embrace integrated reporting on a voluntary basis from financial year (FY)
+2017-18. Figure 1 illustrates the progression of CSR/sustainability in India.
+Only a few studies have investigated CSR/SR practices in India, especially after the
+aforesaid regulatory developments. Some notable Indian studies in recent times are Laskar
+and Maji (2016); and Jain and Winner (2016). The previous studies largely analyzed CSR
+disclosures in terms of presence/absence in corporate reports while ignoring the quality
+aspect. Also, social and environmental dimensions alone have been emphasized hitherto,
+while there is a dearth of research on other dimensions such as human rights and
+governance (Murray et al., 2006; Bayoud et al., 2012; Khaveh et al., 2012). Moreover,
+previous studies predominantly assessed disclosures based on the GRI guidelines and
+overlooked the Indian scenario. The current study seeks to bridge this gap.
+
+
+
+                                                                           VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1035
+                                             Figure 1      Progression of CSR and sustainability in India
+
+
+
+
+                                           Sustainability reporting quantity and quality
+                                           Previous studies have mostly used binary scale (0-1; Yang et al., 2010; Kapoor and
+                                           Sandhu, 2010; Faisal et al., 2012), while only a few studies used multiple-scoring scale to
+                                           evaluate CSR disclosures (Yi and Yu, 2010; Guidry and Patten, 2010; Ameer and Othman,
+                                           2012). On the basis of graphical analysis, Laskar and Maji (2016) concluded that a
+                                           difference between level (0-1) and quality (four-point scale) of CSR disclosures is
+                                           insignificant and that both have the same impact on CFP. There is a need to empirically
+                                           probe whether the number of sustainability disclosures (quantity) and quality thereof are
+                                           essentially different. Hence, the first hypothesis is as follows:
+                                               H1. There is a significant difference between SR quantity and SR quality scores of
+                                                   companies.
+
+
+
+                                           Sustainability reporting along different sub-categories/dimensions
+                                           Sustainability reporting is a multidimensional concept. In this study, we have analyzed SR
+                                           practices along with seven dimensions, namely, economic, governance and ethics,
+                                           environment, community, customers, employees and human rights. Jain and Winner (2016)
+                                           found the environment to be the most addressed CSR dimension, followed by health and
+                                           education. The current study explores how SR practices differ among various dimensions.
+                                           Thus, the second hypothesis is as follows:
+                                               H2. There is a significant difference in sustainability reporting by dimension.
+
+
+
+PAGE 1036   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+   H2a. There is a significant difference in SR quantity by dimension.
+   H2b. There is a significant difference in SR quality by dimension.
+
+
+Sustainability reporting and industry-type
+Industry is another important variable that influences SR as different industries are subject
+to diverse social–environmental concerns. The companies belonging to environmentally
+sensitive industries (ESI) such as oil and gas and metals/mining are generally subjected to
+more stakeholder pressure than others (Neu et al., 1998; Guidry and Patten, 2010; Reverte,
+2012). Stakeholders, especially investors, pay more attention toward CSR performance of
+ESI companies, demanding more CSR information (Choi, 1999; Frost and Wilmshurst, 2000;
+Young and Marais, 2012). Consequently, ESI companies make more CSR disclosures to
+improve stakeholders’ perceptions (Patten, 1992; Pled and Latridis, 2012). Moreover, a few
+studies have concluded that there exists a more evident positive association between CSR
+disclosure quality and CFP of ESI firms (Plumlee et al., 2008; Reverte, 2012). Thus, it is
+critical to investigate the role of industry-type in general and ESI, in particular, in influencing
+SR practices in India. Consequently, the third and fourth hypotheses are as follows:
+   H3.    Sustainability reporting (SR) practices differ by industry type.
+   H3a. SR quantity differs by industry type.
+   H3b. SR quality differs by industry type.
+   H4.    SR practices of ESI companies are significantly different from non-ESI companies.
+   H4a. SR quantity of ESI companies is significantly different from non-ESI companies.
+   H4b. SR quality of ESI companies is significantly different from non-ESI companies.
+
+
+Sustainability reporting and ownership structure
+The study further attempts to gain deeper insights into SR practices in India on the basis of
+ownership structure, i.e. public vis-à-vis private sectors. Public sector enterprises are those
+in which Government has a major shareholding, while private sector companies have no
+Government stake. There are contrasting views about the importance of CSR in public and
+private sector organizations. One school of thought upholds that private sector companies
+are allegedly less CSR-oriented as they are highly profit-oriented, unlike public-sector
+undertakings (PSUs), which are governed by social objectives. Jain and Winner (2016) also
+concluded that public-sector companies make better CSR disclosures than private
+companies. In contrast, Sahu and Panigraphy (2016) observed that companies in the
+private sector perform better in CSR. To review this issue, the following fifth hypothesis is
+developed:
+   H5.    SR practices differ by ownership structure.
+   H5a. SR quantity differs by ownership structure.
+   H5b. SR quality differs by ownership structure.
+
+
+Sustainability reporting and economic performance
+Several researchers in past have examined the linkage between SR and CFP (Buys et al.,
+2011; Burhan and Rahmanti, 2012). According to slack resources view, financially
+prosperous companies have more surplus resources and hence expected to be more
+committed toward CSR (Udayasankar, 2008; Palmer, 2012). According to political cost
+perspective, big companies are more exposed to media, public and socio-regulatory
+pressure and hence are more likely to communicate their CSR activities to gain legitimacy
+(Cormier and Magnan, 2003; Setyorini and Ishak, 2012). Drawing on aforesaid arguments,
+
+
+
+                                                                                VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1037
+                                           CSR/SR has been examined vis-à-vis two economic performance indicators – firm-size and
+                                           profitability. Consequently, the sixth and seventh hypotheses are as follows:
+                                               H6.      Large-sized companies perform better in terms of sustainability reporting.
+                                               H6a. Large-sized companies have higher SR quantity.
+                                               H6b. Large-sized companies have better SR quality.
+                                               H7.      More profitable companies perform better in terms of SR.
+                                               H7a. More profitable companies have higher SR quantity.
+                                               H7b. More profitable companies have better SR quality.
+
+
+                                           Research design: sample, data and method
+                                           Sample selection
+                                           The final sample consists of 60 non-financial companies having BRR/CSR/SR selected out
+                                           of top 100 companies listed at NSE (India). Sample distribution by industry type is
+                                           described in Figure 2.
+
+
+                                           Data
+                                           CSR/sustainability data of selected companies for the year ended March 31, 2014 have
+                                           been exhaustively searched and obtained from corporate websites, CSR/sustainability/
+                                           BRR/Annual Reports, CSR Policy Statements, etc. 2013-2014 has been chosen as study
+                                           period since India witnessed major CSR reforms during 2013, e.g. formal recognition of
+                                           CSR under the New Companies Act, 2013 and regulations on mandatory CSR spending
+                                           and BRR.
+                                           Further, financial data are retrieved from the Prowess database. The study uses two
+                                           economic/CFP indicators – firm-size and profitability. On the basis of past studies, firm size
+                                           is measured using natural logarithm of market capitalization, while profitability is measured
+                                           using return on assets (ROA; Manescu, 2011; Moneva and Cuellar, 2009).
+
+
+
+
+                                             Figure 2      Sample distribution by industry-type
+
+
+
+
+PAGE 1038   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+Content analysis process
+Content analysis is a qualitative research technique used to interpret and draw inferences in
+an objective/systematic and quantifiable manner by evaluating textual material such as
+reports against predetermined criteria. It has been extensively used in previous CSR
+communication research (Abbott and Monsen, 1979; Morhardt et al., 2002; Daub, 2007;
+Vormedal and Ruud, 2009).
+First, we developed a comprehensive Sustainability Reporting Index (SRI) based on several
+standards and guidelines, particularly bearing in mind the Indian scenario, viz. GRI G4
+guidelines, UNGC Principles, ISO 26000, SA 8000, NVG by MCA, SEBI–BRR Framework
+and Companies Act, 2013. The 80-item equally weighted index comprises 7 dimensions,
+namely, economic (8 items), governance and ethics (15), environment (16), community (9),
+customers and product responsibility (8), employees and labor practices (17) and human
+rights (7), as presented in Figure 3. See “Appendix 1” for the complete index.
+Subsequently, coding has been done by authors from a qualitative and quantitative
+perspective. To examine SR quantity, the presence of each item is checked in the corporate
+reports and website of each company and a score of 0 (absence) or 1 (presence) is
+assigned accordingly. The disclosures are further assessed in terms of quality using a six-
+point (0-5) scale, which has been used for the first time for evaluating CSR/sustainability
+disclosures. The scale has been developed based on previous studies – Daub (2007),
+Vormedal and Ruud (2009) – and is described in Table I. The scores so obtained are then
+expressed in percentage, wherein higher scores reflect the better ability of the company to
+communicate with stakeholders transparently.
+Besides, a third-party/independent researcher also performed the content analysis of
+reports for a sub-sample representing around 10 per cent of the whole sample. Inter-coder
+reliability (ICR) estimation is critical for establishing the trustworthiness of data generated
+
+
+ Figure 3   Description of sustainability reporting index
+
+
+
+
+                                                                             VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1039
+ Table I Sustainability reporting quality assessment scale
+ Score             Criterion                                                                                              SR quality
+
+ 0                 No disclosure                                                                                                 –
+ 1                 Minimal, general and non-quantitative disclosure                                                       Poor
+ 2                 Descriptive and company-specific/quantitative disclosure, but many relevant points not addressed       Below average
+ 3                 Descriptive and company-specific/quantitative disclosure, but some relevant points not addressed       Average
+ 4                 Descriptive and company-specific/quantitative Disclosure, but few relevant points not addressed        Above average
+ 5                 Descriptive and company-specific/quantitative disclosure, with all relevant points addressed           Excellent
+
+
+
+                                           through content analysis. ICR was tested using intra-class correlation coefficient and
+                                           Krippendorff’s alpha test (Hayes and Krippendorff, 2007) and was found to be 0.956 and
+                                           0.984, respectively, indicating excellent inter-coder agreement and hence, our SR scores
+                                           can be considered reliable.
+
+
+                                           Data analysis techniques
+                                           A variety of quantitative techniques were used to test the research hypotheses. Descriptive
+                                           statistics (e.g. mean and standard deviation) were computed. The differences in SR
+                                           practices industry-type, firm-size, etc. were examined through t-test and ANOVA. Further,
+                                           the effect size was measured using eta-squared and Cohen’s d and post-hoc Tukey’s test.
+                                           Also, the association between SR and CFP was analyzed using Pearson’s correlation.
+
+
+                                           Results and findings
+                                           Sustainability reporting practices in India
+                                           Results revealed that approximately one-third (36.67 per cent) sample companies publish
+                                           standalone CSR/SR while a mere 28.33 per cent companies follow GRI guidelines. Around
+                                           one-fourth companies issue both BRR and GRI reports, and only 23.33 per cent companies
+                                           publish externally assured GRI report. These statistics demonstrate sparseness of
+                                           sustainability reporting in India. As the adoption of the GRI framework is limited even among
+                                           the top-notch companies, regulatory pressure seems to be the major motive behind
+                                           sustainability reporting in India.
+                                           Wipro Ltd. is the only company to have voluntarily sought external-assurance of BRR.
+                                           Besides, all companies have prepared BRR, except Marico Industries Ltd. and Coal India
+                                           Ltd.; however, they have published a separate sustainability report. SEBI allows companies
+                                           not to prepare BRR if BRR principles are mapped with sustainability disclosures. Further
+                                           analysis reveals that Coal India Ltd. published separate GRI-based sustainability report with
+                                           mapping, however, Marico had not followed any international standard; moreover, mapping
+                                           was omitted. Thus, Marico, a renowned household brand, happened to be a defaulter for FY
+                                           2013-2014. Nevertheless, Marico soon mended the reporting pattern, and the subsequent
+                                           sustainability reports of Marico were in compliance with GRI and SEBI guidelines. Besides,
+                                           a lack of uniformity is observed in the sustainability reporting formats adopted used in India,
+                                           which deters understandability and comparability.
+                                           Top three companies based on SR quantity and quality scores are shown in Table II. GAIL
+                                           is adjudged as leading company in SR quality with a 79.25-per-cent score, while Tata
+                                           Power Ltd. has the highest SR quantity score having reported 95 per cent items. Further,
+                                           Tata Steel Ltd. has outrivaled both in SR quantity and quality. It is worth noting that all
+                                           leading companies belong to ESI. Thus, ESI companies certainly perform better in SR,
+                                           perhaps to improve their public image. However, companies with the lowest SR quality
+                                           scores are Sun TV Network Ltd., Zee Entertainment Ltd. and Reliance Power Ltd. Moreover,
+                                           Sun TV and Reliance Power have the lowest SR quantity scores as well, besides Marico
+
+
+
+PAGE 1040   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+ Table II Leading sustainability reporting companies
+ Company                   SR quality score (%)        SR quantity score (%)   Rank as per SR quality              Rank as per SR quantity
+
+ Top three companies, as per SR quality
+ GAIL                             79.25                       92.50                         1                                   5
+ Cairn                            73.50                       86.25                         2                                  14
+ Tata Steel                       73.25                       93.75                         3                                   2
+ Tata Motors                      73.25                       92.50                         3                                   5
+ Top three companies as per SR quantity
+ Tata Power                       73.00                       95.00                         5                                   1
+ Tata Steel                       73.25                       93.75                         3                                   2
+ Indian Oil Corporation           70.25                       93.75                         8                                   2
+
+
+
+Industries Ltd. Ranks and SR scores of all 60 sample companies are presented in
+“Appendix 2”.
+Further, it is discovered that altogether 18 index items are not disclosed by the majority of
+companies. Predominantly, a dearth of disclosures on the following topics has been
+identified: local hiring procedure, risk assessment against corruption/unethical practices,
+performance evaluation of governing-body, pay-gap, external-assurance, impact on
+biodiversity, direct/indirect emissions, environment protection expenditure, political
+contributions, sale of banned/disputed/hazardous products, exclusive benefits for full-time
+employees, minimum-wages for employees, minimum notice period about operational
+changes, work-related fatalities rate and employee training on human rights. These issues
+demand special attention from corporates and managers to uplift the level of SR in India.
+
+
+Quantity and quality of sustainability reporting
+First, descriptive statistics, as reported in Table III, indicate that average reporting is done
+on three-fourth items that too of mediocre quality. Further, the majority of companies have
+“Below Average” SR quality, 25 per cent have “Above Average” quality, and none of the
+companies has excellent quality, as is shown in Figure 4.
+Further, it is found that there is a significant difference between the SR quality and quantity
+scores (p = 0.00). Moreover, the effect size is large, exceeding 0.8 (Cohen’s d = 1.9),
+implying that SR quality is substantially lower than SR quantity, providing support for H1.
+However, the difference between rankings on the basis of the aforesaid scores is not
+statistically significant (p = 0.88), as can be seen in Table III. This is probably owing to a
+high positive correlation between SR quality and SR quantity (r = 0.941; p = 0.00)
+
+
+Sustainability reporting differences by sub-categories/dimensions
+Among the seven SR dimensions, Community disclosures are the best, while employee
+disclosures are the poorest both in quantity/frequency and quality, as is shown in Figure 5.
+
+
+ Table III Descriptive statistics
+ Particulars                          SR_quality (%)                            SR_quantity (%)
+
+ Mean                                      48.50                                      74.77
+ Median                                    45                                         73.125
+ SD                                        14.99                                      12.435
+ Minimum                                   19.24                                      48.10
+ Maximum                                   79.25                                      95
+
+
+
+
+                                                                               VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1041
+                                             Figure 4      Frequency distribution vis-Á-vis sustainability reporting quality
+
+
+
+
+                                             Figure 5      Average SR scores for various sub-categories
+
+
+
+
+                                           Moreover, both SR quality and SR quantity differ significantly among dimensions (p = 0.00).
+                                           However, eta-squared values for SR quantity and SR quality are 0.115 and 0.141,
+                                           respectively, suggesting small and medium effect sizes, respectively. Thus, H2 stands fully
+                                           supported, but the effect size is not large. Further, post-hoc Tukey’s test confirms that
+                                           community disclosures have the best quality, followed by customers and
+                                           governance–ethics disclosures.
+                                           Subsequently, we deeply analyzed disclosures on various dimensions in terms of no/full
+                                           disclosure (0 or 5 score). It is found that one-third companies have made full
+                                           disclosures on community items, providing all the relevant information, followed by
+                                           customer dimensions (28.33 per cent). However, the least frequency of “full
+                                           disclosures” belongs to environment (12.19 per cent) and the highest “no disclosures”
+                                           to employees (32.16 per cent) and environment dimensions (28.96 per cent). In a
+                                           nutshell, there exists a clear deficiency in the reporting on environment and employee
+                                           dimensions. Results are exhibited in Figure 6.
+
+
+                                           Sustainability reporting differences by industry-type
+                                           The best SR quality is found in the energy sector, while SR quantity is the highest in the
+                                           metals and mining sector. The telecom sector turns out the worst in both SR quantity and
+                                           quality, as is demonstrated in Figure 7.
+
+
+
+PAGE 1042   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+ Figure 6   Dimension-wise frequency of full/no disclosure
+
+
+
+
+ Figure 7   Average SR scores by industry-type
+
+
+
+
+Besides, a significant difference is found in the SR quantity and quality scores among
+industries (p = 0.00). Eta-squared values are 0.323 and 0.312, respectively, indicating a
+large effect of industry-type on SR. Thus, H3 is fully supported. Further, Tukey’s test reveals
+that among all combinations, only “miscellaneous” sector differs significantly from the
+energy sector in terms of SR quality (p = 0.012) and from metals–mining sector in terms of
+SR quantity (p = 0.04).
+Further, 26 companies belong to the ESI. Results suggest that SR quantity and SR
+quality of ESI companies are significantly higher than other companies (p < 0.05),
+providing support for H4. However, eta-squared values indicate small effect size as
+less than 10 per cent variation in SR scores is attributed to the ESI membership, as is
+shown in Table IV.
+
+
+
+                                                                             VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1043
+                                             Table IV SR scores of ESI vis-Á-vis non-ESI companies
+                                             Particulars                     N                  Mean               p-value                 Eta-squared
+
+                                             SR_quantity
+                                             ESI company                     26                 78.79               0.027                    0.081
+                                             Non-ESI company                 34                 71.70
+                                             SR_quality
+                                             ESI company                     26                 53.05               0.039                    0.071
+                                             Non-ESI company                 34                 45.03
+                                             Note: Sig. @ 5% level
+
+
+                                           Sustainability reporting differences by ownership structure
+                                           The sample comprises 13 public-sector companies and 47 privately owned companies.
+                                           Mean values suggest that public-sector companies perform better in SR. However, the
+                                           t-test output in Table V reveals that results are insignificant. Thus, H5 is not supported.
+
+
+                                           Sustainability reporting and economic performance
+                                           Results of the correlation-matrix shown in Table VI reveal that both SR quality and SR
+                                           quantity have a significant positive correlation with firm size. Thus, large-sized firms
+                                           apparently perform better in SR. This finding is consistent with previous studies (Liu and
+                                           Anbumozhi, 2009; Pled and Latridis, 2012; Mertens et al., 2012). However, the correlation
+                                           between SR and profitability is positive although insignificant, which is similar to previous
+                                           studies such as Yi and Yu (2010) and Buys et al. (2011).
+                                           Subsequently, we investigated differences in SR using the t-test after dividing the entire
+                                           sample into two groups based on size (large-/small-sized) and profitability (high/low
+                                           profitability). Findings suggest that large-sized firms have significantly higher SR quantity
+                                           and quality scores than small firms. Moreover, the effect size is large, Cohen’s d being 0.86
+                                           and 0.76, respectively. However, as regards profitability, results are utterly perplexing, with
+                                           low-profitable companies having higher mean SR quantity and quality scores. Results are
+                                           presented in Table VII.
+
+
+                                             Table V SR Differences by ownership structure
+                                             Particulars                             N                          Mean                           p-value
+
+                                             SR_quantity
+                                             Public sector                           13                         79.27                           0.142
+                                             Private sector                          47                         73.53
+                                             SR_quality
+                                             Public sector                           13                         55.24                           0.067
+                                             Private sector                          47                         46.64
+
+
+
+
+                                             Table VI Pearson’s correlation matrix
+                                             Variables                   SR quantity      Profitability (ROA)   Size (Log of market cap)     SR quality
+
+                                             SR quantity                   1                   0.078                    0.486               0.941
+                                             Profitability (ROA)           0.078               1                        0.283                0.064
+                                             Size (Log of market cap)      0.486             0.283                   1                     0.471
+                                             SR quality                    0.941             0.064                    0.471               1
+                                             Notes: Sig. @ 1% level; Sig. @ 5% level
+
+
+
+
+PAGE 1044   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+ Table VII Sustainability reporting differences by economic performance
+ Particulars                       N                     Mean (%)                       p-value
+
+ SR and firm size
+ SR quantity
+ Large-sized                      30                       79.70                        0.002
+ Small-sized                      30                       69.84
+ SR Quality
+ Large-sized                      30                       53.85                        0.005
+ Small-sized                      30                       43.16
+ SR and firm profitability
+ SR quantity
+ High profitable                  30                       73.70                        0.509
+ Low profitable                   30                       75.84
+ SR quality
+ High profitable                  30                       47.15                        0.490
+ Low profitable                   30                       49.85
+ Note: Sig. @ 1% level
+
+
+To sum up, both correlation and t-test endorse that large firms perform better in SR but with
+medium effect size. However, regarding profitability, the results are contradictory.
+Correlation is positive, while t-test suggests an inverse association, although both are
+statistically insignificant. Overall findings support H6 but not H7. Thus, SR and profitability
+relationship remains inconclusive and warrants further investigation.
+
+
+Conclusions and discussion
+This is a leading study providing valuable insights into SR practices in India, post the
+mandatory BRR requirement. We developed an all-inclusive 80-item index based on several
+national and international standards for assessing the SR performance of companies.
+Content analysis reliability is duly established using Krippendorff’s alpha test. Of the seven
+hypotheses, findings support H1, H2, H3, H4 and H6 while not supporting H5 and H7. It is
+observed that only one-third top-listed companies in India publish standalone CSR/SR, with
+a major bulk having a “below-average” quality.
+GAIL is adjudged as the best company, while Sun TV Network secured the last rank.
+Although SR quantity and quality crudely provide similar rankings, the SR-quality score
+is substantially lower than the SR-quantity score. Besides, only one-fourth companies
+issue externally assured sustainability reports. This raises concerns on the reliability of
+such disclosures. Thus, companies are advised to publish externally verified
+sustainability reports containing specific and detailed information with quantitative data
+to enhance transparency and trustworthiness bringing SR at par with financial
+reporting.
+Further, huge differences are observed in the quantity and quality of CSR disclosures
+against diverse dimensions. Community-based disclosures are mostly emphasized upon by
+Indian companies, while employee-related items are the least reported. Thus, companies in
+India are perhaps driven by legitimacy theory approach as community/society is more
+centered upon than other stakeholders in their haste to gain acceptance from public and
+society at large, and to augment corporate reputation.
+The study also discovered significant differences in SR practices by industry-type with energy
+sector as the best performer. Also, environmentally sensitive companies are observed making
+more CSR/sustainability disclosures plausibly to improve their rapport with stakeholders. This
+finding is consistent with Patten (1992), Liu and Anbumozhi (2009). Telecom companies,
+being the worst performers, need to toil hard to improve their CSR/sustainability
+
+
+
+                                                                             VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1045
+                                           communications. Further, public-sector companies in India are superior in SR but
+                                           insignificantly. The positive association so observed between SR and firm size supports the
+                                           political-cost argument, although effect size is moderate. However, conflicting inconclusive
+                                           results are observed for profitability indicator. This might be owing to limited sample size and
+                                           time span of analysis. Also, as CSR/SR regulations in India are relatively a recent
+                                           phenomenon, the true impact can be assessed only once the gestation phase gets over.
+
+
+
+                                           Implications, recommendations and scope for further research
+                                           The present study has several implications for corporates, practitioners, policymakers and
+                                           stakeholders. Low ranking companies need to radically mend their CSR/sustainability
+                                           communication strategies to meet regulatory and stakeholder demands. Besides, our
+                                           findings suggest that currently companies in India are driven by regulatory pressure and
+                                           legitimacy approach to SR. The companies should rather follow stakeholder theory
+                                           addressing the needs of all stakeholders equitably by making appropriate disclosures on all
+                                           dimensions, especially with employee-related disclosures being the worst of all. Also,
+                                           suitable amendments should be made in GRI guidelines and SEBI–BRR framework to avoid
+                                           patchy responses in the form of yes/no and to encourage specific quantifiable disclosures
+                                           by companies. Also, a lack of uniformity in SR formats and means adopted by companies
+                                           calls for a universal standard on SR on similar lines as International Financial Reporting
+                                           Standards (IFRS), together with mandatory external-assurance, to bring uniformity and
+                                           reliability in sustainability reporting (Mertens et al., 2012).
+                                           It is worth mentioning here that the results of the present study should be interpreted with
+                                           caution, as it is purely based on self-reported disclosures made by companies in the public
+                                           domain. They may/may not convey the real performance of the company. The scope of the
+                                           present study was limited to assessing the frequency and quality of CSR/sustainability
+                                           disclosures; however, determining their authenticity was beyond the scope of this study.
+                                           Future researchers should investigate the relationship of SR with profitability and other CFP
+                                           indicators by performing a longitudinal study with a larger sample of top 500 listed
+                                           companies. There is also a need to explore integrated reporting, a path ahead of SR, which
+                                           is still a nascent phenomenon in India. Furthermore, a cross-cultural study across several
+                                           countries may provide vital acumens on CSR/SR issues.
+
+
+                                           References
+                                           Abbott, W.F. and Monsen, R.J. (1979), “On the measurement of corporate social responsibility: self-
+                                           reported disclosures as a method of measuring corporate social involvement”, Academy of Management
+                                           Journal, Vol. 22 No. 3, pp. 501-515.
+                                           Ameer, R. and Othman, R. (2012), “Sustainability practices and corporate financial performance: a study
+                                           based on the top global corporations”, Journal of Business Ethics, Vol. 108 No. 1, pp. 61-79.
+                                           Barnett, M.L. (2007), “Stakeholder influence capacity and the variability of financial returns to corporate
+                                           social responsibility”, Academy of Management Review, Vol. 32 No. 3, pp. 794-816.
+                                           Bayoud, N.S., Kavanagh, M. and Slaughter, G. (2012), “An empirical study of the relationship between
+                                           corporate social responsibility disclosure and organizational performance: evidence from libya”,
+                                           International Journal of Management and Marketing Research, Vol. 5 No. 3, pp. 69-82.
+                                           Bowen, H.R. (1953), Social Responsibilities of the Businessman, Harper and Row, New York, NY.
+
+                                           Burhan, A.H.N. and Rahmanti, W. (2012), “The impact of sustainability reporting on company performance”,
+                                           Journal of Economics, Business, and Accountancy/Ventura, Vol. 15 No. 2, pp. 257-272.
+                                           Buys, P., Oberholzer, M. and Andrikopoulos, P. (2011), “An investigation of the economic performance of
+                                           sustainability reporting companies versus non-reporting companies: a South African perspective”,
+                                           Journal of Social Sciences, Vol. 29 No. 2, pp. 151-158.
+
+
+
+
+PAGE 1046   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+Campbell, D., Craven, B. and Shrives, P. (2003), “Voluntary social reporting in three FTSE sectors: a
+comment on perception and legitimacy”, Accounting, Auditing & Accountability Journal, Vol. 16 No. 4,
+pp. 558-581.
+
+Carroll, A.B. (1991), “The pyramid of corporate social responsibility: toward the moral management of
+organizational stakeholders”, Business Horizons, Vol. 34 No. 4, pp. 39-48.
+Choi, J.S. (1999), “An investigation of the initial voluntary environmental disclosures made in Korean
+semi-annual financial reports”, Pacific Accounting Review, Vol. 11 No. 1, p. 73.
+
+Clarkson, M.B.E. (1995), “A stakeholder framework for analyzing and evaluating corporate social
+performance”, Academy of Management Review, Vol. 20 No. 1, pp. 92-117.
+Cormier, D. and Magnan, M. (2003), “Environmental reporting management: a continental European
+perspective”, Journal of Accounting and Public Policy, Vol. 22 No. 1, pp. 43-62.
+
+Daub, C.H. (2007), “Assessing the quality of sustainability reporting: an alternative methodological
+approach”, Journal of Cleaner Production, Vol. 15 No. 1, pp. 75-85.
+Deegan, C. (2002), “The legitimacy effect of social and environmental disclosure: a theoretical
+foundation”, Accounting, Auditing and Accountability Journal, Vol. 4 No. 1, pp. 32-38.
+
+Dienes, D., Sassen, R. and Fischer, J. (2016), “What are the drivers of sustainability reporting? A systematic
+review”, Sustainability Accounting, Management and Policy Journal, Vol. 7 No. 2, pp. 154-189.
+Faisal, F., Tower, G. and Rusmin, R. (2012), “Legitimising corporate sustainability reporting throughout
+the world”, Australasian Accounting Business & Finance Journal, Vol. 6 No. 2, pp. 19-34.
+
+Frost, G.R. and Wilmshurst, T.D. (2000), “The adoption of environment-related management accounting: an
+analysis of corporate environmental sensitivity”, Accounting Forum, Vol. 24 No. 4, pp. 344-365.
+Global Reporting Initiative (GRI) (2011), G3.1 Sustainability Reporting Guidelines, Global Reporting
+Initiative, Amsterdam.
+Guidry, R.P. and Patten, D.M. (2010), “Market reactions to the first-time issuance of corporate
+sustainability reports: evidence that quality matters”, Sustainability Accounting, Management and Policy
+Journal, Vol. 1 No. 1, pp. 33-50.
+Hayes, A.F. and Krippendorff, K. (2007), “Answering the call for a standard reliability measure for coding
+data”, Communication Methods and Measures, Vol. 1 No. 1, pp. 77-89.
+
+Jain, R. and Winner, L.H. (2016), “CSR and sustainability reporting practices of top companies in India”,
+Corporate Communications: An International Journal, Vol. 21 No. 1, pp. 36-55.
+Kapoor, S. and Sandhu, H.S. (2010), “Does it pay to be socially responsible? An empirical examination of
+impact of corporate social responsibility on financial performance”, Global Business Review, Vol. 11
+No. 2, pp. 185-208.
+Khaveh, A., Nikhasemi, S.R., Haque, A. and Yousefi, A. (2012), “Voluntary sustainability disclosure,
+revenue, and shareholders wealth - a perspective from Singaporean companies”, Business Management
+Dynamics, Vol. 1 No. 9, pp. 6-12.
+
+Kolk, A., van der Veen, M., Wennink, D. and Hay, K. (2002), KPMG International Survey of Corporate
+Sustainability Reporting 2002, KPMG Global Sustainability Services, Netherlands.
+KPMG (2015), “Currents of change: the KPMG survey of corporate responsibility reporting 2015”,
+Publication number: 132962, Haymarket Network Limited, Netherlands, pp. 1-45.
+
+Laskar, N. and Maji, S.G. (2016), “Corporate sustainability reporting practices in India: myth or reality?”,
+Social Responsibility Journal, Vol. 12 No. 4, pp. 625-641.
+Liu, X. and Anbumozhi, V. (2009), “Determinant factors of corporate environmental information
+disclosure: an empirical study of Chinese listed companies”, Journal of Cleaner Production, Vol. 17 No. 6,
+pp. 593-600.
+Manescu, C. (2011), “Stock returns in relation to environmental, social and governance performance:
+mispricing or compensation for risk?”, Sustainable Development, Vol. 19 No. 2, pp. 95-118.
+Mertens, G. Maas, K. Strootman, R. and Meliefste, S. (2012), “KPIs and sustainability performance: an
+empirical analysis concerning the use and development of KPIs on sustainability performance reporting
+for the largest stock listed companies in The Netherlands”, Shareholder Support, Molenberglaan
+Heerlen, pp. 1-59, available at: www.europroxy.com/Divers/20120315%20ESG%20KPI%20study_final%
+20version.pdf (accessed 5 November 2014).
+
+
+
+
+                                                                                         VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1047
+                                           Moneva, J. and Cuellar, B. (2009), “The value relevance of financial and non-financial environment
+                                           reporting”, Environmental and Resource Economics, Vol. 44 No. 3, pp. 441-456.
+                                           Morhardt, J.E., Baird, S. and Freeman, K. (2002), “Scoring corporate environmental and sustainability
+                                           reports using GRI 2000, ISO 14031 and other criteria”, Corporate Social Responsibility and
+                                           Environmental Management, Vol. 9 No. 4, pp. 215-233.
+                                           Murray, A., Sinclair, D., Power, D. and Gray, R. (2006), “Do financial markets care about social and
+                                           environmental disclosure?: Further evidence and exploration from the UK”, Accounting, Auditing &
+                                           Accountability Journal, Vol. 19 No. 2, pp. 228-255.
+                                           Neu, D., Warsame, H. and Pedwell, K. (1998), “Managing public impressions: environmental disclosures
+                                           in annual reports”, Accounting, Organizations and Society, Vol. 23 No. 3, pp. 265-282.
+                                           Palmer, H.J. (2012), “Corporate social responsibility and financial performance: does it pay to be good?”,
+                                           CMC Senior Theses, Paper 529, Claremont McKenna College, available at: http://scholarship.claremont.
+                                           edu/cgi/viewcontent.cgi?article=1502&context=cmc_theses (accessed 10 November 2014).
+                                           Patten, D.M. (1992), “Intra-industry environmental disclosures in response to the Alaskan oil spill: a note
+                                           on legitimacy theory”, Accounting, Organizations and Society, Vol. 17 No. 5, pp. 471-475.
+                                           Pled, V. and Latridis, G.E. (2012), “Corporate social responsibility reporting: evidence from
+                                           environmentally sensitive industries in the USA”, International Review of Accounting, Banking & Finance,
+                                           Vol. 4 No. 2, pp. 61-99.
+                                           Plumlee, M., Brown, D. and Marshall, S. (2008), “The impact of voluntary environmental disclosure quality
+                                           on firm value”, Working Paper, University of Utah.
+                                           Reverte, C. (2012), “The impact of better corporate social responsibility disclosure on the cost of equity
+                                           Capital”, Corporate Social Responsibility and Environmental Management, Vol. 19 No. 5, pp. 253-272.
+
+                                           Sahu, M. and Panigraphy, D. (2016), “Corporate social responsibility”, Public Sector VS Private Sector - A
+                                           Myth or Reality? XVII Annual International Seminar, Delhi School of Professional Studies and Research,
+                                           Delhi, pp. 124-140.
+
+                                           Schmelzer, P. (2013), “Value relevance of corporate social responsibility reports”, Master’s thesis,
+                                           Erasmus School of Economics, available at: http://thesis.eur.nl/pub/14701/MA369-Schmelzer_320064.
+                                           pdf (accessed 10 March 2015).
+
+                                           SEBI (2012), Business Responsibility Reports, (CIR/CFD/DIL/8/2012), available at: www.sebi.gov.in/cms/
+                                           sebi_data/attachdocs/1344915990072.pdf (accessed 10 April 2015).
+                                           Setyorini, C.T. and Ishak, Z. (2012), “Corporate social and environmental disclosure: a positive accounting
+                                           theory view point”, International Journal of Business and Social Science, Vol. 3 No. 9, pp. 152-164.
+                                           Udayasankar, K. (2008), “Corporate social responsibility and firm size”, Journal of Business Ethics,
+                                           Vol. 83 No. 2, pp. 167-175.
+                                           Vormedal, I. and Ruud, A. (2009), “Sustainability reporting in Norway – an assessment of performance in
+                                           the context of legal demands and socio-political drivers”, Business Strategy and the Environment, Vol. 18
+                                           No. 4, pp. 207-222.
+                                           Yang, F.J., Lin, C.W. and Chang, Y.N. (2010), “The linkage between corporate social performance and
+                                           corporate financial performance”, African Journal of Business Management, Vol. 4 No. 4, pp. 406-413.
+                                           Yi, T.F. and Yu, C.K. (2010), “Research on sustainability reporting in Hong Kong”, Project for the Degree
+                                           of Bachelor of Business Administration (Honours), Hong Kong Baptist University.
+                                           Young, S. and Marais, M. (2012), “A multi-level perspective of CSR reporting: the implications of national
+                                           institutions and industry risk characteristics”, Corporate Governance: An International Review, Vol. 20
+                                           No. 5, pp. 432-450.
+
+
+                                           Further reading
+                                           Dominguez, A.A. (2011), “The impact of human resource disclosure on corporate image”, Journal of
+                                           Human Resource Costing & Accounting, Vol. 15 No. 4, pp. 279-298.
+
+
+
+
+PAGE 1048   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+Appendix 1
+
+
+
+
+Table AI sustainability reporting index
+Aspects                        Sustainability disclosure items
+
+I. Economic indicators
+A. Economic performance        Direct economic value generated & distributed (including revenues, operating costs, employee
+                               compensation, community investments/donations, retained earnings, payments to capital providers and
+                               governments)
+                               Financial implications and risks/opportunities for organization’s activities owing to climate change
+                               Coverage of organization’s defined benefit plan obligations, including defined contribution plans,
+                               percentage of salary contributed by employer/employee and retirement benefits
+                               Total monetary value of financial assistance received by organization from government during reporting
+                               period
+                               Total spending on CSR in amount and percentage of net profits, list of CSR activities with amount spent
+                               on each activity
+B. Market presence             Ratio of standard entry-level wage to local minimum wage by gender
+                               Procedures for local hiring and proportion of senior management hired from local community at
+                               significant locations of operation
+C. Procurement practices       Proportion of spending on locally based suppliers or percentage of products/services procured locally.
+                               Steps taken to improve capability of local/small vendors
+8 Items
+II. Governance and ethics indicators
+A. Ethics, transparency and    Organization’s values/code of conduct/ethics, policy on bribery/corruption. Whether and how policy
+accountability                 extends to suppliers, contractors and joint ventures. If no, explain why
+                               Mechanisms for reporting and addressing misconduct/illegal matters. Total number and percentage of
+                               governance body members and employees trained on ethics/anti-corruption
+                               Total number and percentage of operations/business units assessed for risks related to corruption/
+                               unethical practices and significant risks identified
+                               Number and nature of incidents of unethical practices/corruption, number of complaints resolved and
+                               actions taken
+B. Organizational governance Board committee (s)/executive-level position (s) responsible for sustainability-related decisions and their
+                               composition by gender, independence, etc. Whether the Chair of highest governance body is an
+                               executive officer (If so, his/her function within organization’s management and reasons for this
+                               arrangement)
+                               Process and criteria used for nominating and selecting highest governance body/committee members
+                               Statement from Chairperson/CEO about relevance of sustainability to the organization and strategy for
+                               addressing sustainability
+                               Process to evaluate highest governance body’s performance, particularly regarding sustainability
+                               matters and actions taken. Whether such evaluation is independent/self-assessment and its frequency
+                               Highest governance body’s/senior executives’ role in reviewing the implementation of CSR/sustainability
+                               policy and its frequency
+                               Remuneration policies for highest governance body and senior executives and linkage between
+                               remuneration and organization’s performance (including social-environmental performance)
+                               Ratio of annual total compensation for organization’s highest-paid individual to median annual total
+                               compensation for all employees, excluding highest-paid individual (pay-gap)
+                               Organization’s policy and current practice regarding external assurance of sustainability report. If not,
+                               report the scope and basis of any external assurance provided. Also, report the relationship between
+                               organization and assurance providers
+C. Stakeholder engagement List of stakeholder groups engaged by organization. Identify the disadvantaged/vulnerable/marginalized
+                               stakeholders and the basis for identification of stakeholders so engaged
+                               Organization’s approach to stakeholder engagement, including frequency of engagement by type and
+                               stakeholder group
+                               Key topics/concerns raised through stakeholder engagement and organization’s response to them
+                                                                                                                                     (continued)
+
+
+
+
+                                                                                   VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1049
+ Table AI
+ Aspects                                Sustainability disclosure items
+
+ 15 Items
+ III. Environmental indicators
+ A. Water                               Total volume of water consumed/withdrawn from various sources and the water sources significantly
+                                        affected by organization
+                                        Water conservation initiatives, reduction in water consumption and volume and percentage of water
+                                        recycled/reused
+ B. Energy                              Direct and indirect energy consumption from various renewable and non-renewable sources
+                                        Energy conservation initiatives and total reduction in energy consumption
+ C. Effluents and waste                 Total weight of waste by type (hazardous/not), disposal method and percentage of recycling of products/
+                                        waste
+                                        Total number, volume and impacts of recorded significant spills on soil/water surfaces (e.g. oil/fuel/
+                                        chemical spills)
+                                        Total wastewater and effluents discharged by quality (treated/not) and destination; and water bodies/
+                                        habitats significantly affected by discharges/run-off
+ D. Biodiversity                        Operational sites in/around protected areas and areas of high biodiversity value and significant impacts
+                                        on biodiversity in protected areas
+                                        Measures for managing impacts on biodiversity
+ E. Emissions                           Direct and indirect GHG, NOx, SOx, CO2 and ozone depleting substances emissions
+                                        Amount of GHG, carbon and other emissions reduced and initiatives taken to reduce emissions
+ F. Materials, suppliers and            Total weight/volume of renewable and non-renewable materials and percentage of recycled input
+ transportation                         materials used
+                                        Significant environmental impacts of transporting products/materials/workforce and how such impacts
+                                        are mitigated
+                                        Suppliers’ Environmental Impact Assessment; percentage of new suppliers/contractors screened using
+                                        environmental criteria; significant negative environmental impacts identified and actions taken
+ G. Others                              Number of grievances about environmental impacts filed and resolved through formal grievance
+                                        mechanism. Are emissions/waste generated by company within permissible limits? Any show cause/
+                                        legal notices received from Pollution Control Board pending at year end. Fines/sanctions for non-
+                                        compliance with environmental laws/regulations
+                                        Total amount of environmental protection expenditures and investments by type
+ 16 Items
+ IV. Community indicators
+ A. Culture, education and              Protect national heritage, art and culture. Promote cultural activities, traditional arts/handicrafts and
+ inclusive growth                       sports (especially rural sports)
+                                        Promote literacy/education
+                                        Promote women empowerment
+                                        Inclusive growth and equitable development – employability enhancement activities, social infrastructure
+                                        investments, rural/slum area development, etc.
+ B. Community health                    Promote community health and sanitation
+ C. Responsible public policy           List major memberships of trade/industry associations/chambers and broad areas advocated/lobbied
+ advocacy                               through above platforms
+                                        Total monetary value of financial and in-kind political contributions made directly/indirectly by country
+                                        and recipient/beneficiary
+ D. Others                              Impact assessments and outcomes of community engagement/development initiatives. Steps taken to
+                                        ensure successful adoption of initiatives by the community
+                                        Number of grievances about impacts on society/community filed and resolved through formal grievance
+                                        mechanism
+ 9 Items
+ V. Customers and product responsibility indicators
+ A. Sustainable consumption List up to three products/services whose designs incorporate social/environmental concerns
+                              Policy on products’ life-cycle sustainability assessment and sustainable value chain
+ B. Customer value            Provide value to customers (e.g. customer health and safety, good quality, reasonable prices and after
+                              sales support)
+                              Report cases of sale of banned/disputed/hazardous products
+ C. Responsible marketing     Responsible marketing communications
+ communications
+                                                                                                                                     (continued)
+
+
+
+
+PAGE 1050   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+Table AI
+Aspects                        Sustainability disclosure items
+
+D. Customer privacy            Use adequate safeguards to protect consumer privacy and personal data. Report cases of breach
+E. Customer feedback and       Customer grievance handling mechanism and customer satisfaction survey. Report key results of
+grievances                     surveys. Provide details of customer complaints received and percentage of complaints/consumer cases
+                               pending at year end
+                               Number of cases filed against company during last five years regarding irresponsible labeling/
+                               advertising/unfair trade practices/anti-competitive behavior and those pending at year end. Provide
+                               details of cases and outcomes
+8 Items
+VI. Employees and labor practices indicators
+A. Employment                 Total number and percentage of employees by employment-type, gender, age, disabilities, etc. Total
+                              number and rate of new employees hired and employee turnover by age group and gender
+                              Benefits provided only to full-time employees and not to temporary/part-time employees
+                              Amount of minimum monthly wage paid to skilled and unskilled employees
+                              Ratio of basic salary and remuneration of women to men by employee category
+B. Labor-management           Recognized trade unions/employee associations; percentage of permanent employees who are
+relations                     members of such associations; and percentage of total employees covered by collective bargaining
+                              agreements
+                              Reasonable/minimum notice period provided to employees about operational changes. Whether period
+                              is specified in collective bargaining agreements
+C. Occupational health and    Employee health and safety measures
+safety (OHS)                  Formal joint management–worker OHS committee and percentage of workforce represented in
+                              committee. Report the extent to which health/safety topics are covered in formal trade union agreements
+                              Report percentage of employees given safety training by employee category
+                              Report injury rate, occupational diseases rate, lost day rate, absentee rate and work-related fatalities for
+                              total workforce by gender
+D. Training and development Average hours of training per year per employee and percentage of employees trained by employee
+                              category
+                              Describe programs for training, skills management and career endings management/retirement planning
+                              organized during the reporting period
+                              Performance review mechanism and percentage of employees regularly reviewed by gender and
+                              employee category
+E. Conditions of work         Sexual harassment prevention policy and committee. Number of complaints on sexual harassment
+                              received and pending at year end
+                              Work-life balance facilities, especially for women and vulnerable employees. Also, report return to work
+                              and retention rates of employees taken parental leave by gender
+F. Supplier assessment        Suppliers’/Contractors’ Labor Practices Assessment and percentage of new suppliers/contractors so
+                              screened. Report significant negative impacts identified and actions taken
+G. Labor grievance redressal Number of grievances about labor practices filed and resolved through formal grievance mechanism
+mechanism
+17 Items
+VII. Human rights indicators
+A. Human rights assessment    Total hours of employee training on human rights; and percentage of employees and security personnel
+and training                  trained
+                              Avoid complicity in human rights abuse. Report total number and percentage of investment agreements/
+                              suppliers/contractors/joint ventures subjected to human rights assessment. Report significant negative
+                              impacts identified and actions taken
+B. Non-discrimination and     Policy on non-discrimination and equal opportunities for all. Number of incidents of discriminatory
+equal opportunities           employment corrective actions taken. Report-related significant fines/sanctions
+C. Freedom of association and Policy on freedom of expression/association and collective bargaining. Report operations/suppliers
+collective bargaining         where such rights may be violated/risked and actions taken
+D. Child labor and forced or  Policy on child/forced labor. Number of complaints on child/forced/involuntary labor received and
+compulsory labor              pending at the end of year. Also, report measures taken to contribute to elimination of child/forced labor
+E. Indigenous rights          Respect rights of indigenous people living in communities surrounding company’s operations. Number of
+                              incidents of violations involving rights of indigenous people and actions taken such as rehabilitation
+F. Human rights grievance     Number of complaints/grievances about human rights received and resolved through formal grievance
+redressal mechanism           mechanism
+7 Items
+Total: 80 Items
+
+
+
+
+                                                                                    VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1051
+                                           Appendix 2
+
+
+
+
+ Table AII Sustainability reporting scores and ranks of sample companies
+                                                                   No. of items   SR quantity   SR quality      Rank            Rank
+ S. No.         Company                                             disclosed       score         score      (SR quality)   (SR quantity)
+
+  1             GAIL Ltd.                                              74           92.5          79.25           1               4
+  2             Cairn India Ltd.                                       69           86.25         73.5            2              14
+  3             Tata Steel Ltd.                                        75           93.75         73.25           3               2
+  4             Tata Motors Ltd.                                       74           92.5          73.25           3               4
+  5             Tata Power Company Ltd.                                76           95            73              5               1
+  6             BPCL                                                   70           87.5          71              6              12
+  7             RIL                                                    74           92.5          70.5            7               4
+  8             IOC Ltd.                                               75           93.75         70.25           8               2
+  9             Mahindra & Mahindra Ltd.                               72           90            70              9              10
+ 10             TCS Ltd.                                               74           92.5          69.37          10               4
+ 11             Infosys Ltd.                                           73           91.25         68.61          11               8
+ 12             ITC Ltd.                                               73           91.25         68.25          12               8
+ 13             Maruti Suzuki India Ltd.                               70           87.5          67             13              12
+ 14             L & T Limited                                          71           88.75         63             14              11
+ 15             OIL                                                    67           83.75         61.75          15              18
+ 16             Coal India Ltd.                                        64           80            58.75          16              22
+ 17             NTPC Limited                                           64           80            58             17              22
+ 18             JSW Steel Ltd.                                         68           85            57.75          18              16
+ 19             Dabur India Ltd.                                       58           72.5          56.25          19              31
+ 20             Sesa Sterlite Ltd.                                     69           86.25         53.5           20              14
+ 21             Colgate India Ltd.                                     68           85            52.75          21              16
+ 22             ONGC Ltd.                                              59           73.75         52             22              30
+ 23             Cummins India Ltd.                                     60           75            51.5           23              28
+ 24             Titan Company Limited                                  65           81.25         51.25          24              19
+ 25             NMDC Ltd.                                              65           81.25         48.75          25              19
+ 26             HUL                                                    64           80            48.5           26              22
+ 27             Hindustan Zinc Limited                                 65           81.25         48.25          27              19
+ 28             Jindal Steel & Power Ltd.                              61           76.25         48             28              27
+ 29             Wipro Ltd.                                             63           78.75         46.75          29              25
+ 30             SAIL                                                   62           77.5          45             30              26
+ 31             BHEL                                                   57           71.25         45             30              35
+ 32             Power Grid Corporation of India Ltd.                   60           75            44.81          32              28
+ 33             Dr. Reddy’s Laboratories Ltd.                          58           72.5          43.25          33              31
+ 34             Container Corporation of India Ltd.                    53           66.25         43.04          34              42
+ 35             NHPC Ltd.                                              53           66.25         41             35              42
+ 36             Bajaj Auto Ltd.                                        52           65            40.25          36              48
+ 37             Grasim Industries Ltd.                                 55           68.75         39.5           37              36
+ 38             Godrej Consumer Products Ltd.                          58           72.5          39.25          38              31
+ 39             Cipla Ltd.                                             53           66.25         39.25          38              42
+ 40             Idea Cellular Ltd.                                     55           68.75         38.73          40              36
+ 41             DLF Ltd.                                               53           66.25         37.25          41              42
+ 42             Cadila Healthcare Ltd.                                 55           68.75         37.25          41              36
+ 43             Aditya Birla Nuvo Ltd.                                 54           67.5          37.25          41              40
+ 44             Bharti Airtel Ltd.                                     44           55            37.22          44              56
+ 45             United Breweries Ltd.                                  54           67.5          37             45              40
+ 46             Asian Paints Ltd.                                      53           66.25         37             45              42
+ 47             UltraTech Cement Ltd.                                  55           68.75         36             47              36
+ 48             Hero Motocorp Ltd.                                     53           66.25         36             47              42
+ 49             Lupin Ltd.                                             52           65            35.25          49              48
+ 50             Reliance Communications Ltd.                           49           61.25         34.68          50              51
+                                                                                                                             (continued)
+
+
+
+
+PAGE 1052   j SOCIAL RESPONSIBILITY JOURNAL j VOL. 15 NO. 8 2019
+ Table AII
+                                                   No. of items   SR quantity        SR quality                Rank                Rank
+ S. No.      Company                                disclosed       score              score                (SR quality)        (SR quantity)
+
+ 51          Sun Pharmaceuticals Industries Ltd.       58           72.5                34.5                     51                   31
+ 52          Adani Enterprises Ltd.                    47           58.75               34.5                     51                   54
+ 53          Adani Power Ltd.                          50           62.5                34                       53                   50
+ 54          Bharti Infratel Ltd.                      48           60                  33.92                    54                   52
+ 55          Adani Ports and SEZ Ltd.                  48           60                  32.91                    55                   52
+ 56          Marico Industries Ltd.                    41           51.25               30.25                    56                   59
+ 57          OFSS Ltd.                                 47           58.75               28.86                    57                   54
+ 58          Reliance Power Ltd.                       42           52.5                27.5                     58                   58
+ 59          Zee Entertainment Enterprises Ltd.        44           55                  26.58                    59                   56
+ 60          Sun TV Network Ltd.                       38           47.5                19.24                    60                   60
+
+
+
+
+Corresponding author
+Priyanka Aggarwal can be contacted at: priyanka_aggarwal6889@yahoo.in
+
+
+
+
+For instructions on how to order reprints of this article, please visit our website:
+www.emeraldgrouppublishing.com/licensing/reprints.htm
+Or contact us for further details: permissions@emeraldinsight.com
+
+
+
+                                                                                VOL. 15 NO. 8 2019   j SOCIAL RESPONSIBILITY JOURNAL j PAGE 1053
+

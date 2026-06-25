@@ -1,0 +1,1383 @@
+                      The current issue and full text archive of this journal is available on Emerald Insight at:
+                      www.emeraldinsight.com/1176-6093.htm
+
+
+
+
+   Exploring the implications of                                                                                         Integrated
+                                                                                                                          reporting
+     integrated reporting on
+ organisational reporting practice
+                 Evidence from highly regarded                                                                                         415
+                      integrated reporters                                                                            Received 16 July 2015
+                                                                                                                    Revised 15 January 2016
+          Abdifatah Ahmed Haji and Dewan Mahboob Hossain                                                                        15 June 2016
+   Department of Accounting, International Islamic University Malaysia,                                               Accepted 26 July 2016
+
+                       Kuala Lumpur, Malaysia
+
+
+Abstract
+Purpose – The purpose of this paper is to examine “how” the adoption of integrated reporting (IR), and
+the embedded multiple capitals framework, has influenced organisational reporting practice. In
+particular, the paper examines how companies report and integrate multiple capitals in various
+organisational reporting channels following the introduction of an “apply or explain” IR requirement in
+South Africa.
+Design/methodology/approach – Using a qualitative case study approach based on discourse
+analysis, this paper examines various organisational reports including integrated reports, standalone
+sustainability reports, websites and other online materials of highly regarded, award-winning,
+integrated reporters in South Africa over a four-year period (2011-2014), following the introduction of IR
+requirement. The authors draw five impression management techniques, namely, rhetorical
+manipulation, thematic manipulation, selectivity, emphasis in visual presentation and performance
+comparisons to explain disclosure and integration of multiple capitals.
+Findings – The authors find that companies are increasingly conforming to reporting language
+espoused in existing IR guidelines and multiple capital frameworks over time. For instance, it is found
+that the research cases have increasingly used specific grammars in existing IR guidelines such as
+“capitals” and “material” issues, with companies acknowledging the “interdependencies” and
+“trade-offs” between multiple capitals. Companies have also started to recognise that the capitals are
+subject to “increases, decreases, and transformations” over time. However, the disclosures are generic,
+rather than company-specific, and lack substance, often framed in synthetic charming aimed to
+showcase adoption of IR practice. In addition, the current discourse on multiple capital disclosures is
+one of the defending, even promoting, organisational reputation, rather than recognising how
+organisational actions, or inactions, impact multiple capitals. The paper concludes that the emerging IR
+practice, and the embedded multiple capital framework, has not really improved the substance of
+organisational reports.
+Practical implications – The results of this study have a number of implications for regulatory
+authorities, public and private sector organisations as well as academic researchers. For regulatory
+authorities, the results inform relevant regulatory authorities how IR practice is taking shape over time,
+particularly within the context of a regulatory setting. Second, the empirical analyses, which focused on
+highly regarded, award-wining, integrated reporters, draw the attention of regulatory bodies as well as
+                                                                                                                          Qualitative Research in
+The authors are sincerely grateful to two anonymous reviewers of this Journal for many insightful                    Accounting & Management
+                                                                                                                               Vol. 13 No. 4, 2016
+comments in the development of this paper. They also appreciate the encouragement and prompt                                          pp. 415-444
+feedback from the editors of this Journal, Professor John Burns and Professor Deryl Northcott,                  © Emerald Group Publishing Limited
+                                                                                                                                        1176-6093
+throughout the review process. All remaining errors are a result of their own work.                              DOI 10.1108/QRAM-07-2015-0065
+QRAM   users of corporate reports to concerns related to a growing number of rating agencies of organisational
+       reports. Finally, for academic researchers, the theoretical implications of this study is that, given the
+13,4   pervasive use of multiple impression management techniques in various organisational reports, the
+       authors support the notion that corporate disclosure practices should be examined through the lens of
+       multiple theoretical perspectives to enhance our understanding of the nature of organisational reporting
+       practice.
+416    Originality/value – This study provides a more focused preliminary empirical account of the
+       implications of IR practice, and the embedded multiple capital frameworks, on the quality of
+       organisational reporting practice following the adoption of mandatory IR requirement in South Africa.
+       Keywords South Africa, Value creation, Integrated reporting, Multiple capitals,
+       Discourse analyses, Impression management theory
+       Paper type Research paper
+
+
+       1. Introduction
+       Organisational reporting practice continues to evolve from traditional financial
+       reporting to environmental, social and governance considerations to, more recently,
+       integrated reporting (IR) (King III, 2009; de Villiers et al., 2014). Despite the changing
+       landscape of the organisational reporting practice over the past four decades or so, the
+       substance of organisational reports has largely remained the same, with companies
+       producing a set of monotonous reports imbued with empty sustainability rhetoric
+       (Milne and Gray, 2013; Williams and Adams, 2013). The IR agenda, which is highly
+       advocated in South Africa’s King III Code of Corporate Governance (2009) – and more
+       recently King IV (2016) – as well as by the International Integrated Reporting Council
+       (IIRC), promises to bring “shifts” in corporate reporting practice (IIRC, 2013a; Coulson
+       et al., 2015). In so doing, the IR agenda builds on prior developments in organisational
+       reporting theory and practice, with a goal to bring together material financial and
+       non-financial information through the lens of multiple capitals (i.e. financial,
+       manufactured, intellectual, human, social and relationship and natural capital) (IIRC,
+       2013a). In short, the IR initiative is espoused as a “synthesis” of prior developments in
+       various organisational reporting strands: triple bottom line and sustainability reporting
+       being the antithesis of traditional financial reporting thesis. An increasing number of
+       companies have so far adopted IR practice, with the latest survey reporting that over
+       1,000 companies worldwide have implemented IR (IIRC, 2016).
+           However, a number of academic scholars are critical about the value of IR proposals,
+       in particular, the continued emphasis on “value to investors” and business case
+       approach as well as relegation of less powerful stakeholder groups in current IIRC
+       proposals (Milne and Gray, 2013; Brown and Dillard, 2014). Milne and Gray (2013, p. 20),
+       for instance, view the IIRC’s proposal as “a masterpiece of obfuscation and avoidance of
+       any recognition of the prior 40 years of [social and environmental] research and
+       experimentation” which, despite its claims for sustainable development, is “exclusively
+       investor focused and has nothing substantive about either accountability or
+       sustainability”. Consistent with this view, early empirical studies document that the
+       adoption of IR practice has not really improved the substance of organisational reports
+       (Wild and van Staden, 2013; Melloni, 2015), even in the context of mandatory
+       environment (Solomon and Maroun, 2012; Setia et al., 2015; IIRC, 2016; Ahmed Haji and
+       Anifowose, 2016).
+   Mindful of the division within academia on the actual worth of the emerging IR            Integrated
+agenda, the objective of this study is to examine how the adoption of IR practice, and the    reporting
+embedded multiple capitals framework, has influenced organisational reporting
+practice. In particular, we first examine how highly regarded, award-winning, South
+African companies report and integrate multiple capitals in various organisational
+reporting channels following the introduction of an “apply or explain” IR requirement in
+South Africa. Existing research has so far explored “whether” and to “what” extent the            417
+multiple capitals are reported (Solomon and Maroun, 2012; Wild and van Staden, 2013;
+Setia et al., 2015). By way of thematic-based discourse analyses of various
+organisational reporting channels (e.g. integrated reports, standalone sustainability
+reports, websites and other online materials), this study explores “how” companies
+report and integrate multiple capitals following the adoption of IR practice. Second,
+drawing from five impression management techniques, namely, rhetorical
+manipulation, thematic manipulation, selectivity, emphasis in visual presentation and
+performance comparisons (Brennan et al., 2009), we analyse the linguistic and semiotic
+choices underpinning multiple capital disclosures. In so doing, we closely examine
+specific grammars and emerging themes on multiple capital disclosures. Third, we
+explore how companies link and report multiple capitals within the context of “material”
+issues and value creation/destruction process. Given the underlined interdependencies
+and potential trade-offs between multiple capitals in existing IR guidelines, we explore
+how companies discuss organisational value creation/destruction discourses within the
+context of multiple capitals following the adoption of IR practice.
+   Our findings indicate that companies are increasingly conforming to reporting
+language espoused in existing IR guidelines and multiple capital frameworks over time
+(Forum for the Future, 2009; IIRC, 2013a). For instance, we find that the research cases
+have increasingly used specific grammars in existing IR guidelines such as “capitals”
+and “material” issues, with companies acknowledging the “interdependencies” and
+“trade-offs” between multiple capitals. Companies have also started to recognise that the
+capitals are subjected to “increases, decreases, and transformations” over time.
+However, upon closer inspection, the disclosures are generic, rather than
+company-specific, and lack substance, often framed in synthetic charming aimed to
+showcase adoption of IR practice. In essence, there is a palpable disintegration between
+different capitals, or components of a capital in the integrated reports as well as other
+reporting platforms. In addition, the current discourse on multiple capital disclosures is
+one of the defending, even promoting, organisational reputation, rather than
+recognising how organisational actions, or inactions, impact multiple capitals,
+particularly capitals of intrinsic value. Instead, companies continue to use multiple
+impression management techniques to exaggerate positive outcomes while obscuring,
+even dismissing, negative trade-offs between the capitals. Finally, we observe
+disclosure of multiple capitals is largely limited to the integrated reports and is
+uncommon in other organisational reporting channels. Thus, the multiple capitals
+framework is not viewed as an overall organisational reporting philosophy but is seen
+as a specific metaphor in integrated reports. We conclude that, despite some cursory
+references to multiple capitals and wider value creation, the adoption of IR practice, and
+the embedded multiple capitals framework, has not really improved the substance of
+organisational reports.
+QRAM       This study contributes to organisational reporting literature in several ways. First, at
+13,4   this early stage of the IR agenda, empirical research is limited. We provide initial
+       empirical account of how (if at all) IR has shaped organisational reporting practice,
+       particularly within the context of highly regarded integrated reporters. Second, the
+       extant IR literature has so far explored “whether” and “what” aspects of IR practice
+       (Wild and van Staden, 2013; Setia et al., 2015). Using a qualitative case study approach,
+418    this study adds to existing literature by examining “how” multiple capitals are reported
+       and integrated in various organisational reporting platforms. Third, we provide
+       evidence that companies, despite calls to balance “positive” and “negative” disclosures
+       in IR guidelines (King III, 2009; IIRC, 2013a), continue to use multiple impression
+       management techniques to exaggerate positive information while ignoring negative
+       outcomes following the adoption of IR practice. Therefore, the findings of this study
+       contribute to impression management theory. Unlike prior studies, which have largely
+       used impression management theory to explain less regulated narrative disclosures
+       (Neu et al., 1998; Brennan et al., 2009), we explore the implications of IR practice on
+       organisational reporting practice through the lens of impression management theory. It
+       is our view that the nature of integrated reports, which in essence combine both highly
+       and less regulated disclosures, presents unique setting to examine how companies use
+       impression management strategies, particularly within the context of highly regarded
+       integrated reporters in a mandatory context. Finally, in departure from prior studies,
+       which have mainly focused on integrated reports, this study examines various reporting
+       channels to explore the implications of IR, and the embedded multiple capitals,
+       frameworks on organisational reporting practice.
+           The remainder of the paper proceeds as follows. The ensuing section reviews
+       relevant IR studies and highlights gaps in the literature. Next, we discuss current
+       multiple capitals frameworks and research theory in Section 3. Section 4 details research
+       methods while the penultimate section presents the research findings. Section 6
+       concludes the paper with discussion of research implications and suggestions for future
+       research directions.
+
+       2. Literature review
+       IR research is still at “embryonic” stage (de Villiers et al., 2014). However, the subject has
+       received, and continues to receive, significant attention from academic researchers as
+       well as professional bodies (PwC, 2013; Wild and van Staden, 2013; Ernst and Young,
+       2013, 2014; Higgins et al., 2014; Veltri and Silvestri, 2015; Setia et al., 2015).
+       Understandably at this early stage, majority of the extant IR literature is normative in
+       nature (Abeysekera, 2013; de Villiers et al., 2014; Brown and Dillard, 2014; Haller and
+       van Staden, 2014; Flower, 2015; Adams, 2015).
+          One stream of the normative studies promotes specific reporting templates and
+       guideposts that incorporate the central ideas of existing IR guidelines (Abeysekera,
+       2013; Haller and van Staden, 2014; Adams, 2015). Such reporting templates and
+       guideposts include, inter alia, valued-added statements and use of narratives to
+       conceptualise and establish linkages between financial and non-financial information
+       (Abeysekera, 2013; Haller and van Staden, 2014). Within the normative studies, there is
+       also an attempt to highlight the historical background of IR initiative and its global
+       footprint (de Villiers et al., 2014). These useful insights notwithstanding, the normative
+       studies provide limited or no empirical account of IR practice.
+    Another stream of the normative studies on IR is critical about the actual worth of the   Integrated
+IR agenda, in particular, its stated aim, scope and purported benefits (Brown and              reporting
+Dillard, 2014; Flower, 2015), while other academic scholars welcome the IR initiative
+(Adams, 2015; Coulson et al., 2015). To some, IR is a “new paradigm” which has the
+potential to shape and improve organisational reporting practice (Adams, 2015; Coulson
+et al., 2015). To others, it is maybe a new paradigm, popular even, but a wrong paradigm
+(Milne and Gray, 2013; Brown and Dillard, 2014; Flower, 2015). The criticisms of IR                419
+mainly focus on current IR proposals’ “value to investors” emphasis and the continued
+advocacy of a business case approach (Milne and Gray, 2013; Brown and Dillard, 2014;
+Flower, 2015), given the primary aim of an integrated report is to “explain to providers
+of financial capital how an organisation creates value over time” (IIRC, 2013a, p. 4). The
+critics maintain that IR, compared to prior organisational reporting initiatives (e.g.
+global reporting initiative [GRI]), is “remarkably regressive” (Milne and Gray, 2013,
+2013, p. 25) and follows a “limited and one-sided approach” (Brown and Dillard, 2014,
+p. 1120). Based on the prior organisational reporting experience, particularly
+sustainability and triple bottom line reporting, where companies produce a set of
+symbolic reports with little or no substantive reporting, it is the view of several
+accounting scholars that IR proposals will only perpetuate current corporate reporting
+empty rhetoric (Milne and Gray, 2013; Flower, 2015).
+    In defence, the advocates of IR maintain that the criticisms are too much too early
+(Adams, 2015), and the mission is on course to achieve its aims (Gleeson-White, 2014).
+Coulson et al. (2015, p. 290), for instance, argue that the IR agenda is a “shift from a
+‘financial capital market system’ to an ‘inclusive capital market system’ through
+recognition of multiple capitals and IR and thinking”. The proponents admit that there
+is always room for improvement, and that the IR frameworks will build on feedback
+from various stakeholder groups including the business community, users of
+information, academics and other relevant publics. The next section reviews early
+empirical studies on IR practice.
+
+2.1 Emerging empirical studies
+A growing number of empirical studies have explored IR practice internationally (PwC,
+2013; Wild and van Staden, 2013; Higgins et al., 2014; Stubbs and Higgins, 2014; Veltri
+and Silvestri, 2015; Robertson and Samy, 2015; Ahmed Haji and Anifowose, 2016). The
+empirical studies have mainly taken two approaches to investigate IR practice:
+  (1) a qualitative approach, which undertakes an in-depth analysis; and
+  (2) a content analyses approach, based on cross-sectional analyses of annual
+       (integrated) reports.
+
+Using in-depth interviews and case study research, the qualitative studies engage with
+early integrated reporters as well as key stakeholder groups (e.g. investors) to explore
+how IR is perceived and conceptualised (Stubbs et al., 2014; Higgins et al., 2014; Stubbs
+and Higgins, 2014; Robertson and Samy, 2015). This line of research reports that there is
+a “gap” between the desired IR (as prescribed in existing IR guidelines) and the actual
+practice (Stubbs et al., 2014; Higgins et al., 2014; Stubbs and Higgins, 2014; Robertson
+and Samy, 2015). For instance, Stubbs et al. (2014) observe, through interviews, that
+there is a significant gap between the information supplied by Australian firms and
+information required by investors. Similarly, Higgins et al. (2014), who interviewed 23
+QRAM   managers of early adopting Australian firms, submit that managers conceptualise IR as
+13,4   a “strategic story-telling” and “about meeting expectation”. In addition, Steyn (2014), in
+       the South African context, finds that the primary motive to adopt IR is to enhance
+       corporate “reputation” and organisational legitimacy rather than improve corporate
+       accountability. Stubbs and Higgins (2014), again in Australia, share similar
+       observations from their interviews with Australian sustainability, finance and
+420    communication managers. The authors argue that the adoption of IR, which is just
+       incremental rather than radical, “has not necessarily stimulated new innovations in
+       disclosure mechanisms” (Stubbs and Higgins, 2014, p. 1068). In short, the empirical
+       findings indicate that current IR practice is motivated by considerations other than
+       organisational accountability and sustainability.
+           By way of content analyses, a growing number of empirical studies have examined
+       specific, or multiple, capital disclosure practices in integrated reports following the
+       adoption of IR practice (Solomon and Maroun, 2012; PwC, 2013; Wild and van Staden,
+       2013; Veltri and Silvestri, 2015; Setia et al., 2015; Melloni, 2015). Using a sample of
+       worldwide companies included in the pilot program of IIRC, Wild and van Staden (2013)
+       and Melloni (2015) have explored multiple capital disclosure practices in the integrated
+       reports. Wild and van Staden (2013) found that companies provide general and soft
+       disclosures as opposed to hard and verifiable information, with majority of the
+       companies reporting only four of the capitals, namely, financial, human, natural and
+       social capitals. Similarly, Melloni (2015) observed that companies provide limited
+       quantitative and forward-looking information, with relational capital dominating the
+       integrated reports of companies included in the pilot program of IIRC.
+           In the South African context, both Solomon and Maroun (2012) and Setia et al. (2015),
+       who have examined corporate disclosure practices before and after the adoption of IR
+       practice in South Africa, found a significant increase in the amount of disclosures
+       following the implementation of IR practice. More recently, Ahmed Haji and Anifowose
+       (2016) have examined the trend of IR practice of South African companies. The authors
+       found a significant increase in the application of IR guidelines by South African
+       companies. However, the authors conclude that “the current IR practice [in South Africa]
+       is largely ceremonial in nature aimed to acquire organisational legitimacy” (Ahmed Haji
+       and Anifowose, 2016, p. 192). In summary, studies in South Africa, consistent with
+       international studies (Wild and van Staden, 2013; Melloni, 2015), observe that integrated
+       reporters follow the form rather the substance of existing IR guidelines (Veltri and
+       Silvestri, 2015). In particular, the integrated reports remain “historical” as opposed to
+       “forward-looking”, and the contents are still presented in “silos” (PwC, 2013).
+           The current study addresses three gaps in the existing literature. First, the extant
+       literature has so far examined “whether” and “what” aspects of IR practice (Solomon and
+       Maroun, 2012; Wild and van Staden, 2013; Veltri and Silvestri, 2015; Setia et al., 2015). In
+       departure from prior studies, this study provides a more focused assessment, than has
+       previously been undertaken, on specific approaches companies use to report “multiple
+       capitals” following the introduction of a mandatory IR requirement in South Africa. In
+       particular, we examine “how” companies report and integrate multiple capitals in the
+       context of organisational value creation/destruction narratives. Second, drawing from
+       multiple impression management techniques, we explore, through discourse analyses,
+       specific grammars used to report the emerging multiple capitals. In essence, we go
+       beyond from “what” is disclosed to “how” it is disclosed. Our intention is to reveal the
+actual nature of IR, and the embedded multiple capital disclosures, particularly within              Integrated
+the context of highly regarded integrated reporters. Third, existing empirical studies                reporting
+have largely focused only on annual integrated reports to explore organisational
+reporting practices following the adoption of IR practice (Solomon and Maroun, 2012;
+Veltri and Silvestri, 2015; Setia et al., 2015; Ahmed Haji and Anifowose, 2016). However,
+the IR agenda, and the embedded integrated thinking, is promoted as a wider
+organisational reporting philosophy which is supposed to bring “shift” in the traditional                 421
+silo reporting and integrate various organisational reporting platforms (IIRC, 2013a).
+This study, therefore, examines various organisational reporting channels including
+integrated reports, standalone sustainability reports, websites, press releases and other
+online materials to observe how the adoption of IR has influenced organisational
+reporting practice.
+
+3. Research framework
+3.1 Multiple capitals frameworks
+The IIRC framework builds on recent projects that have proposed multiple capital
+frameworks, in particular Sigma Project (2003) and Forum for the Future (2009), which
+have initially identified five capitals (natural, social, human, manufactured and financial
+capital). The IIRC framework proposes six capitals, adding intellectual capital to
+existing multiple capital proposals (Coulson et al., 2015). These proposals all recognise
+that organisations create value by using and creating broad base of multiple capitals. In
+particular, the proposed IIRC framework encourages integrated reporters to show
+interdependencies and trade-offs between the capitals in communicating organisational
+value creation to promote “accountability and stewardship for the broad base of capitals
+[…] and promote understanding of their interdependencies” (IIRC 2013a, p. 2). The
+natural process is that the capitals are subject to increases, decreases and
+transformations over the course of organisational reporting period, and so companies
+are required to report changes in the capitals as well as potential trade-offs between
+them. For instance, a decrease in the financial capital of a firm could have been the result
+of significant investments in human capital, intellectual capital and/or investments in
+renewable energy sources. In this case, the financial capital has been transformed into
+other capitals of intrinsic value:
+   The capitals are stocks of value that are increased, decreased or transformed through the
+   activities and outputs of the organization. For example, an organization’s financial capital is
+   increased when it makes a profit, and the quality of its human capital is improved when
+   employees become better trained (IIRC, 2013a, p. 11).
+One benefit of the proposed multiple capitals framework is that companies are able to
+consider and communicate how they create/ destroy “value” beyond economic value
+(Gleeson-White, 2014; Coulson et al., 2015). However, the danger is that companies could
+misunderstand the nature of different capitals, potentially monetising capitals of
+intrinsic value, rather than economic value, such as human, social and natural resources
+(Barter, 2015). Therefore, given the term capital is predominantly conceptualised as
+money and other financial assets by accountants, use of the “capitals” metaphor can be
+problematic, potentially relegating human and natural resources of intrinsic value to
+money and financial assets (Barter, 2015; Coulson et al., 2015). Hence, while the multiple
+capitals approach is potentially useful, there is a need to draw a clear distinction
+between capitals of intrinsic value, as represented by social, human and natural capitals,
+QRAM   and capitals of economic value such as financial, intellectual and manufactured capitals
+13,4   to avoid continuation of economic hegemony (Coulson et al., 2015).
+           Nonetheless, the multiple capitals framework continues to receive a growing
+       recognition from academic researchers (Gleeson-White, 2014; Setia et al., 2015; Coulson
+       et al., 2015; Barter, 2015), practitioners (McElroy and Thomas, 2015) and the business
+       community. In South Africa, an increasing number of companies such as Sasol, Royal
+422    Bafokeng Platinum Ltd, Standard Bank Group Ltd and Truworths International Ltd
+       have adopted the multiple capitals framework in their integrated reports.
+       Internationally, several companies including Coca-Cola HBC, Lawson, Banca Fideuram,
+       Atlantia and Sime Darby (to name but only a few) are also embracing the capitals
+       framework (Coulson et al., 2015). These developments, notwithstanding, early empirical
+       studies show that multiple capital disclosures are ceremonial rather than substantive
+       (Setia et al., 2015; Ahmed Haji and Anifowose, 2016), as the integrated reports “construct
+       a discourse imbued with stakeholder accountability rhetoric” (Solomon and Maroun,
+       2012, p. 51). However, given the newness of IR practice, little is still known about the
+       implications of IR, and the embedded multiple capitals frameworks, on organisational
+       reporting practice. Building on these developments, we examine, through discourse
+       analyses, “how” highly regarded, award-winning South African companies report and
+       integrate multiple capitals in various organisational reporting channels. In so doing, we
+       draw from impression management theory to explain organisational reporting practice
+       following the introduction of an “apply or explain” IR requirement in South Africa. The
+       ensuing section further discusses the research theory.
+
+       3.2 Impression management theory
+       Impression management theory, which has its roots in social psychology literatures,
+       propounds that individuals and organisations attempt to control the perceptions of
+       others to gain specific advantage. In particular, impression management is defined as
+       the “conscious or unconscious attempt to control images that are projected in real or
+       imagined social interactions” (Schlenker, 1980, p. 6). Accounting researchers have
+       predominantly used impression management theory to explain organisational reporting
+       practice (Neu et al., 1998; Brennan et al., 2009; Melloni, 2015). Brennan et al. (2009), in
+       their review, have identified seven impression management approaches used in prior
+       studies. These are:
+          (1) syntactic manipulation, which is by far the most popular and is often used in
+               form-orientated studies;
+          (2) rhetorical manipulation, based on analyses of linguistic choices and the use of
+               rhetorical language to exaggerate positive information and obscure negative
+               outcomes;
+          (3) attribution of organisational outcomes, use of impression management
+               techniques to link positive results to managerial decisions and negative
+               outcomes to outside factors;
+          (4) thematic manipulation, simple illustrations and preferences given to positive/
+               negative categories;
+          (5) selectivity, pervasive selection of positive data and narratives;
+          (6) emphasis in visual presentation, particular emphasis placed on a piece of data,
+               repetition of narratives and use of adjectives to reinforce selected themes; and
+  (7) performance comparisons, selection of specific comparisons, benchmarks and             Integrated
+      trends that display organisational performance most favourably.                         reporting
+Brennan et al. (2009) cover these seven approaches in detail, and we do not intend to
+repeat them here. In a nutshell, however, organisations use symbolic disclosures that
+construct a positive framing of the company to acquire/maintain organisational
+legitimacy (Neu et al., 1998), with companies often using impression management                   423
+techniques to enhance corporate reputation (Highhouse et al., 2009). In so doing,
+companies use less regulated narrative disclosures to exaggerate positive information
+while obscuring, even dismissing or underplaying, negative information (Brennan et al.,
+2009). Drawing from four impression management approaches, namely, thematic
+manipulation, selectivity, emphasis in visual presentation and performance
+comparisons, Brennan et al. (2009) examine press releases disclosures of UK companies.
+Brennan et al. (2009, p. 823) conclude that “in practice multiple impression management
+methods are used simultaneously” to advance specific organisational objectives.
+    Within the context of IR practice, Melloni, 2015, who examined intellectual capital
+disclosures (ICD) practices of worldwide companies included in the IIRC pilot program,
+found impression management techniques, thematic manipulation in particular, are
+used to report ICD in the integrated reports. Melloni concludes that “firms use ICD
+opportunistically to advance their corporate image” (Melloni, 2015, p. 675). Several other
+empirical studies have documented that current IR practice is symbolic (Solomon and
+Maroun, 2012; Wild and van Staden, 2013; Veltri and Silvestri, 2015; Setia et al., 2015),
+with South African companies, in particular, adopting “a legitimation strategy based on
+symbolic management when preparing integrated reports” (Setia et al., 2015, p. 397).
+    In this study, we draw from impression management theory to explain the emerging
+multiple capital disclosure practices in various organisational reports following the
+adoption of mandatory IR requirement. Our intention is to uncover specific grammars
+and emerging themes used in organisational reports on the interdependencies and
+trade-offs between multiple capitals, or components of a capital. In so doing, we
+undertake critical discourse analyses to examine the content of various organisational
+reports. To make sense of the approaches used to report multiple capitals, we
+specifically draw from five impression management approaches, namely, rhetorical
+manipulation, thematic manipulation, selectivity, emphasis in visual presentation and
+performance comparisons (Brennan et al., 2009). Our choice of impression management
+theory, and these five impression management strategies in particular, is largely
+influenced by the nature of IR, and multiple capital disclosures, given the combination of
+both financial and non-financial aspects of organisational performance. In addition, we
+find impression management theory particularly useful in explaining how companies
+report and integrate the emerging multiple capitals framework for two reasons.
+    First, unlike previous organisational reporting norms, existing IR guidelines
+explicitly encourage companies to balance “positive” and “negative” information to
+improve the quality of corporate reports (King III, 2009; IIRC, 2013a). For example, King
+III (2009, p. 49) states that the “board should ensure that the positive and negative
+impacts of the company’s operations and plans […] are conveyed in the integrated
+report”. Similarly, the IIRC (2013a, p. 5) emphasises that “an integrated report should
+include all material matters, both positive and negative, in a balanced way and without
+material error”. In the context of multiple capitals, the IIRC framework urges companies
+QRAM   to give “equal consideration to both increases and decreases in the capitals, both
+13,4   strengths and weaknesses of the organisation, both positive and negative performance,
+       etc” (IIRC, 2013a, p. 22). As a result, considering these local and international calls for
+       “balanced” reporting, we examine how the adoption of IR practice has influenced
+       organisational reporting practice, particularly within the context of highly regarded
+       integrated reporters in a regulatory IR environment. Second, unlike traditional annual
+424    reports where financial and non-financial information are presented in silos, the IR
+       agenda promises to integrate both reporting strands. Therefore, given organisational
+       tendency to use impression management techniques in less regulated narrative
+       disclosures (Brennan et al., 2009), the nature of integrated reports, which in essence
+       combine both highly and less regulated disclosures, presents unique setting to examine
+       how companies use impression management techniques following the adoption of IR
+       practice.
+
+
+       4. Research methodology
+       To reiterate, the objective of this study is to examine how the adoption of IR practice, and
+       the embedded multiple capital framework, has influenced organisational reporting
+       practice following the introduction of an “apply or explain” IR requirement in South
+       Africa. Using qualitative case study approach based on discourse analyses, we
+       specifically examine how the multiple capitals are reported and integrated in various
+       organisational reporting channels following the adoption of IR practice. In doing so, we
+       explore how highly regarded, award-winning, South African companies report the
+       interdependencies and trade-offs between multiple capitals, or components of a capital
+       within the context of organisational value creation/destruction process.
+
+
+       4.1 Selection of research cases
+       Our study is located within the South African reporting context, where IR is required on
+       an “apply or explain” basis for all companies listed on Johannesburg Securities
+       Exchange (JSE). Through King III Code of Corporate Governance (2009), the JSE
+       requires all listed companies to produce an integrated report, or else explain reasons of
+       not doing so, since 1 March 2010. The IR requirement, which builds on a chain of recent
+       corporate governance reforms (King II, 2002), has its roots in South Africa’s quest to
+       fight against corruption, social and economic inequalities that go back to the apartheid
+       era (King III, 2009; de Villiers et al., 2014). For instance, King II highly advocated for
+       sustainability reporting and embedded it in the corporate governance requirements.
+       However, King III (2009), while continuing to support the notion of sustainability
+       reporting, requires sustainability reporting to be integrated with financial reporting.
+       The objective of IR is to “enable stakeholders to assess the ability of an organisation to
+       create and sustain value over the short-, medium- and long-term” (Integrated Reporting
+       Committee of South Africa; IRC, 2011, p. 1). King III (2009, p. 12) argues that IR has
+       internal and external benefits:
+          By issuing integrated reports, a company increases the trust and confidence of its stakeholders
+          and the legitimacy of its operations. It can increase the company’s business opportunities and
+          improve its risk management. By issuing an integrated report internally, a company evaluates
+          its ethics, fundamental values, and governance, and externally improves the trust and
+          confidence which stakeholders have in it.
+In line with these developments, we explore the implications of IR practice on                       Integrated
+organisational reporting practice following the introduction of IR requirement in South               reporting
+Africa. In particular, using discourse analyses to obtain richer insights, we examine how
+companies report the interdependencies and trade-offs between the capitals. Given the
+nature of discourse analyses in terms of searching for “meaning” and “context” of the
+issue at hand as well as going beyond from “what” is reported to “how” it is reported
+(Beattie et al., 2004; Powell, 2007), we have limited our analyses to five companies.                     425
+    Our selection of the sample companies was informed and guided by case study
+research as well as the nature of discourse analyses. In particular, our choice of the
+sample companies was influenced by three factors. First, all five companies have shown
+illustrations, albeit at a general level, of the research questions of this study. For
+example, we have conducted preliminary screening exercise on the integrated reports of
+larger sample of South African companies to explore IR practice, and in particular, how
+companies are embracing existing IR guidelines and multiple capital frameworks. The
+selected cases for this study have shown explicit awareness on multiple capitals
+framework based on IR guidelines as well as multiple capital frameworks in their latest
+integrated reports (Sigma Project, 2003; King III, 2009; Forum for the Future, 2009). The
+following extract from the integrated report of one of the selected cases shows
+awareness on multiple capital frameworks:
+   Our ability to create value depends on certain forms of capital, how we use them and our
+   impact on them. We apply the capitals model, initially developed by Forum for the Future, in
+   managing and assessing our ability to create value over time. Our report aims to explain how
+   we use and affect the capitals. We recognise that the capitals are interrelated and fundamental
+   to the long-term viability of our business. Intellectual capital is integrated into the human,
+   financial and manufactured capitals as this better reflects the nature of our business as a
+   financial services organisation (Standard Bank, Integrated Report, 2013, p. 2).
+Hence, the cases were not selected at random, but rather, were selected after publicly
+revealing the issues of concern in their integrated reports. This selection approach is
+appropriate for case analyses research (Eisenhardt, 1989; Chenhall and Langfield-Smith,
+1998; Powell, 2007) and is consistent with recent IR studies (Higgins et al., 2014).
+   Second, the selected cases were consistently in the top five of Ernst & Young’s
+Excellence in Integrated Reporting Awards winners for the years 2013 and 2014 (Ernst
+and Young, 2013, 2014). The yearly Ernst & Young’s Excellence in Integrated Reporting
+Awards is awarded to the best integrated reporters in South Africa. These companies
+are therefore highly regarded as “leaders” in the IR initiative and are likely to set the
+agenda for the rest. Therefore, analyses of their IR practice would enhance our
+understanding of how IR practice has influenced organisational reporting practice.
+Finally, the selected firms belong to environmentally and non-environmentally sensitive
+industries. The findings of this study would therefore reveal how IR is taking shape
+across different sectors. Table I provides brief information on the selected cases.
+
+4.2 Sources of data
+Companies can provide integrated information through a number of organisational
+reporting channels including, inter alia, annual reports, standalone sustainability
+reports, websites and/or special reports. The IIRC (2013a, p. 8) explicitly states that “an
+integrated report may be either a standalone report or be included as a distinguishable,
+prominent and accessible part of another report or communication”. In practice, there is
+QRAM                 evidence that companies endeavour to provide integrated information in various
+13,4                 reporting channels such as corporate websites as shown below:
+                        For more information on the inputs, outputs and outcomes of our business model and
+                        integrated value chain, in relation to the six capitals model of value creation, which is the model
+                        recommended by the IIRC’s Consultation Draft published in April 2013, refer to the video on
+                        www.sasol.com (Sasol 2013, Integrated Report, p. 11).
+426
+                     As a result, we explore how companies report and integrate multiple capital disclosures
+                     in various organisational reporting channels including annual integrated reports,
+                     standalone sustainability reports, websites, and online reports including media releases,
+                     press releases, newsletters and other reports. In so doing, we have undertaken a
+                     longitudinal analysis of four years (2011-2014). The selection of this period is largely
+                     influenced by two factors. First, IR developments have started in the tail-end of 2009 in
+                     South Africa (King III, 2009). As of 2011, the expectation is that companies had gained
+                     basic understanding of fundamental concepts of IR having already started their IR
+                     journey in the preceding year. Our initial analyses, which involved screening early years
+                     of integrated reports of a larger sample, showed that companies were growing into the
+                     IR concept. As a result, examining the years 2011-2014 allows us to track specific
+                     developments of IR practice, and in particular, multiple capitals disclosures. Second, the
+                     selection was limited by data availability and nature of discourse analyses which is
+                     effectively drawn from a small amount of data (Powell, 2007).
+                         In total, we have examined 54 organisational reports over the four-year period,
+                     encompassing integrated reports, standalone sustainability reports, website contents
+                     and press/media releases. Table II summarises various sources of data and number of
+                     reports from each company.
+
+                     4.3 Techniques for analyses
+                     We have conducted discourse analyses based on thematic content analysis to closely
+                     engage with the content of organisational reports (Beattie et al., 2004; Powell, 2007;
+                     Baker and Ellece, 2011). Given our interest to examine multiple capital disclosures
+                     within their specific context and how companies align the reports to exiting IR
+                     guidelines (Baker and Ellece, 2011), we explored specific grammars and languages used
+                     to report and integrate the capitals. In so doing, we have examined the entirety of
+                     organisational reports. The analyses were not limited to any particular section of the
+                     reports, but focused on how companies report and integrate multiple capitals, or
+                     components of a capital. In the case of websites, given their nature, the analyses were
+
+
+                                                        Market capitalisation of selected casesa
+                     Companies                      Year 2011 Year 2012 Year 2013 Year 2014 Industry
+
+                        Royal Bafokeng Platinum Ltd 1,115,299 1,119,732          934,128 1,008,940 Mining
+                        Sasol Ltd                      33,558,923 26,911,939 27,748,115 38,799,537 Oil and Gas
+Table I.                Standard Bank Group Ltd        19,266,941 22,460,188 19,960,379 20,050,390 Financials
+Market capitalisation Truworths International Ltd       4,941,169 5,029,608 3,989,258 2,978,867 Consumer Services
+and industrial          Gold Fields Ltd                11,081,727 8,905,494 2,415,891 3,501,992 Mining
+affiliation of research
+cases                   Notes: a Data are obtained from OSIRIS Database; All currencies are in US$ (thousands)
+                                  Integrated     Sustainability     Online
+                                                                                                         Integrated
+Companies                           reports         reports        materials*     Websites       Total    reporting
+Royal Bafokeng Platinum Ltd            4                0               4             1            9
+Sasol Ltd                              4                4               4             1           13
+Standard Bank Group Ltd                4                4               4             1           13
+Truworths International Ltd            4                2               0             1            7
+Gold Fields Ltd                        4                4               3             1           12
+                                                                                                                 427
+Total                                 20               14              15             5           54
+                                                                                                              Table II.
+Note: * Online materials include media releases, press releases, newsletters and other reports           Sources of data
+
+
+limited to recent disclosures. Our investigation involved searching for meaning in the
+context of both explicit and implicit disclosures and integration of the capitals, in
+particular, disclosures on interdependencies and trade-offs between multiple capitals, or
+components of a capital. We have taken cognisance from the discourse analyses of
+Powell (2007, p. 5) that:
+   […] involved the examination and comparison of the nature, configuration and placement of
+   information (narrative and non-narrative); consideration of the purpose, appearance and tone
+   of language; identification of significant visual characteristics (i.e. size, colour, placement and
+   frequency of non-narrative disclosures typesetting, layouts, use of borders and headings for
+   narrative disclosures), and the emergence of dominant patterns, themes, or trends over the
+   period of the investigation.
+Given the nature of discourse analyses, we were reluctant to use a disclosure index
+because our intention was not to quantify the extent of multiple capital disclosures, but
+to identify specific themes and discourses on multiple capital disclosure practices
+following the adoption of IR practice. However, we were informed by a checklist
+developed based on normative understanding of existing IR guidelines as well as
+multiple capital frameworks. In developing the checklist, existing local and
+international IR guidelines were initially examined (King III, 2009; IRC, 2011, 2013a,
+2013b). In the initial process, we have specifically examined how local and international
+IR guidelines discuss the multiple capitals and, in particular, the interdependencies and
+trade-offs between multiple capitals as well as components of a capital. We have also
+reviewed previous multiple capital proposals (Sigma Project, 2003; Forum for the
+Future, 2009). Based on normative understanding of existing IR guidelines, we were able
+to come up with a number of potential reporting narratives pertaining integration of
+multiple capitals. The research instrument is shown in Appendix.
+    We have undertaken a two-stage discourse analyses. In the first stage, the analyses
+were conducted by two experienced researchers, who were involved in prior discourse
+analyses research work. In this stage, the analyses were limited to integrated reports,
+with both researchers reading all the integrated reports, each at the same time. The
+appearance of a particular narrative (as per the predefined checklist) in the reports was
+discussed in its reported context, tone of language, purpose and theme. After
+discussions, the two researchers would agree on how the issue of interest was reported,
+incorporated and integrated in the reports. In the second stage, once the scoring method
+became clear to both researchers, one of the researchers has extended the discourse
+analyses to other organisational repots to ensure consistency across other
+QRAM   organisational reports. Upon completion, the other researcher has conducted
+13,4   independent analyses to ensure reliability and validity of the findings. In case there were
+       discrepancies, or a need for further analyses, the two researchers would collectively and
+       independently undertake specific additional analyses. The ensuing section presents the
+       research findings.
+
+428    5. Research findings
+       Based on the research objectives, we discuss the research findings in three main
+       subsections. The first section provides general account of IR practice, aimed to illustrate
+       the nature of multiple capital disclosures in various organisational reporting outlets.
+       Second, drawing from five impression management techniques, we illustrate how
+       companies report and integrate multiple capitals, with a focus on the interdependencies
+       and trade-offs between the capitals. In particular, we expose specific grammars and
+       semiotic choices underpinning multiple capital disclosures. To frame the discussion,
+       each major narrative is discussed within the context of existing multiple capital
+       frameworks and IR guidelines. Finally, we discuss the implications of IR, and embedded
+       multiple capitals frameworks, on organisational reporting practice over time. In so
+       doing, we identify emerging themes in various organisational reporting channels.
+
+       5.1 Nature of multiple capital disclosures
+       To understand specific organisational reporting approaches used to report multiple
+       capitals, we have examined how companies conceptualise and integrate multiple capitals
+       in various organisational reports. The following subsections discuss these narratives in
+       detail.
+          5.1.1 Conceptualising the multiple capitals. The research cases have all showed some
+       form of awareness about the six capitals in their reports, and particularly in the
+       integrated reports. The definitions given and classifications of the capitals are largely in
+       line with those of existing multiple capital frameworks and IR guidelines. For instance,
+       discussions on multiple capitals have evolved from five capitals, as initially proposed by
+       Sigma Project (2003) and Forum for the Future (2009), to the six capitals classification,
+       adding intellectual capital, as advocated in the IIRC (2013a) framework. However,
+       companies adopt the capitals frameworks at face value, without explicitly disclosing
+       how the proposed capitals are operationally relevant to organisational activities. We
+       observe that the companies are not critical about the six capitals framework and are
+       going with the flow, perhaps to avoid unfavorable attention:
+          As outlined on page 6, the Integrated Reporting Framework of the IIRC classifies the capitals
+          upon which a business depends for its success as financial, manufactured, intellectual, human,
+          social and relationship, and natural capital. These capitals are either increased, decreased or
+          transformed through the activities of the business and should ultimately result in value
+          creation (Truworths International (2014), Integrated Report, p. 15).
+       While the company, as shown in the above extract, cites the IIRC capitals framework
+       and shows an understanding that the capitals are “increased, decreased, or
+       transformed” through organisational activities, the company fails to provide specific
+       illustrations on “how” the multiple capitals have increased, decreased or transformed
+       through the company’s activities. Our analyses in the other research cases show a
+       similar pattern. Most companies were also silent on how the capitals have increased,
+       decreased and transformed during the reporting period. In addition, discussions on the
+multiple capitals are largely restricted to the integrated reports, with companies hardly            Integrated
+making explicit references to the capitals in other organisational reporting channels.                reporting
+Sasol and Standard Bank were exceptions, as they have started to extend discussions on
+the capitals to their 2013 and 2014 sustainability reports. Royal Bafokeng Platinum has
+also started to report the capitals in its website. However, the multiple capitals
+framework is not viewed as an overall organisational reporting philosophy but is seen
+as a specific metaphor in the integrated reports.                                                         429
+    Another major observation is that companies, regardless of their industry, conform
+to similar reporting language in reporting the capitals. For instance, we expected
+companies in the extractive industries such as Sasol, Gold Fields and Royal Bafokeng
+Platinum to discuss, in great lengths, how their operations have increased, decreased
+and transformed natural and social capitals, whereas companies in the finance sector
+such as Standard Bank would focus on intellectual and relational capitals. However,
+while there are indications of the “industry effect” in certain disclosures, our
+observations show no substantial or systematic difference across companies in terms of
+how they conceptualise the multiple capitals collectively. This is due to the generic,
+rather than company specific, nature of multiple capital discussions.
+    During the analyses, however, we observed one particular scenario where one of the
+cases (i.e. Truworths International) made attempts to align the capitals to organisational
+operations. Truworths International reported that manufactured capital is not relevant
+to their operations in the year 2013:
+   Owing to the nature of our business, we do not at this stage believe that manufactured capital
+   is relevant to our reporting (Truworths International, Integrated Report, 2013, p. 2).
+Surprisingly, Truworths International reports manufactured capital in its integrated
+report the following year (2014) without elaborating the inclusion of manufactured
+capital, whether that was due to change in operations or evolving reporting practice:
+   A new concept introduced by the framework relates to the six forms of capital which impact on
+   value creation and diminution in a business. These comprise financial, manufactured,
+   intellectual, human, social and relationship, and natural capital. The Group’s activities and
+   performance relating to these capitals are covered throughout the Report. Refer to the Capitals
+   of Value Creation on page 6 for further insight (Truworths International, Integrated Report,
+   2014, p. 2).
+We have undertaken further analyses in the company’s various reporting channels to
+investigate the sudden inclusion of “manufactured capital” in the company’s integrated
+report just a year after the company declared that “we do not at this stage believe that
+manufactured capital is relevant to our reporting”. The objective of this specific analysis
+was to find out whether the sudden inclusion of manufactured capital was due to
+changes in organisational operations, in particular whether the company has had a
+major acquisition and/or new product line in the year 2014. We have also searched for
+specific explanation (e.g. feedback from stakeholders) to understand the inclusion of
+manufactured capital from various organisational reports. However, we did not find any
+evidence to suggest that the organisational operations have significantly changed to
+justify inclusion of manufactured capital. There were also no specific explanations for
+the inclusion of this capital. While this may suggest the gradual understanding of
+companies in IR guidelines, and the multiple capitals in particular, it could also indicate
+the symbolic nature of IR practice and disclosure of multiple capitals.
+QRAM                     Finally, we have examined the implications of IR on the length of various reports,
+13,4                 particularly integrated and sustainability reports. Our intention was to discover
+                     whether the adoption of IR practice has reduced the number of pages of annual reports,
+                     and how this has influenced sustainability reports. As shown in Table III, we found
+                     mixed observations as, for instance, Sasol and Gold Fields have reduced the length of
+                     their integrated reports over time, whereas Royal Bafokeng Platinum and Standard
+430                  Bank have increased the number of integrated report pages. On the other hand, the
+                     length of Truworths International’s integrated report remained flat over time. In terms
+                     of sustainability reports (unreported), there is no evidence that the changes in the length
+                     of integrated reports of individual companies have had a notable impact on the length of
+                     sustainability reports. For instance, Standard Bank, in line with the increase in its
+                     integrated report pages, has increased the length of sustainability reports over time. In
+                     short, despite calls for concise reports in IR guidelines, we found no systematic evidence
+                     to suggest that the adoption of IR practice has reduced the length of organisational
+                     reports over time.
+                         5.1.2 Integration of the capitals. During the analyses, we have specifically examined
+                     “how” the multiple capitals or components of a capital are incorporated and integrated
+                     in various organisational reporting platforms. The intention was to explore how the
+                     adoption of IR, and the embedded multiple capitals framework, have shaped reporting
+                     behaviour. In the analyses, we have looked into two dimensions. First, we explored a
+                     general level of incorporation of the capitals in the integrated and other organisational
+                     reports. Second, we examined how companies go beyond mere incorporation of the
+                     capitals in organisational reports and establish links between them. In particular, we
+                     analysed how the research cases report interdependencies and trade-offs between the
+                     capitals, searching for specific grammars in IR guidelines such as “increases, decreases,
+                     and transformations” of the capitals.
+                         In terms of general level of incorporation, our analyses show that companies continue
+                     to report the capitals in silos, and there are limited attempts to integrate them. The
+                     integrated reports, and to a lesser extent sustainability reports, contain separate
+                     sections for individual capitals. The following example indicates the structure of a
+                     typical integrated report:
+                        This decision has resulted in a saving of R750 million in the Group’s processing capital
+                        expenditure as detailed below (see page 59 of the Manufactured capital section of this report for
+                        more information on this strategy) and a 25 per cent improvement in our enterprise internal
+                        rate of return (IRR) (Royal Bafokeng Platinum (2013), Integrated Report, p. 45).
+                     The above illustration is the norm of current IR practice, with companies continuing to
+                     discuss the capitals in separate sections rather than in an integrated manner. The
+
+
+                                                      Integrated reports: number of pages over time
+                     Companies                         2011         2012        2013          2014      Trend
+
+                     Royal Bafokeng Platinum Ltd       174           208          200          262      Overall increase
+Table III.           Sasol Ltd                         153           150          130          130      Overall decrease
+Number of pages of   Standard Bank Group Ltd           158           182          192          200      Overall increase
+integrated reports   Truworths International Ltd       146           144          140          144      Remained flat
+across companies     Gold Fields Ltd                   172           172          166          125      Overall decrease
+silo presentation of the capitals, notwithstanding, companies acknowledge the                            Integrated
+interrelatedness and interdependencies between multiple capitals:                                         reporting
+   Our report aims to explain how we use and affect the capitals. We recognise that the capitals are
+   interrelated and fundamental to the long-term viability of our business. Intellectual capital is
+   integrated into the human, financial and manufactured capitals as this better reflects the
+   nature of our business as a financial services organisation (Standard Bank, Integrated Report,
+   2013, p. 2, emphasis added).                                                                               431
+In addition, companies are also aware that there are potential “trade-offs” between the
+capitals, as shown in the following extraction:
+   The resources and relationships that are critical to our ability to create value are all
+   interdependent, which, at times, necessitate certain trade-offs between them. In managing these
+   trade-offs, we aim to minimise our negative impacts on the capital inputs and maximise
+   positive outcomes, in the interests of all our stakeholders (Sasol, Integrated Report, 2014, p. 10,
+   emphasis added).
+Despite acknowledging the interrelatedness and trade-offs between the capitals, meaningful
+integration between the capitals is limited, with the disclosures being mostly descriptive in
+nature. While mere incorporation of the multiple capitals can be regarded as a development
+in its own right at this early stage of the IR journey, lack of actual “integration” among the
+capitals would nonetheless perpetuate traditional organisational reporting norms. For
+instance, companies hardly discuss how investment in human and natural capitals in
+previous years has transformed financial capital, and whether the increase in financial
+capital is a result of exploitation/preservation of natural resources and how such
+exploitations/preservations of natural capital have contributed to financial and other
+capitals. There are, however, few attempts where companies link reductions in electricity
+consumption (i.e. preservation of natural capital) to savings in financial capital:
+   During 2014, Cerro Corona achieved a reduction in diesel consumption intensity of 12 per cent
+   (TJ/MT mined) against a target of 12 per cent and a reduction in electricity consumption
+   intensity of 6 per cent (TJ/MT processed) against a target of 8 per cent, leading to savings of
+   USA$4.3 million in energy costs (Gold Fields (2014), Integrated Report, p. 62).
+These disclosures, albeit very limited, reflect an emerging practice which recognises the
+interdependencies and trade-offs between multiple capitals following the adoption of IR
+practice. It also shows how disclosures on wider organisational performance, when
+viewed through the lens of multiple capitals, could lead to communication of
+organisational value creation, beyond economic value, as further discussed below.
+   5.1.3 Multiple capitals and value creation. In this section, we report how companies
+communicate organisational value creation/destruction discourses through the lens of
+multiple capitals and material issues. The “value to investors” emphasis, and the
+ongoing institutionalisation of narrowly conceptualised “value creation”, in current IR
+proposals has already been heavily criticised by a number of academic scholars (Milne
+and Gray, 2013; Brown and Dillard, 2014). In our analyses, we find that the “value to
+investors” rhetoric, and the business case approach, continues to significantly shape
+how companies conceptualise organisational value creation post the adoption of IR
+practice:
+   We believe that ROE ratio is the most relevant measure of our performance over time as it
+   combines all our critical value drivers, including earnings growth and regulatory capital
+QRAM      measures, into a single metric that measures the success of our strategy and business
+          performance (Standard Bank, 2014, Integrated Report, p. 15).
+13,4
+          The ultimate test of our strategy is to deliver sustainable and superior financial performance
+          over the long term, measured by earnings and ROE (Standard Bank, 2014, Integrated Report,
+          p. 8).
+432    The above narratives, which are only a representation of widespread organisational
+       reporting practice, raise questions on the ultimate aim of multiple capital
+       disclosures, given companies continue to view traditional financial measures (e.g.
+       ROE) as “the most relevant measure of our performance over time as it combines all
+       our critical value drivers”. At the risk of stating the obvious, perhaps the answer to
+       this question is that disclosures on capitals other financial capital, which are
+       ceremonial in nature anyway, are only symbolic gestures aimed to manage
+       perceptions of non-financial stakeholder groups.
+          To be fair, companies attempt to link specific organisational decisions to wider value
+       creation. In most cases, however, these decisions are economically, rather than socially/
+       environmentally, motivated, as shown below:
+          To align with the increasing trend towards online reporting and electronic access to
+          information, we have elected no longer to print our Report and rather have made it
+          available online. This has resulted in a meaningful cost saving and has also reduced our
+          environmental impact. A preliminary report containing abridged financial statements has
+          been mailed to all shareholders (Truworths International, Integrated Report, 2014, p. 3).
+
+       5.2 Impression management approaches
+       To explain the nature of multiple capital disclosures, we draw from five impression
+       management techniques, namely, rhetorical manipulation, thematic manipulation,
+       selectivity, emphasis in visual presentation and performance comparisons (Brennan
+       et al., 2009). The following sections discuss the research findings in the context of
+       these measures.
+          5.2.1 Rhetorical manipulation. We closely examined the nature of multiple capital
+       disclosures in the context of IR guidelines and multiple capital frameworks to
+       identify the “form” and “substance” of the disclosures. We specifically analysed
+       linguistic choices and the extent of rhetorical language in reporting multiple
+       capitals. Our observations indicate that the contents of the reports are largely
+       generic, dominated by symbolic narratives as opposed to substantive,
+       company-specific disclosures. There is a preference to massage the capitals in a
+       bypassing form, often in a descriptive approach. For instance, as mentioned earlier,
+       there are limited attempts to discuss the capitals in the context of specific increases,
+       decreases and transformations, as well as trade-offs between the capitals. In the rare
+       cases when companies attempt to provide systematic multiple capital disclosures,
+       the discussions are largely empty rhetoric peppered with some cursory terms in
+       existing IR and multiple capital frameworks:
+          As an integrated hydrocarbon monetiser, we make a substantial net-positive contribution to
+          most of the capital inputs. However, we acknowledge that the key natural capital inputs to our
+          business are non-renewable resources, which may impact negatively on human and social
+          capital. For example, by competing for resources such as water. Our strategic decision not to
+          pursue coal-to-liquids growth, but to focus, instead, on gas as a bridge to a low-carbon
+   economy, demonstrates our commitment to reducing the negative impacts of our operations on         Integrated
+   natural capital. We also invest significantly in reducing our own environmental footprint and
+   in enhancing the environmental contribution of our products and processes (Sasol, Integrated
+                                                                                                       reporting
+   Report, 2014, p. 10, emphasis added).
+In the above extract, use of rhetorical language notwithstanding, the framing of
+disclosures that “the key natural capital inputs to our business are non-renewable
+resources, which may impact negatively on human and social capital” suggests that the                      433
+company is not precise about the effects of its operations on human and social capitals.
+There is extensive use of some cursory IR terms, in the above case “natural, social and
+human capitals” in an empty rhetoric, to justify adoption of IR practice. The following
+extract follows a similar pattern:
+   We create value through our business activities using the stocks of capital available to us.
+   Understanding our dependence on, and contribution to these forms of capital is fundamental to
+   our ability to continue creating value over the long term. Ultimately, the most significant
+   outcomes of our business activities are in their contribution to socioeconomic development,
+   which we can only achieve through remaining profitable and staying relevant to the societies
+   we serve (Standard Bank, Integrated Report, 2013, p. 6, emphasis added).
+The terms such as “stocks of capital” are used loosely to establish conformity with
+existing multiple capital frameworks and IR guidelines. The research cases, which are
+highly regarded award-wining integrated reporters, provide limited disclosures on
+specific business activities that increase, decrease and transform the capitals. The
+companies are also silent on positive and particularly negative trade-offs between
+multiple capitals, or components of a capital. Interestingly, generic disclosures are
+widespread across different organisational reporting channels. The following narrative
+is stated in the website of Royal Bafokeng Platinum:
+   We assess our carbon emissions every year and use the results of these assessments to help us
+   improve our carbon intensity. Not only is it socially responsible to make every effort to reduce
+   our carbon intensity but it also makes good business sense as reducing our carbon intensity
+   will mean improving our efficiency in terms of the amount of fuel and electricity we use to
+   produce a tonne of concentrate (Royal Bafokeng Platinum, Website, November 8, 2015).
+The adoption of IR practice, particularly in the context of highly regarded companies in
+a regulatory environment, has not really stimulated new organisational reporting
+practice and is mere continuation of the traditional, symbolic, corporate reporting norm.
+It is likely that this trend would continue unless proper accountability measures are in
+place.
+    5.2.2 Thematic manipulation. Thematic manipulation refers to organisational
+tendency to use simple illustrations and categorisations to communicate
+positive/negative information. Given the nature of multiple capital frameworks, we
+examined how companies discuss positive and negative trade-offs between the capitals,
+or components of a capital. In particular, we analysed specific grammars and themes
+used to report the capitals.
+    Our analyses, on the one hand, show that companies are increasingly conforming to
+existing multiple capital frameworks and IR guidelines by using specific terms such as
+“increases, decreases and transformations” of the capitals. However, use of these terms
+is only metaphorical, commonly cited in few pages of the integrated and, to lesser extent,
+QRAM   sustainability reports. To put this in perspective, observe how terms such as “increases,
+13,4   decreases and transformation” are used in the following extract:
+          The analysis of performance on the following pages aims to show how the Group’s financial
+          capital has been increased, decreased or transformed through the operating and investing
+          activities in the 2014 financial period, and how this is expected to contribute to longer-term
+          value creation for our shareholders (Truworths International, Integrated Report, 2014, p. 48).
+434
+       Despite the narrow conceptualisation of linking financial capital to longer-term value
+       creation “for our shareholders” rather than to wider organisational value creation, our
+       analyses of the “performance on the following pages” showed limited discussion on
+       “how the Group’s financial capital has been increased, decreased or transformed” or
+       even “how this is expected to contribute to longer-term value creation for our
+       shareholders”. In essence, specific terms in existing IR guidelines are used at a
+       superficial level, without providing substantive, company-specific, disclosures on how
+       certain capitals have been increased, decreased or transformed.
+          There is also pervasive use of simple illustrations to discuss potential trade-offs
+       between the capitals. Companies are remarkably silent on “how” increases, decreases
+       and transformations of the capitals have had implications on organisational value
+       creation/destruction. In addition to “increases, decreases and transformation”, there is
+       also use of terms such as “inputs”, “outputs” and “outcomes” of the capitals in a limited
+       and vague context:
+          Our business model centres on monetising hydrocarbon resources in developed and emerging
+          countries. Inputs from each of the six capitals are crucial for the conversion of hydrocarbon
+          reserves into product streams. These primary outputs include the liquid fuels needed to move
+          people and goods, the chemicals widely used in industrial and consumer products, and the
+          low-carbon electricity that increasingly powers our facilities and contributes to national power
+          generation capacity. The effective production and delivery of our goods and services generates
+          value for all our stakeholders (Sasol, Integrated Report, 2014, p. 9).
+       Despite cursory use of specific terms espoused in existing IR guidelines such as inputs,
+       outputs as well as increases, decreases and transformations of multiple capitals, most
+       disclosures lack substance. Taken together, we find that companies continue to use
+       simple illustrations and categorisations of disclosures post the adoption of IR practice.
+           5.2.3 Selectivity. It is a longstanding corporate reporting tradition to promote positive
+       disclosures, especially less regulated narrative disclosures, and obscure negative outcomes
+       (Brennan et al., 2009; Ahmed Haji, 2013; Williams and Adams, 2013). The IR initiative,
+       however, encourages companies to disclose both positive and negative material information
+       in the context of risks and opportunities and to communicate organisational value creation/
+       destruction through the lens of multiple capitals (King III, 2009; IIRC, 2013a). In particular,
+       the multiple capitals frameworks recognise interdependencies and potential trade-offs
+       between the capitals: what is negative (decrease) in the context of a particular capital could
+       have positive (increase/transformative) implications on other capitals.
+           Our results, however, show that companies continue to exaggerate positive
+       information while ignoring negative outcomes following the implementation of IR
+       practice. While certain negative disclosures are driven by the nature of corporate
+       operations (e.g. mining companies disclose employee fatalities), positive disclosures still
+       dominate various organisational reports. In particular, companies exaggerate positive
+“highlights” on financial, social and natural capitals while obscuring negative                       Integrated
+“lowlights”.                                                                                           reporting
+   In addition, companies are selective of the negative disclosures and hardly discuss
+such disclosures within the context of multiple capitals, particularly in terms of how
+certain negative incidents had decreased specific capitals or components of a capital:
+   The transformation of Gold Fields into a mid-tier producer has clearly had a profound impact
+   on the profile of our workforce. The most obvious, and painful, has been the need to reduce the         435
+   number of employees to bring down the cost base to a more sustainable level. This process
+   started in 2013, when just over 711 employees were made redundant, and continued in 2014
+   with 1,309 retrenchments (8 per cent of our total workforce), mostly at our Ghanaian mines and
+   at South Deep. With 8,954 employees and 6,486 contractors on our books at the end of 2014, we
+   believe our human resource base is now close to where it should be in terms of numbers (Gold
+   Fields, Integrated Report, 2014, p. 21).
+In the above extract, Gold Fields justifies the decision to terminate employees as there
+has been a need to “bring down the cost base to a more sustainable level”. In other words,
+the decision, which had direct negative (diminution) impact on human capital, and
+potentially on social and relational capital, was made to increase the company’s
+financial capital. However, the framing of the disclosures is one of defending, even
+promoting, organisational reputation, rather than recognising how certain
+organisational decisions/actions decrease other capitals of intrinsic value. In addition,
+while companies disclose other forms of negative incidents such as employee strikes,
+turnover and fatalities, these negative incidents are downplayed, even ignored, with
+companies trying to focus on a related positive trend:
+   There were 29 significant transport-related incidents globally, similar to last year. The
+   incidents this year resulted in seven fatalities, 20 injuries, five fires, 21 spillages and two
+   extended road closures. Of these seven fatalities, five were drivers or occupants of other
+   vehicles in road accidents and two were tanker drivers of third-party hauliers transporting
+   [Company] products. Our transport incidents rate (measured as the number of significant
+   incidents per 100 kilotons of product transported) improved to 0.092 from 0.094, our lowest
+   ever recorded rate, in 2013 (Sasol, Integrated Report, 2014, p. 44).
+While Sasol, in the above extract, discloses that there “were 29 significant
+transport-related incidents globally, similar to last year”, the framing of the disclosures
+is such that the negative incident is obscured, with the company, instead, promoting that
+“our transport incidents rate improved to 0.092 from 0.094, our lowest ever recorded rate,
+in 2013”. Sasol also ignores potential implications of this incident on its corporate
+reputation, social and relational capital and employees. The following extract further
+illustrates how companies continue to obscure negative information:
+   The annual turnover of permanent employees during the financial period was 15 per cent
+   (2012: 14 per cent). Turnover at the senior and top management levels is below 10 per cent and
+   the average length of service at these levels is over 14 years, ensuring sustainable performance
+   and business continuity (Truworths International, Integrated Report, 2013, p. 99).
+In the above extract, the turnover level actually increased from 14 to 15 per cent, but the
+disclosure is framed to focus on the:
+   Turnover at the senior and top management levels is below 10 per cent and the average length
+   of service at these levels is over 14 years, ensuring sustainable performance and business
+   continuity
+QRAM   without elaborating factors behind the increasing trend in employee turnover. In the
+13,4   following year’s integrated report, Truworths International continues to obscure
+       negative disclosures:
+          Truworths International is committed to investing in human capital to ensure sustainable
+          performance and continued industry leadership. The Group employs over 10 500 permanent
+          and flexi-time employees, and the annual turnover of permanent employees was 16 per cent
+436       compared to 15 per cent in 2013. During the period R87 million (2013: R83 million) was invested
+          in training over 9,800 employees, with black staff accounting for 94 per cent of all trainees
+          (Truworths International, Integrated Report, 2014, p. 42).
+       Following the previous reporting pattern, Truworths International underplays the
+       increase in employee turnover from 15 to 16 per cent, which in fact has been increasing
+       from previous years, and exaggerates investments in training, in particular, “with black
+       staff accounting for 94 per cent of all trainees”. The latter emphasis, which is in line with
+       the South African government’s imperative actions to reduce income inequality gap and
+       enhance the lives of historically disadvantaged citizens (e.g. Broad Based Black
+       Economic Empowerment (BBBEE), is an attempt to showcase the organisation’s
+       congruency with governmental initiatives.
+          5.2.4 Emphasis in visual presentation. Companies use three different approaches to
+       emphasise narrative disclosures in organisational reports including visual emphasis,
+       repetition and use of adjectives to reinforce selected themes (Brennan et al., 2009). In
+       particular, Brennan et al. (2009, p. 797) submit that “visuals such as graphic
+       highlighting, headings, bulleted or numbered lists, colour, shading, logos, may
+       foreshadow verbal discussion or reinforce key points”. Building on these measures, we
+       have examined “whether” and “how” companies use these impression management
+       techniques following the adoption of IR practice. Our analyses show that companies use
+       all three approaches in various organisational reports to report the capitals. For
+       instance, in direct conformity with the IIRC (2013a) framework’s input-process-output
+       model of value creation, companies provide figures, tables and value creation charts to
+       align the multiple capitals to organisational stakeholders, operations and business
+       model.
+          However, the content of these “value creation” figures and tables is generic, with no
+       or limited further elaboration. It is difficult to make sense of the contents of the value
+       creation figures as companies incorporate random, unverified, values and narratives.
+       We have also observed that there is use of charts and tables to establish links between
+       multiple capitals, material issues and various stakeholder groups.
+          In addition, the research cases use repetition and reinforcement techniques to
+       exaggerate positive performance while ignoring negative outcomes, with companies
+       reproducing positive outcomes in various organisational reports. In terms of
+       reinforcement techniques, some of the most commonly used techniques include bulleted
+       and numbered lists which emphasise “achievements” in key financial and non-financial
+       performance indicators. The following extract illustrates this trend where Sasol uses
+       bullets to reinforce key points:
+          Ninth year of 10-year collaboration with 11 South African universities, in which we are
+          investing R250 million.
+
+          Coached and mentored 393 workplace and leadership coaches.
+   Partnered with the Mozambican Ministry of Mineral Resources, and made 30 bursaries                Integrated
+   available for Mozambicans to undertake studies in engineering, science and geology.
+                                                                                                      reporting
+   Over the past four years, non-binding grants to the value of R16 million have been awarded to
+   increase the pipeline of African, Indian and Coloured students at postgraduate level (Sasol,
+   Integrated Report, 2014, p. 13).
+In summary, use of various forms of visual presentation techniques to emphasise                           437
+positive outcomes while obscuring, even dismissing, disappointment is pervasive in
+various organisational reporting channels following the adoption of IR practice. The
+ensuing section reports how companies are particularly selective of favourable
+comparisons and trends.
+   5.2.5 Performance comparisons. Building on prior evidence which has largely
+suggested that companies select comparisons, benchmarks and trends that display
+organisational performance most favourably (Brennan et al., 2009), we examined the
+framing of multiple capital disclosure benchmarks and trends. Given the existing IR
+guidelines explicitly inform companies to balance positive and negative information
+(King III, 2009; IIRC, 2013a), we specifically explored how comparisons and trends of
+multiple capital disclosures are framed following the adoption of IR practice. Based on
+our analyses in various organisational reports, selection of positive trends dominates in
+most disclosures:
+   Scored 80 per cent (2013: 71 per cent) in the Carbon Disclosure Project and we were one of only
+   nine companies in South Africa that were included on their Climate Performance Leadership
+   Index A-list (Standard Bank, 2014, Integrated Report, p. 20).
+There is also extensive use of tables to show trends of specific organisational
+performance which have effects on one or more capitals. In most cases, the tables, which
+are carefully incorporated in organisational reporting outlets, report improving trends.
+In the rare cases when comparisons and trends reveal disappointing outcomes, the
+framing of the disclosures is such that the negative outcome is obscured, discussed in a
+bypassing form, or captured in a table/graph with no further elaboration on how the
+organisation plans or intends to address the negative trend:
+   Many energy efficiency initiatives undertaken in 2013 have been implemented in the Rosebank
+   building. While the dual operation of offices has obscured the energy savings achieved for
+   2013, we have managed to decrease our purchased electricity consumption by around 4 per
+   cent compared to 2012 (Standard Bank, Sustainability Report, 2013, p. 93).
+To reiterate, use of impression management techniques is pervasive in various
+organisational reporting channels following the adoption of IR practice, with companies
+continuing to exaggerate positive outcomes while ignoring how organisational
+activities affect multiple capitals, particularly capitals of intrinsic value.
+
+5.3 Disclosure and integration of multiple capitals over time
+Our longitudinal analyses of organisational reports show three emerging themes in
+IR practice, and in particular multiple capital disclosures, over the four-year
+research period. First, one significant emerging theme is that the adoption of IR
+practice has shaped the language of organisational reports. Companies are
+increasingly aligning multiple capital disclosures, which are largely captured in the
+integrated reports, to existing multiple capital frameworks and IR guidelines. In
+QRAM   particular, there is a growing use of terms such as “increases, decreases,
+13,4   transformations, inputs, outputs, and outcomes” in the context of multiple capital
+       disclosures. Companies are also increasingly acknowledging potential “trade-offs”
+       between multiple capitals. In addition, discussions on multiple capitals were less
+       explicit in the years 2011 and 2012. However, separate sections of the integrated and,
+       to a lesser extent sustainability reports, are devoted for the capitals, with explicit
+438    headings of individual capitals, in the years 2013 and 2014. Despite the increasing
+       alignment between multiple capital disclosures and existing IR guidelines, our
+       analyses suggest that the disclosures are not integrated, with companies discussing
+       capitals such as financial capital in the traditional context of operating profit, return
+       on assets and financial position of the company. For instance, there are limited
+       disclosures on how financial capital has been transformed to increase (decrease)
+       other capitals. Discussions on other capitals follow a similar pattern. In a nutshell,
+       while the adoption of IR practice has influenced the reporting language of integrated
+       reporters, the quality of the reports has not really improved as companies continue
+       to provide symbolic disclosures without meaningful discussion on the
+       interdependencies and trade-offs between multiple capitals.
+          Second, we observe a growing tendency to assign values to multiple capitals,
+       regardless of their economic/intrinsic nature. While the assigned values are
+       metaphorical, and are not necessarily the output of actual valuation process, the
+       practice of assigning values to the capitals is aimed to showcase conformity with
+       existing IR guidelines. Capturing certain capitals in dollar values to indicate their
+       “economic value”, rather than “intrinsic value”, is contested, as it relegates capitals
+       of intrinsic significance to economic value, perpetuating current economic
+       hegemony in the business environment (Barter, 2015; Coulson et al., 2015).
+          Third and final theme is that companies continue to use multiple impression
+       management techniques following the adoption of IR practice. In particular, the current
+       discourse on multiple capital disclosures is one of defending, even promoting,
+       organisational reputation, rather than recognising how organisational actions, or
+       inactions, impact multiple capitals, particularly capitals of intrinsic value. Instead,
+       companies exaggerate positive outcomes while obscuring, even dismissing, negative
+       trade-offs between the capitals.
+          Given the regulatory oversight and the study’s focus on highly regarded,
+       award-winning integrated reporters, we conclude that the adoption of IR practice, and
+       the embedded multiple capital frameworks, has not really enhanced the quality of
+       organisational reports. Hence, the findings of this study echo recent empirical
+       observations in South Africa, and elsewhere, that IR practice is ceremonial, rather than
+       substantive (Solomon and Maroun, 2012; Wild and van Staden, 2013; Melloni, 2015;
+       Setia et al., 2015; Ahmed Haji and Anifowose, 2016). The findings of this study are also
+       consistent with prior studies which have concluded organisational reporting practice is
+       motivated by considerations other than organisational accountability (Brennan et al.,
+       2009; Ahmed Haji and Mohd Ghazali, 2012; Williams and Adams, 2013).
+
+       6. Discussion and conclusion
+       The purpose of this study is to examine how the adoption of IR practice, and the
+       embedded multiple capitals frameworks, has influenced organisational reporting
+       practice following the introduction of an “apply or explain” IR requirement in South
+Africa. In particular, we explore how companies report and integrate multiple            Integrated
+capitals through the lens of organisational value creation/destruction discourses.        reporting
+We draw from five impression management strategies to explain specific grammars
+used to report the interdependencies and trade-offs between multiple capital
+disclosures in various organisational reports of highly regarded, award-winning
+integrated reporters in South Africa. Mindful of the division within academia
+regarding the substance and ideals of IR proposals (Brown and Dillard, 2014;                  439
+Flower, 2015; Adams, 2015; Coulson et al., 2015), our central aim is to provide early
+empirical insights on IR practice and, in particular, whether current practice meets
+the aspirations IR commentators have for it (Gleeson-White, 2014; Adams, 2015), or
+whether it perpetuates prior norms of organisational reporting rhetoric (Milne and
+Gray, 2013; Brown and Dillard, 2014).
+    Our findings first suggest that companies are increasingly conforming to
+reporting language espoused in existing multiple capital frameworks and IR
+guidelines over time. In particular, companies recognise that the multiple capitals
+are increased, decreased and/or transformed through organisational activities, and
+that there are potential trade-offs between multiple capitals, or components of a
+capital. However, despite some cursory use of specific IR terms in existing IR
+guidelines, the content of the reported information is generic, often vague, and lacks
+contextual meaning. Second, we observe that the discussions on multiple capitals
+are largely limited to integrated reports, with companies hardly making references
+to the interdependencies and trade-offs between the capitals in other organisational
+reporting channels, seemingly suggesting that the adoption of IR, and the embedded
+capitals framework, even in the context of highly regarded integrated reporters in a
+regulatory environment, is not internalised as an overall organisational reporting
+philosophy. Finally, we find that companies continue to use multiple impression
+management techniques such as use of rhetorical language to exaggerate positive
+outcomes while underplaying, even dismissing, negative comparisons and trends.
+In short, while there is evidence that the adoption of IR practice has influenced the
+reporting language of companies, we find, upon closer inspection, that the current IR
+practice lacks substance and falls short to reflect the aspirations IR commentators
+have for it.
+    The results of this study have a number of implications for regulatory
+authorities, public and private sector organisations as well as academic researchers.
+First, the results inform local and international regulatory authorities about how IR
+practice is taking shape over time, particularly within the context of highly regarded
+integrated reporters in a regulatory environment. Our observations show evidence
+that, despite the regulatory oversight in South Africa – and the embedded assurance
+provisions in King III – companies continue to provide symbolic disclosures, with
+little or no substantive information on how organisational activities create/destroy
+shared value. We therefore call for specific accountability measures to be developed
+in a more stringent mandatory setting, rather than the existing “apply or explain”
+requirements. In particular, we advocate for substantive assurance mechanisms
+beyond current assurance provisions in non-financial reporting. The existing
+assurance provisions have fundamental flaws, not because assurance providers
+report to, and are hired by, company management, but because assurances in
+non-financial disclosures are remarkably limited. Albeit organisational reporting
+QRAM   and accountability measures should not entirely hinge on assurances and
+13,4   regulatory oversight, we advocate for a uniquely intrusive inspection and
+       verification disclosure process beyond the current narrowly framed governance,
+       reporting and assurance provisions. Otherwise, we are unlikely to see substantial
+       improvements in organisational reporting practice. Unless specific accountability
+       measures are implemented both at the regulatory as well as organisational levels,
+440    the sceptics of IR agenda would emerge right to question the actual worth of IR
+       practice (Milne and Gray, 2013; Brown and Dillard, 2014; Flower, 2015).
+          Second, our study which specifically focused on highly regarded, award-wining,
+       integrated reporters, draws the attention of regulatory bodies as well as users of
+       corporate reports to a growing number of rating agencies of corporate governance
+       and reporting practices. The rating agencies, which draw significant conclusions
+       about the quality of organisational reports without in-depth analyses and
+       contextualised evidence, do not just encourage symbolic reporting, but given their
+       ratings are relied upon by various corporate information users for reliability and
+       credibility purposes, are likely to mislead users of corporate reports. The increasing
+       number of such rating agencies should be subjected to scrutiny by relevant
+       regulatory authorities to ensure the quality of their ratings and enhance the
+       decision-making of corporate information users. Finally, in terms of theoretical
+       implications, given the pervasive use of multiple impression management
+       techniques in various organisational reports, this study supports the notion that
+       corporate disclosure practices should be examined through the lens of multiple
+       theoretical perspectives to enhance our understanding of the nature of
+       organisational reporting practice (Brennan et al., 2009; Williams and Adams, 2013).
+          The preceding implications notwithstanding, we acknowledge a number of
+       limitations. First, despite our attempts to provide an in-depth qualitative analysis of
+       “how” IR, and the embedded multiple capital frameworks, has influenced
+       organisational reporting practice, this study does not explore “why” aspects of
+       current IR practice. More in-depth work is required to explore the implications of IR
+       practice on organisational reporting and thinking, particularly studies
+       complementing how and why research questions. Second, given the newness of the
+       IR agenda, our findings are only applicable to IR practice at its developmental stage.
+       There is therefore an opportunity for further research to substantiate the
+       observations of this study through longitudinal analyses of organisational reports.
+       Finally, given our research question and the nature of discourse analyses, we have
+       only examined five cases that have shown illustrations of the research question. In
+       addition, the evidence is drawn from a regulatory IR environment. Further research,
+       involving larger samples from diverse geo-political settings, is needed to enhance
+       our understanding of the implications of IR on organisational reporting practice.
+
+       References
+       Abeysekera, I. (2013), “A template for integrated reporting”, Journal of Intellectual Capital, Vol. 14
+            No. 2, pp. 227-245.
+       Adams, C. (2015), “The international integrated reporting council: a call to action”, Critical
+            Perspectives on Accounting, Vol. 27, pp. 23-28.
+       Ahmed Haji, A. (2013), “Corporate social responsibility disclosures over time: evidence from
+            Malaysia”, Managerial Auditing Journal, Vol. 28 No. 7, pp. 647-676.
+Ahmed Haji, A. and Anifowose, M. (2016), “The trend of integrated reporting practice in South           Integrated
+       Africa: ceremonial or substantive?”, Sustainability Accounting, Management and Policy
+       Journal, Vol. 7 No. 2, pp. 190-224.
+                                                                                                         reporting
+Ahmed Haji, A. and Mohd Ghazali, N.A. (2012), “The influence of the financial crisis on corporate
+       voluntary disclosure: some Malaysian evidence”, International Journal of Disclosure and
+       Governance, Vol. 9 No. 2, pp. 101-125.
+Baker, P. and Ellece, S. (2011), Key Terms in Discourse Analysis, Continuum, New York, NY.                   441
+Barter, N. (2015), “Natural capital: dollars and cents/dollars and sense”, Sustainability Accounting,
+       Management and Policy Journal, Vol. 6 No. 3, pp. 366-373.
+Beattie, V., McInnes, B. and Fearnley, S. (2004), “A methodology for analysing and evaluating
+       narratives in annual reports: a comprehensive descriptive profile and metrics for disclosure
+       quality attributes”, Accounting Forum, Vol. 28 No. 3, pp. 205-236.
+Brennan, N.M., Guillamon-Saorin, E. and Aileen Pierce, A. (2009), “Impression management:
+       developing and illustrating a scheme of analysis for narrative disclosures – A
+       methodological note”, Accounting, Auditing & Accountability Journal, Vol. 22 No. 5,
+       pp. 789-832.
+Brown, J. and Dillard, J. (2014), “Integrated reporting: on the need for broadening out and opening
+       up”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7, pp. 1120-1156.
+Chenhall, R. and Langfield-Smith, K. (1998), “Factors influencing the role of management
+       accounting in the development of performance measures within organizational change
+       programs”, Management Accounting Research, Vol. 9 No. 4, pp. 361-386.
+Coulson, A.B., Adams, C., Nugent, M. and Haynes, K. (2015), “Exploring metaphors of capitals and
+       the framing of multiple capitals: challenges and opportunities for IR”, Sustainability
+       Accounting, Management and Policy Journal, Vol. 6 No. 3, pp. 290-314.
+de Villiers, C., Rinaldi, L. and Unerman, J. (2014), “Integrated reporting: insights, gaps and an
+       agenda for future research”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+       pp. 1042-1067.
+Eisenhardt, K.M. (1989), “Building theories from case study research”, Academy of Management
+       Review, Vol. 14 No. 4, pp. 532-549.
+Ernst and Young (2013), EY’s Excellence in Integrated Reporting Awards 2013: A Survey of
+       Integrated Reports From South Africa’s Top 100 JSE Listed Companies and Top 10 State
+       Owned Companies, Ernst & Young Global, London.
+Ernst and Young (2014), EY’s Excellence in Integrated Reporting Awards 2014: A Survey of
+       Integrated Reports From South Africa’s Top 100 JSE-Listed Companies and Top 10
+       State-Owned Companies, Ernst & Young Global, London.
+Flower, J. (2015), “The international integrated reporting council: a story of failure”, Critical
+       Perspectives on Accounting, Vol. 27, pp. 1-17.
+Forum for the Future (2009), “The five capitals model – a framework for sustainability”, available
+       at: www.forumforthefuture.org/project/five-capitals/overview (Accessed 9 January 2016).
+Gleeson-White, J. (2014), Six Capitals: The Revolution Capitalism Has to Have – Or Can
+       Accountants Save the Planet?, Allen & Unwin, Sydney.
+Gold Fields (2014), “Integrated Annual Report”, available at: www.goldfields.com/inv_rep_ar.php
+Haller, A. and van Staden, C. (2014), “The value added statement – an appropriate instrument for
+       integrated reporting”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+       pp. 1190-1216.
+QRAM   Higgins, C., Stubbs, W. and Love, T. (2014), “Walking the talk(s): organisational narratives of
+              integrated reporting”, Accounting, Auditing & Accountability Journal, Vol. 27 No. 7,
+13,4          pp. 1090-1119.
+       Highhouse, S., Brooks, M.E. and Gregarus, G. (2009), “An organizational impression management
+              perspective on the formation of corporate reputations”, Journal of Management, Vol. 35
+              No. 6, pp. 1481-1493.
+442    Integrated Reporting Committee (IRC) of South Africa (2011), “Framework for integrated
+              reporting and the integrated report”, Discussion Paper, Johannesburg.
+       International Integrated Reporting Council (IIRC) (2013a), The International Integrated Reporting
+              Framework, International Integrated Reporting Committee (IIRC), London.
+       International Integrated Reporting Council (IIRC) (2013b), Basis for Conclusions, International
+              Integrated Reporting Committee (IIRC), London.
+       International Integrated Reporting Council (IIRC) (2016), When? Advocate for Global Adoption,
+              available at: http://integratedreporting.org/when-advocate-for-global-adoption/ (accessed
+              29 April 2016).
+       King II (2002), “King Report on Corporate Governance for South Africa”, The King Committee on
+              Corporate Governance and Institute of Directors in Southern Africa, South Africa.
+       King III (2009), “King report on governance for South Africa”, King Code of Governance Principles
+              Series.
+       King IV (2016), “Draft King IV Report on Corporate Governance for South Africa”, King Code of
+              Governance Principles Series, Institute of Directors in Southern Africa, South Africa.
+       McElroy, M.W. and Thomas, M.P. (2015), “The multicapital scorecard”, Sustainability Accounting,
+              Management and Policy Journal, Vol. 6 No. 3, pp. 425-438.
+       Melloni, G. (2015), “Intellectual capital disclosure in integrated reporting: an impression
+              management analysis”, Journal of Intellectual Capital, Vol. 16 No. 3, pp. 661-680.
+       Milne, M.J. and Gray, R. (2013), “W(h)ither ecology? The triple bottom line, the global reporting
+              initiative, and corporate sustainability reporting”, Journal of Business Ethics, Vol. 118,
+              pp. 13-29.
+       Neu, D., Warsame, H.A. and Pedwell, K.A. (1998), “Managing public impressions: environmental
+              disclosures in annual reports”, Accounting, Organizations and Society, Vol. 23 No. 3,
+              pp. 265-282.
+       Powell, L. (2007), “Green meaning: a discourse analysis of corporate communication”, Proceedings
+              of the 5th Asia Pacific Interdisciplinary Research in Accounting Conference, Auckland.
+       PwC (2013), “The value creation journey: a survey of JSE Top-40 companies’ integrated reports”,
+              available at: www.pwc.co.za/en/assets/pdf/integrated-reporting-august-2013.pdf (accessed
+              2 April 2015).
+       Robertson, F.A. and Samy, M. (2015), “Factors affecting the diffusion of integrated reporting – A
+              UK FTSE 100 perspective”, Sustainability Accounting, Management and Policy Journal,
+              Vol. 6 No. 2, pp. 190-223.
+       Royal Bafokeng Platinum (2013), “Integrated Annual Report”, available at: www.
+              bafokengplatinum.co.za/stake-annual-reports.php
+       Sasol (2013), “Annual Integrated Report”, available at: www.sasol.com/investor-centre/financial-
+              reporting/annual-integrated-report/latest
+       Schlenker, B.R. (1980), Impression Management: The Self-Concept, Social Identity, and
+              Interpersonal Relations, Brooks-Cole, Belmont, CA.
+Setia, N., Abhayawansa, S., Joshi, M. and Huynh, A.V. (2015), “Integrated reporting in South           Integrated
+       Africa: some initial evidence”, Sustainability Accounting, Management and Policy Journal,
+       Vol. 6 No. 3, pp. 397-424.                                                                       reporting
+Sigma Project (2003), “The SIGMA guidelines: putting sustainable development into practice – a
+       guide for organisations”, available at: www.projectsigma.co.uk/Guidelines/default.asp
+       (accessed 9 January 2016).
+Solomon, J. and Maroun, W. (2012), Integrated Reporting: The Influence of King III on Social,               443
+       Ethical and Environmental Reporting, The Association of Chartered Certified Accountants,
+       London.
+Standard Bank (2014), “Annual Integrated Report”, available at: http://reporting.standardbank.
+       com/resultsreports.php
+Steyn, M. (2014), “Organisational benefits and implementation challenges of mandatory
+       integrated reporting”, Sustainability Accounting, Management and Policy Journal, Vol. 5
+       No. 4, pp. 476-503.
+Stubbs, W. and Higgins, C. (2014), “Integrated reporting and internal mechanisms of change”,
+       Accounting, Auditing & Accountability Journal, Vol. 27 No. 7, pp. 1068-1089.
+Stubbs, W., Higgins, C., Milne, M. and Hems, L. (2014), “Financial capital providers’ perceptions of
+       integrated reporting”, Working Paper, Electronic copy, available at: http://ssrn.com/
+       abstract⫽2473426
+Truworths International (2014), “Integrated Report”, available at: www.truworths.co.za/annual-
+       report
+Veltri, S. and Silvestri, A. (2015), “The free state university integrated reporting: a critical
+       consideration”, Journal of Intellectual Capital, Vol. 16 No. 2, pp. 443-462.
+Wild, S. and van Staden, C. (2013), “Integrated reporting: an initial analysis of early reporters”,
+       paper presented at the Massey University Accounting Research Seminar, Auckland.
+Williams, S.J. and Adams, C.A. (2013), “Moral accounting? Employee disclosures from a
+       stakeholder accountability perspective”, Accounting, Auditing & Accountability Journal,
+       Vol. 26 No. 3, pp. 449-495.
+QRAM                  Appendix
+13,4
+                      No.              Checklist
+
+                      The stock and flow of capitals
+444                    1               Increases and decreases of capitals
+                       2               Transformation of the capitals
+                       3               Activities that increase, decrease and/or transform the capitals
+                       4               Inputs, outputs, activities and outcomes of the capitals
+                       5               Status of overall capitals
+                      Categories and descriptions of the capitals
+                       6              Financial capital
+                       7              Manufactured capital
+                       8              Intellectual capital
+                       9              Human capital
+                      10              Social and relationship capital
+                      11              Natural capital
+                      12              The interrelatedness and interdependencies between the capitals
+                      13              Positive trade-offs between the capitals, or components of a capital
+                      14              Negative trade-offs between the capitals, or components of a capital
+                      15              The value creation/destruction process and the capitals
+                      16              A holistic picture of the combination, interrelatedness and dependencies between the
+                                      factors that affect a firm’s ability to create value over time
+                      Material issues
+                      17              The materiality determination process
+                      18              Involvement and role of stakeholders in the identification of material issues
+Table AI.             19              Classification of material issues into positive and negative matters
+Research instrument   20              Discussion of material issues in the context of the capitals
+
+
+                      Corresponding author
+                      Abdifatah Ahmed Haji can be contacted at: fitka7@hotmail.com
+
+
+
+
+                      For instructions on how to order reprints of this article, please visit our website:
+                      www.emeraldgrouppublishing.com/licensing/reprints.htm
+                      Or contact us for further details: permissions@emeraldinsight.com
+

@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import AppLogo from '@/components/ui/AppLogo';
+import { createClient } from '@/lib/supabase/client';
 
 export default function RegisterPage() {
   const router = useRouter();
@@ -12,14 +13,36 @@ export default function RegisterPage() {
   const [password, setPassword] = useState('');
   const [agreed, setAgreed] = useState(false);
   const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [info, setInfo] = useState<string | null>(null);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setError(null);
+    setInfo(null);
     setLoading(true);
-    setTimeout(() => {
-      setLoading(false);
-      router.push('/login');
-    }, 1500);
+
+    const supabase = createClient();
+    const { data, error: signUpError } = await supabase.auth.signUp({
+      email,
+      password,
+      options: { data: { full_name: fullName } },
+    });
+
+    setLoading(false);
+    if (signUpError) {
+      setError(signUpError.message);
+      return;
+    }
+
+    // With email confirmation enabled, no session is returned yet.
+    if (!data.session) {
+      setInfo('Akun dibuat. Cek email kamu untuk konfirmasi, lalu sign in.');
+      return;
+    }
+
+    router.push('/dashboard');
+    router.refresh();
   };
 
   return (
@@ -221,6 +244,25 @@ export default function RegisterPage() {
                 </Link>
               </label>
             </div>
+
+            {/* Error / info message */}
+            {error && (
+              <p
+                role="alert"
+                className="text-sm rounded-xl px-4 py-2.5"
+                style={{ background: 'rgba(220,38,38,0.08)', color: '#b91c1c' }}
+              >
+                {error}
+              </p>
+            )}
+            {info && (
+              <p
+                className="text-sm rounded-xl px-4 py-2.5"
+                style={{ background: 'rgba(57,123,64,0.08)', color: '#397b40' }}
+              >
+                {info}
+              </p>
+            )}
 
             {/* Submit */}
             <button

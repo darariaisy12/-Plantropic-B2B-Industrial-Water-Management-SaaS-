@@ -1,0 +1,1039 @@
+Corporate Social Responsibility and Environmental Management
+Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+Published online 16 January 2018 in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/csr.1474
+
+
+
+Integrated Reporting Quality: An Empirical Analysis
+                                                        Anna Pistoni,1* Lucrezia Songini2 and Francesco Bavagnoli2
+                                                                        1
+                                                                  University of Insubria, Department of Economics, Varese, Italy
+                                         2
+                                          University of Eastern Piedmont, Department of Economics and Business, Novara, Italy
+
+
+           ABSTRACT
+           Integrated Reporting (IR) represents the most recent evolution of the corporate reporting move-
+           ment. Despite the proposed beneﬁts to stakeholders and the number of contributes aimed at
+           identifying best practices in its adoption, IR is still scarcely diffused among companies and when
+           it is adopted the framework is not fully implemented. Starting from these premises, this paper
+           aims to assess the quality of integrated reports issued by ﬁrms. We have developed a scoring
+           model and an IR Scoreboard (IRS), which were applied to analyze 116 integrated reports issued
+           in years 2013 and 2014. The main ﬁndings show that IR quality is low. Generally, ﬁrms follow
+           the IR framework, but scarce information is disclosed on aspects such as capital, the business
+           model, strategic priorities, and the value creation process; more attention is given to the IR form
+           than to its content. Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment
+
+Received 21 June 2016; revised 3 October 2017; accepted 16 October 2017
+Keywords: integrated reporting; disclosure quality; IR quality; IR scoreboard; IR implementation issues; sustainability disclosure; content
+analysis
+
+
+
+
+Introduction
+
+
+
+I
+     NTEGRATED REPORTING (IR) REPRESENTS A NATURAL EVOLUTION OF THE CORPORATE REPORTING MOVEMENT, AIMED AT FAVOURING THE
+     implementation of a sustainable strategy by integrated thinking. It should present an organization’s business
+     model and value creation process, highlight the use of and dependence on different types of
+     resources/capital, enable stakeholders to evaluate more effectively a ﬁrm’s ability to create present and future
+value, and allow users of performance information to assess corporate long-term viability and more effectively allo-
+cate scarce resources. IR combines ﬁnancial, governance, social, and environmental information in a single report.
+   Since the launch of the IR proposal, the literature has focused mainly on IR’s role, objectives, and determinants,
+the main critical issues in its framework and implementation, and the relation with other types of disclosure.
+Despite the proposed beneﬁts to stakeholders, as well as the number of contributes aiming at identifying best
+practices in its adoption, recently some studies have showed that IR is still scarcely diffused among companies
+and when it is adopted the framework is not fully implemented (de Villiers et al., 2014; Global Reporting Initiative
+(GRI), 2013a). A recent study (International Integrated Reporting Council (IIRC), 2014) showed great interest in IR,
+even though the majority of the interviewed companies declared a reluctance and difﬁculties in fully implementing
+the IR framework. These mainly concerned the request of too much conﬁdential information, technical issues in
+
+*Correspondence to: Prof. Anna Pistoni, University of Insubria, Department of Economics, Via Montegeneroso, 71, 21100 Varese, Italy.
+E-mail: anna.pistoni@uninsubria.it
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment
+490                                                                                                            A. Pistoni et al.
+
+providing data, and the large amount of resources needed. In particular, issues on the complete application of the IR
+framework and the quality of integrated reports have been raised. This evidence has recently shifted the interest of
+practitioners (Ernst & Young, 2014; GRI, 2013b; KPMG, 2012; PricewaterhouseCoopers, 2014) and academics
+(Eccles and Krzus, 2014; Eccles and Saltzman, 2011; Eccles and Serafeim, 2011, 2013, 2015) from the type and
+quantity of information included in integrated reports towards their quality.
+   Starting from these premises, this paper aims to assess the quality of integrated reports issued by ﬁrms. This is a
+quite underdeveloped topic in the literature speciﬁcally focused on IR, while some relevant contributions may be
+found in studies on the quality assessment of corporate social responsibility (CSR) and sustainability disclosure.
+Thus, to assess the quality of integrated reports, we have referred to the literature on the quality of voluntary
+disclosure. In particular, we have developed a scoring model, referring to the framework proposed by Hammond
+and Miles (2004), and identiﬁed an IR Scoreboard (IRS), articulated into four areas. On the basis of the IRS, we have
+analyzed 116 integrated reports of 58 companies, taken from the Getting Started section with IR examples of
+the IIRC website, issued in years 2013 and 2014.
+   The main ﬁndings show that the quality of analyzed integrated reports is low. Generally, ﬁrms follow the IR
+framework, but scarce information is disclosed on relevant aspects such as capital, the business model, strategic
+priorities, and the value creation process. A limited depth of analysis characterizes all sections of the integrated
+report. More attention is given to the form than to the content of IR.
+   The remainder of the paper is organized as follows. The ﬁrst section presents the main literature on IR and
+on the quality assessment of voluntary disclosure. The second section presents the research framework and
+methodology. The third section highlights and discusses the empirical ﬁndings. Finally, the last section reports
+some ﬁnal remarks.
+
+
+
+Literature Review
+According to the IIRC (2013a), an Integrated Report is a ‘concise communication about how an organization’s
+strategy, governance, performance and prospects, in the context of its external environment, lead to the creation
+of value over the short, medium and long term’. IR provides ‘the holistic and integrated representation of the ﬁrm’s
+status according to the three performance perspectives: ﬁnancial, social and environmental’. IR is much more than
+bringing together ﬁnancial and sustainability reporting, as it provides comprehensive and comprehensible informa-
+tion about the organization’s total performance, prospective as well as retrospective. IR deﬁnes also a systemic
+representation of the ﬁrm’s performance, showing, evaluating, and controlling all the potential risks – ﬁnancial
+and non-ﬁnancial – that could damage the ﬁrm’s activities (Bebbington and Larrinaga, 2014). The IR framework
+is based on a wide concept of integration (Pistoni and Songini, 2015):
+• the company performance is interpreted as the result of the combined use of different kinds of capital provided by
+  different stakeholders: ﬁnancial, human, technical, intellectual, social, and environmental capital;
+• the framework requires to make explicit the relation between the ﬁrm’s strategy and performance;
+• the integration is also pursued through organizational processes and procedures;
+• the framework promotes integrated thinking and a strong collaboration among functions in order to improve the
+  ﬁrm’s value creation in the long run;
+• the value created is not only a result of the ﬁrm’s internal activities but also of the quality of the relationships with
+  different stakeholders.
+   Previous research on IR has focused on the analysis of IR’s role and objectives (Beattie and Smith, 2013; Beck
+et al., 2017; Brown and Dillard, 2014; Dumay et al., 2016; Lodhia, 2014; Stacchezzini et al., 2016), the IR
+framework’s main issues (Abeysekera, 2013; Haller and van Staden, 2014; Higgins et al., 2014), and on the
+relations between IR and CSR and sustainability disclosure (Adams et al., 2016; Maas et al., 2016; Martinez-
+Ferrero et al., 2015; Sierra-García et al., 2015).
+   Recently, the literature has highlighted the determinants of IR focusing on why companies are producing inte-
+grated reports, and what are the explanatory factors for their adoption (Frías-Aceituno et al., 2013; Jensen and Berg,
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                    Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                      DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                             491
+
+2012; van Bommel, 2014; Zabihollah, 2016). Other studies have analyzed main issues in the implementation of IR,
+by case study analysis (Burke and Clark, 2016; Havlová, 2015; Mio, 2016). Some authors have identiﬁed open ques-
+tions in the adoption of IR (de Villiers et al., 2014; de Villiers and Sharma, 2017; Flower, 2015; Morros, 2016;
+Rezaee, 2016).
+   Conversely, the literature on IR quality assessment is quite limited (Marx and Mohammadali-Haji, 2014; Ruiz-
+Lozano and Tirado-Valencia, 2016). In 2012, Ernst & Young launched the Excellence in Integrated Report Awards,
+aimed at analyzing the state of the art of IR in South Africa and at promoting better quality of IR and best practices
+in its adoption. In 2014, the IIRC itself published a document on ‘Assurance on IR: an exploration of issues’, with
+the aim of generating interest on quality issues. The Financial Reporting Council (2014) delivered ‘Guidance on the
+Strategic Report’, which focused on the quality of corporate reporting, in terms of its capacity to present the strategic
+elements that determine ﬁrm performance and value creation. Eccles and Krzus (2014, p. 191) stated that: ‘it is not
+solely the absolute number of companies practicing integrated reporting, but the quality of adoption that matters …
+Although companies may achieve a truly integrated report by other means, the effectiveness with which they apply
+these frameworks and standards will determine how useful these reports are to investors’.
+   The main critical issues on the quality of IR highlighted by the literature are: the absence of connectivity among
+strategy, the business model, performance and future outlook, due to the poor narrative ﬂow and the limited use of
+diagrams and maps; the presence of an informative gap in areas such as governance, stakeholder engagement, and
+the materiality process; the inadequate description of the business model; and internal auditing, completeness of
+information, and limited third-party veriﬁcation (Eccles and Serafeim, 2015).
+   In addition, some studies outlined that even though companies declare the application of the IR framework, they
+then implement it only partially. All such evidence has led the interest of practitioners, managers, and academics to
+shift from the type and quantity of information included in integrated reports towards their quality. In particular,
+quality refers to the capacity of IR to present the strategic elements that describe ﬁrm performance and value crea-
+tion. It is ‘a dimension linked to multiple characteristics and information areas that should be analyzed together to
+correctly appreciate its range’ (Garegnani et al., 2015, p. 542). ‘Quality reporting is not about religiously complying
+with a framework, but about approaching strategic reporting with the right mindset. It’s about taking a longer-term,
+broader, more operational perspective that will challenge how companies think, operate, monitor and report
+performance in a connected way’ (PricewaterhouseCoopers, 2014).
+   Hence, quality assessment is not related only to the quantity of information reported. Some authors suggest that
+corporate disclosure should be informative and signiﬁcant, understandable, comparable, comprehensive, material,
+reliable, and easily available (Garegnani et al., 2015). According to Unerman (2000), to assess the quality of
+disclosure it is necessary to consider its contents as a whole. Other characteristics to be analyzed include disclosure’s
+themes, range of issues and styles, nature, scope, coverage, time period, and location (Asif et al., 2013; Hackston and
+Milne, 1996).
+   A number of guidelines have been proposed to assess the quality of CSR and sustainability voluntary disclosure.
+According to Hammond and Miles (2004), three main forms of assessment approaches exist: (1) formal monitoring
+procedures (professional scoring protocols, ranking exercises); (2) award schemes, aimed to highlight and reward
+best practices; and (3) academic quality assessment, which checks quality in different areas of disclosure, mainly
+using content analysis.
+   However, previous literature did not reach a consensus on which items to evaluate when assessing the quality of
+voluntary disclosure. The main reason can be traced in the difﬁculty to clearly and univocally deﬁne the concept of
+quality of disclosure. ‘When a study covers voluntary disclosure, there is no predeﬁned list of items, so it is
+necessary to deﬁne a list that will be applied to all of the companies surveyed’ (Garegnani et al., 2015, p. 546). So,
+usually the list of items is identiﬁed considering the different contributions of previous literature and regulatory
+frameworks (Adhikari and Tondkar, 1992).
+   With regard to the reasons explaining the quality of voluntary disclosure, three main theories can be taken into
+consideration. Namely, these theories give insight about the reasons underlying the low quality of such
+disclosure. First, the proprietary cost theory proposes that ﬁrms limit voluntary disclosure due to the existence of
+some disclosure costs including: data and information measurement, elaboration and communication, and the
+diffusion of strategic information which can give competitors an advantage (Dye, 1986; Verrecchia, 1983, 1990;
+Wagenhofer, 1990). Second, as highlighted by positive accounting theory and particularly in the light of the political
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                   Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                     DOI: 10.1002/csr
+492                                                                                                          A. Pistoni et al.
+
+cost hypothesis, ﬁrms avoid disclosure of information in order not to attract the attention of politicians and regula-
+tors and to avoid political attacks (Watts and Zimmerman, 1986). Finally, according to the agency theory, there is a
+divergence between shareholder demand for information and managerial disclosure incentives. In fact, managers,
+especially risk-averse ones, are reluctant to reveal information because high disclosures can increase stakeholders’
+ability to discipline them (Nagar et al., 2003).
+
+
+
+Empirical Analysis
+Research Objectives and the Quality Assessment Framework
+In light of the literature on critical issues in IR adoption, and on the quality of voluntary disclosure (Eccles and
+Serafeim, 2015; Stubbs and Higgins, 2014), and considering the main theories concerning the ﬁrms’ willingness
+to engage in voluntary disclosure, this paper aims to assess the quality of integrated reports, and positions itself
+in the ‘academic quality assessment’ stream of research (Hammond and Miles, 2004).
+   In particular, we posit two research questions (RQ 1 and RQ 2) and two hypotheses (HP 1 and HP 2):
+RQ 1: What is the quality of integrated reports?
+
+HP 1: Integrated Reports issued by companies show a low quality
+
+RQ 2: Has the quality of IR improved during (over) time?
+
+HP 2: Over time IR quality improves but only incrementally
+   In order to answer these questions and to test the hypotheses, we have ﬁrstly developed a framework for quality
+assessment of integrated reports. To deﬁne the list of items and build a scoring model, we have referred to the 11
+attributes of the quality of CSR disclosure proposed by Hammond and Miles (2004): Quantitative disclosure,
+Third-party veriﬁcation, Establishment of, and reporting against, (appropriate) targets, ‘Warts and all’ reporting,
+Adoption of reporting guidelines and standards, Ability to accurately assess performance from disclosure, Clear
+statement of vision from the CEO, Good coverage of signiﬁcant issues, Wide access of the document, Reporting
+of normalized data, and Achievement of awards/accolades. Even though these attributes have been identiﬁed in
+the speciﬁc context of CSR disclosure, Hammond and Miles’ framework includes not only the assessment of
+non-ﬁnancial and qualitative information but also of ﬁnancial and quantitative information, as the authors explain
+(p. 75): ‘The CSR literature indicates that disclosure, which is quantitative and/or ﬁnancial, ‘warts and all’ and com-
+prehensive with respect to coverage would be classiﬁed as of a higher quality than discursive, self-laudatory, selected
+disclosure’. Moreover, the attributes of Hammond and Miles (2004) may be considered as broad guidelines suitable
+for the evaluation of the quality of both ﬁnancial and non-ﬁnancial (integrated) disclosure. Hence, we have linked
+the 11 attributes to four disclosure areas, articulated in 23 variables, which as a whole identify our IRS (Figure 1;
+Table 1):
+• Background area evaluates whether the document presents an introduction devoted to discussing issues, such as:
+  (1) motivations underlying the choice of adopting IR; (2) objectives pursued by IR; (3) beneﬁciaries of the docu-
+  ment; (4) the manager in charge of the IR process; (5) the CEO’s commitment; (6) the title of the report; and
+  (7) consistency of IR with generally applied disclosure standards. Such aspects have been identiﬁed following
+  the recommendations of the IR framework (IIRC, 2013b), as well as previous studies (Garegnani et al., 2015).
+• Assurance and reliability area assesses whether (1) an internal audit and/or (2) a third-party veriﬁcation has been
+  carried out; and (3) the company has received acknowledgements and awards for IR.
+• Content area assesses the consistency of the document with the prescriptions of the IR framework regarding eight
+  elements (organizational overview and external environment, business model, risks and opportunities, strategy
+  and resource allocation, governance, performance, outlook, and basis of presentation) and two fundamental
+  concepts (Capital and Value creation process).
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                  Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                    DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                        493
+
+
+
+
+Figure 1. The integrated reporting scoreboard. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+
+
+Areas of the Integrated Reporting             Variables of the Integrated Reporting     Attributes of quality assessment (Hammond and
+           Scoreboard                                       Scoreboard                                     Miles, 2004)
+
+Background                              1. motivations underlying the choice of adopting 1. Adoption of reporting guidelines and standards
+                                           IR
+                                        2. objectives pursued by the IR                  2. Clear statement of vision from the CEO
+                                        3. beneﬁciaries of the document
+                                        4. manager in charge of IR process
+                                        5. CEO’s commitment
+                                        6. title of the report
+                                        7. consistency of IR with generally applied
+                                           disclosure standards
+Assurance and reliability               1. internal audit                                3. Third party veriﬁcation
+                                        2. third-party veriﬁcation                       4. Achievement of awards/ accolades
+                                        3. acknowledgements and awards for IR
+Content                                 1. organizational overview & external            5. Quantitative disclosure
+                                           environment
+                                        2. business model                                6. Establishment of, and reporting against
+                                                                                            (appropriate) targets
+                                        3. risks & opportunities                         7. ‘Warts and all’ reporting
+                                        4. strategy & resource allocation                8. Ability to accurately assess performance from
+                                                                                            disclosure
+                                        5. governance                                    9. Good coverage of signiﬁcant issues
+                                        6. performance                                   10. Reporting of normalized data
+                                        7. outlook
+                                        8. basis of presentation
+                                        9. capitals
+                                        10. value creation process
+Form                                    1. readability and clarity                       11. Wide access of the document
+                                        2. conciseness
+                                        3. accessibility
+
+Table 1. The relation between the areas and variables of the integrated reporting scoreboard and the attributes of quality assessment
+proposed by Hammond and Miles (2004)
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                               Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                 DOI: 10.1002/csr
+494                                                                                                                        A. Pistoni et al.
+
+• Form area assesses (1) readability and clarity of the document (presence of an index, graphs, tables, glossary, ref-
+  erences to various sections of the document, and hyperlink to external sources, ﬁrm website or other documents);
+  (2) conciseness (number of pages of the document); and (3) accessibility of the document (hard-copy documents
+  versus website accessibility).
+    The 23 variables have been grouped in the four areas, trying to achieve the highest possible level of consistency
+with the literature on disclosure quality assessment (Botosan, 1997; Garegnani et al., 2015), and cross-referencing
+the variables to the IR Guiding Principles of: Stakeholder Relationships (Background area); Reliability and Com-
+pleteness (Assurance and Reliability area); Strategic Focus and Future Orientation, Connectivity of Information,
+and Materiality (Content area); and Conciseness, and Consistency and Comparability (Form area).
+    At the end of the process, we point out that some of the elements in our framework overlap with items previously
+proposed by the literature on the quality of ﬁnancial disclosure (Botosan, 1997, p. 331) and codes of ethics (Garegnani
+et al., 2015). For example, organizational overview and external environment, business model, strategy and resource al-
+location, performance, outlook, and value creation partly overlap with the major elements of Botosan’s DSCORE1: Back-
+ground Information, Ten or Five Year Summary of Historical Results, Key Non-Financial Statistics, Projected
+Information, Management Discussion and Analysis. On a different note, motivations underlying the choice of adopting
+IR, beneﬁciaries of the document, CEO’s commitment, assurance and reliability items, and form items (readability
+and clarity, conciseness, and accessibility) partly overlap with commitment from the top, style, and availability, rela-
+tions with stakeholders, and compliance procedures in Garegnani et al.’s (2015) scoring model for Codes of Ethics’
+quality assessment.
+    The following step was to develop a scoring system to assess each variable comprised in each of the four areas of
+the IRS. Quantitative scales have been deﬁned to measure comparative positions and allow further analysis (Milne
+and Adler, 1999). Scoring systems have been extensively applied and validated in the ﬁelds of both CSR and
+sustainability, with reference to social and environmental reporting (Gray et al., 1996; Romolini et al., 2014),
+and in the ﬁeld of accounting, concerning disclosure in ﬁnancial reports (Botosan, 1997).
+    Concerning the Background area, the presence or absence of each of the seven proposed variables was evaluated.
+A score of 0 was given in the case of the absence of the item, while a score of 1 was given if the item was included in
+the IR document. The maximum score for this area is 7.
+    Referring to the Assurance and reliability area, a score of 0 was given in the case of the absence of each of the three
+items, while a score of 1was assigned in the case of the presence of the item. The maximum score for this area is 3.
+    As for the Content area, to each of the ten variables was given a score between 0 (absence) and 5 (very high
+quality), according to the classiﬁcation scheme presented in Table 2. Such a classiﬁcation considers how the topic
+is presented, whether its description is exhaustive, and whether it refers explicitly to the IR guiding principles
+(strategic focus and future orientation, connectivity, stakeholder relationships, materiality, reliability and complete-
+ness, consistency and comparability). The maximum score achievable in the Content area is 50.
+    To each of the three elements of the Form area was given a score between 0 and 5, according to the classiﬁcation
+schemes presented in Tables 3–5. The maximum score achievable in the Form area is 15. An overview of the scoring
+model is presented in Figure 2.
+
+Score                                                                Description
+
+0         Content element absent
+1         Content element present, but poor description and scarce reference to the IR guiding principles
+2         Content element present; description based on some quantitative information and on a few IR guiding principles
+3         Content element present; balanced description of contents; average quantity of information that refer to IR guiding principles
+4         Content element present; good and detailed description of contents; many IR guiding principles considered
+5         Content element present; excellent description of contents; quite all IR guiding principles used
+
+Table 2. Scoring system of each variable of the content area
+
+1
+  The purpose of my disclosure measure (which I refer to as DSCORE) is to produce a cross-sectional ranking of disclosure levels based on the
+amount of voluntary disclosure provided by ﬁrms in their annual reports.
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                  DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                            495
+
+Score                                                 Readability and clarity of the document
+
+0      Report quite not clear; absence of any element that can facilitate reading and comprehension of the document (i.e. graphs, tables,
+         etc.)
+1      Description mainly qualitative; scarce use of graphs and tables, that are not connected; absence of an index of the document, a
+         glossary or a table with abbreviations
+2      Adequate presence of graphs and tables; index with only few details
+3      Graphs and tables facilitate the comprehension of the document; equilibrium between narrative ﬂow and graphs/tables; references
+         to other sections of the document avoid information redundancy
+4      Very good use of graphs and tables; detailed index with hyperlinks; hyperlinks to external sources, to ﬁrm website or the other
+         documents
+5      Very good layout; index, graphs and tables clearly connected with the narrative qualitative ﬂow
+
+Table 3. Scoring system of the form area: Readability and clarity of the document
+
+
+    Score                                                                                        Conciseness: n. of pages of the document
+
+0                                                                                               Not applicable
+1                                                                                               More than 200 pages
+2                                                                                               From 151 to 200 pages
+3                                                                                               From 101 to 150 pages
+4                                                                                               From 51 to 100 pages
+5                                                                                               Up to 50 pages
+
+Table 4. Scoring system of the form area: Conciseness
+
+
+
+Score                                                         Accessibility of the document
+
+0      Not applicable
+1      Only hard copy document
+2      Report available on the ﬁrm web site only as a pdf ﬁle
+3      Report available on the ﬁrm web site, but not only as a pdf ﬁle: it is possible to access the contents directly from the ﬁrm web site
+4      The report can be browsed on line, by surﬁng the ﬁrm web site, thanks to a highly interactive platform
+5      Report contents highly accessible; the user can select issues and create a personalized report; highly interactive web platform;
+         possibility to access the report by LinkedIn, Twitter, Facebook
+
+Table 5. Scoring system of the form area: Accessibility of the document
+
+
+   Our IRS and scoring system have some similarities with the methodology used by Eccles and Krzus (2014) to
+assess the quality of reports issued by 124 listed companies. However, our study differs for the analyzed
+sample, which comprises both listed and not listed ﬁrms, and for the width of measurement scale (5-point scale,
+instead of 3).
+
+
+The IIRC Database and the Analyzed Sample
+The IIRC database includes integrated reports (sometimes annual reports), published since 2011 by companies from
+all over the world. We ﬁrst examined all of the 128 integrated reports taken from the Getting Started section of the IR
+examples’ website ﬁltered with the years 2013 (63 reports available) and 2014 (65 reports) which were available as of
+December 2015. The Getting Started section, at the time of the study, included Integrated Reports considered
+suitable to illustrate IR guiding principles, content elements, and fundamental concepts and, therefore, they
+should be consistent with the IR Framework. To be able to make signiﬁcant time comparisons, we left out the
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                   Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                     DOI: 10.1002/csr
+496                                                                                                                  A. Pistoni et al.
+
+
+
+
+Figure 2. Overview of the scoring model. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+reports of ﬁrms whose reports were not available for both years. This resulted in the exclusion of 12 reports (7 ﬁrms
+have their report only in year 2014, 5 only in year 2013). Thus, our ﬁnal sample consists of 116 reports (58 reports for
+each year analyzed). We have chosen the years 2013 and 2014 because our study was carried out during 2015.
+Moreover, in 2013, ﬁrst, the ‘Consultation Draft on the International Framework’ (April; IIRC, 2013a) and, then,
+‘The International Framework’ (December; IIRC, 2013b) were issued. Thus, we may suppose that reports published
+since 2013 are more consistent with the IR framework than in the past.
+   Table 6 presents the main features of the 58 analyzed companies. The 58 ﬁrms included in the sample operate in
+12 different industries, only ﬁnancial services being present with a percentage higher than 20%. With reference to
+the region of incorporation, Europe has the larger quota (54%).
+
+Research Methodology
+The data were collected and codiﬁed using visual content analysis (Weber, 1990) of all the 116 integrated reports of
+the 58 sample companies. Two researchers read carefully all 116 integrated reports and autonomously classiﬁed
+them consistently with the proposed scoring system. They were trained on the scoring protocol to assure the
+reliability of the analysis (Krippendorf, 1980). For the areas Background, Form, and Assurance and reliability, only
+few discrepancies emerged, which were discussed within the research group and resolved. During the process of
+analysis, the ten items of the Content area turned out to be the most controversial and seemed to involve more
+judgement by the two analysts. Hence, we decided to let the two analysts assign independently a score to each of
+the ten items and later controlled the inter-rater agreement (reliability of measurement) between the two
+analysts calculating the intra-class correlation coefﬁcients (unreported, available upon request). The average
+intra-class correlation coefﬁcient for the ten items is 0.82, ranging from a minimum of 0.74 to a maximum of
+0.90, indicating a high degree of consistency between the two analysts. In light of the consistency of the indepen-
+dent scores, we considered in our analysis the average of the scores autonomously assigned by the two analysts.
+   We also tested if the different items in each area were actually measuring the same object and consequently if
+some redundant items should be removed. We used the KR20 test for categorical items (Background and Assurance
+and reliability areas) and Cronbach’s alpha test for scale (0–5) variables (items in the Content and Form areas)
+(Table 7). The alpha level is never equal to or above 0.7 for all the four areas. This provides evidence that each of
+the 23 items contributes incrementally to the assessment of the quality of IR and therefore should be kept in the
+scoreboard. An alternative interpretation of this result, though, could be that we did not properly group the items
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                          Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                            DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                   497
+
+Organization type
+Publicly listed company                                          49                                  84%
+Public Sector                                                    5                                   9%
+Other                                                            4                                   7%
+Total                                                            58                                  100%
+Region
+Europe                                                           31                                  54%
+Asia                                                             10                                  17%
+Africa                                                           7                                   12%
+South America                                                    4                                   7%
+Australasia                                                      3                                   5%
+North America                                                    3                                   5%
+Total                                                            58                                  100%
+Industry
+Financial Services                                               13                                  23%
+Consumer Services                                                8                                   14%
+Consumer Goods                                                   6                                   10%
+Basic Materials                                                  6                                   10%
+Industrials                                                      6                                   10%
+Oil and Gas                                                      5                                   9%
+Utilities                                                        4                                   7%
+Professional Services                                            3                                   5%
+Healthcare                                                       3                                   5%
+Telecommunications                                               2                                   3%
+Public Sector                                                    1                                   2%
+Real Estate                                                      1                                   2%
+Total                                                            58                                  100%
+
+Table 6. Main features of the sample (58 ﬁrms, 116 ﬁrm-year observations for year 2013 and 2014, balanced panel)
+
+
+together in the four areas. We stick to the ﬁrst interpretation (and reject the latter) because the variables measure
+different aspects and have been identiﬁed and grouped consistently with previous studies on disclosure quality
+assessment and with the IR Guiding Principles and Content elements (for the Content area). Moreover, for the
+assurance and reliability area (where we have the lowest alpha level equal to 0.09), it is reasonable to expect that sin-
+gle items would not be correlated: if an entity has its report externally audited, there is no reason to expect that it
+would be also audited internally or that it should receive an award for the quality of the report. On a different note,
+for the Background and Content areas, we may expect that an entity could disclose more diligently with regard to
+certain aspects, and less diligently on others (it may be also a deliberate tactic to disclose more on items which
+are less sensitive to have an excuse to disclose less on more sensitive ones, for the sake of conciseness). Finally,
+for the form area, where there is a (not negligible) alpha level of 0.42, the different elements of readability and
+clarity, conciseness, and accessibility not necessarily go together (a report may be very clear but too long, or may
+be very concise but obscure), even if they all refer to the form of the report and not the substance.
+
+
+
+                                                    Number of items                    Type & Range                                 Alpha*
+
+Background                                          7                                Categorical (0-1)                              0.61
+Assurance & reliability                             3                                Categorical (0-1)                              0.09
+Content                                             10                               Scale (0-5)                                    0.58
+Form                                                3                                Scale (0-5)                                    0.42
+
+Table 7. Potential redundancy of items for each area
+*Cronbach for scales, KR20 for categorical
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                          Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                            DOI: 10.1002/csr
+498                                                                                                                   A. Pistoni et al.
+
+   We applied a methodology for the analysis of the scores consisting of the following steps:
+1 describing the whole sample of 116 reports to get a general view of the advancement – at the time of the study – of
+  the quality of IR with reference to the four areas that we identiﬁed;
+2 comparing the relative total scores for each area (total average score divided by the maximum score achievable in
+  the area), in order to evaluate which areas were best taken care of and which areas were relatively overlooked by
+  the preparers of the reports;
+3 observing the trend in each area, also considering the single items included in each of them, comparing the average
+  scores for year 2013 and year 2014, and testing the statistical signiﬁcance of the differences of the means (with a related
+  samples (McNemar, 1947) change test for categorical variables, and with a paired samples t-test for scale variables).
+
+
+
+
+Research Findings
+
+To assess: (1) the quality of integrated reports in the four different areas: Background, Assurance and reliability,
+Content, and Form (in order to answer RQ 1 What is the quality of integrated reports? and test HP 1 Integrated
+Reports issued by companies show a low quality); and (2) changes in the quality of IR from 2013 to 2014 (in order to
+answer RQ 2 Has the quality of IR improved during (over) time? and test HP 2: Over time IR quality improves but
+only incrementally), we report, ﬁrstly, ﬁndings referring to the overall sample of 116 reports issued by the 58
+companies and, then, we examine the differences between 2013 and 2014.
+
+
+Analysis of the Whole Sample
+Tables 8–10 describe the whole sample of 116 integrated reports. The elements in the Background section
+provide evidence of a situation that needs to be improved (Table 8). In particular, reporters paid little attention to
+the indication of the recipients (only 24%) and the reasons behind the adoption of IR (only 32%).
+   As for Assurance and reliability area, we observed that a large majority of the reports have been audited, internally
+(57%) and externally (71%), and that almost half of them (46%) received awards or acknowledgments for
+quality (Table 8).
+   Also the Content area shows considerable room for improvement: ﬁve items out of ten achieve an average score
+higher than or equal to 3 (i.e. they obtain a sufﬁcient score). In detail, overview, risks, strategy, governance, and
+performance are on average fairly described in the reports, whilst that is not true for the business model, outlook,
+the basis of presentation, capital, and the value creation process (Table 9).
+
+                                                 NO                 %        YES            %                 Tot                %
+
+Background
+Reasons                                    79                 68%       37           32%               116               100%
+Goals                                      67                 58%       49           42%               116               100%
+Recipients                                 88                 76%       28           24%               116               100%
+Responsible                                61                 53%       55           47%               116               100%
+Commitment                                 50                 43%       66           57%               116               100%
+IR in title                                73                 63%       43           37%               116               100%
+Framework standards                        36                 31%       80           69%               116               100%
+Assurance & reliability
+Internal audit                             50                 43%       66           57%               116               100%
+External audit                             34                 29%       82           71%               116               100%
+Awards/acknowledgements                    63                 54%       53           46%               116               100%
+
+Table 8. Presence of the items of the background and assurance and reliability areas in the overall sample (58 ﬁrms, 116 ﬁrm-year
+observations for year 2013 and 2014, balanced panel)
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                           Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                             DOI: 10.1002/csr
+                                                                                                                                                            Frequencies                                                                          Descriptives
+
+                                                                                            Content                         0        0.5     1        1.5      2          2.5   3       3.5      4        4.5      5       Tot       Mean     Median      Stand. Dev.
+                                                                                            Overview/Environment            0%       0%      0%       5%       9%         12%   23%     12%      17%      13%      8%      100%      3.35     3.25        0.97
+                              Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment
+
+
+
+
+                                                                                            Business model                  1%       8%      4%       19%      8%         13%   14%     13%      12%      6%       3%      100%      2.59     2.50        1.23
+                                                                                            Risk/opportunities              0%       3%      3%       8%       5%         10%   14%     23%      18%      12%      3%      100%      3.19     3.50        1.09
+                                                                                            Strategy/Resource allocation    0%       0%      0%       13%      8%         16%   20%     17%      11%      12%      3%      100%      3.10     3.00        0.99
+                                                                                            Governance                      1%       1%      3%       9%       9%         16%   15%     12%      10%      22%      3%      100%      3.13     3.00        1.14
+                                                                                                                                                                                                                                                                            Integrated Reporting Quality: An Empirical Analysis
+
+
+
+                                                                                            Performance                     0%       0%      3%       8%       7%         15%   7%      23%      10%      22%      5%      100%      3.35     3.50        1.07
+                                                                                            Outlook                         1%       6%      10%      28%      9%         11%   9%      10%      4%       10%      1%      100%      2.32     2.00        1.22
+                                                                                            Basis of presentation           19%      26%     6%       11%      3%         6%    4%      8%       3%       12%      1%      100%      1.70     1.00        1.60
+                                                                                            The capitals                    13%      6%      12%      21%      11%        9%    8%      7%       3%       8%       3%      100%      2.00     1.50        1.41
+                                                                                            Value creation process          2%       6%      8%       10%      14%        16%   14%     17%      6%       4%       3%      100%      2.53     2.50        1.16
+                                                                                            Form
+                                                                                            Readability and Clarity         0%               2%                12%              29%              44%               13%     100%      3.54     4.00        0.93
+                                                                                            Conciseness                     0%               25%               18%              32%              16%               9%      100%      2.66     3.00        1.27
+                                                                                            Accessibility                   0%               0%                7%               31%              47%               16%     100%      3.71     4.00        0.81
+
+                                                                                            Table 9. Frequencies and descriptive statistics in the overall sample for the items in the content and form areas (58 ﬁrms, 116 ﬁrm-year observations for year 2013 and 2014,
+                                                                                            balanced panel)
+
+Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+
+
+
+
+                                                                                                                                                                                                                                                                            499
+                                       DOI: 10.1002/csr
+500                                                                                                                    A. Pistoni et al.
+
+                                                    Range        Min        Max           Mean             Median               Stand. Dev.
+
+Total Background Score                           0-7          0          7.00          3.1             3                  1.8
+Total Assurance & Reliability Score              0-3          0.0        3.0           1.7             2.0                0.9
+Total Content Score                              0-50         12.0       39.5          27.3            27                 5.5
+Total Form Score                                 0-15         5.0        15.0          9.9             10.0               2.1
+
+Table 10. Descriptives for total scores (58 ﬁrms, 116 ﬁrm-year observations for year 2013 and 2014, balanced panel)
+
+    These results suggest that, in general, the content of integrated reports still needs to be developed: when
+examining the speciﬁc issues covered, the richest information concerns items commonly disclosed in ﬁrms’
+ﬁnancial reports, while the innovative topics of IR are still in their infancy.
+    In the Form area, some items perform fairly well (both readability/clarity and accessibility obtain an average score
+higher than 3.5 out of a maximum of 5), while conciseness – one of the novelty of IR – reaches on average only 2.66.
+Almost half of the companies (43%) achieve a score of 2 or less (Table 9).
+    At a glance, if we observe the total scores for the four areas, in Table 10, we see that the best-attended area is
+Form. The average total score for Form is 9.9 out of a maximum score of 15 (66%), followed by Assurance and
+reliability with an average of 1.7 out of 3 (57%), Content with an average score of 27.3 out of 50 (55%), and ﬁnally
+by Background which registers an average score of 3.1 out of 7 (44%).
+    In light of these research ﬁndings, we may say that our ﬁrst hypothesis is veriﬁed, that is, the disclosure quality is
+still not satisfactory, especially in some areas. The pre-eminence of Form over substantial aspects such as Content
+may be linked – inter alia – to the high heterogeneity of results observed between the single items in the
+Content category, and in particular, as suggested above, to the fact that the most innovative parts of the IR
+framework still lack a truly effective disclosure.
+    We have not computed a total score summing up the total scores of the single areas, because the independence
+and heterogeneity of the four areas, and the difference in the measurement scales would make interpretation of
+the results unclear. For example, assurance and reliability, a very important aspect for evaluation of the quality
+of the reports, having a total maximum score of 3, would be underrepresented in a total score ranging from 0 to
+75 made up from the sum of the total scores of the four areas.
+
+
+Trend Analysis (2013 to 2014)
+In this section, we examine the trend of disclosure in reports (from 2013 to 2014) separately for each area.
+
+Background
+Table 11 shows the percentage of occurrence of the seven items comprising the Background area in years 2013 and
+2014, and the differences between the two years, which in general are not of relevant magnitude and, in any case,
+never statistically signiﬁcant (as per a related samples (McNemar, 1947) change test).
+    The reasons, the goals, the responsible, and the level of commitment of integrated reports are disclosed in 2014
+less frequently than in 2013. In general, the numbers are pretty disappointing, possibly because these items have
+been already declared in the past and, thus, the preparers of the reports might have thought that they did not need
+to repeat them in successive releases.
+    The recipients, the linkage to the IR Framework (Framework Standards), and the mention of IR in the title of the
+report, by contrast, appear in 2014 more frequently than in 2013. With reference to the ﬁrst point (recipients), we
+may expect that, moving along with a truly ‘integrated’ approach, companies tend to adopt a view explicitly devoted
+to the materiality issue and, in doing so, they declare and identify more precisely the recipients of integrated reports.
+    The more frequent mention of the Framework and of IR in the title of the report could be related to the time ef-
+fect (the Framework was launched in late 2013). In general, for the total score in the Background Area (Table 11) (as
+results from a paired-samples t-test), we observe a statistically not signiﬁcant decrease from 2013 (mean = 3.17) to
+2014 (mean = 3.00), t (57) = -0.77, p = 0.445 (two tailed). The mean decrease is -0.17 and the eta-squared statistic
+(0.01) suggests a small effect size (Cohen, 1988).
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                            Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                              DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                                  501
+
+           Background                    2014           %               2013               %             2014-2013             %            p-value°
+
+Reasons                          17           29%            20                 34%                -3                 -5%               0.66
+Goals                            20           34%            29                 50%                -9                 -16%              0.15
+Recipients                       15           26%            13                 22%                2                  3%                0.80
+Responsible                      27           47%            28                 48%                -1                 -2%               1.00
+Commitment                       32           55%            34                 59%                -2                 -3%               0.85
+IR in title                      22           38%            21                 36%                1                  2%                1.00
+Framework standards              41           71%            39                 67%                2                  3%                0.77
+°p-value of Related Samples McNemar Change Test, testing the null hypothesis that there is not a signiﬁcant change ‘*’, ‘**’, ‘***’ denote signiﬁcance at
+   .05, .01, and .001 level
+Background                       2014         2013           2014-2013          p-value            n2                 t                 df
+Total average score (0-7)        3.00         3.17           -0.17              0.445              0.01               -0.77             57
+
+Table 11. Presence of the items (%), and total score, background area, comparison 2014-2013
+
+   The relative lack of attention in this area may be explained by the intrinsic nature of the area itself, which provides
+the context for the information and in some cases may be taken for granted by preparers and users, at least in part,
+after the ﬁrst release of an integrated report. Yet, the disclosure on speciﬁc themes is improving, such as the
+disclosure of recipients and the explicit mention of the Framework standards.
+
+Assurance and Reliability
+The results are similar in 2014 and 2013 (no change is statistically signiﬁcant). In particular: (1) the majority of
+companies have their IR audited internally; (2) almost three out of four companies obtain an external auditor’s
+opinion before formally releasing their reports; and (3) more than 44% of the companies received a speciﬁc
+award/acknowledgement for their Integrated Reports (Table 12).
+   In general, for the total score in the Assurance and reliability area (Table 12), we observe a statistically not signif-
+icant (as results from a paired-samples t-test) increase from 2013 (mean = 1.72) to 2014 (mean = 1.74), t (57) = 0.13, p
+= 0.9 (two tailed). The mean increase is 0.02 and the eta-squared statistic (0.00) suggests a negligible effect size.
+   In absolute terms, this area seems well attended (average total score 1.74 out of a maximum score of 3 in 2014).
+This is consistent with the origin of the reports, which were extracted from the IIRC website’s Getting Started
+section, which supposedly included, at the time of the study, examples useful to illustrate good practices in IR. It
+is reasonable to expect that these reports, more often than not, were audited and in some cases received
+acknowledgements for their quality.
+
+Content
+The scores for almost all the items of the Content Area (with just the exception of the Strategy/Resource Allocation)
+are higher in 2014 than in 2013, with considerable improvements for several items, statistically signiﬁcant in six out
+of ten cases (Table 13). Most remarkable are the strong increases in the disclosure of the basis of presentation and
+the enrichment of the information regarding the value creation process.
+
+
+       Assurance & reliability             2014           %               2013               %             2014-2013            %           p-value°
+
+Internal audit                     32            55%          34                   59%              -2                   -3%            0.8
+External audit                     42            72%          40                   69%              2                    3%             0.8
+Awards/acknowledgements            27            47%          26                   45%              1                    2%             1.0
+°p-value of Related Samples McNemar Change Test, testing the null hypothesis that there is not a signiﬁcant change ‘*’, ‘**’, ‘***’ denote signiﬁcance at
+   .05, .01, and .001 level
+Assurance & reliability            2014          2013         2014-2013            p-value          n2                   t              df
+Total average score (0-3)          1.74          1.72         0.02                 0.9              0.00                 0.13           57
+
+Table 12. Presence of the items (%), and total score, assurance and reliability area, comparison 2014-2013
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                        Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                          DOI: 10.1002/csr
+502                                                                                                                                    A. Pistoni et al.
+
+    At the same time, looking at the ﬁnal situation in 2014, we notice that all the more innovative issues whose dis-
+closure is requested by the IR Framework (e.g. business model, outlook, basis of presentation, capital, value creation
+process) still lag behind. In other words, even if we registered a good improvement in the level of disclosure of these
+issues, all of them achieve an average score lower than 3, and two of them (basis of presentation and capital) are dis-
+tant by far from that threshold.
+    By contrast, items commonly reported in ﬁnancial statements, such as performance, governance, and
+risks/opportunities, show average disclosure levels well above the threshold of 3. It appears that the truly innovative
+content of IR needs to be further developed by companies, even if we traced from 2013 to 2014 relevant improve-
+ments in the level of disclosure of some items.
+    At a glance, the total score reﬂects the positive changes registered in almost all of the items: we observe a statis-
+tically signiﬁcant (as results from a paired-samples t-test) increase from 2013 (mean = 25.44) to 2014 (mean =
+29.08), t (57) = 5.155, p < 0.001 (two tailed). The mean increase is 3.64 and the eta-squared statistic (0.32) suggests
+a large effect size (Table 13). Overall, the level of disclosure in 2014 is not yet satisfactory (the total score of 29.08 in
+2014 corresponds to an average score for an item of the area of 2.9, still below the sufﬁciency threshold of 3.
+    The continuing process of collective learning, the need for the ﬁrms to adapt their organizational structure, their
+internal processes, and IT systems, in order to comply with the relatively new and complex IR Framework, may help
+explain the situation both in dynamic terms (the sensitive improvement between 2013 and 2014), and as it emerges
+in the last year analyzed (2014).
+
+
+Form
+All the items in 2014 score an average measure higher than in 2013, and all the changes are statistically signiﬁcant
+(Table 14).
+   It is noteworthy that Conciseness (which is a key element of IR, due to its miscellaneous and extremely
+intertwined content), even if increased in 2014, reports an average measure of 2.8, still below the threshold for
+sufﬁciency of 3. On the other hand, clarity (which is another crucial issue, since integrated reports contain pieces
+of information which deal with highly complex and heterogeneous topics), as well accessibility are improving and
+they already achieve a score sensibly higher than 3.
+   As we expected after examining the score of the single items in the Form area, we observe a statistically signiﬁ-
+cant (as results from a paired-samples t-test) increase of the overall score from 2013 (mean = 9.40) to 2014 (mean =
+
+
+                                                            2014                       2013                    2014-2013
+
+                    Content                                Average                   Average                     Average                    p-value°
+
+Overview/Environment                              3.4                       3.3                     0.1                              0.55
+Business model                                    2.8                       2.4                     0.4*                             0.04
+Risk/opportunities                                3.4                       3.0                     0.4**                            0.007
+Strategy/Resource allocation                      3.1                       3.1                     0.0                              0.96
+Governance                                        3.3                       3.0                     0.3*                             0.03
+Performance                                       3.4                       3.3                     0.2                              0.35
+Outlook                                           2.5                       2.1                     0.4                              0.101
+Basis of presentation                             2.1                       1.3                     0.8**                            0.001
+The capitals                                      2.2                       1.8                     0.4*                             0.02
+Value creation process                            2.9                       2.2                     0.7***                           0.000
+°p-value of paired sample t-test, testing the null hypothesis that there is not a signiﬁcant change\ ‘*’, ‘**’, ‘***’ denote signiﬁcance at .05, .01, and .001
+   level
+
+          Content                         2014               2013             2014-2013              p-value               n2               t              df
+
+Total average score (0-50)                29.08             25.44             3.64                   0.000               0.32            5.155             57
+Table 13. Scores on the single items and total score, content area, comparison 2014-2013
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                           Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                             DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                                     503
+
+                                                           2014               2013                                    2014-2013
+
+                       Form                              Average            Average                  Average                          p-value°
+
+Readibility and Clarity                                   3.7                 3.4         0.4*                            0.02
+Conciseness                                               2.8                2.6          0.2*                            0.03
+Accessibility                                             3.9                 3.5         0.4**                           0.003
+°p-value of paired sample t-test, testing the null hypothesis that there is not a signiﬁcant change ‘*’, ‘**’, ‘***’ denote signiﬁcance at .05, .01, and .001
+   level
+Form                                  2014           2013            2014-2013            p-value          n2             t             df
+Total average score (0-15)                 10.43          9.40                1.03             0.000             0.24          4.293    57
+
+Table 14. Scores on the single items and total score, form area, comparison 2014-2013
+
+
+
+10.43), t (57) = 4.293, p < 0.001 (two tailed). The mean increase is 1.03 and the eta-squared statistic (0.24) suggests a
+large effect size (Table 14).
+   The research ﬁndings concerning the trend of disclosure in reports (from 2013 to 2014) only partially support the
+second research hypothesis (that the disclosure quality is improving over time but only incrementally), as long as
+we observe statistically signiﬁcant increases of the average scores combined with large effect sizes of the
+differences between 2014 and 2013 in the Content and Form areas, whilst there are no signiﬁcant changes in
+the Background and Assurance and reliability areas.
+
+
+
+Discussion
+Overall, though, the quality of integrated reports is low. Reporters seemingly paid more attention to the form than to
+the content of the reports (the average total score in 2014 for Form is 3.5 compared with 2.9 for Content). This may
+be explained if, in the implementation of an IR project, the organizations have decided to concentrate their efforts
+on the easier task (devising the right form to present the information) and, only later on, have they redirected their
+efforts to the improvement of the content, which requires considerable resources to adapt internal processes, IT
+systems, etc.
+    Other main reasons that may explain the incomplete adoption of the IR framework and its low quality may be,
+ﬁrst, the fact that the IR proposal, even though interesting and ambitious, today seems to be a bit idealistic and
+unfeasible. In fact, the relevant costs (both explicit and implicit) sustained by project implementation do not seem
+to be adequately covered by the associated beneﬁts. Some authors proposed that perfectly credible (or completely
+unbiased) disclosure is not optimal because it is too costly (Core, 2001; Watts and Zimmerman, 1986). In addition,
+in light of today’s general economic situation, the impact of overall costs represents a relevant issue for companies.
+    Second, theoretical studies have highlighted the risks of disclosure redundancy – above all regarding information
+potentially relevant for competitors – which may undermine both the ﬁrm’s speciﬁcity and the distinctive factors
+that provide the foundations for the ﬁrm’s competitive advantage (Graham et al., 2005).
+    Moreover, it has to be taken into consideration the potential reaction of ﬁnancial markets and stakeholders to the
+communication of some negative results, as well as their perception of low reliability of the disclosed information.
+Kasznik and Lev (1995) suggested that ﬁrms are penalized for disclosing bad news early.
+    With reference to the context, the implementation of the IR framework implies that agents operating inside
+the economic system recognize the stakeholder approach as an important component of ﬁrm strategy. If, on
+the one hand, this is a desirable situation, on the other hand, it may clash with today’s dominant economic culture
+still very centred on the shareholder value model and on the company’s ﬁnancial results. Moreover, the stakeholders
+may not be prepared and proﬁcient enough to understand the relevance of such a wide, systematic, and
+analytical disclosure.
+    Finally, another aspect preventing managers from voluntarily disclosing corporate information is driven by the
+so-called ‘disclosure precedent’: on the one hand, the ﬁrm has to maintain the same disclosure pattern along time,
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                          Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                            DOI: 10.1002/csr
+504                                                                                                          A. Pistoni et al.
+
+although this may be difﬁcult to preserve, on the other hand, disclosure precedent impacts on stakeholders’
+expectations concerning the consistency of the new disclosure along time, in both cases of good or bad news.
+
+
+
+Concluding Remarks
+
+The objective of this paper has been to assess the quality of integrated reports. Two research questions and two
+hypotheses have been proposed.
+   A framework for quality assessment of integrated reports has been developed, referring to Hammond and Miles
+(2014), which has been applied to evaluate: (1) how the IR Framework has been implemented by sample companies,
+and (2) the changes from 2013 to 2014.
+   Hypothesis 1 (HP 1: Integrated Reports issued by companies show a low quality) is supported by our research ﬁnd-
+ings, while hypothesis 2 (HP 2: Over time IR quality improves but only incrementally) is only partially conﬁrmed.
+   Our quantitative ﬁndings present evidence that even though a signiﬁcant improvement of the quality from 2013
+to 2014 in certain areas (namely Content and Form) can be observed, the overall quality of integrated reports is still
+quite limited particularly with regard to the Content and Background areas. In addition, ﬁrms seem to give more
+attention to the form than to the content of reports. It is noteworthy that the most innovative and distinctive
+elements of IR are those disclosed with less quality, while a higher quality characterizes aspects traditionally
+disclosed by ﬁrms, such as performance, governance, and risks. Similarly to Stubbs and Higgins’ (2014) research,
+our ﬁndings seem to conﬁrm that IR, being in its early adoption stage, may take more time before such an innova-
+tive disclosure mechanism emerges. They also suggest that currently IR represents a ‘transition’ (Laughlin, 1991)
+from sustainability reporting rather than a radical innovation driving transformation and that the lack of
+comprehensive standards may be inhibiting a more widespread adoption (Stubbs and Higgins, 2014).
+   Our ﬁndings are consistent also with the work of Ruiz-Lozano and Tirado-Valencia (2016, p. 252) that
+highlighted how ‘despite the effort of the analyzed companies to address the guiding principles, they still have a long
+way to go especially in relation to the principle of conciseness’. In addition, we found similar results to Marx and
+Mohammadali-Haji (2014) who reported quality issues with regard to materiality, description of capital, and
+independent and full assurance of the reports. They outlined also that the description of risks was largely generic
+and that only few companies described their objectives and strategies.
+   To summarize, our empirical analysis highlighted the existence of some critical aspects related to the quality of
+integrated reports, showing that the whole application of the IR model is still far away. Difﬁculties in the complete
+application of the IR framework have been pointed out by the IIRC itself, which issued a document giving an
+account of comments received from institutional investors and companies. Communicating the ﬁrm strategy and
+the feature of the value creation process represents the most relevant difﬁculty for enterprises (IIRC, 2014), and this
+is also consistent with our results.
+   The results of this paper are aligned with different theoretical streams. First, they are consistent with proprietary
+cost theory, which suggests that managers prefer not to disclose information that may affect the ﬁrm’s competitive
+position in the market, even if this would decrease the associated cost of capital (Dye, 1986). Second, as highlighted
+by Nagar et al. (2003) and Berger and Hann (2003), agency issues may explain reduced voluntary disclosure because
+managers desire to avoid potential attention from investors about issues that, if fully disclosed, can represent a
+threat for them. Third, according to Watts and Zimmerman (1986), political costs may also explain a reluctance
+in wider disclosure as managers prefer not to disclose voluntary information that regulators might use against
+the company and want to avoid being subject to political attacks (Alsaeed, 2006; Camfferman and Cooke, 2002).
+   To conclude, our study suggests that the methodological efforts and recommendations on IR should be directed
+towards the improvement of quality, especially with regard to reliability and selectivity of data and information
+provided, instead of promoting the expansion of the contents or more complex forms of disclosure. For these
+reasons, in the near future we can expect that the implementation of the IR approach will continue to be limited.
+   Moreover, a debate has to begin among companies, professionals, associations, and institutions on why the
+majority of ﬁrms implement IR with limited quality, and on what are the positive impacts, the real beneﬁts versus
+the costs, but also the risks in terms of disclosing strategic and conﬁdential information.
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                  Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                    DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                            505
+
+   This paper contributes to the research on IR in different ways: ﬁrst, it has proposed an original framework for the
+quality assessment of IR, the IRS; second, it has applied the IRS to assess the quality of a sample of integrated re-
+ports, thus giving a picture of the state of the art regarding the implementation of IR; and third, it has highlighted
+the main critical issues in the adoption of the IR framework, with particular regard to quality aspects.
+   However, our research has some limitations typical of qualitative studies, such as content analysis. Such a meth-
+odology may be characterized by an unavoidable subjectivity of the evaluation process (Hammond and Miles, 2004;
+Krippendorf, 1980) as well as the difﬁculty of generalizing the results beyond the sample studied. Even though the
+IRS and the scoring system have been developed by referring to previous studies, ﬁrst their deﬁnition and then im-
+plementation to assess the 116 integrated reports may have implied some subjectivity. Another group of researchers
+could have developed a slightly different framework and scores or found slightly different ﬁndings using the same
+framework and scoring system.
+   Moreover, we analyzed only integrated reports available on the Getting Started section of the IR examples’
+website, which included, at the time of the study, reports considered suitable to be used as benchmarks by beginner
+IR preparers. For this reason, the sample may not be representative of the average ﬁrm issuing an IR. In addition,
+we have focused the analysis on a speciﬁc period of time. Considering other periods or a longitudinal analysis could
+be an issue for future research.
+   As IR is still evolving, our research ﬁndings suggest numerous potential areas for future research. With regard to
+methodology, future research could try to increase the number of companies of the analyzed sample and the time
+span of analysis, and to adopt both multivariate analysis and a case study methodology to go deeper in evaluating the
+quality of integrated reports.
+   Moreover, as a direct extension of this research, several issues could be further investigated. How IR quality
+varies across companies, industries, and time may represent relevant research questions to explore. What are the
+determinants of IR quality; both internal drivers – related to ﬁrms’ speciﬁc characteristics – and external ones –
+coming from the environment where the companies operate – could be another interesting aspect to examine.
+   Finally, the evidence that the overall quality of IR is quite limited requires investigating if there is an optimal level
+of disclosure that has to be taken into consideration in the assessment of IR quality. Since this optimal level could be
+different for the ﬁrm and for stakeholders, other aspects that seem worthy of investigation are, on the one side, the
+tendency towards a convergence of the ﬁrm’s and stakeholders’ perspectives and, on the other side, from the ﬁrm’s
+point of view, a deeper analysis of the trade-off between the costs and beneﬁts of high disclosure. In particular, the
+trade-off between more costly administrative procedures to gather information and more risk from divulgating a
+ﬁrm’s idiosyncrasies, weighed against the potential beneﬁts stemming from the lower cost of capital and steadier
+relationships with strategic partners and the community at large, could be another interesting research area.
+
+
+
+References
+Abeysekera I. 2013. A template for integrated reporting. Journal of Intellectual Capital 14(2): 227–245.
+Adams CA, Potter B, Singh PJ, York J. 2016. Exploring the implications of integrated reporting for social investment (disclosures). The British
+     Accounting Review 48(3): 283–296.
+Adhikari A, Tondkar RH. 1992. Environmental factors inﬂuencing accounting disclosure requirements of global stock exchanges. Journal of
+     International Financial Management and Accounting 4(2): 75–105.
+Alsaeed K. 2006. The association between ﬁrm-speciﬁc characteristics and disclosure: the case of Saudi Arabia. Managerial Auditing Journal 21(5):
+     476–496.
+Asif M, Searcy C, dos Santos P, Kensah D. 2013. A Review of Dutch Corporate Sustainable Development Reports. Corporate Social Responsibility
+     and Environmental Management 20(6): 321–339.
+Beattie V, Smith SJ. 2013. Value Creation and Business Models: Refocusing the Intellectual Capital Debate. British Accounting Review 45(4):
+     243–254.
+Bebbington J, Larrinaga C. 2014. Accounting and sustainable development: An exploration. Accounting, Organization and Society 39: 395–413.
+Beck C, Dumay J, Frost G. 2017. In Pursuit of a ‘Single Source of Truth’: from Threatened Legitimacy to Integrated Reporting. Journal of Business
+     Ethics 141(1): 191–205.
+Berger P, Hann R. 2003. Segment disclosures, proprietary costs, and the market for corporate control. Working paper. University of Chicago and
+     University of Southern California.
+van Bommel K. 2014. Towards a legitimate compromise? Accounting. Auditing & Accountability Journal 27(7): 1157–1189.
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                  Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                    DOI: 10.1002/csr
+506                                                                                                                             A. Pistoni et al.
+
+Botosan CA. 1997. Disclosure level and the cost of equity capital. The Accounting Review 72(3): 323–350.
+Brown J, Dillard J. 2014. Integrated reporting: On the need for broadening out and opening up, Accounting. Auditing and Accountability Journal
+      27(7): 1120–1156.
+Burke JJ, Clark CE. 2016. The business case for integrated reporting: insights from leading, practitioners, regulators and academics. Business
+      Horizons 59(3): 273–283.
+Camfferman K, Cooke TE. 2002. An analysis of disclosure in the annual reports of UK and Dutch companies. Journal of International Accounting
+      Research 1: 3–30.
+Cohen JW. 1988. Statistical Power Analysis for the Behavioral Sciences, 2nd edition. Lawrence Erlbaum Associates: Hillsdale, NJ.
+Core JE. 2001. A review of the empirical disclosure literature: discussion. Journal of Accounting and Economics 31: 441–456.
+Dumay J, Bernardi C, Guthrie J, Demartini P. 2016. Integrated reporting: A structured literature review. Accounting Forum 40(3): 166–185.
+Dye RA. 1986. Proprietary and non-proprietary disclosures. Journal of Business 59(2): 331–366.
+Eccles RG, Krzus MP. 2014. The Integrated Reporting Movement: Meaning, Momentum, Motives, and Materiality. John Wiley & Sons: Hoboken,
+      New Jersey.
+Eccles RG, Saltzman D. 2011. Achieving Sustainability Through Integrated Reporting, Stanford Social Innovation Review, Summer: 55-61.
+Eccles RG, Serafeim G. 2011. The Role of the Board in Accelerating the Adoption of Integrated Reporting. Conference Board. https%3A%2F%
+      2Fhcexchange.conference-board.org%2Fpublications%2Fpublicationdetail.cfm%3Fpublicationid%3D2049%26centerId%3D1 [20 January 2017].
+Eccles RG, Serafeim G. 2013. A Tale of Two Stories: Sustainability and the Quarterly Earnings Call. Journal of Applied Corporate Finance 25(3): 8–19.
+Eccles RG, Serafeim G. 2015. Corporate and Integrated Reporting: A Functional Perspective (January 31, 2014). Chapter in Stewardship of the
+      Future, edited by Ed Lawler, Sue Mohrman, and James O’Toole, Greenleaf. Available at SSRN: https://ssrn.com/abstract=2388716 or
+      https://dx.doi.org/10.2139/ssrn.2388716
+Ernst &Young. 2014. Integrated reporting. Tips for organizations on elevating value, EYGM Limited. http://www.ey.com/Publication/
+      vwLUAssets/EY-integrated-reporting-tips-for-organizations-on-elevating-value/$FILE/EY-integrated-reporting-tips-for-organizations-on-ele-
+      vating-value.pdf [20 January 2017].
+Financial Reporting Council. 2014. Guidance on the Strategic Report. https://www.frc.org.uk/Our-Work/Publications/Accounting-and-
+      Reporting-Policy/Guidance-on-the-Strategic-Report.pdf
+Flower J. 2015. The international integrated reporting council: A story of failure. Critical Perspectives on Accounting 27: 1–17.
+Frías-Aceituno JV, Rodríguez-Ariza L, García-Sánchez IM. 2013. Is integrated reporting determined by a country’s legal system? An exploratory
+      study. Journal of Cleaner Production 44: 45–55.
+Garegnani GM, Merlotti EP, Russo AA. 2015. Scoring Firms’ Codes of Ethics: An Explorative Study of Quality Drivers. Journal of Business Ethics
+      126: 541–557.
+Global Reporting Initiative. 2013a. ‘The sustainability content of integrated reports –a survey of pioneers’. https://www.globalreporting.org/
+      resourcelibrary/GRI-IR.pdf [3 June 2014].
+Global Reporting Initiative. 2013b. Sustainability information for the 2013 Global Conference on Sustainability and Reporting. https://www.
+      globalreporting.org/resourcelibrary/GRI2013-Sustainability-Information.pdf [3 June 2014].
+Graham JR, Harvey CR, Rajgopal S. 2005. The economic implications of corporate ﬁnancial reporting. Journal of Accounting and Economics 40: 3–37.
+Gray RH, Owen DL, Adams C. 1996. Accounting and Accountability. Prentice Hall Europe: Harlow.
+Hackston D, Milne MJ. 1996. Some Determinants of Social and Environmental Disclosures in New Zealand, Accounting. Auditing &
+      Accountability Journal 9(1): 77–108.
+Haller A, van Staden C. 2014. The value added statement – an appropriate instrument for Integrated Reporting, Accounting. Auditing &
+      Accountability Journal 27(7): 1190–1216.
+Hammond K, Miles S. 2004. Assessing quality assessment of corporate social reporting: UK perspectives. Accounting Forum 28(1): 61–79.
+Havlová K. 2015. What Integrated Reporting Changed: The Case Study of Early Adopters. Procedia Economics and Finance 34: 231–237.
+Higgins C, Stubbs W, Love T. 2014. Walking the talk(s): Organisational narratives of integrated reporting, Accounting. Auditing & Accountability
+      Journal 27(7): 1090–1119.
+International Integrated Reporting Council. 2013a. Consultation draft of the international Framework. http://integratedreporting.org/ [3 June 2014].
+International Integrated Reporting Council. 2013b. The International Framework. http://integratedreporting.org/ [3 June 2014].
+International Integrated Reporting Council. 2014. Assurance on IR. Overview feedback and call to action. http://integratedreporting.org/ [26 Sep-
+      tember 2014].
+Jensen JC, Berg N. 2012. Determinants of traditional sustainability reporting versus integrated reporting. An institutionalist approach. Business
+      Strategy and the Environment 21: 299–316.
+Kasznik R, Lev B. 1995. To Warn or Not to Warn: Management Disclosures in the Face of an Earnings Surprise. The Accounting Review 70(1): 113–134.
+KPMG. 2012. Integrated Reporting Performance insight through Better Business Reporting, Issue 2. https://assets.kpmg.com/content/dam/
+      kpmg/pdf/2013/03/integrated-reporting-2012.pdf [26 September 2014].
+Krippendorf K. 1980. Content analysis: an introduction to its methodology. SAGE Publications: Beverly Hills, CA.
+Laughlin RC. 1991. Environmental disturbances and organizational transitions and transformations: some alternative models. Organization
+      Studies 12(2): 209–232.
+Lodhia S. 2014. Exploring the transition to integrated reporting through a practice lens: An Australian customer owned bank perspective. Journal
+      of Business Ethics 129: 585–595.
+Maas K, Schaltegger S, Crutzen N. 2016. Advancing the integration of corporate sustainability measurement, management and reporting. Journal
+      of Cleaner Production 133: 859–862.
+
+
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                     Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                       DOI: 10.1002/csr
+Integrated Reporting Quality: An Empirical Analysis                                                                                                  507
+
+Martinez-Ferrero J, Garcia-Sanchez IM, Cuadrado-Ballesteros B. 2015. Effect of Financial Reporting Quality on Sustainability Information Disclo-
+     sure. Corporate Social Responsibility and Environmental Management 22: 45–64, https://doi.org/10.1002/csr.1330
+Marx B, Mohammadali-Haji A. 2014. Emerging trends in reporting: An analysis of integrated reporting practices by South African top 40 listed
+     companies. Journal of Economic and Financial Sciences 7(1): 231–250.
+McNemar Q. 1947. Note on the sampling error of the difference between correlated proportions or percentages. Psychometrika 12(2): 153–157.
+Milne MJ, Adler RW. 1999. Exploring the reliability of social and environmental disclosures content analysis. Accounting, Auditing &
+     Accountability Journal 12(2): 237–256.
+Mio C. 2016. Internal application of IR principles: Generali’s Internal Integrated Reporting. Journal of Cleaner Production 139: 204–218.
+Morros J. 2016. The integrated reporting: A presentation of the current state of art and aspects of integrated reporting that need further
+     development. Intangible Capital 12(1): 336–356.
+Nagar V, Nanda D, Wysocki P. 2003. Discretionary disclosure and stock-based incentives. Journal of Accounting and Economics 34(1/3): 283–309.
+Pistoni A, Songini L. 2015. New trends and directions in CSD: the integrated reporting. In Sustainability Disclosure: State of the Art and New
+     Directions, Pistoni A, Songini L (eds). Emerald: Howard House, Wagon Lane, Bingley, UK, 81–105.
+PricewaterhouseCoopers. 2014. Corporate performance: what do investors want to know? http://www.pwc.com/et_EE/EE/publications/assets/
+     pub/pwc-investor-survey-ir-september2014.pdf [16 February 2015].
+Rezaee Z. 2016. Business sustainability research: A theoretical and integrated perspective. Journal of Accounting Literature 36: 48–64.
+Romolini A, Fissi S, Gori E. 2014. Scoring CSR Reporting in Listed Companies – Evidence from Italian Best Practices. Corporate Social
+     Responsibility and Environmental Management 21(2): 65–81. https://doi.org/10.1002/csr.1299
+Ruiz-Lozano M, Tirado-Valencia P. 2016. Do industrial companies respond to the guiding principles of the Integrated Reporting framework? A
+     preliminary study on the ﬁrst companies joined to the initiative. Revista de Contabilidad – Spanish Accounting Review 19(2): 252–260.
+Sierra-García L, Zorio-Grima A, García-Benau MA. 2015. Stakeholder Engagement, Corporate Social Responsibility and Integrated Reporting: An
+     Exploratory Study. Corporate Social Responsibility and Environmental Management 22(5): 286–304. https://doi.org/10.1002/csr.1345
+Stacchezzini R, Melloni G, Lai A. 2016. Sustainability management and reporting: the role of integrated reporting for communicating corporate
+     sustainability management. Journal of Cleaner Production 136: 102–110.
+Stubbs W, Higgins C. 2014. Integrated Reporting and internal mechanisms of change, Accounting. Auditing and Accountability Journal 27(7):
+     1068–1089.
+Unerman J. 2000. Methodological issues: Reﬂections on qualiﬁcation in corporate social reporting content analysis. Accounting, Auditing and
+     Accountability Journal 13(5): 667–680.
+Verrecchia RE. 1983. Discretionary disclosure. Journal of Accounting and Economics 5: 179–194.
+Verrecchia RE. 1990. Information quality and discretionary disclosure. Journal of Accounting and Economics 12(4): 365–380.
+de Villiers, C., Sharma, U. 2017. A critical reﬂection on the future of ﬁnancial, intellectual capital, sustainability and integrated reporting, Critical
+     Perspectives on Accounting. In press.
+de Villiers C, Rinaldi L, Unerman J. 2014. Integrated Reporting: Insights, gaps and an agenda for future research, Accounting. Auditing &
+     Accountability Journal 27(7): 1042–1067.
+Wagenhofer A. 1990. Voluntary disclosure with strategic opponent. Journal of Accounting and Economics 12(4): 341–363.
+Watts RL, Zimmerman JL. 1986. Positive accounting theory. Prentice-Hall: Englewood Cliffs, New York.
+Weber RP. 1990. Basic Content Analysis, 2nd edition. Sage: Thousand Oaks, CA.
+Zabihollah R. 2016. Business Sustainability Performance, Compliance, Accountability and Integrated Reporting. Greenleaf Publishing: Salts
+     Mill, Saltaire, UK.
+
+
+
+
+Copyright © 2018 John Wiley & Sons, Ltd and ERP Environment                                        Corp. Soc. Responsib. Environ. Mgmt. 25, 489–507 (2018)
+                                                                                                                                          DOI: 10.1002/csr
+Copyright of Corporate Social Responsibility & Environmental Management is the property
+of John Wiley & Sons, Inc. and its content may not be copied or emailed to multiple sites or
+posted to a listserv without the copyright holder's express written permission. However, users
+may print, download, or email articles for individual use.
+

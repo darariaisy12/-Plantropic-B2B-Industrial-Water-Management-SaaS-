@@ -1,0 +1,312 @@
+{
+  "nama_perusahaan": "PT Maju Bersama Textile",
+  "alamat": "Kawasan Industri Candi, Semarang, Jawa Tengah",
+  "sektor_industri": "Tekstil & Garmen",
+  "periode_bulan": 1,
+  "periode_tahun": 2025,
+  "jejak_air": {
+    "periode_bulan": 1,
+    "periode_tahun": 2025,
+    "total_air_diambil_m3": 8500,
+    "total_air_dibuang_m3": 5500,
+    "air_daur_ulang_m3": 800,
+    "blue_wf_m3": 4500,
+    "green_wf_m3": 200,
+    "grey_wf_m3": 20265.0,
+    "total_wf_m3": 24965.0,
+    "rincian_sumber": {
+      "third_party": 5000,
+      "groundwater": 3000,
+      "surface_water": 500
+    },
+    "grey_wf_detail": {
+      "bod": {
+        "volume_m3": 4500,
+        "konsentrasi_aktual": 85,
+        "baku_mutu": 50.0,
+        "grey_wf_m3": 7065.0
+      },
+      "cod": {
+        "volume_m3": 4500,
+        "konsentrasi_aktual": 180,
+        "baku_mutu": 100.0,
+        "grey_wf_m3": 8820.0
+      },
+      "tss": {
+        "volume_m3": 4500,
+        "konsentrasi_aktual": 120,
+        "baku_mutu": 100.0,
+        "grey_wf_m3": 4380.0
+      }
+    },
+    "intensitas_per_m2": null,
+    "intensitas_per_unit": null
+  },
+  "beban_pencemaran": [
+    {
+      "tanggal_pengujian": "2025-01-15",
+      "debit_m3_per_hari": 150,
+      "beban_bod": 12.75,
+      "beban_cod": 27.0,
+      "beban_tss": 18.0,
+      "beban_oil_grease": 1.2,
+      "beban_ammonia": 0.75,
+      "rincian": {
+        "BOD₅": {
+          "konsentrasi_mg_l": 85,
+          "debit_m3_per_hari": 150,
+          "beban_kg_per_hari": 12.75,
+          "beban_ton_per_hari": 0.01275,
+          "beban_kg_per_bulan": 382.5,
+          "beban_ton_per_tahun": 4.6537
+        },
+        "COD": {
+          "konsentrasi_mg_l": 180,
+          "debit_m3_per_hari": 150,
+          "beban_kg_per_hari": 27.0,
+          "beban_ton_per_hari": 0.027,
+          "beban_kg_per_bulan": 810.0,
+          "beban_ton_per_tahun": 9.855
+        },
+        "TSS": {
+          "konsentrasi_mg_l": 120,
+          "debit_m3_per_hari": 150,
+          "beban_kg_per_hari": 18.0,
+          "beban_ton_per_hari": 0.018,
+          "beban_kg_per_bulan": 540.0,
+          "beban_ton_per_tahun": 6.57
+        },
+        "O&G": {
+          "konsentrasi_mg_l": 8,
+          "debit_m3_per_hari": 150,
+          "beban_kg_per_hari": 1.2,
+          "beban_ton_per_hari": 0.0012,
+          "beban_kg_per_bulan": 36.0,
+          "beban_ton_per_tahun": 0.438
+        },
+        "NH₃-N": {
+          "konsentrasi_mg_l": 5,
+          "debit_m3_per_hari": 150,
+          "beban_kg_per_hari": 0.75,
+          "beban_ton_per_hari": 0.00075,
+          "beban_kg_per_bulan": 22.5,
+          "beban_ton_per_tahun": 0.2737
+        }
+      }
+    },
+    {
+      "tanggal_pengujian": "2025-01-22",
+      "debit_m3_per_hari": 145,
+      "beban_bod": 13.775,
+      "beban_cod": 31.9,
+      "beban_tss": 26.1,
+      "beban_oil_grease": 1.74,
+      "beban_ammonia": 1.16,
+      "rincian": {
+        "BOD₅": {
+          "konsentrasi_mg_l": 95,
+          "debit_m3_per_hari": 145,
+          "beban_kg_per_hari": 13.775,
+          "beban_ton_per_hari": 0.013775,
+          "beban_kg_per_bulan": 413.25,
+          "beban_ton_per_tahun": 5.0279
+        },
+        "COD": {
+          "konsentrasi_mg_l": 220,
+          "debit_m3_per_hari": 145,
+          "beban_kg_per_hari": 31.9,
+          "beban_ton_per_hari": 0.0319,
+          "beban_kg_per_bulan": 957.0,
+          "beban_ton_per_tahun": 11.6435
+        },
+        "TSS": {
+          "konsentrasi_mg_l": 180,
+          "debit_m3_per_hari": 145,
+          "beban_kg_per_hari": 26.1,
+          "beban_ton_per_hari": 0.0261,
+          "beban_kg_per_bulan": 783.0,
+          "beban_ton_per_tahun": 9.5265
+        },
+        "O&G": {
+          "konsentrasi_mg_l": 12,
+          "debit_m3_per_hari": 145,
+          "beban_kg_per_hari": 1.74,
+          "beban_ton_per_hari": 0.00174,
+          "beban_kg_per_bulan": 52.2,
+          "beban_ton_per_tahun": 0.6351
+        },
+        "NH₃-N": {
+          "konsentrasi_mg_l": 8,
+          "debit_m3_per_hari": 145,
+          "beban_kg_per_hari": 1.16,
+          "beban_ton_per_hari": 0.00116,
+          "beban_kg_per_bulan": 34.8,
+          "beban_ton_per_tahun": 0.4234
+        }
+      }
+    }
+  ],
+  "kepatuhan": [
+    {
+      "kelas_air": "C",
+      "tanggal_pengujian": "2025-01-15",
+      "status_keseluruhan": "warning",
+      "parameter_list": [
+        {
+          "nama_parameter": "BOD₅",
+          "satuan": "mg/L",
+          "nilai_aktual": 85,
+          "nilai_baku_mutu": 100.0,
+          "rasio": 85.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (85 / 100.0 = 85.0%)"
+        },
+        {
+          "nama_parameter": "COD",
+          "satuan": "mg/L",
+          "nilai_aktual": 180,
+          "nilai_baku_mutu": 250.0,
+          "rasio": 72.0,
+          "status": "compliant",
+          "keterangan": "Sesuai (180 ≤ 250.0)"
+        },
+        {
+          "nama_parameter": "TSS",
+          "satuan": "mg/L",
+          "nilai_aktual": 120,
+          "nilai_baku_mutu": 200.0,
+          "rasio": 60.0,
+          "status": "compliant",
+          "keterangan": "Sesuai (120 ≤ 200.0)"
+        },
+        {
+          "nama_parameter": "pH",
+          "satuan": "-",
+          "nilai_aktual": 7.2,
+          "nilai_baku_mutu": "6.0-9.0",
+          "rasio": 0,
+          "status": "compliant",
+          "keterangan": "Sesuai (6.0 ≤ 7.2 ≤ 9.0)"
+        },
+        {
+          "nama_parameter": "O&G",
+          "satuan": "mg/L",
+          "nilai_aktual": 8,
+          "nilai_baku_mutu": 15.0,
+          "rasio": 53.33,
+          "status": "compliant",
+          "keterangan": "Sesuai (8 ≤ 15.0)"
+        },
+        {
+          "nama_parameter": "NH₃-N",
+          "satuan": "mg/L",
+          "nilai_aktual": 5,
+          "nilai_baku_mutu": 10.0,
+          "rasio": 50.0,
+          "status": "compliant",
+          "keterangan": "Sesuai (5 ≤ 10.0)"
+        }
+      ],
+      "jumlah_compliant": 5,
+      "jumlah_non_compliant": 0,
+      "jumlah_warning": 1
+    },
+    {
+      "kelas_air": "C",
+      "tanggal_pengujian": "2025-01-22",
+      "status_keseluruhan": "warning",
+      "parameter_list": [
+        {
+          "nama_parameter": "BOD₅",
+          "satuan": "mg/L",
+          "nilai_aktual": 95,
+          "nilai_baku_mutu": 100.0,
+          "rasio": 95.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (95 / 100.0 = 95.0%)"
+        },
+        {
+          "nama_parameter": "COD",
+          "satuan": "mg/L",
+          "nilai_aktual": 220,
+          "nilai_baku_mutu": 250.0,
+          "rasio": 88.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (220 / 250.0 = 88.0%)"
+        },
+        {
+          "nama_parameter": "TSS",
+          "satuan": "mg/L",
+          "nilai_aktual": 180,
+          "nilai_baku_mutu": 200.0,
+          "rasio": 90.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (180 / 200.0 = 90.0%)"
+        },
+        {
+          "nama_parameter": "pH",
+          "satuan": "-",
+          "nilai_aktual": 6.8,
+          "nilai_baku_mutu": "6.0-9.0",
+          "rasio": 0,
+          "status": "compliant",
+          "keterangan": "Sesuai (6.0 ≤ 6.8 ≤ 9.0)"
+        },
+        {
+          "nama_parameter": "O&G",
+          "satuan": "mg/L",
+          "nilai_aktual": 12,
+          "nilai_baku_mutu": 15.0,
+          "rasio": 80.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (12 / 15.0 = 80.0%)"
+        },
+        {
+          "nama_parameter": "NH₃-N",
+          "satuan": "mg/L",
+          "nilai_aktual": 8,
+          "nilai_baku_mutu": 10.0,
+          "rasio": 80.0,
+          "status": "warning",
+          "keterangan": "Mendekati batas (8 / 10.0 = 80.0%)"
+        }
+      ],
+      "jumlah_compliant": 1,
+      "jumlah_non_compliant": 0,
+      "jumlah_warning": 5
+    }
+  ],
+  "gri_303_3_withdrawal": {
+    "disclosure": "GRI 303-3",
+    "judul": "Water Withdrawal",
+    "periode": "1/2025",
+    "total_m3": 8500,
+    "total_megalitres": 8.5,
+    "rincian_m3": {
+      "third_party": 5000,
+      "groundwater": 3000,
+      "surface_water": 500
+    },
+    "rincian_megalitres": {
+      "third_party": 5.0,
+      "groundwater": 3.0,
+      "surface_water": 0.5
+    }
+  },
+  "gri_303_4_discharge": {
+    "disclosure": "GRI 303-4",
+    "judul": "Water Discharge",
+    "periode": "1/2025",
+    "total_m3": 5500,
+    "total_megalitres": 5.5,
+    "rincian_m3": {
+      "surface_water": 4000,
+      "evaporation": 1500
+    },
+    "rincian_megalitres": {
+      "surface_water": 4.0,
+      "evaporation": 1.5
+    }
+  },
+  "gri_303_5_consumption": 3000
+}
