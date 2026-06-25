@@ -68,7 +68,7 @@ GEMINI_API_KEY              (server only)
 | 0 | Fondasi: `types.ts`, `framework.ts` (14 elemen), test setup | TS, Vitest | ✅ SELESAI (9/9 test, type-check clean) |
 | 1 | Mesin kuantitatif: `emissionFactors.ts` + `calculators.ts` (E1–E4) | TS, Vitest (TDD) | ✅ SELESAI (26/26 test, type-check clean) |
 | 2 | Scoring + `weights.ts` + `aggregate.ts` + `computeEsg()` | TS, Vitest (TDD) | ✅ SELESAI (43/43 test, type-check clean) |
-| 3 | Supabase setup + Auth + schema + RLS, sambungin login/register | Supabase, @supabase/ssr | 🟡 KODE SIAP — tinggal user jalanin `supabase/migrations/0001_init.sql` di SQL Editor + cek setting email auth |
+| 3 | Supabase setup + Auth + schema + RLS, sambungin login/register | Supabase, @supabase/ssr | ✅ KODE SELESAI (client/server/middleware, RLS migration, login/register, confirm+signout route, dashboard ter-proteksi). User wajib: jalanin `0001_init.sql` |
 | 4 | Input wizard UI (3 tab E/S/G) + config bobot → simpan DB | React, Tailwind | ⏳ |
 | 5 | Dashboard hasil (ring, bar, radar, charts) | React, Recharts | ⏳ |
 | 6 | AI layer: `/api/insight` + prompt + panel insight | Gemini SDK (@google/genai), Next route | ⏳ |

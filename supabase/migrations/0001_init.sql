@@ -43,32 +43,46 @@ alter table public.companies   enable row level security;
 alter table public.assessments enable row level security;
 alter table public.ai_insights enable row level security;
 
+-- Policies are dropped-then-created so this script is safe to re-run.
+
 -- companies
+drop policy if exists "companies_select_own" on public.companies;
 create policy "companies_select_own" on public.companies
   for select using (auth.uid() = user_id);
+drop policy if exists "companies_insert_own" on public.companies;
 create policy "companies_insert_own" on public.companies
   for insert with check (auth.uid() = user_id);
+drop policy if exists "companies_update_own" on public.companies;
 create policy "companies_update_own" on public.companies
   for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "companies_delete_own" on public.companies;
 create policy "companies_delete_own" on public.companies
   for delete using (auth.uid() = user_id);
 
 -- assessments
+drop policy if exists "assessments_select_own" on public.assessments;
 create policy "assessments_select_own" on public.assessments
   for select using (auth.uid() = user_id);
+drop policy if exists "assessments_insert_own" on public.assessments;
 create policy "assessments_insert_own" on public.assessments
   for insert with check (auth.uid() = user_id);
+drop policy if exists "assessments_update_own" on public.assessments;
 create policy "assessments_update_own" on public.assessments
   for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "assessments_delete_own" on public.assessments;
 create policy "assessments_delete_own" on public.assessments
   for delete using (auth.uid() = user_id);
 
 -- ai_insights
+drop policy if exists "ai_insights_select_own" on public.ai_insights;
 create policy "ai_insights_select_own" on public.ai_insights
   for select using (auth.uid() = user_id);
+drop policy if exists "ai_insights_insert_own" on public.ai_insights;
 create policy "ai_insights_insert_own" on public.ai_insights
   for insert with check (auth.uid() = user_id);
+drop policy if exists "ai_insights_update_own" on public.ai_insights;
 create policy "ai_insights_update_own" on public.ai_insights
   for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "ai_insights_delete_own" on public.ai_insights;
 create policy "ai_insights_delete_own" on public.ai_insights
   for delete using (auth.uid() = user_id);
