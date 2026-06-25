@@ -111,3 +111,35 @@ export async function getLatestAssessment(): Promise<AssessmentRecord | null> {
 
   return (data as AssessmentRecord | null) ?? null;
 }
+
+/** Fetch all assessments for the current user, oldest first (for trend views). */
+export async function getAllAssessments(): Promise<AssessmentRecord[]> {
+  const supabase = createClient();
+
+  const { data, error } = await supabase
+    .from('assessments')
+    .select('id, period, weights, inputs, results, created_at')
+    .order('created_at', { ascending: true });
+
+  if (error) {
+    throw new Error(`Gagal memuat riwayat assessment: ${error.message}`);
+  }
+
+  return (data as AssessmentRecord[]) ?? [];
+}
+
+/** Fetch the current user's company profile, if saved. */
+export async function getCompany(): Promise<CompanyProfile | null> {
+  const supabase = createClient();
+
+  const { data, error } = await supabase
+    .from('companies')
+    .select('name, industry, scale')
+    .maybeSingle();
+
+  if (error) {
+    throw new Error(`Gagal memuat profil perusahaan: ${error.message}`);
+  }
+
+  return (data as CompanyProfile | null) ?? null;
+}

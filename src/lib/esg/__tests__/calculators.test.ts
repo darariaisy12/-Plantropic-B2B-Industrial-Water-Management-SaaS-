@@ -83,11 +83,11 @@ describe('calculateE1 — GHG emissions', () => {
 });
 
 describe('calculateE2 — solid waste recovery', () => {
-  test('recovery rate is recycled / total as a percentage', () => {
+  test('recovery rate is recycled / total as a percentage, score relative to the 70% Jakstranas target', () => {
     const result = calculateE2({ waste_total_ton: 200, waste_recycled_ton: 50, waste_b3_ton: 10 });
     expect(result.elementId).toBe('E2');
     expect(result.detail?.recoveryRatePct).toBeCloseTo(25, 3);
-    expect(result.score).toBeCloseTo(25, 3);
+    expect(result.score).toBeCloseTo((25 / 70) * 100, 1);
     expect(result.detail?.b3Ton).toBe(10);
   });
 
@@ -107,7 +107,7 @@ describe('calculateE2 — solid waste recovery', () => {
 });
 
 describe('calculateE3 — energy use', () => {
-  test('score is the renewable share of total energy', () => {
+  test('score is the renewable share of total energy, relative to the 23% RUEN target', () => {
     const result = calculateE3({
       energy_total_kwh: 1000,
       renewable_kwh: 300,
@@ -115,7 +115,8 @@ describe('calculateE3 — energy use', () => {
     });
     expect(result.elementId).toBe('E3');
     expect(result.detail?.renewableSharePct).toBeCloseTo(30, 3);
-    expect(result.score).toBeCloseTo(30, 3);
+    // 30% renewable exceeds the 23% national target, so the score caps at 100.
+    expect(result.score).toBe(100);
   });
 
   test('reports energy intensity per unit output', () => {

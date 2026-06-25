@@ -41,7 +41,29 @@ export const SCOPE_2_FACTORS: readonly EmissionFactorKey[] = ['electricity_kwh']
 /**
  * E1 score band (tCO2e/year). At or below BEST → 100; at or above WORST → 0;
  * linear in between. ⚠️ DRAFT placeholders sized for a small–mid industrial
- * site; tune per company scale or replace with an intensity-based benchmark.
+ * site. No universal cross-industry absolute tCO2e threshold exists in public
+ * literature — emission scale is inherently a function of company size and
+ * sector, so this should be replaced with a per-industry emission-intensity
+ * benchmark (tCO2e per ton output) once that data is sourced, rather than an
+ * absolute company-wide cutoff. Tune per company scale until then.
  */
 export const E1_SCORE_BEST_TCO2E = 50;
 export const E1_SCORE_WORST_TCO2E = 1000;
+
+/**
+ * E2 waste-recovery benchmark: Indonesia's national target under Jakstranas
+ * (Strategi Nasional Pengelolaan Sampah, Perpres No. 97/2017) is 70% sampah
+ * tertangani (handled/recovered) by 2025. Reaching this target maps to a
+ * score of 100; below it scales linearly. DRAFT in the sense that Jakstranas
+ * targets municipal waste, not industrial waste specifically — used here as
+ * the best available national policy anchor.
+ */
+export const E2_RECOVERY_TARGET_PCT = 70;
+
+/**
+ * E3 renewable-energy benchmark: Indonesia's RUEN/KEN (Kebijakan Energi
+ * Nasional, Peraturan Presiden No. 22/2017) targets a 23% renewable energy
+ * mix by 2030. Reaching this share maps to a score of 100; below it scales
+ * linearly. A company exceeding the national target is not penalized further.
+ */
+export const E3_RENEWABLE_TARGET_PCT = 23;

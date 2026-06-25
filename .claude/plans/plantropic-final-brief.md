@@ -1,6 +1,6 @@
 # 📘 PLANTROPIC — FINAL BRIEF
 
-> Status terakhir: Fase 2 selesai (scoring 14 elemen + bobot + agregasi + computeEsg). Disusun 2026-06-24.
+> Status terakhir: Semua 10 fase selesai (engine, auth, input wizard, dashboard, AI insight, report GRI+PDF, riwayat & tren, pengaturan, hardening). Disusun 2026-06-24, update 2026-06-25.
 
 ## 1. Produk (1 kalimat)
 Platform self-service konsultan ESG: **input data operasional → hitung skor ESG 14 elemen (deterministik) → AI kasih kesimpulan & rekomendasi → keluar laporan keberlanjutan gaya GRI.**
@@ -70,9 +70,12 @@ GEMINI_API_KEY              (server only)
 | 2 | Scoring + `weights.ts` + `aggregate.ts` + `computeEsg()` | TS, Vitest (TDD) | ✅ SELESAI (43/43 test, type-check clean) |
 | 3 | Supabase setup + Auth + schema + RLS, sambungin login/register | Supabase, @supabase/ssr | ✅ KODE SELESAI (client/server/middleware, RLS migration, login/register, confirm+signout route, dashboard ter-proteksi). User wajib: jalanin `0001_init.sql` |
 | 4 | Input wizard UI (3 tab E/S/G) + config bobot → simpan DB | React, Tailwind | ✅ SELESAI (route `/assessment` ter-proteksi, 4 tab E/S/G/Bobot, live score, simpan `companies`+`assessments`, 51/51 test, type-check clean) |
-| 5 | Dashboard hasil (ring, bar, radar, charts) | React, Recharts | ⏳ |
-| 6 | AI layer: `/api/insight` + prompt + panel insight | Gemini SDK (@google/genai), Next route | ⏳ |
-| 7 | Report GRI-style + export PDF | React, print CSS | ⏳ |
+| 5 | Dashboard hasil (ring, bar, radar, charts) | React, Recharts | ✅ SELESAI (ring skor, bar E/S/G, radar 14 elemen, breakdown emisi Scope1/2, panel AI placeholder, empty-state kalau belum ada assessment, 51/51 test, type-check clean) |
+| 6 | AI layer: `/api/insight` + prompt + panel insight | Gemini SDK (@google/genai), Next route | ✅ SELESAI (route auth-gated 401 tanpa login, prompt builder pure, panel fetch real-time, type-check clean, 51/51 test) |
+| 7 | Report GRI-style + export PDF | React, print CSS | ✅ SELESAI (`/report` ter-proteksi 307 tanpa login, ringkasan AI + skor/metodologi + detail E/S/G + referensi GRI, tombol Unduh PDF via print, type-check clean, 51/51 test) |
+| 8 | Riwayat & Tren multi-periode | React, Recharts LineChart | ✅ SELESAI (`/history` ter-proteksi 307, `getAllAssessments()`, line chart tren skor + tabel riwayat) |
+| 9 | Pengaturan profil perusahaan | React | ✅ SELESAI (`/settings` ter-proteksi 307, `getCompany()`/`upsertCompany()`, form edit nama/industri/skala) |
+| 10 | Hardening: error boundary + production build check | Next.js `error.tsx`, `next build` | ✅ SELESAI (global error boundary, `npm run build` sukses 16 route, type-check clean, 51/51 test, semua route protected dikonfirmasi 307) |
 
 ## 9. Keputusan yang udah dikunci
 - Scope: Full ESG (14 elemen E+S+G)

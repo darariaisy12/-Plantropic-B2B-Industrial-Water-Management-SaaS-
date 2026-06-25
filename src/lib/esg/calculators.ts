@@ -15,6 +15,8 @@ import {
   SCOPE_2_FACTORS,
   E1_SCORE_BEST_TCO2E,
   E1_SCORE_WORST_TCO2E,
+  E2_RECOVERY_TARGET_PCT,
+  E3_RENEWABLE_TARGET_PCT,
   type EmissionFactorKey,
 } from './emissionFactors';
 import { clamp, round, toNonNegativeNumber } from './math';
@@ -33,6 +35,18 @@ function sharePct(part: number, whole: number): number {
     return 0;
   }
   return clamp((part / whole) * 100, 0, 100);
+}
+
+/**
+ * Score a percentage against a national policy benchmark: reaching the
+ * target maps to 100, below it scales linearly, exceeding it is capped at
+ * 100 (not penalized).
+ */
+function scoreAgainstTarget(actualPct: number, targetPct: number): number {
+  if (targetPct <= 0) {
+    return 0;
+  }
+  return clamp((actualPct / targetPct) * 100, 0, 100);
 }
 
 /** Sum tonnes of CO2e for a set of emission-factor keys. */
@@ -74,7 +88,11 @@ export function calculateE1(input: EsgInput): ElementScore {
   };
 }
 
-/** E2 — Solid waste recovery rate (recycled / total). */
+/**
+ * E2 — Solid waste recovery rate (recycled / total), scored against
+ * Indonesia's Jakstranas national target (70% sampah tertangani by 2025,
+ * Perpres No. 97/2017). See `E2_RECOVERY_TARGET_PCT`.
+ */
 export function calculateE2(input: EsgInput): ElementScore {
   const totalTon = readNumber(input, 'waste_total_ton');
   const recycledTon = readNumber(input, 'waste_recycled_ton');
@@ -83,7 +101,7 @@ export function calculateE2(input: EsgInput): ElementScore {
 
   return {
     elementId: 'E2',
-    score: round(recoveryRatePct, 1),
+    score: round(scoreAgainstTarget(recoveryRatePct, E2_RECOVERY_TARGET_PCT), 1),
     detail: {
       recoveryRatePct: round(recoveryRatePct, 2),
       totalTon: round(totalTon, 3),
@@ -93,7 +111,12 @@ export function calculateE2(input: EsgInput): ElementScore {
   };
 }
 
-/** E3 — Energy use: renewable share, with energy intensity reported. */
+/**
+ * E3 — Energy use: renewable share, scored against Indonesia's RUEN/KEN
+ * national target (23% renewable mix by 2030, Perpres No. 22/2017). See
+ * `E3_RENEWABLE_TARGET_PCT`. Energy intensity is reported but not scored —
+ * no cross-industry intensity benchmark was available at implementation time.
+ */
 export function calculateE3(input: EsgInput): ElementScore {
   const totalKwh = readNumber(input, 'energy_total_kwh');
   const renewableKwh = readNumber(input, 'renewable_kwh');
@@ -103,7 +126,7 @@ export function calculateE3(input: EsgInput): ElementScore {
 
   return {
     elementId: 'E3',
-    score: round(renewableSharePct, 1),
+    score: round(scoreAgainstTarget(renewableSharePct, E3_RENEWABLE_TARGET_PCT), 1),
     detail: {
       renewableSharePct: round(renewableSharePct, 2),
       energyIntensityKwhPerTon: round(energyIntensityKwhPerTon, 3),
@@ -113,7 +136,14 @@ export function calculateE3(input: EsgInput): ElementScore {
   };
 }
 
-/** E4 — Raw materials: recycled content share. */
+/**
+ * E4 — Raw materials: recycled content share, scored linearly (0% → 0,
+ * 100% → 100). ⚠️ No Indonesia-specific or cross-industry recycled-content
+ * benchmark was found at implementation time — unlike E2/E3, this is not yet
+ * anchored to a national target. See circular economy literature in
+ * `jurnal/E4_Bahan_Baku/` for context; treat the linear scale as a
+ * placeholder pending a sector-specific benchmark.
+ */
 export function calculateE4(input: EsgInput): ElementScore {
   const totalTon = readNumber(input, 'material_total_ton');
   const recycledTon = readNumber(input, 'material_recycled_ton');
