@@ -5,6 +5,7 @@ import {
   emptyFormState,
   toEsgInput,
   defaultWeights,
+  findIncompleteElements,
 } from '../form';
 
 describe('emptyFormState', () => {
@@ -54,5 +55,36 @@ describe('ALL_INDICATOR_IDS', () => {
   test('matches the flattened framework indicator count', () => {
     const expected = ESG_FRAMEWORK.reduce((acc, e) => acc + e.indicators.length, 0);
     expect(ALL_INDICATOR_IDS).toHaveLength(expected);
+  });
+});
+
+describe('findIncompleteElements', () => {
+  test('a blank form reports every one of the 14 elements as incomplete', () => {
+    const incomplete = findIncompleteElements(emptyFormState());
+    expect(incomplete).toHaveLength(ESG_FRAMEWORK.length);
+  });
+
+  test('an element with all its indicators filled is not reported', () => {
+    const form = emptyFormState();
+    for (const indicator of ESG_FRAMEWORK[0].indicators) {
+      form[indicator.id] = '1';
+    }
+    const incomplete = findIncompleteElements(form);
+    expect(incomplete.some((e) => e.elementId === ESG_FRAMEWORK[0].id)).toBe(false);
+  });
+
+  test('an element with only some indicators filled is still reported once', () => {
+    const form = emptyFormState();
+    form[ESG_FRAMEWORK[0].indicators[0].id] = '1';
+    const incomplete = findIncompleteElements(form);
+    expect(incomplete.filter((e) => e.elementId === ESG_FRAMEWORK[0].id)).toHaveLength(1);
+  });
+
+  test('a fully filled form reports no incomplete elements', () => {
+    const form = emptyFormState();
+    for (const id of ALL_INDICATOR_IDS) {
+      form[id] = '1';
+    }
+    expect(findIncompleteElements(form)).toHaveLength(0);
   });
 });

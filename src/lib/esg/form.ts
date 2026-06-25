@@ -28,6 +28,51 @@ export function emptyFormState(): FormState {
   }, {});
 }
 
+/** Map of indicator id -> the element (and pillar) it belongs to. */
+const ELEMENT_BY_INDICATOR: Readonly<Record<string, { elementId: string; pillar: PillarId; elementName: string }>> =
+  ESG_FRAMEWORK.flatMap((element) =>
+    element.indicators.map((indicator) => ({
+      indicatorId: indicator.id,
+      elementId: element.id,
+      pillar: element.pillar,
+      elementName: element.name,
+    })),
+  ).reduce<Record<string, { elementId: string; pillar: PillarId; elementName: string }>>(
+    (acc, { indicatorId, elementId, pillar, elementName }) => {
+      acc[indicatorId] = { elementId, pillar, elementName };
+      return acc;
+    },
+    {},
+  );
+
+export interface IncompleteElement {
+  elementId: string;
+  elementName: string;
+  pillar: PillarId;
+}
+
+/**
+ * Every E/S/G element that still has at least one blank indicator, in
+ * framework order. Used to block submission until the assessment is complete
+ * and to point the user at what's missing.
+ */
+export function findIncompleteElements(form: FormState): IncompleteElement[] {
+  const seen = new Set<string>();
+  const incomplete: IncompleteElement[] = [];
+  for (const id of ALL_INDICATOR_IDS) {
+    if (form[id] !== '' && form[id] !== undefined) {
+      continue;
+    }
+    const meta = ELEMENT_BY_INDICATOR[id];
+    if (!meta || seen.has(meta.elementId)) {
+      continue;
+    }
+    seen.add(meta.elementId);
+    incomplete.push({ elementId: meta.elementId, elementName: meta.elementName, pillar: meta.pillar });
+  }
+  return incomplete;
+}
+
 /** Map of indicator id -> kind, built once for the converter below. */
 const INDICATOR_KIND: Readonly<Record<string, 'quantitative' | 'qualitative'>> =
   ESG_FRAMEWORK.flatMap((element) => element.indicators).reduce<

@@ -4,7 +4,7 @@ import { useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { ESG_FRAMEWORK } from '@/lib/esg/framework';
 import { computeEsg } from '@/lib/esg/aggregate';
-import { emptyFormState, toEsgInput, defaultWeights, type FormState } from '@/lib/esg/form';
+import { emptyFormState, toEsgInput, defaultWeights, findIncompleteElements, type FormState } from '@/lib/esg/form';
 import { saveAssessment } from '@/lib/data/assessments';
 import type { ElementId, PillarId, Weights } from '@/lib/esg/types';
 import ElementCard from './ElementCard';
@@ -67,6 +67,18 @@ export default function AssessmentWizard() {
     }
     if (period.trim() === '') {
       setError('Isi periode (tahun) dulu.');
+      return;
+    }
+
+    const incomplete = findIncompleteElements(form);
+    if (incomplete.length > 0) {
+      const first = incomplete[0];
+      setActiveTab(first.pillar);
+      setError(
+        `Masih ada ${incomplete.length} elemen yang belum lengkap: ${incomplete
+          .map((e) => `${e.elementId} (${e.elementName})`)
+          .join(', ')}.`,
+      );
       return;
     }
 
