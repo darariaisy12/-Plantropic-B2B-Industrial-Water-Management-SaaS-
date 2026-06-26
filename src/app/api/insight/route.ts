@@ -1,11 +1,12 @@
 /**
  * POST /api/insight — server-only Route Handler. Reads the already-computed
- * `EsgResult` sent by the dashboard, asks Gemini to interpret it, and returns
- * the narrative. Never recomputes scores; auth-gated by Supabase session.
+ * `EsgResult` sent by the dashboard, asks Groq (Llama 3.3) to interpret it,
+ * and returns the narrative. Never recomputes scores; auth-gated by
+ * Supabase session.
  */
 
 import { NextResponse } from 'next/server';
-import { GoogleGenAI } from '@google/genai';
+import Groq from 'groq-sdk';
 import { z } from 'zod';
 import { createClient } from '@/lib/supabase/server';
 import { buildInsightPrompt } from '@/lib/insight/prompt';
@@ -42,7 +43,7 @@ export async function POST(request: Request): Promise<NextResponse> {
     return NextResponse.json({ error: 'Sesi tidak ditemukan. Silakan login ulang.' }, { status: 401 });
   }
 
-  const apiKey = process.env.GEMINI_API_KEY;
+  const apiKey = process.env.GROQ_API_KEY;
   if (!apiKey) {
     return NextResponse.json({ error: 'Layanan AI belum dikonfigurasi.' }, { status: 503 });
   }
@@ -56,13 +57,13 @@ export async function POST(request: Request): Promise<NextResponse> {
   const prompt = buildInsightPrompt(parsed.data.results, parsed.data.period);
 
   try {
-    const ai = new GoogleGenAI({ apiKey });
-    const response = await ai.models.generateContent({
-      model: 'gemini-2.5-flash',
-      contents: prompt,
+    const groq = new Groq({ apiKey });
+    const response = await groq.chat.completions.create({
+      model: 'llama-3.3-70b-versatile',
+      messages: [{ role: 'user', content: prompt }],
     });
 
-    const content = response.text;
+    const content = response.choices[0]?.message?.content;
     if (!content) {
       return NextResponse.json({ error: 'AI tidak mengembalikan jawaban.' }, { status: 502 });
     }
