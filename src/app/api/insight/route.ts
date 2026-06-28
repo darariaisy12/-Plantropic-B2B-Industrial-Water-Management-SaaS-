@@ -10,6 +10,7 @@ import Groq from 'groq-sdk';
 import { z } from 'zod';
 import { createClient } from '@/lib/supabase/server';
 import { buildInsightPrompt } from '@/lib/insight/prompt';
+import { getSubscription } from '@/lib/subscription/getSubscription';
 import type { ElementId } from '@/lib/esg/types';
 
 const ELEMENT_IDS = [
@@ -41,6 +42,14 @@ export async function POST(request: Request): Promise<NextResponse> {
 
   if (!user) {
     return NextResponse.json({ error: 'Sesi tidak ditemukan. Silakan login ulang.' }, { status: 401 });
+  }
+
+  const { access } = await getSubscription();
+  if (!access.canUseAiInsight) {
+    return NextResponse.json(
+      { error: 'Fitur AI Insight tersedia di plan Professional ke atas.' },
+      { status: 403 },
+    );
   }
 
   const apiKey = process.env.GROQ_API_KEY;

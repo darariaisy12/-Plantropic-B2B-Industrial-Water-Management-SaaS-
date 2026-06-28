@@ -6,6 +6,8 @@
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 import HistoryView from '@/components/history/HistoryView';
+import UpgradePrompt from '@/components/subscription/UpgradePrompt';
+import { getSubscription } from '@/lib/subscription/getSubscription';
 
 export default async function HistoryPage() {
   const supabase = await createClient();
@@ -17,9 +19,11 @@ export default async function HistoryPage() {
     redirect('/login');
   }
 
+  const { access } = await getSubscription();
+
   return (
     <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
-      <HistoryView />
+      {access.canViewHistory ? <HistoryView /> : <UpgradePrompt feature="Riwayat & Tren" />}
     </main>
   );
 }
