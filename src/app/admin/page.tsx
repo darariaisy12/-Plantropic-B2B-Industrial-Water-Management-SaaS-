@@ -1,98 +1,115 @@
 /**
- * Admin dashboard — lists every company and its latest ESG score across all
- * users. Guarded twice: no session -> /login; session but not in `admins`
- * -> /dashboard. Only after both checks does it use the service-role client
- * to read across users (which RLS would otherwise block).
+ * Admin dashboard — cross-user view of all companies, subscriptions, and ESG
+ * scores. Double-gated: session check + admins table RLS, then service-role
+ * client for cross-user reads.
  */
 
-import Link from 'next/link';
-import { redirect } from 'next/navigation';
-import { createClient } from '@/lib/supabase/server';
-import { createAdminClient } from '@/lib/supabase/admin';
-import { PLAN_LABELS } from '@/lib/subscription/types';
-import type { PlanId } from '@/lib/subscription/types';
-import type { EsgResult } from '@/lib/esg/types';
+import Link from 'next/link'
+import { redirect } from 'next/navigation'
+import { createClient } from '@/lib/supabase/server'
+import { createAdminClient } from '@/lib/supabase/admin'
+import AdminTableClient from '@/components/admin/AdminTableClient'
+import type { AdminRow } from '@/components/admin/AdminTableClient'
+import type { EsgResult } from '@/lib/esg/types'
 
 interface CompanyRow {
-  user_id: string;
-  name: string;
-  industry: string | null;
-  scale: string | null;
+  user_id: string
+  name: string
+  industry: string | null
 }
 
 interface AssessmentRow {
-  user_id: string;
-  period: string;
-  results: EsgResult | null;
-  created_at: string;
+  user_id: string
+  period: string
+  results: EsgResult | null
+  created_at: string
 }
 
 interface SubscriptionRow {
-  user_id: string;
-  plan: string;
+  user_id: string
+  plan: string
+  status: string
+  trial_ends_at: string | null
+}
+
+function StatCard({ label, value, sub }: { label: string; value: string | number; sub?: string }) {
+  return (
+    <div
+      className="rounded-2xl px-5 py-4"
+      style={{ background: 'rgba(255,255,255,0.85)', border: '1px solid rgba(57,123,64,0.12)' }}
+    >
+      <div className="text-2xl font-extrabold" style={{ color: '#1a2e1b' }}>{value}</div>
+      <div className="text-xs font-semibold mt-0.5" style={{ color: '#6b7280' }}>{label}</div>
+      {sub && <div className="text-[11px] mt-1" style={{ color: '#9ca3af' }}>{sub}</div>}
+    </div>
+  )
 }
 
 export default async function AdminPage() {
-  const supabase = await createClient();
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-
-  if (!user) {
-    redirect('/login');
-  }
+  const supabase = await createClient()
+  const { data: { user } } = await supabase.auth.getUser()
+  if (!user) redirect('/login')
 
   const { data: adminRow } = await supabase
     .from('admins')
     .select('user_id')
     .eq('user_id', user.id)
-    .maybeSingle();
+    .maybeSingle()
 
-  if (!adminRow) {
-    redirect('/dashboard');
-  }
+  if (!adminRow) redirect('/dashboard')
 
-  const admin = createAdminClient();
+  const admin = createAdminClient()
   const [{ data: companies }, { data: assessments }, { data: subscriptions }] = await Promise.all([
-    admin.from('companies').select('user_id, name, industry, scale'),
-    admin
-      .from('assessments')
-      .select('user_id, period, results, created_at')
-      .order('created_at', { ascending: false }),
-    admin.from('subscriptions').select('user_id, plan'),
-  ]);
+    admin.from('companies').select('user_id, name, industry'),
+    admin.from('assessments').select('user_id, period, results, created_at').order('created_at', { ascending: false }),
+    admin.from('subscriptions').select('user_id, plan, status, trial_ends_at'),
+  ])
 
-  const latestByUser = new Map<string, AssessmentRow>();
+  const latestByUser = new Map<string, AssessmentRow>()
   for (const row of (assessments as AssessmentRow[] | null) ?? []) {
-    if (!latestByUser.has(row.user_id)) {
-      latestByUser.set(row.user_id, row);
-    }
+    if (!latestByUser.has(row.user_id)) latestByUser.set(row.user_id, row)
   }
 
-  const planByUser = new Map<string, string>();
+  const subByUser = new Map<string, SubscriptionRow>()
   for (const row of (subscriptions as SubscriptionRow[] | null) ?? []) {
-    planByUser.set(row.user_id, row.plan);
+    subByUser.set(row.user_id, row)
   }
 
-  const rows = ((companies as CompanyRow[] | null) ?? []).map((company) => ({
-    company,
-    latest: latestByUser.get(company.user_id) ?? null,
-    plan: planByUser.get(company.user_id) ?? 'trial',
-  }));
+  const rows: AdminRow[] = ((companies as CompanyRow[] | null) ?? []).map((company) => {
+    const latest = latestByUser.get(company.user_id) ?? null
+    const sub = subByUser.get(company.user_id)
+    return {
+      userId: company.user_id,
+      companyName: company.name,
+      industry: company.industry,
+      latestPeriod: latest?.period ?? null,
+      latestScore: latest?.results?.overall ?? null,
+      plan: sub?.plan ?? 'trial',
+      trialEndsAt: sub?.trial_ends_at ?? null,
+    }
+  })
+
+  const now = Date.now()
+  const totalUsers = rows.length
+  const trialActive = rows.filter((r) => r.plan === 'trial' && r.trialEndsAt && new Date(r.trialEndsAt).getTime() > now).length
+  const trialExpiringSoon = rows.filter((r) => {
+    if (r.plan !== 'trial' || !r.trialEndsAt) return false
+    const diff = new Date(r.trialEndsAt).getTime() - now
+    return diff > 0 && diff <= 3 * 24 * 60 * 60 * 1000
+  }).length
+  const paidUsers = rows.filter((r) => r.plan === 'starter' || r.plan === 'professional' || r.plan === 'enterprise').length
+  const totalAssessments = (assessments as AssessmentRow[] | null)?.length ?? 0
 
   return (
     <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
       <div className="w-full max-w-5xl mx-auto px-4 py-8">
         <div className="flex items-center justify-between gap-4 mb-6">
           <div>
-            <h1
-              className="text-2xl font-bold"
-              style={{ color: '#1a2e1b', fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif' }}
-            >
-              Admin — Semua Perusahaan
+            <h1 className="text-2xl font-bold" style={{ color: '#1a2e1b', fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif' }}>
+              Admin Dashboard
             </h1>
             <p className="text-sm mt-1" style={{ color: '#6b7280' }}>
-              {rows.length} perusahaan terdaftar.
+              Monitor dan kelola semua user Plantropic.
             </p>
           </div>
           <Link href="/dashboard" className="text-xs font-semibold" style={{ color: '#397b40' }}>
@@ -100,69 +117,15 @@ export default async function AdminPage() {
           </Link>
         </div>
 
-        <div
-          className="rounded-2xl overflow-hidden"
-          style={{ background: 'rgba(255,255,255,0.85)', border: '1px solid rgba(57,123,64,0.12)' }}
-        >
-          <table className="w-full text-sm">
-            <thead>
-              <tr style={{ background: 'rgba(57,123,64,0.06)' }}>
-                <th className="text-left px-4 py-3 font-semibold" style={{ color: '#374151' }}>
-                  Perusahaan
-                </th>
-                <th className="text-left px-4 py-3 font-semibold" style={{ color: '#374151' }}>
-                  Industri
-                </th>
-                <th className="text-left px-4 py-3 font-semibold" style={{ color: '#374151' }}>
-                  Periode Terakhir
-                </th>
-                <th className="text-left px-4 py-3 font-semibold" style={{ color: '#374151' }}>
-                  Plan
-                </th>
-                <th className="text-right px-4 py-3 font-semibold" style={{ color: '#374151' }}>
-                  Skor ESG
-                </th>
-              </tr>
-            </thead>
-            <tbody>
-              {rows.length === 0 && (
-                <tr>
-                  <td className="px-4 py-6 text-center" colSpan={4} style={{ color: '#9ca3af' }}>
-                    Belum ada perusahaan terdaftar.
-                  </td>
-                </tr>
-              )}
-              {rows.map(({ company, latest, plan }) => (
-                <tr key={company.user_id} style={{ borderTop: '1px solid rgba(0,0,0,0.06)' }}>
-                  <td className="px-4 py-3" style={{ color: '#1a2e1b' }}>
-                    {company.name}
-                  </td>
-                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>
-                    {company.industry ?? '—'}
-                  </td>
-                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>
-                    {latest?.period ?? '—'}
-                  </td>
-                  <td className="px-4 py-3">
-                    <span
-                      className="px-2 py-0.5 rounded-full text-[11px] font-bold"
-                      style={{
-                        background: plan === 'professional' || plan === 'enterprise' ? 'rgba(57,123,64,0.12)' : 'rgba(0,0,0,0.06)',
-                        color: plan === 'professional' || plan === 'enterprise' ? '#397b40' : '#6b7280',
-                      }}
-                    >
-                      {PLAN_LABELS[plan as PlanId] ?? plan}
-                    </span>
-                  </td>
-                  <td className="px-4 py-3 text-right font-bold" style={{ color: '#397b40' }}>
-                    {latest?.results ? latest.results.overall.toFixed(1) : '—'}
-                  </td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
+          <StatCard label="Total User" value={totalUsers} />
+          <StatCard label="Trial Aktif" value={trialActive} sub={trialExpiringSoon > 0 ? `⚠️ ${trialExpiringSoon} expires ≤3 hari` : undefined} />
+          <StatCard label="User Berbayar" value={paidUsers} />
+          <StatCard label="Total Assessment" value={totalAssessments} />
         </div>
+
+        <AdminTableClient rows={rows} />
       </div>
     </main>
-  );
+  )
 }
