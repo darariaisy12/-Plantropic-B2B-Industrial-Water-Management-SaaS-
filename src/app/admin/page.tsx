@@ -36,11 +36,11 @@ function StatCard({ label, value, sub }: { label: string; value: string | number
   return (
     <div
       className="rounded-2xl px-5 py-4"
-      style={{ background: 'rgba(255,255,255,0.85)', border: '1px solid rgba(57,123,64,0.12)' }}
+      style={{ background: 'rgba(255,255,255,0.06)', border: '1px solid rgba(74,222,128,0.15)', backdropFilter: 'blur(12px)' }}
     >
-      <div className="text-2xl font-extrabold" style={{ color: '#1a2e1b' }}>{value}</div>
-      <div className="text-xs font-semibold mt-0.5" style={{ color: '#6b7280' }}>{label}</div>
-      {sub && <div className="text-[11px] mt-1" style={{ color: '#9ca3af' }}>{sub}</div>}
+      <div className="text-2xl font-extrabold text-white">{value}</div>
+      <div className="text-xs font-semibold mt-0.5" style={{ color: 'rgba(255,255,255,0.5)' }}>{label}</div>
+      {sub && <div className="text-[11px] mt-1" style={{ color: '#fbbf24' }}>{sub}</div>}
     </div>
   )
 }
@@ -101,18 +101,32 @@ export default async function AdminPage() {
   const totalAssessments = (assessments as AssessmentRow[] | null)?.length ?? 0
 
   return (
-    <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
-      <div className="w-full max-w-5xl mx-auto px-4 py-8">
-        <div className="flex items-center justify-between gap-4 mb-6">
+    <main className="min-h-screen" style={{ background: 'linear-gradient(135deg, #0d2210 0%, #1a3d1c 50%, #0f2a11 100%)' }}>
+      {/* decorative blobs */}
+      <div className="pointer-events-none fixed inset-0 overflow-hidden">
+        <div className="absolute -top-32 -left-32 w-96 h-96 rounded-full opacity-20" style={{ background: 'radial-gradient(circle, #4ade80, transparent)' }} />
+        <div className="absolute top-1/2 -right-24 w-72 h-72 rounded-full opacity-10" style={{ background: 'radial-gradient(circle, #86efac, transparent)' }} />
+      </div>
+
+      <div className="relative w-full max-w-5xl mx-auto px-4 py-8">
+        <div className="flex items-center justify-between gap-4 mb-8">
           <div>
-            <h1 className="text-2xl font-bold" style={{ color: '#1a2e1b', fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif' }}>
+            <div className="flex items-center gap-2 mb-1">
+              <span className="text-xl">🌱</span>
+              <span className="text-xs font-bold uppercase tracking-widest" style={{ color: '#4ade80' }}>Plantropic Admin</span>
+            </div>
+            <h1 className="text-2xl font-extrabold text-white" style={{ fontFamily: 'Plus Jakarta Sans, DM Sans, sans-serif' }}>
               Admin Dashboard
             </h1>
-            <p className="text-sm mt-1" style={{ color: '#6b7280' }}>
+            <p className="text-sm mt-1" style={{ color: 'rgba(255,255,255,0.5)' }}>
               Monitor dan kelola semua user Plantropic.
             </p>
           </div>
-          <Link href="/dashboard" className="text-xs font-semibold" style={{ color: '#397b40' }}>
+          <Link
+            href="/dashboard"
+            className="text-xs font-semibold px-4 py-2 rounded-full transition-all hover:opacity-80"
+            style={{ background: 'rgba(74,222,128,0.15)', color: '#4ade80', border: '1px solid rgba(74,222,128,0.3)' }}
+          >
             ← Dashboard saya
           </Link>
         </div>
