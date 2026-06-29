@@ -1,8 +1,10 @@
 import { describe, expect, test } from 'vitest';
 import {
   EMISSION_FACTORS,
-  E1_SCORE_BEST_TCO2E,
-  E1_SCORE_WORST_TCO2E,
+  E1_ABS_BEST_TCO2E,
+  E1_ABS_WORST_TCO2E,
+  E1_INTENSITY_BEST_TCO2E_PER_TON,
+  E1_INTENSITY_WORST_TCO2E_PER_TON,
 } from '../emissionFactors';
 import {
   calculateE1,
@@ -59,20 +61,44 @@ describe('calculateE1 — GHG emissions', () => {
     expect(calculateE1(input).score).toBe(100);
   });
 
-  test('emissions at or beyond the worst threshold floor the score at 0', () => {
-    const tonsOfDiesel = (E1_SCORE_WORST_TCO2E * 1000 * 1000) / EMISSION_FACTORS.diesel_l;
+  test('absolute fallback: emissions at or beyond worst threshold floor the score at 0', () => {
+    // No production_output_ton → uses absolute fallback (E1_ABS_WORST_TCO2E).
+    const tonsOfDiesel = (E1_ABS_WORST_TCO2E * 1000 * 1000) / EMISSION_FACTORS.diesel_l;
     const input: EsgInput = { diesel_l: tonsOfDiesel };
     expect(calculateE1(input).score).toBe(0);
   });
 
-  test('score decreases monotonically as emissions rise', () => {
+  test('absolute fallback: score decreases monotonically as emissions rise', () => {
     const low = calculateE1({ electricity_kwh: 10_000 }).score;
     const high = calculateE1({ electricity_kwh: 500_000 }).score;
     expect(high).toBeLessThan(low);
   });
 
-  test('best threshold is below the worst threshold', () => {
-    expect(E1_SCORE_BEST_TCO2E).toBeLessThan(E1_SCORE_WORST_TCO2E);
+  test('absolute fallback: best threshold is below the worst threshold', () => {
+    expect(E1_ABS_BEST_TCO2E).toBeLessThan(E1_ABS_WORST_TCO2E);
+  });
+
+  test('intensity-based scoring: low intensity earns a high score', () => {
+    // 1 tCO2e total / 10 ton output = 0.1 tCO2e/ton → well below BEST → score 100
+    const kgCo2 = 1000; // 1 tCO2e
+    const kwhNeeded = kgCo2 / EMISSION_FACTORS.electricity_kwh;
+    const result = calculateE1({ electricity_kwh: kwhNeeded, production_output_ton: 10 });
+    expect(result.score).toBe(100);
+    expect(result.detail?.intensityTco2ePerTon).toBeCloseTo(0.1, 2);
+  });
+
+  test('intensity-based scoring: high intensity earns a low score', () => {
+    // E1_INTENSITY_WORST_TCO2E_PER_TON per ton → score 0
+    const intensityTarget = E1_INTENSITY_WORST_TCO2E_PER_TON; // tCO2e/ton
+    const outputTon = 100;
+    const totalKg = intensityTarget * outputTon * 1000;
+    const kwhNeeded = totalKg / EMISSION_FACTORS.electricity_kwh;
+    const result = calculateE1({ electricity_kwh: kwhNeeded, production_output_ton: outputTon });
+    expect(result.score).toBe(0);
+  });
+
+  test('intensity threshold constants are ordered correctly', () => {
+    expect(E1_INTENSITY_BEST_TCO2E_PER_TON).toBeLessThan(E1_INTENSITY_WORST_TCO2E_PER_TON);
   });
 
   test('treats missing and negative inputs as zero', () => {

@@ -13,8 +13,10 @@ import {
   EMISSION_FACTORS,
   SCOPE_1_FACTORS,
   SCOPE_2_FACTORS,
-  E1_SCORE_BEST_TCO2E,
-  E1_SCORE_WORST_TCO2E,
+  E1_INTENSITY_BEST_TCO2E_PER_TON,
+  E1_INTENSITY_WORST_TCO2E_PER_TON,
+  E1_ABS_BEST_TCO2E,
+  E1_ABS_WORST_TCO2E,
   E2_RECOVERY_TARGET_PCT,
   E3_RENEWABLE_TARGET_PCT,
   type EmissionFactorKey,
@@ -56,34 +58,63 @@ function sumTco2e(input: EsgInput, keys: readonly EmissionFactorKey[]): number {
 }
 
 /**
- * Map total emissions to a 0..100 score. Lower emissions score higher: at or
- * below the BEST threshold → 100, at or above WORST → 0, linear in between.
+ * Score by emission intensity (tCO2e per ton of output). Lower intensity →
+ * higher score. At or below BEST → 100; at or above WORST → 0; linear between.
+ * Preferred over absolute scoring because it normalises for company scale.
  */
-function scoreEmissions(totalTco2e: number): number {
-  if (totalTco2e <= E1_SCORE_BEST_TCO2E) {
-    return 100;
-  }
-  if (totalTco2e >= E1_SCORE_WORST_TCO2E) {
-    return 0;
-  }
-  const span = E1_SCORE_WORST_TCO2E - E1_SCORE_BEST_TCO2E;
-  const above = totalTco2e - E1_SCORE_BEST_TCO2E;
-  return clamp(100 * (1 - above / span), 0, 100);
+function scoreByIntensity(intensityTco2ePerTon: number): number {
+  if (intensityTco2ePerTon <= E1_INTENSITY_BEST_TCO2E_PER_TON) return 100;
+  if (intensityTco2ePerTon >= E1_INTENSITY_WORST_TCO2E_PER_TON) return 0;
+  const span = E1_INTENSITY_WORST_TCO2E_PER_TON - E1_INTENSITY_BEST_TCO2E_PER_TON;
+  return clamp(100 * (1 - (intensityTco2ePerTon - E1_INTENSITY_BEST_TCO2E_PER_TON) / span), 0, 100);
 }
 
-/** E1 — Greenhouse gas emissions (Scope 1 fuels + Scope 2 electricity). */
+/**
+ * Fallback: score by absolute tCO2e when production output is unknown. Lower
+ * absolute emissions → higher score. At or below BEST → 100; at or above
+ * WORST → 0; linear between.
+ */
+function scoreAbsoluteEmissions(totalTco2e: number): number {
+  if (totalTco2e <= E1_ABS_BEST_TCO2E) return 100;
+  if (totalTco2e >= E1_ABS_WORST_TCO2E) return 0;
+  const span = E1_ABS_WORST_TCO2E - E1_ABS_BEST_TCO2E;
+  return clamp(100 * (1 - (totalTco2e - E1_ABS_BEST_TCO2E) / span), 0, 100);
+}
+
+/**
+ * E1 — Greenhouse gas emissions (GRI 305, PP 98/2021, KLHK No. 21/2022).
+ *
+ * Scoring uses emission intensity (tCO2e per ton of production output) when
+ * output is reported, because intensity normalises for company scale and is
+ * the GRI 305-4 recommended disclosure. Falls back to absolute tCO2e if the
+ * user does not report production output (shared field with E3).
+ */
 export function calculateE1(input: EsgInput): ElementScore {
   const scope1Tco2e = sumTco2e(input, SCOPE_1_FACTORS);
   const scope2Tco2e = sumTco2e(input, SCOPE_2_FACTORS);
   const totalTco2e = scope1Tco2e + scope2Tco2e;
+  // production_output_ton is collected under the E3 indicators (shared field).
+  const outputTon = toNonNegativeNumber(input['production_output_ton']);
+
+  let score: number;
+  let intensityTco2ePerTon: number | undefined;
+  if (outputTon > 0) {
+    intensityTco2ePerTon = totalTco2e / outputTon;
+    score = scoreByIntensity(intensityTco2ePerTon);
+  } else {
+    score = scoreAbsoluteEmissions(totalTco2e);
+  }
 
   return {
     elementId: 'E1',
-    score: round(scoreEmissions(totalTco2e), 1),
+    score: round(score, 1),
     detail: {
       scope1Tco2e: round(scope1Tco2e, 3),
       scope2Tco2e: round(scope2Tco2e, 3),
       totalTco2e: round(totalTco2e, 3),
+      ...(intensityTco2ePerTon !== undefined && {
+        intensityTco2ePerTon: round(intensityTco2ePerTon, 4),
+      }),
     },
   };
 }

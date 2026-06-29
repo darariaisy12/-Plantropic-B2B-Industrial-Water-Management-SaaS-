@@ -32,6 +32,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'E',
     name: 'Emisi Gas Rumah Kaca',
     griAnchor: 'GRI 305',
+    regulation: 'PP 98/2021, KLHK No. 21/2022',
     indicators: [
       { id: 'electricity_kwh', label: 'Konsumsi listrik', kind: 'quantitative', unit: 'kWh' },
       { id: 'diesel_l', label: 'Konsumsi solar', kind: 'quantitative', unit: 'L' },
@@ -69,6 +70,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'E',
     name: 'Penggunaan Bahan Baku',
     griAnchor: 'GRI 301',
+    regulation: 'UU No. 3/2014 (Industri Hijau)',
     indicators: [
       { id: 'material_total_ton', label: 'Total bahan baku', kind: 'quantitative', unit: 'ton' },
       { id: 'material_recycled_ton', label: 'Bahan baku daur ulang', kind: 'quantitative', unit: 'ton' },
@@ -79,6 +81,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'E',
     name: 'Polusi Udara',
     griAnchor: 'GRI 305',
+    regulation: 'PP 22/2021, PermenLHK No. 12/2025',
     indicators: [
       { id: 'emission_monitoring', label: 'Pemantauan emisi udara', kind: 'qualitative', options: MATURITY },
       { id: 'air_quality_compliance', label: 'Memenuhi baku mutu udara', kind: 'qualitative', options: YES_NO },
@@ -91,7 +94,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'S',
     name: 'Keselamatan & Kesehatan Kerja',
     griAnchor: 'GRI 403',
-    regulation: 'ISO 45001',
+    regulation: 'UU No. 13/2003 Psl 86-87, PP 50/2012 (SMK3), ISO 45001',
     indicators: [
       { id: 'accidents_count', label: 'Jumlah kecelakaan kerja', kind: 'quantitative', unit: 'kasus' },
       { id: 'workhours_total', label: 'Total jam kerja', kind: 'quantitative', unit: 'jam' },
@@ -103,6 +106,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'S',
     name: 'Hak-hak Tenaga Kerja',
     griAnchor: 'GRI 408/409',
+    regulation: 'UU No. 13/2003, POJK 51/2017',
     indicators: [
       { id: 'no_child_labor', label: 'Bebas pekerja anak', kind: 'qualitative', options: YES_NO },
       { id: 'freedom_of_association', label: 'Kebebasan berserikat', kind: 'qualitative', options: YES_NO },
@@ -114,6 +118,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'S',
     name: 'Diversitas & Inklusi',
     griAnchor: 'GRI 405',
+    regulation: 'UU No. 40/2007 Psl 74, POJK 51/2017',
     indicators: [
       { id: 'women_workforce_pct', label: 'Persentase tenaga kerja perempuan', kind: 'quantitative', unit: '%' },
       { id: 'women_management_pct', label: 'Persentase perempuan di manajemen', kind: 'quantitative', unit: '%' },
@@ -124,6 +129,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'S',
     name: 'Dampak terhadap Masyarakat',
     griAnchor: 'GRI 413',
+    regulation: 'UU No. 40/2007 Psl 74 (TJSL), POJK 51/2017',
     indicators: [
       { id: 'community_program', label: 'Program pemberdayaan masyarakat', kind: 'qualitative', options: MATURITY },
       { id: 'grievance_mechanism', label: 'Mekanisme pengaduan masyarakat', kind: 'qualitative', options: YES_NO },
@@ -134,6 +140,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'S',
     name: 'Kepuasan Pelanggan',
     griAnchor: 'GRI 417',
+    regulation: 'UU No. 8/1999 (Perlindungan Konsumen), POJK 51/2017',
     indicators: [
       { id: 'customer_satisfaction_pct', label: 'Tingkat kepuasan pelanggan', kind: 'quantitative', unit: '%' },
       { id: 'complaint_handling_system', label: 'Sistem penanganan keluhan', kind: 'qualitative', options: MATURITY },
@@ -145,7 +152,8 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     id: 'G1',
     pillar: 'G',
     name: 'Struktur & Etika Bisnis',
-    griAnchor: 'GRI 102',
+    griAnchor: 'GRI 2-06',
+    regulation: 'POJK 51/2017, UU No. 40/2007 Psl 108',
     indicators: [
       { id: 'code_of_conduct', label: 'Kode etik bisnis', kind: 'qualitative', options: MATURITY },
       { id: 'board_independence', label: 'Ada dewan/komisaris independen', kind: 'qualitative', options: YES_NO },
@@ -156,6 +164,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'G',
     name: 'Anti-Korupsi',
     griAnchor: 'GRI 205',
+    regulation: 'UU No. 31/1999 jo. No. 20/2001, POJK 51/2017',
     indicators: [
       { id: 'anticorruption_policy', label: 'Kebijakan anti-korupsi', kind: 'qualitative', options: MATURITY },
       { id: 'anticorruption_training_pct', label: 'Karyawan dilatih anti-korupsi', kind: 'quantitative', unit: '%' },
@@ -166,6 +175,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'G',
     name: 'Kepatuhan Hukum',
     griAnchor: 'GRI 206',
+    regulation: 'POJK 51/2017, OJK GCG Guidelines',
     indicators: [
       { id: 'legal_violations_count', label: 'Jumlah pelanggaran hukum', kind: 'quantitative', unit: 'kasus' },
       { id: 'compliance_management', label: 'Sistem manajemen kepatuhan', kind: 'qualitative', options: MATURITY },
@@ -176,7 +186,7 @@ export const ESG_FRAMEWORK: readonly ElementDefinition[] = [
     pillar: 'G',
     name: 'Manajemen Risiko',
     griAnchor: 'GRI 201',
-    regulation: 'ISO 31000',
+    regulation: 'POJK 51/2017, ISO 31000',
     indicators: [
       { id: 'risk_management_system', label: 'Sistem manajemen risiko', kind: 'qualitative', options: MATURITY },
       { id: 'climate_risk_assessment', label: 'Penilaian risiko iklim', kind: 'qualitative', options: YES_NO },
