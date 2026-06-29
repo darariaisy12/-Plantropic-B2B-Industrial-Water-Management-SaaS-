@@ -48,14 +48,27 @@ describe('scoreElement — qualitative elements', () => {
   });
 });
 
-describe('scoreElement — percentage indicators', () => {
-  test('S3 averages the two percentages and clamps to 100', () => {
+describe('scoreElement — S3 diversity against benchmarks', () => {
+  test('scores workforce % against BPS 38% target and management % against GRI 30% target', () => {
+    // 40% workforce > 38% target → capped at 100; 20% management / 30% = 66.7 → avg 83.3
     expect(
       scoreElement('S3', { women_workforce_pct: 40, women_management_pct: 20 }).score,
-    ).toBe(30);
+    ).toBeCloseTo(83.3, 1);
+  });
+
+  test('meeting or exceeding both targets caps at 100', () => {
     expect(
-      scoreElement('S3', { women_workforce_pct: 150, women_management_pct: 100 }).score,
+      scoreElement('S3', { women_workforce_pct: 38, women_management_pct: 30 }).score,
     ).toBe(100);
+    expect(
+      scoreElement('S3', { women_workforce_pct: 100, women_management_pct: 100 }).score,
+    ).toBe(100);
+  });
+
+  test('zero diversity scores 0', () => {
+    expect(
+      scoreElement('S3', { women_workforce_pct: 0, women_management_pct: 0 }).score,
+    ).toBe(0);
   });
 });
 

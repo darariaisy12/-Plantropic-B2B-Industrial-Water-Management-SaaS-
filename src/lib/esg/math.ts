@@ -34,3 +34,13 @@ export function toNonNegativeNumber(value: unknown): number {
   }
   return n;
 }
+
+/**
+ * Score a percentage against a policy or best-practice benchmark: reaching the
+ * target maps to 100, below it scales linearly, exceeding it is capped at 100
+ * (not penalised). Returns 0 when targetPct is 0 or negative.
+ */
+export function scoreAgainstTarget(actualPct: number, targetPct: number): number {
+  if (targetPct <= 0) return 0;
+  return clamp((actualPct / targetPct) * 100, 0, 100);
+}

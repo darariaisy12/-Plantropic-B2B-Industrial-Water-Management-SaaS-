@@ -87,3 +87,99 @@ export const E2_RECOVERY_TARGET_PCT = 70;
  * creating a pathway for industrial users to self-generate renewables.
  */
 export const E3_RENEWABLE_TARGET_PCT = 23;
+
+/**
+ * S3 women in workforce benchmark: BPS (Badan Pusat Statistik) Statistik
+ * Gender Tematik (2023) reports approximately 38% female participation in
+ * Indonesia's formal sector. Reaching this share maps to a score of 100;
+ * exceeding it is capped at 100 (not penalised).
+ *
+ * Reference: BPS (2023). Statistik Gender Tematik: Potret Perempuan
+ * Indonesia 2023. Jakarta: Badan Pusat Statistik.
+ */
+export const S3_WOMEN_WORKFORCE_TARGET_PCT = 38;
+
+/**
+ * S3 women in management benchmark: 30% women in senior or management
+ * positions, as recommended by GRI 405-1 (2021) best practice and the
+ * UN Women HeForShe framework. Also endorsed by Nicolò et al. (2021) as a
+ * meaningful gender inclusion indicator in sustainability reporting.
+ * POJK 51/2017 Lampiran II identifies gender composition in management
+ * as a key sustainability disclosure metric.
+ *
+ * Reference: GRI 405-1 (2021); Nicolò et al. (2021) doi:10.1108/jaar-04-2021-0100.
+ */
+export const S3_WOMEN_MANAGEMENT_TARGET_PCT = 30;
+
+/**
+ * E1 per-sector emission intensity benchmarks (tCO2e per ton of production
+ * output or per m³ for water sector). `best` → score 100; `worst` → 0;
+ * linear between. Keys match the dropdown options in SettingsView.
+ *
+ * Sources: IEA Industry Data 2023, IEA Net Zero by 2050 Sector Deep-Dives,
+ * published sustainability reports of Indonesian industrial issuers.
+ *
+ * Water/wastewater: tCO2e per m³ treated (1 m³ ≈ 1 metric ton). Based on
+ * WHO (2017) Water & Climate Change: energy use 0.3–2.0 kWh/m³ × PLN factor.
+ */
+export interface SectorBenchmark {
+  best: number;
+  worst: number;
+  label: string;
+}
+
+export const SECTOR_INTENSITY_BENCHMARKS: Readonly<Record<string, SectorBenchmark>> = {
+  semen: {
+    best: 0.4,
+    worst: 1.0,
+    label: 'Semen & Material Bangunan',
+  },
+  tekstil: {
+    best: 0.5,
+    worst: 3.0,
+    label: 'Tekstil & Garmen',
+  },
+  makanan_minuman: {
+    best: 0.1,
+    worst: 1.5,
+    label: 'Makanan & Minuman',
+  },
+  pulp_kertas: {
+    best: 0.3,
+    worst: 1.5,
+    label: 'Pulp & Kertas',
+  },
+  baja_logam: {
+    best: 0.5,
+    worst: 3.0,
+    label: 'Baja & Logam',
+  },
+  kimia: {
+    best: 0.5,
+    worst: 4.0,
+    label: 'Kimia & Petrokimia',
+  },
+  otomotif: {
+    best: 0.1,
+    worst: 1.5,
+    label: 'Otomotif & Perakitan',
+  },
+  pengolahan_air: {
+    best: 0.0003,
+    worst: 0.002,
+    label: 'Pengolahan Air & Limbah Cair',
+  },
+  pertambangan: {
+    best: 0.5,
+    worst: 5.0,
+    label: 'Pertambangan & Galian',
+  },
+  lainnya: {
+    best: E1_INTENSITY_BEST_TCO2E_PER_TON,
+    worst: E1_INTENSITY_WORST_TCO2E_PER_TON,
+    label: 'Industri Lainnya',
+  },
+};
+
+/** Ordered list of sector keys for the Settings dropdown. */
+export const SECTOR_KEYS = Object.keys(SECTOR_INTENSITY_BENCHMARKS) as readonly string[];

@@ -19,9 +19,10 @@ import {
   E1_ABS_WORST_TCO2E,
   E2_RECOVERY_TARGET_PCT,
   E3_RENEWABLE_TARGET_PCT,
+  SECTOR_INTENSITY_BENCHMARKS,
   type EmissionFactorKey,
 } from './emissionFactors';
-import { clamp, round, toNonNegativeNumber } from './math';
+import { clamp, round, scoreAgainstTarget, toNonNegativeNumber } from './math';
 import type { ElementScore, EsgInput } from './types';
 
 const KG_PER_TON = 1000;
@@ -37,18 +38,6 @@ function sharePct(part: number, whole: number): number {
     return 0;
   }
   return clamp((part / whole) * 100, 0, 100);
-}
-
-/**
- * Score a percentage against a national policy benchmark: reaching the
- * target maps to 100, below it scales linearly, exceeding it is capped at
- * 100 (not penalized).
- */
-function scoreAgainstTarget(actualPct: number, targetPct: number): number {
-  if (targetPct <= 0) {
-    return 0;
-  }
-  return clamp((actualPct / targetPct) * 100, 0, 100);
 }
 
 /** Sum tonnes of CO2e for a set of emission-factor keys. */
@@ -84,23 +73,39 @@ function scoreAbsoluteEmissions(totalTco2e: number): number {
 /**
  * E1 — Greenhouse gas emissions (GRI 305, PP 98/2021, KLHK No. 21/2022).
  *
- * Scoring uses emission intensity (tCO2e per ton of production output) when
- * output is reported, because intensity normalises for company scale and is
- * the GRI 305-4 recommended disclosure. Falls back to absolute tCO2e if the
- * user does not report production output (shared field with E3).
+ * Scoring priority:
+ *  1. Sector + output known → sector-specific intensity benchmark (most accurate)
+ *  2. Output known, no sector → cross-sector default intensity benchmark
+ *  3. Neither → absolute tCO2e fallback (least accurate, DRAFT)
+ *
+ * `_sector` is injected into EsgInput by AssessmentWizard from the company
+ * profile; it is not a user-facing indicator and is not stored in the form.
  */
 export function calculateE1(input: EsgInput): ElementScore {
   const scope1Tco2e = sumTco2e(input, SCOPE_1_FACTORS);
   const scope2Tco2e = sumTco2e(input, SCOPE_2_FACTORS);
   const totalTco2e = scope1Tco2e + scope2Tco2e;
-  // production_output_ton is collected under the E3 indicators (shared field).
   const outputTon = toNonNegativeNumber(input['production_output_ton']);
 
   let score: number;
   let intensityTco2ePerTon: number | undefined;
+  let sectorUsed: string | undefined;
+
   if (outputTon > 0) {
     intensityTco2ePerTon = totalTco2e / outputTon;
-    score = scoreByIntensity(intensityTco2ePerTon);
+    const sectorKey = typeof input['_sector'] === 'string' ? input['_sector'] : undefined;
+    const benchmark = sectorKey ? SECTOR_INTENSITY_BENCHMARKS[sectorKey] : undefined;
+
+    if (benchmark) {
+      sectorUsed = sectorKey;
+      score = clamp(
+        100 * (1 - (intensityTco2ePerTon - benchmark.best) / (benchmark.worst - benchmark.best)),
+        0,
+        100,
+      );
+    } else {
+      score = scoreByIntensity(intensityTco2ePerTon);
+    }
   } else {
     score = scoreAbsoluteEmissions(totalTco2e);
   }
@@ -115,6 +120,8 @@ export function calculateE1(input: EsgInput): ElementScore {
       ...(intensityTco2ePerTon !== undefined && {
         intensityTco2ePerTon: round(intensityTco2ePerTon, 4),
       }),
+      // 1 = sector-specific benchmark used; 0 = default cross-sector; undefined = absolute fallback
+      ...(outputTon > 0 && { benchmarkMode: sectorUsed !== undefined ? 1 : 0 }),
     },
   };
 }

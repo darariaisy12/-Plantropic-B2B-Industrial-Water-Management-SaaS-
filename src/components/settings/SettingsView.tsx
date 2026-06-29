@@ -9,6 +9,7 @@
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { getCompany, upsertCompany, type CompanyProfile } from '@/lib/data/assessments';
+import { SECTOR_INTENSITY_BENCHMARKS } from '@/lib/esg/emissionFactors';
 
 const CARD_STYLE: React.CSSProperties = {
   background: 'rgba(255,255,255,0.8)',
@@ -105,13 +106,19 @@ export default function SettingsView() {
         </label>
 
         <label className="flex flex-col gap-1.5 text-xs font-semibold" style={{ color: '#374151' }}>
-          Industri
-          <input
-            type="text"
+          Sektor Industri
+          <select
             value={profile.industry ?? ''}
             onChange={(e) => setProfile({ ...profile, industry: e.target.value })}
             style={INPUT_STYLE}
-          />
+          >
+            <option value="">— Pilih sektor —</option>
+            {Object.entries(SECTOR_INTENSITY_BENCHMARKS).map(([key, bench]) => (
+              <option key={key} value={key}>
+                {bench.label}
+              </option>
+            ))}
+          </select>
         </label>
 
         <label className="flex flex-col gap-1.5 text-xs font-semibold" style={{ color: '#374151' }}>

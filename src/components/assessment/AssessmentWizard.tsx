@@ -1,12 +1,12 @@
 'use client';
 
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { ESG_FRAMEWORK } from '@/lib/esg/framework';
 import { computeEsg } from '@/lib/esg/aggregate';
 import { emptyFormState, toEsgInput, defaultWeights, findIncompleteElements, type FormState } from '@/lib/esg/form';
-import { saveAssessment } from '@/lib/data/assessments';
-import type { ElementId, PillarId, Weights } from '@/lib/esg/types';
+import { saveAssessment, getCompany } from '@/lib/data/assessments';
+import type { ElementId, EsgInput, PillarId, Weights } from '@/lib/esg/types';
 import ElementCard from './ElementCard';
 import WeightPanel from './WeightPanel';
 
@@ -40,11 +40,32 @@ export default function AssessmentWizard() {
   const [form, setForm] = useState<FormState>(emptyFormState);
   const [weights, setWeights] = useState<Weights>(defaultWeights);
   const [companyName, setCompanyName] = useState('');
+  const [companySector, setCompanySector] = useState<string | null>(null);
   const [period, setPeriod] = useState(String(CURRENT_YEAR));
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  const result = useMemo(() => computeEsg(toEsgInput(form), weights), [form, weights]);
+  // Pre-fill company name and load sector for per-sector E1 scoring.
+  useEffect(() => {
+    getCompany()
+      .then((profile) => {
+        if (!profile) return;
+        if (profile.name && companyName === '') setCompanyName(profile.name);
+        setCompanySector(profile.industry ?? null);
+      })
+      .catch(() => {
+        // Non-critical — scoring still works without sector info.
+      });
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Inject _sector into EsgInput so calculateE1 can use sector-specific thresholds.
+  const esgInput = useMemo((): EsgInput => {
+    const base = toEsgInput(form);
+    return companySector ? { ...base, _sector: companySector } : base;
+  }, [form, companySector]);
+
+  const result = useMemo(() => computeEsg(esgInput, weights), [esgInput, weights]);
   const scoreByElement = useMemo(
     () => new Map(result.elements.map((element) => [element.elementId, element.score])),
     [result],
@@ -87,7 +108,7 @@ export default function AssessmentWizard() {
       await saveAssessment({
         period: period.trim(),
         weights,
-        inputs: toEsgInput(form),
+        inputs: esgInput,
         results: result,
         company: { name: companyName.trim() },
       });
