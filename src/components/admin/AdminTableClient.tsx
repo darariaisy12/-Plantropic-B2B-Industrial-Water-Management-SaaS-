@@ -51,36 +51,36 @@ export default function AdminTableClient({ rows }: AdminTableClientProps) {
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           className="text-sm px-3 py-2 rounded-xl outline-none flex-1 min-w-[160px]"
-          style={{ border: '1px solid rgba(74,222,128,0.2)', background: 'rgba(255,255,255,0.07)', color: '#fff', backdropFilter: 'blur(8px)' }}
+          style={{ border: '1px solid rgba(57,123,64,0.2)', background: '#fff', color: '#1a2e1b' }}
         />
         <select
           value={planFilter}
           onChange={(e) => setPlanFilter(e.target.value)}
           className="text-sm px-3 py-2 rounded-xl outline-none"
-          style={{ border: '1px solid rgba(74,222,128,0.2)', background: 'rgba(255,255,255,0.07)', color: '#d1fae5' }}
+          style={{ border: '1px solid rgba(57,123,64,0.2)', background: '#fff', color: '#374151' }}
         >
           {PLAN_FILTER_OPTIONS.map((opt) => (
-            <option key={opt.value} value={opt.value} style={{ background: '#1a3d1c', color: '#fff' }}>{opt.label}</option>
+            <option key={opt.value} value={opt.value}>{opt.label}</option>
           ))}
         </select>
       </div>
 
-      <div className="rounded-2xl overflow-hidden" style={{ background: 'rgba(255,255,255,0.05)', border: '1px solid rgba(74,222,128,0.15)', backdropFilter: 'blur(12px)' }}>
+      <div className="rounded-2xl overflow-hidden" style={{ background: '#fff', border: '1px solid rgba(57,123,64,0.12)' }}>
         <table className="w-full text-sm">
           <thead>
-            <tr style={{ background: 'rgba(74,222,128,0.08)' }}>
-              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Perusahaan</th>
-              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Industri</th>
-              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Periode Terakhir</th>
-              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Plan</th>
-              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Trial Berakhir</th>
-              <th className="text-right px-4 py-3 font-semibold" style={{ color: '#86efac' }}>Skor ESG</th>
+            <tr style={{ background: 'rgba(57,123,64,0.06)' }}>
+              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Perusahaan</th>
+              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Industri</th>
+              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Periode Terakhir</th>
+              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Plan</th>
+              <th className="text-left px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Trial Berakhir</th>
+              <th className="text-right px-4 py-3 font-semibold" style={{ color: '#397b40' }}>Skor ESG</th>
             </tr>
           </thead>
           <tbody>
             {filtered.length === 0 && (
               <tr>
-                <td className="px-4 py-6 text-center" colSpan={6} style={{ color: 'rgba(255,255,255,0.3)' }}>
+                <td className="px-4 py-6 text-center" colSpan={6} style={{ color: '#9ca3af' }}>
                   Tidak ada data.
                 </td>
               </tr>
@@ -94,20 +94,20 @@ export default function AdminTableClient({ rows }: AdminTableClientProps) {
                 <tr
                   key={row.userId}
                   style={{
-                    borderTop: '1px solid rgba(74,222,128,0.08)',
-                    background: isUrgent ? 'rgba(220,38,38,0.08)' : undefined,
+                    borderTop: '1px solid rgba(57,123,64,0.08)',
+                    background: isUrgent ? 'rgba(220,38,38,0.03)' : undefined,
                   }}
                 >
-                  <td className="px-4 py-3 font-medium text-white">{row.companyName}</td>
-                  <td className="px-4 py-3" style={{ color: 'rgba(255,255,255,0.5)' }}>{row.industry ?? '—'}</td>
-                  <td className="px-4 py-3" style={{ color: 'rgba(255,255,255,0.5)' }}>{row.latestPeriod ?? '—'}</td>
+                  <td className="px-4 py-3 font-medium" style={{ color: '#1a2e1b' }}>{row.companyName}</td>
+                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>{row.industry ?? '—'}</td>
+                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>{row.latestPeriod ?? '—'}</td>
                   <td className="px-4 py-3">
                     <AdminPlanSelect userId={row.userId} currentPlan={row.plan} />
                   </td>
-                  <td className="px-4 py-3 text-xs font-medium" style={{ color: isExpired ? '#f87171' : isUrgent ? '#fbbf24' : 'rgba(255,255,255,0.3)' }}>
+                  <td className="px-4 py-3 text-xs font-medium" style={{ color: isExpired ? '#b91c1c' : isUrgent ? '#d97706' : '#9ca3af' }}>
                     {days === null ? '—' : isExpired ? 'Expired' : `${days} hari lagi`}
                   </td>
-                  <td className="px-4 py-3 text-right font-bold" style={{ color: '#4ade80' }}>
+                  <td className="px-4 py-3 text-right font-bold" style={{ color: '#397b40' }}>
                     {row.latestScore !== null ? row.latestScore.toFixed(1) : '—'}
                   </td>
                 </tr>
