@@ -2,6 +2,12 @@
 
 import { useState } from 'react'
 import AdminPlanSelect from './AdminPlanSelect'
+import { SECTOR_INTENSITY_BENCHMARKS } from '@/lib/esg/emissionFactors'
+
+function sectorLabel(key: string | null): string {
+  if (!key) return '—'
+  return SECTOR_INTENSITY_BENCHMARKS[key]?.label ?? key
+}
 
 export interface AdminRow {
   userId: string
@@ -99,7 +105,7 @@ export default function AdminTableClient({ rows }: AdminTableClientProps) {
                   }}
                 >
                   <td className="px-4 py-3 font-medium" style={{ color: '#1a2e1b' }}>{row.companyName}</td>
-                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>{row.industry ?? '—'}</td>
+                  <td className="px-4 py-3" style={{ color: '#6b7280' }}>{sectorLabel(row.industry)}</td>
                   <td className="px-4 py-3" style={{ color: '#6b7280' }}>{row.latestPeriod ?? '—'}</td>
                   <td className="px-4 py-3">
                     <AdminPlanSelect userId={row.userId} currentPlan={row.plan} />

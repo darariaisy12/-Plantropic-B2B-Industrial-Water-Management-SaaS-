@@ -32,6 +32,7 @@ const requestSchema = z.object({
     pillars: z.array(z.object({ pillar: z.enum(['E', 'S', 'G']), score: z.number() })),
     elements: z.array(elementScoreSchema),
   }),
+  sector: z.string().optional(),
 });
 
 export async function POST(request: Request): Promise<NextResponse> {
@@ -63,7 +64,7 @@ export async function POST(request: Request): Promise<NextResponse> {
     return NextResponse.json({ error: 'Data assessment tidak valid.' }, { status: 400 });
   }
 
-  const prompt = buildInsightPrompt(parsed.data.results, parsed.data.period);
+  const prompt = buildInsightPrompt(parsed.data.results, parsed.data.period, parsed.data.sector);
 
   try {
     const groq = new Groq({ apiKey });

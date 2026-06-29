@@ -1,7 +1,7 @@
 /**
  * Client hook for fetching the AI insight narrative from `/api/insight`.
  * Shared by the dashboard panel and the report page so the same assessment
- * never triggers two separate Gemini calls for the same render.
+ * never triggers two separate Groq calls for the same render.
  */
 
 'use client';
@@ -15,7 +15,11 @@ interface UseInsightResult {
   error: string | null;
 }
 
-export function useInsight(results: EsgResult, period: string): UseInsightResult {
+export function useInsight(
+  results: EsgResult,
+  period: string,
+  sector?: string,
+): UseInsightResult {
   const [content, setContent] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -30,7 +34,7 @@ export function useInsight(results: EsgResult, period: string): UseInsightResult
         const res = await fetch('/api/insight', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ period, results }),
+          body: JSON.stringify({ period, results, sector }),
         });
         const data = (await res.json()) as { content?: string; error?: string };
         if (cancelled) return;
@@ -50,7 +54,7 @@ export function useInsight(results: EsgResult, period: string): UseInsightResult
     return () => {
       cancelled = true;
     };
-  }, [results, period]);
+  }, [results, period, sector]);
 
   return { content, loading, error };
 }

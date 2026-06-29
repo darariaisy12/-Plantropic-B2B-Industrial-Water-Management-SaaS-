@@ -124,6 +124,9 @@ export default function DashboardView({ displayName }: DashboardViewProps) {
   }
 
   const { results, period } = assessment;
+  const sector = typeof assessment.inputs?.['_sector'] === 'string'
+    ? assessment.inputs['_sector']
+    : undefined;
 
   return (
     <div className="w-full max-w-5xl mx-auto px-4 py-8 flex flex-col gap-6">
@@ -209,12 +212,12 @@ export default function DashboardView({ displayName }: DashboardViewProps) {
 
           <div className="p-5" style={CARD_STYLE}>
             <SectionLabel accent="#7B6F39">Emisi GRK (E1)</SectionLabel>
-            <EmissionBreakdown elements={results.elements} />
+            <EmissionBreakdown elements={results.elements} sector={sector} />
           </div>
         </div>
       </div>
 
-      <AiInsightPanel results={results} period={period} />
+      <AiInsightPanel results={results} period={period} sector={sector} />
     </div>
   );
 }

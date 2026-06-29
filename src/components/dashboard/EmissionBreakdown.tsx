@@ -8,16 +8,21 @@
 
 import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from 'recharts';
 import type { ElementScore } from '@/lib/esg/types';
+import { SECTOR_INTENSITY_BENCHMARKS } from '@/lib/esg/emissionFactors';
 
 interface EmissionBreakdownProps {
   elements: readonly ElementScore[];
+  sector?: string;
 }
 
-export default function EmissionBreakdown({ elements }: EmissionBreakdownProps) {
+export default function EmissionBreakdown({ elements, sector }: EmissionBreakdownProps) {
   const e1 = elements.find((e) => e.elementId === 'E1');
   const scope1 = e1?.detail?.scope1Tco2e ?? 0;
   const scope2 = e1?.detail?.scope2Tco2e ?? 0;
   const total = e1?.detail?.totalTco2e ?? scope1 + scope2;
+  const intensity = e1?.detail?.intensityTco2ePerTon;
+  const benchmarkMode = e1?.detail?.benchmarkMode;
+  const sectorLabel = sector ? SECTOR_INTENSITY_BENCHMARKS[sector]?.label : undefined;
 
   if (!e1?.detail) {
     return (
@@ -34,12 +39,28 @@ export default function EmissionBreakdown({ elements }: EmissionBreakdownProps) 
 
   return (
     <div>
-      <p className="text-sm mb-2" style={{ color: '#374151' }}>
+      <p className="text-sm mb-1" style={{ color: '#374151' }}>
         Total emisi:{' '}
         <span className="font-bold" style={{ color: '#397b40' }}>
           {total.toFixed(2)} tCO2e
         </span>
       </p>
+      {intensity !== undefined && (
+        <p className="text-xs mb-1" style={{ color: '#6b7280' }}>
+          Intensitas:{' '}
+          <span className="font-semibold" style={{ color: '#374151' }}>
+            {intensity.toExponential(3)} tCO2e/ton
+          </span>
+        </p>
+      )}
+      {sectorLabel && (
+        <p className="text-xs mb-2" style={{ color: '#6b7280' }}>
+          Benchmark:{' '}
+          <span className="font-semibold" style={{ color: benchmarkMode === 1 ? '#397b40' : '#7B6F39' }}>
+            {sectorLabel}
+          </span>
+        </p>
+      )}
       <div style={{ width: '100%', height: 180 }}>
         <ResponsiveContainer>
           <BarChart data={data} layout="vertical" margin={{ top: 4, right: 16, bottom: 0, left: 8 }}>

@@ -11,8 +11,9 @@ import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { getLatestAssessment, type AssessmentRecord } from '@/lib/data/assessments';
 import { ESG_FRAMEWORK } from '@/lib/esg/framework';
-import type { ElementScore, PillarId } from '@/lib/esg/types';
+import type { ElementScore, EsgResult, PillarId } from '@/lib/esg/types';
 import { useInsight } from '@/lib/insight/useInsight';
+import UpgradePrompt from '@/components/subscription/UpgradePrompt';
 
 const PILLAR_LABEL: Record<PillarId, string> = {
   E: 'Environment',
@@ -32,9 +33,18 @@ function elementsByPillar(elements: readonly ElementScore[], pillar: PillarId) {
   }));
 }
 
-function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
-  const { results, period } = assessment;
-  const { content, loading, error } = useInsight(results!, period);
+interface ReportContentProps {
+  assessment: AssessmentRecord;
+  results: EsgResult;
+  canUseAiInsight: boolean;
+}
+
+function ReportContent({ assessment, results, canUseAiInsight }: ReportContentProps) {
+  const { period } = assessment;
+  const sector = typeof assessment.inputs?.['_sector'] === 'string'
+    ? assessment.inputs['_sector']
+    : undefined;
+  const { content, loading, error } = useInsight(results, period, sector);
 
   return (
     <div className="w-full max-w-3xl mx-auto px-4 py-8 print:px-0 print:py-0">
@@ -73,20 +83,26 @@ function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
         <h2 className="text-base font-bold mb-2" style={SECTION_TITLE}>
           1. Ringkasan Eksekutif & Rekomendasi (AI)
         </h2>
-        {loading && (
-          <p className="text-sm" style={{ color: '#6b7280' }}>
-            Menyusun ringkasan…
-          </p>
-        )}
-        {error && (
-          <p className="text-sm" style={{ color: '#b91c1c' }}>
-            {error}
-          </p>
-        )}
-        {content && (
-          <p className="text-sm whitespace-pre-wrap leading-relaxed" style={{ color: '#374151' }}>
-            {content}
-          </p>
+        {!canUseAiInsight ? (
+          <UpgradePrompt feature="AI Insight & Ringkasan Eksekutif" />
+        ) : (
+          <>
+            {loading && (
+              <p className="text-sm" style={{ color: '#6b7280' }}>
+                Menyusun ringkasan…
+              </p>
+            )}
+            {error && (
+              <p className="text-sm" style={{ color: '#b91c1c' }}>
+                {error}
+              </p>
+            )}
+            {content && (
+              <p className="text-sm whitespace-pre-wrap leading-relaxed" style={{ color: '#374151' }}>
+                {content}
+              </p>
+            )}
+          </>
         )}
       </section>
 
@@ -95,13 +111,13 @@ function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
           2. Skor & Metodologi
         </h2>
         <p className="text-sm mb-3" style={{ color: '#374151' }}>
-          Skor keseluruhan: <span className="font-bold">{results!.overall.toFixed(1)}/100</span>.
+          Skor keseluruhan: <span className="font-bold">{results.overall.toFixed(1)}/100</span>.
           Dihitung secara deterministik dari 14 elemen ESG (rumus kuantitatif + maturitas
           kualitatif), diagregasi per pilar lalu ke skor total menggunakan bobot yang dipilih
           perusahaan.
         </p>
         <div className="grid grid-cols-3 gap-3">
-          {results!.pillars.map((p) => (
+          {results.pillars.map((p) => (
             <div
               key={p.pillar}
               className="rounded-xl p-3 text-center"
@@ -129,7 +145,7 @@ function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
             </h3>
             <table className="w-full text-sm">
               <tbody>
-                {elementsByPillar(results!.elements, pillar).map(({ def, score }) => (
+                {elementsByPillar(results.elements, pillar).map(({ def, score }) => (
                   <tr key={def.id} style={{ borderBottom: '1px solid rgba(0,0,0,0.06)' }}>
                     <td className="py-1.5 pr-2" style={{ color: '#6b7280', width: '2.5rem' }}>
                       {def.id}
@@ -150,7 +166,7 @@ function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
 
       <section>
         <h2 className="text-base font-bold mb-2" style={SECTION_TITLE}>
-          4. Referensi GRI
+          4. Referensi GRI & Regulasi
         </h2>
         <table className="w-full text-sm">
           <tbody>
@@ -177,9 +193,10 @@ function ReportContent({ assessment }: { assessment: AssessmentRecord }) {
 
 interface ReportViewProps {
   displayName: string;
+  canUseAiInsight: boolean;
 }
 
-export default function ReportView({ displayName }: ReportViewProps) {
+export default function ReportView({ displayName, canUseAiInsight }: ReportViewProps) {
   const [assessment, setAssessment] = useState<AssessmentRecord | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -248,5 +265,11 @@ export default function ReportView({ displayName }: ReportViewProps) {
     );
   }
 
-  return <ReportContent assessment={assessment} />;
+  return (
+    <ReportContent
+      assessment={assessment}
+      results={assessment.results}
+      canUseAiInsight={canUseAiInsight}
+    />
+  );
 }

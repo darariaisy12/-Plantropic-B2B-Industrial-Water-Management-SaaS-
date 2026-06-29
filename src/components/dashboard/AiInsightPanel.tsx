@@ -1,7 +1,7 @@
 /**
- * AI insight panel (Fase 6). Calls `/api/insight` server-side with the
- * already-computed `EsgResult` — never computes scores itself, only renders
- * Gemini's reading of numbers the engine already produced.
+ * AI insight panel (Fase 6). Calls `/api/insight` with the already-computed
+ * `EsgResult` — never computes scores itself, only renders Groq/Llama's
+ * reading of numbers the engine already produced.
  */
 
 'use client';
@@ -12,10 +12,11 @@ import { useInsight } from '@/lib/insight/useInsight';
 interface AiInsightPanelProps {
   results: EsgResult;
   period: string;
+  sector?: string;
 }
 
-export default function AiInsightPanel({ results, period }: AiInsightPanelProps) {
-  const { content, loading, error } = useInsight(results, period);
+export default function AiInsightPanel({ results, period, sector }: AiInsightPanelProps) {
+  const { content, loading, error } = useInsight(results, period, sector);
 
   if (loading) {
     return (
