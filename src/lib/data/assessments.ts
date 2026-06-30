@@ -68,12 +68,31 @@ export async function upsertCompany(profile: CompanyProfile): Promise<void> {
   }
 }
 
-/** Persist one assessment (inputs + weights + computed results) for a period. */
+/**
+ * Persist one assessment for a period. If an assessment already exists for the
+ * same user + period, it is updated in place (no duplicate rows per period).
+ */
 export async function saveAssessment(args: SaveAssessmentArgs): Promise<string> {
   const supabase = createClient();
   const userId = await requireUserId();
 
   await upsertCompany(args.company);
+
+  const { data: existing } = await supabase
+    .from('assessments')
+    .select('id')
+    .eq('user_id', userId)
+    .eq('period', args.period)
+    .maybeSingle();
+
+  if (existing) {
+    const { error } = await supabase
+      .from('assessments')
+      .update({ weights: args.weights, inputs: args.inputs, results: args.results })
+      .eq('id', existing.id);
+    if (error) throw new Error(`Gagal memperbarui assessment: ${error.message}`);
+    return existing.id as string;
+  }
 
   const { data, error } = await supabase
     .from('assessments')

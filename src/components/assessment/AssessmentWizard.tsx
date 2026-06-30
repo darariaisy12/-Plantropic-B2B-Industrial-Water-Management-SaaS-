@@ -103,6 +103,30 @@ export default function AssessmentWizard() {
       return;
     }
 
+    const wasteTotal = Number(form['waste_total_ton']) || 0;
+    const wasteRecycled = Number(form['waste_recycled_ton']) || 0;
+    if (wasteTotal > 0 && wasteRecycled > wasteTotal) {
+      setActiveTab('E');
+      setError('E2: Limbah daur ulang tidak boleh melebihi total limbah.');
+      return;
+    }
+
+    const matTotal = Number(form['material_total_ton']) || 0;
+    const matRecycled = Number(form['material_recycled_ton']) || 0;
+    if (matTotal > 0 && matRecycled > matTotal) {
+      setActiveTab('E');
+      setError('E4: Bahan baku daur ulang tidak boleh melebihi total bahan baku.');
+      return;
+    }
+
+    const energyTotal = Number(form['energy_total_kwh']) || 0;
+    const renewable = Number(form['renewable_kwh']) || 0;
+    if (energyTotal > 0 && renewable > energyTotal) {
+      setActiveTab('E');
+      setError('E3: Energi terbarukan tidak boleh melebihi total energi.');
+      return;
+    }
+
     setSaving(true);
     try {
       await saveAssessment({

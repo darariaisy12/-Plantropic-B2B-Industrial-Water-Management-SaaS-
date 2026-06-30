@@ -37,9 +37,10 @@ interface ReportContentProps {
   assessment: AssessmentRecord;
   results: EsgResult;
   canUseAiInsight: boolean;
+  companyName?: string | null;
 }
 
-function ReportContent({ assessment, results, canUseAiInsight }: ReportContentProps) {
+function ReportContent({ assessment, results, canUseAiInsight, companyName }: ReportContentProps) {
   const { period } = assessment;
   const sector = typeof assessment.inputs?.['_sector'] === 'string'
     ? assessment.inputs['_sector']
@@ -73,6 +74,11 @@ function ReportContent({ assessment, results, canUseAiInsight }: ReportContentPr
         <h1 className="text-2xl font-bold" style={SECTION_TITLE}>
           Laporan Keberlanjutan ESG
         </h1>
+        {companyName && (
+          <p className="text-base font-semibold mt-1" style={{ color: '#1a2e1b' }}>
+            {companyName}
+          </p>
+        )}
         <p className="text-sm mt-1" style={{ color: '#6b7280' }}>
           Periode {period} · disusun berdasarkan 14 elemen ESG mengacu GRI Standards. Skor
           indikatif, bukan rating audited.
@@ -194,9 +200,10 @@ function ReportContent({ assessment, results, canUseAiInsight }: ReportContentPr
 interface ReportViewProps {
   displayName: string;
   canUseAiInsight: boolean;
+  companyName?: string | null;
 }
 
-export default function ReportView({ displayName, canUseAiInsight }: ReportViewProps) {
+export default function ReportView({ displayName, canUseAiInsight, companyName }: ReportViewProps) {
   const [assessment, setAssessment] = useState<AssessmentRecord | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -270,6 +277,7 @@ export default function ReportView({ displayName, canUseAiInsight }: ReportViewP
       assessment={assessment}
       results={assessment.results}
       canUseAiInsight={canUseAiInsight}
+      companyName={companyName}
     />
   );
 }

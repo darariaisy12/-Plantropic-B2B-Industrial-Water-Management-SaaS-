@@ -28,9 +28,15 @@ export default async function ReportPage() {
     redirect('/dashboard?upgrade=report');
   }
 
+  const { data: company } = await supabase
+    .from('companies')
+    .select('name, industry')
+    .maybeSingle();
+  const companyName = (company?.name as string | null) ?? null;
+
   return (
     <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
-      <ReportView displayName={displayName} canUseAiInsight={access.canUseAiInsight} />
+      <ReportView displayName={displayName} canUseAiInsight={access.canUseAiInsight} companyName={companyName} />
     </main>
   );
 }
