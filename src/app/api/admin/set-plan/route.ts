@@ -40,6 +40,14 @@ export async function POST(request: Request): Promise<NextResponse> {
       : new Date(Date.now() + 365 * 24 * 60 * 60 * 1000).toISOString()
 
   const admin = createAdminClient()
+
+  const [{ data: existingSub }, { data: company }] = await Promise.all([
+    admin.from('subscriptions').select('plan').eq('user_id', userId).maybeSingle(),
+    admin.from('companies').select('name').eq('user_id', userId).maybeSingle(),
+  ])
+  const oldPlan = (existingSub as { plan: string } | null)?.plan ?? null
+  const companyName = (company as { name: string } | null)?.name ?? null
+
   const { error } = await admin.from('subscriptions').upsert(
     {
       user_id: userId,
@@ -54,6 +62,17 @@ export async function POST(request: Request): Promise<NextResponse> {
   if (error) {
     return NextResponse.json({ error: 'Gagal mengubah plan.' }, { status: 500 })
   }
+
+  // Write audit log — fire-and-forget, never blocks the plan change.
+  admin.from('admin_audit_logs').insert({
+    admin_user_id: user.id,
+    admin_email: user.email ?? null,
+    target_user_id: userId,
+    target_company_name: companyName,
+    action: 'set_plan',
+    old_value: oldPlan,
+    new_value: plan,
+  }).then(() => {}).catch(() => {})
 
   return NextResponse.json({ success: true })
 }

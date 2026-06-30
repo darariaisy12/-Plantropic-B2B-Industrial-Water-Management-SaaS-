@@ -10,6 +10,8 @@ import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
 import AdminTableClient from '@/components/admin/AdminTableClient'
 import type { AdminRow } from '@/components/admin/AdminTableClient'
+import AuditLogTable from '@/components/admin/AuditLogTable'
+import type { AuditLogRow } from '@/components/admin/AuditLogTable'
 import type { EsgResult } from '@/lib/esg/types'
 
 interface CompanyRow {
@@ -59,10 +61,11 @@ export default async function AdminPage() {
   if (!adminRow) redirect('/dashboard')
 
   const admin = createAdminClient()
-  const [{ data: companies }, { data: assessments }, { data: subscriptions }] = await Promise.all([
+  const [{ data: companies }, { data: assessments }, { data: subscriptions }, { data: auditLogs }] = await Promise.all([
     admin.from('companies').select('user_id, name, industry'),
     admin.from('assessments').select('user_id, period, results, created_at').order('created_at', { ascending: false }),
     admin.from('subscriptions').select('user_id, plan, status, trial_ends_at'),
+    admin.from('admin_audit_logs').select('id, admin_email, target_company_name, action, old_value, new_value, created_at').order('created_at', { ascending: false }).limit(30),
   ])
 
   const latestByUser = new Map<string, AssessmentRow>()
@@ -133,6 +136,16 @@ export default async function AdminPage() {
         </div>
 
         <AdminTableClient rows={rows} />
+
+        <div
+          className="mt-6 p-5 rounded-2xl"
+          style={{ background: '#fff', border: '1px solid rgba(57,123,64,0.15)' }}
+        >
+          <h2 className="text-sm font-bold mb-4" style={{ color: '#1a2e1b' }}>
+            Log Perubahan Plan (30 terakhir)
+          </h2>
+          <AuditLogTable rows={(auditLogs as AuditLogRow[] | null) ?? []} />
+        </div>
       </div>
     </main>
   )
