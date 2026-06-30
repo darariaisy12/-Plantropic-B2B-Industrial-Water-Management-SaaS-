@@ -20,7 +20,7 @@ Platform self-service konsultan ESG: **input data operasional → hitung skor ES
 | Auth | Supabase Auth (single-user: 1 akun = 1 perusahaan) | ⏳ Fase 3 |
 | Isolasi data | Supabase RLS (`user_id = auth.uid()`) | ⏳ Fase 3 |
 | Client DB | @supabase/ssr + @supabase/supabase-js | ⏳ Fase 3 |
-| AI | Google Gemini (free tier) via @google/genai | ⏳ Fase 6 |
+| AI | Groq (Llama 3.3 70B, free tier, no hidden thinking-token overhead) via groq-sdk | ⏳ Fase 6 |
 | Endpoint AI | Next.js Route Handler `/api/insight` (server-side, key aman) | ⏳ Fase 6 |
 | Export report | Print-to-PDF browser (upgrade ke lib nanti) | ⏳ Fase 7 |
 | Process manager | PM2 (port 4028) | ✅ disetup |
@@ -58,7 +58,7 @@ Guna: bikin assessment per periode → bandingin tren antar tahun + simpan riway
 ```
 NEXT_PUBLIC_SUPABASE_URL / NEXT_PUBLIC_SUPABASE_ANON_KEY
 SUPABASE_SERVICE_ROLE_KEY   (server only)
-GEMINI_API_KEY              (server only)
+GROQ_API_KEY                (server only)
 ```
 
 ## 8. Breakdown kerjaan (per fase)
@@ -71,7 +71,7 @@ GEMINI_API_KEY              (server only)
 | 3 | Supabase setup + Auth + schema + RLS, sambungin login/register | Supabase, @supabase/ssr | ✅ KODE SELESAI (client/server/middleware, RLS migration, login/register, confirm+signout route, dashboard ter-proteksi). User wajib: jalanin `0001_init.sql` |
 | 4 | Input wizard UI (3 tab E/S/G) + config bobot → simpan DB | React, Tailwind | ✅ SELESAI (route `/assessment` ter-proteksi, 4 tab E/S/G/Bobot, live score, simpan `companies`+`assessments`, 51/51 test, type-check clean) |
 | 5 | Dashboard hasil (ring, bar, radar, charts) | React, Recharts | ✅ SELESAI (ring skor, bar E/S/G, radar 14 elemen, breakdown emisi Scope1/2, panel AI placeholder, empty-state kalau belum ada assessment, 51/51 test, type-check clean) |
-| 6 | AI layer: `/api/insight` + prompt + panel insight | Gemini SDK (@google/genai), Next route | ✅ SELESAI (route auth-gated 401 tanpa login, prompt builder pure, panel fetch real-time, type-check clean, 51/51 test) |
+| 6 | AI layer: `/api/insight` + prompt + panel insight | Groq SDK (Llama 3.3 70B), Next route | ✅ SELESAI (route auth-gated 401 tanpa login, prompt builder pure, panel fetch real-time, migrated dari Gemini ke Groq krn rate limit, type-check clean) |
 | 7 | Report GRI-style + export PDF | React, print CSS | ✅ SELESAI (`/report` ter-proteksi 307 tanpa login, ringkasan AI + skor/metodologi + detail E/S/G + referensi GRI, tombol Unduh PDF via print, type-check clean, 51/51 test) |
 | 8 | Riwayat & Tren multi-periode | React, Recharts LineChart | ✅ SELESAI (`/history` ter-proteksi 307, `getAllAssessments()`, line chart tren skor + tabel riwayat) |
 | 9 | Pengaturan profil perusahaan | React | ✅ SELESAI (`/settings` ter-proteksi 307, `getCompany()`/`upsertCompany()`, form edit nama/industri/skala) |
