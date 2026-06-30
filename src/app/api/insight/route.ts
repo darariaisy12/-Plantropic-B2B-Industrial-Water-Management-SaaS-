@@ -13,6 +13,22 @@ import { buildInsightPrompt } from '@/lib/insight/prompt';
 import { getSubscription } from '@/lib/subscription/getSubscription';
 import type { ElementId } from '@/lib/esg/types';
 
+const RATE_LIMIT_MAX = 5;
+const RATE_LIMIT_WINDOW_MS = 60_000;
+const rateLimit = new Map<string, { count: number; resetAt: number }>();
+
+function isRateLimited(userId: string): boolean {
+  const now = Date.now();
+  const entry = rateLimit.get(userId);
+  if (!entry || now > entry.resetAt) {
+    rateLimit.set(userId, { count: 1, resetAt: now + RATE_LIMIT_WINDOW_MS });
+    return false;
+  }
+  if (entry.count >= RATE_LIMIT_MAX) return true;
+  entry.count++;
+  return false;
+}
+
 const ELEMENT_IDS = [
   'E1', 'E2', 'E3', 'E4', 'E5',
   'S1', 'S2', 'S3', 'S4', 'S5',
@@ -50,6 +66,13 @@ export async function POST(request: Request): Promise<NextResponse> {
     return NextResponse.json(
       { error: 'Fitur AI Insight tersedia di plan Professional ke atas.' },
       { status: 403 },
+    );
+  }
+
+  if (isRateLimited(user.id)) {
+    return NextResponse.json(
+      { error: 'Terlalu banyak permintaan. Coba lagi dalam 1 menit.' },
+      { status: 429 },
     );
   }
 

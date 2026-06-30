@@ -10,6 +10,8 @@ import type { ElementId, EsgInput, PillarId, Weights } from '@/lib/esg/types';
 import ElementCard from './ElementCard';
 import WeightPanel from './WeightPanel';
 
+const DRAFT_KEY = 'plantropic_assessment_draft';
+
 type TabId = PillarId | 'W';
 
 const TABS: { id: TabId; label: string }[] = [
@@ -44,20 +46,44 @@ export default function AssessmentWizard() {
   const [period, setPeriod] = useState(String(CURRENT_YEAR));
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [draftSaved, setDraftSaved] = useState(false);
 
-  // Pre-fill company name and load sector for per-sector E1 scoring.
+  // Restore draft from localStorage on mount, then load company profile.
   useEffect(() => {
+    try {
+      const raw = localStorage.getItem(DRAFT_KEY);
+      if (raw) {
+        const draft = JSON.parse(raw) as { form?: FormState; weights?: Weights; period?: string; companyName?: string };
+        if (draft.form) setForm(draft.form);
+        if (draft.weights) setWeights(draft.weights);
+        if (draft.period) setPeriod(draft.period);
+        if (draft.companyName) setCompanyName(draft.companyName);
+      }
+    } catch {
+      // Ignore corrupt draft.
+    }
+
     getCompany()
       .then((profile) => {
         if (!profile) return;
-        if (profile.name && companyName === '') setCompanyName(profile.name);
+        setCompanyName((prev) => (prev === '' ? profile.name : prev));
         setCompanySector(profile.industry ?? null);
       })
-      .catch(() => {
-        // Non-critical — scoring still works without sector info.
-      });
+      .catch(() => {});
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
+
+  // Auto-save draft to localStorage on every change.
+  useEffect(() => {
+    try {
+      localStorage.setItem(DRAFT_KEY, JSON.stringify({ form, weights, period, companyName }));
+      setDraftSaved(true);
+      const t = setTimeout(() => setDraftSaved(false), 1500);
+      return () => clearTimeout(t);
+    } catch {
+      // Ignore storage errors (private browsing, full quota).
+    }
+  }, [form, weights, period, companyName]);
 
   // Inject _sector into EsgInput so calculateE1 can use sector-specific thresholds.
   const esgInput = useMemo((): EsgInput => {
@@ -136,6 +162,7 @@ export default function AssessmentWizard() {
         results: result,
         company: { name: companyName.trim() },
       });
+      localStorage.removeItem(DRAFT_KEY);
       router.push('/dashboard');
       router.refresh();
     } catch (err: unknown) {
@@ -168,8 +195,8 @@ export default function AssessmentWizard() {
           >
             {result.overall.toFixed(1)}
           </div>
-          <div className="text-xs mt-1" style={{ color: '#9ca3af' }}>
-            Skor ESG
+          <div className="text-xs mt-1" style={{ color: draftSaved ? '#397b40' : '#9ca3af' }}>
+            {draftSaved ? '✓ Draft tersimpan' : 'Skor ESG'}
           </div>
         </div>
       </div>
