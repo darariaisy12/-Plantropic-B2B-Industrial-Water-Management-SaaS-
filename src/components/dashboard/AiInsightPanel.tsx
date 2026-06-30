@@ -51,12 +51,6 @@ export default function AiInsightPanel({ results, period, sector }: AiInsightPan
       className="rounded-2xl p-5"
       style={{ background: 'rgba(57,123,64,0.05)', border: '1px solid rgba(57,123,64,0.15)' }}
     >
-      <div className="flex items-center gap-2 mb-3">
-        <span className="text-xl">🤖</span>
-        <h2 className="text-sm font-bold" style={{ color: '#1a2e1b' }}>
-          Insight AI
-        </h2>
-      </div>
       <div
         className="text-sm whitespace-pre-wrap leading-relaxed"
         style={{ color: '#374151' }}

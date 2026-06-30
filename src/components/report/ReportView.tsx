@@ -81,10 +81,10 @@ function ReportContent({ assessment, results, canUseAiInsight }: ReportContentPr
 
       <section className="mb-8">
         <h2 className="text-base font-bold mb-2" style={SECTION_TITLE}>
-          1. Ringkasan Eksekutif & Rekomendasi (AI)
+          1. Ringkasan Eksekutif & Rekomendasi
         </h2>
         {!canUseAiInsight ? (
-          <UpgradePrompt feature="AI Insight & Ringkasan Eksekutif" />
+          <UpgradePrompt feature="Ringkasan Eksekutif & Rekomendasi" />
         ) : (
           <>
             {loading && (

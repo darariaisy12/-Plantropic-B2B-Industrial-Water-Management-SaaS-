@@ -21,7 +21,7 @@ function elementName(elementId: string): string {
 function sectorLine(sector: string | undefined): string {
   if (!sector) return '';
   const label = SECTOR_INTENSITY_BENCHMARKS[sector]?.label ?? sector;
-  return ` Perusahaan bergerak di sektor: **${label}**.`;
+  return ` Perusahaan bergerak di sektor: ${label}.`;
 }
 
 export function buildInsightPrompt(
@@ -47,11 +47,12 @@ ${pillarLines}
 Skor 14 elemen:
 ${elementLines}
 
-Tugasmu, tulis dalam Bahasa Indonesia, singkat dan actionable:
-1. Ringkasan eksekutif (2-3 kalimat)
-2. 3 kekuatan utama (elemen dengan skor tertinggi)
-3. 3 rekomendasi prioritas (elemen dengan skor terendah, paling berdampak)
-4. Catatan benchmark singkat — jika sektor diketahui, beri konteks spesifik sektor tersebut; tandai jelas sebagai estimasi karena bukan dari database benchmark yang teraudit.
+Tulis dalam Bahasa Indonesia yang natural dan mengalir, seperti laporan dari konsultan ke klien. Jangan gunakan markdown, bintang, tanda pagar, atau simbol formatting apapun. Tulis dalam paragraf biasa.
 
-Akhiri dengan disclaimer satu kalimat bahwa ini adalah insight indikatif berbasis AI, bukan audit resmi.`;
+Struktur tulisan:
+- Paragraf pertama: ringkasan kondisi ESG secara keseluruhan (2-3 kalimat).
+- Paragraf kedua: sebutkan 3 elemen dengan skor terbaik dan apa artinya.
+- Paragraf ketiga: sebutkan 3 elemen yang perlu diprioritaskan dan langkah konkret yang bisa dilakukan.
+- Paragraf keempat (jika sektor diketahui): konteks spesifik sektor, tandai sebagai estimasi karena bukan dari database benchmark teraudit.
+- Kalimat penutup: satu kalimat bahwa ini analisis indikatif, bukan audit resmi.`;
 }
