@@ -15,6 +15,28 @@ interface AiInsightPanelProps {
   sector?: string;
 }
 
+function Verdict({ score }: { score: number }) {
+  const { label, color, bg } =
+    score >= 70
+      ? { label: 'LULUS', color: '#166534', bg: 'rgba(22,163,74,0.12)' }
+      : score >= 50
+        ? { label: 'PERLU PERBAIKAN', color: '#92400e', bg: 'rgba(217,119,6,0.12)' }
+        : { label: 'TIDAK LULUS', color: '#991b1b', bg: 'rgba(220,38,38,0.12)' }
+  return (
+    <div className="flex items-center gap-2 mb-3">
+      <span
+        className="text-xs font-extrabold tracking-widest px-3 py-1 rounded-full"
+        style={{ background: bg, color }}
+      >
+        {label}
+      </span>
+      <span className="text-xs" style={{ color: '#9ca3af' }}>
+        Skor keseluruhan {score.toFixed(1)}/100
+      </span>
+    </div>
+  )
+}
+
 export default function AiInsightPanel({ results, period, sector }: AiInsightPanelProps) {
   const { content, loading, error } = useInsight(results, period, sector);
 
@@ -51,6 +73,7 @@ export default function AiInsightPanel({ results, period, sector }: AiInsightPan
       className="rounded-2xl p-5"
       style={{ background: 'rgba(57,123,64,0.05)', border: '1px solid rgba(57,123,64,0.15)' }}
     >
+      <Verdict score={results.overall} />
       <div
         className="text-sm whitespace-pre-wrap leading-relaxed"
         style={{ color: '#374151' }}

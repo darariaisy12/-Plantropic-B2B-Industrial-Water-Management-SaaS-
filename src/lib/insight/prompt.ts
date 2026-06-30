@@ -54,5 +54,5 @@ Struktur tulisan:
 - Paragraf kedua: sebutkan 3 elemen dengan skor terbaik dan apa artinya.
 - Paragraf ketiga: sebutkan 3 elemen yang perlu diprioritaskan dan langkah konkret yang bisa dilakukan.
 - Paragraf keempat (jika sektor diketahui): konteks spesifik sektor, tandai sebagai estimasi karena bukan dari database benchmark teraudit.
-- Kalimat penutup: satu kalimat bahwa ini analisis indikatif, bukan audit resmi.`;
+- Paragraf penutup: nyatakan dengan jelas apakah perusahaan LULUS (skor ≥ 70), PERLU PERBAIKAN (skor 50–69), atau TIDAK LULUS (skor < 50) dalam penilaian ESG ini, lalu tutup dengan satu kalimat bahwa ini analisis indikatif, bukan audit resmi.`;
 }
