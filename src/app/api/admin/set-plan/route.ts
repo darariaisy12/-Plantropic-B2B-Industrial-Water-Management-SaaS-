@@ -2,6 +2,7 @@ import { NextResponse } from 'next/server'
 import { z } from 'zod'
 import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 
 const bodySchema = z.object({
   userId: z.string().uuid(),
@@ -10,20 +11,13 @@ const bodySchema = z.object({
 
 export async function POST(request: Request): Promise<NextResponse> {
   const supabase = await createClient()
-  const { data: { user } } = await supabase.auth.getUser()
-  if (!user) {
-    return NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+  const check = await requireAdmin(supabase)
+  if (!check.ok) {
+    return check.reason === 'unauthenticated'
+      ? NextResponse.json({ error: 'Unauthorized' }, { status: 401 })
+      : NextResponse.json({ error: 'Forbidden' }, { status: 403 })
   }
-
-  const { data: adminRow } = await supabase
-    .from('admins')
-    .select('user_id')
-    .eq('user_id', user.id)
-    .maybeSingle()
-
-  if (!adminRow) {
-    return NextResponse.json({ error: 'Forbidden' }, { status: 403 })
-  }
+  const { user } = check
 
   const body = await request.json().catch(() => null)
   const parsed = bodySchema.safeParse(body)
@@ -64,15 +58,17 @@ export async function POST(request: Request): Promise<NextResponse> {
   }
 
   // Write audit log — fire-and-forget, never blocks the plan change.
-  admin.from('admin_audit_logs').insert({
-    admin_user_id: user.id,
-    admin_email: user.email ?? null,
-    target_user_id: userId,
-    target_company_name: companyName,
-    action: 'set_plan',
-    old_value: oldPlan,
-    new_value: plan,
-  }).then(() => {}).catch(() => {})
+  Promise.resolve(
+    admin.from('admin_audit_logs').insert({
+      admin_user_id: user.id,
+      admin_email: user.email ?? null,
+      target_user_id: userId,
+      target_company_name: companyName,
+      action: 'set_plan',
+      old_value: oldPlan,
+      new_value: plan,
+    }),
+  ).catch(() => {})
 
   return NextResponse.json({ success: true })
 }

@@ -8,6 +8,7 @@ import Link from 'next/link'
 import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { createAdminClient } from '@/lib/supabase/admin'
+import { requireAdmin } from '@/lib/supabase/requireAdmin'
 import AdminTableClient from '@/components/admin/AdminTableClient'
 import type { AdminRow } from '@/components/admin/AdminTableClient'
 import AuditLogTable from '@/components/admin/AuditLogTable'
@@ -49,16 +50,8 @@ function StatCard({ label, value, sub }: { label: string; value: string | number
 
 export default async function AdminPage() {
   const supabase = await createClient()
-  const { data: { user } } = await supabase.auth.getUser()
-  if (!user) redirect('/login')
-
-  const { data: adminRow } = await supabase
-    .from('admins')
-    .select('user_id')
-    .eq('user_id', user.id)
-    .maybeSingle()
-
-  if (!adminRow) redirect('/dashboard')
+  const check = await requireAdmin(supabase)
+  if (!check.ok) redirect(check.reason === 'unauthenticated' ? '/login' : '/dashboard')
 
   const admin = createAdminClient()
   const [{ data: companies }, { data: assessments }, { data: subscriptions }, { data: auditLogs }] = await Promise.all([

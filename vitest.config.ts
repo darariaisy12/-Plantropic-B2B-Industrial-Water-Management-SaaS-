@@ -12,7 +12,7 @@ export default defineConfig({
     include: ['src/**/*.test.ts'],
     coverage: {
       provider: 'v8',
-      include: ['src/lib/esg/**'],
+      include: ['src/lib/esg/**', 'src/lib/data/**', 'src/lib/supabase/**', 'src/app/api/**'],
     },
   },
 });
