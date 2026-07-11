@@ -6,7 +6,7 @@
 
 'use client';
 
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import Link from 'next/link';
 import {
   CartesianGrid,
@@ -17,7 +17,7 @@ import {
   XAxis,
   YAxis,
 } from 'recharts';
-import { getAllAssessments, type AssessmentRecord } from '@/lib/data/assessments';
+import type { AssessmentRecord } from '@/lib/data/assessments';
 
 const CARD_STYLE: React.CSSProperties = {
   background: 'rgba(255,255,255,0.8)',
@@ -29,51 +29,12 @@ const CARD_STYLE: React.CSSProperties = {
 const PILLAR_LABEL: Record<string, string> = { E: 'Environment', S: 'Social', G: 'Governance' };
 const PILLAR_COLOR: Record<string, string> = { E: '#397b40', S: '#7B6F39', G: '#2d6233' };
 
-export default function HistoryView() {
-  const [assessments, setAssessments] = useState<AssessmentRecord[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
+interface HistoryViewProps {
+  assessments: AssessmentRecord[];
+}
+
+export default function HistoryView({ assessments }: HistoryViewProps) {
   const [expanded, setExpanded] = useState<string | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    getAllAssessments()
-      .then((records) => {
-        if (!cancelled) setAssessments(records);
-      })
-      .catch((err: unknown) => {
-        if (!cancelled) setError(err instanceof Error ? err.message : 'Gagal memuat riwayat.');
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
-  if (loading) {
-    return (
-      <div className="w-full max-w-3xl mx-auto px-4 py-16 text-center">
-        <p className="text-sm" style={{ color: '#6b7280' }}>
-          Memuat riwayat…
-        </p>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="w-full max-w-3xl mx-auto px-4 py-16 text-center">
-        <p
-          className="text-sm rounded-xl px-4 py-2.5 inline-block"
-          style={{ background: 'rgba(220,38,38,0.08)', color: '#b91c1c' }}
-        >
-          {error}
-        </p>
-      </div>
-    );
-  }
 
   const withResults = assessments.filter((a) => a.results);
   const trendData = withResults.map((a) => ({ period: a.period, score: a.results!.overall }));

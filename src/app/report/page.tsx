@@ -6,6 +6,7 @@
 
 import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
+import { getLatestAssessment } from '@/lib/data/assessments';
 import { getSubscription } from '@/lib/subscription/getSubscription';
 import ReportView from '@/components/report/ReportView';
 
@@ -22,21 +23,26 @@ export default async function ReportPage() {
   const displayName =
     (user.user_metadata?.full_name as string | undefined) ?? user.email ?? 'there';
 
-  const { access } = await getSubscription();
+  const [{ access }, companyResult, assessment] = await Promise.all([
+    getSubscription(),
+    supabase.from('companies').select('name, industry').maybeSingle(),
+    getLatestAssessment(supabase),
+  ]);
 
   if (!access.canDownloadReport) {
     redirect('/dashboard?upgrade=report');
   }
 
-  const { data: company } = await supabase
-    .from('companies')
-    .select('name, industry')
-    .maybeSingle();
-  const companyName = (company?.name as string | null) ?? null;
+  const companyName = (companyResult.data?.name as string | null) ?? null;
 
   return (
     <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
-      <ReportView displayName={displayName} canUseAiInsight={access.canUseAiInsight} companyName={companyName} />
+      <ReportView
+        displayName={displayName}
+        canUseAiInsight={access.canUseAiInsight}
+        companyName={companyName}
+        assessment={assessment}
+      />
     </main>
   );
 }

@@ -1,9 +1,28 @@
 import { imageHosts } from './image-hosts.config.mjs';
 
+const SECURITY_HEADERS = [
+  { key: 'X-Frame-Options', value: 'DENY' },
+  { key: 'X-Content-Type-Options', value: 'nosniff' },
+  { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+  { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=()' },
+  { key: 'Strict-Transport-Security', value: 'max-age=63072000; includeSubDomains; preload' },
+];
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  productionBrowserSourceMaps: true,
+  // Full source maps in the client bundle make it trivial to read original
+  // TypeScript (including business/auth logic) straight from devtools in
+  // production. Keep them off outside local dev.
+  productionBrowserSourceMaps: false,
   distDir: process.env.DIST_DIR || '.next',
+  async headers() {
+    return [
+      {
+        source: '/:path*',
+        headers: SECURITY_HEADERS,
+      },
+    ];
+  },
   typescript: {
     ignoreBuildErrors: true,
   },

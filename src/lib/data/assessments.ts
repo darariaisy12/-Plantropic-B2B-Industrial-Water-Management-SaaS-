@@ -6,6 +6,7 @@
  * recomputing — and so we keep an auditable snapshot per period.
  */
 
+import type { SupabaseClient } from '@supabase/supabase-js';
 import { createClient } from '@/lib/supabase/client';
 import type { EsgInput, EsgResult, Weights } from '@/lib/esg/types';
 
@@ -113,9 +114,13 @@ export async function saveAssessment(args: SaveAssessmentArgs): Promise<string> 
   return data.id as string;
 }
 
-/** Fetch the most recent assessment for the current user, if any. */
-export async function getLatestAssessment(): Promise<AssessmentRecord | null> {
-  const supabase = createClient();
+/**
+ * Fetch the most recent assessment for the current user, if any. Pass a
+ * server-side client (Server Components already hold one) to avoid a
+ * client-side round trip on first render; omit it to use the browser client.
+ */
+export async function getLatestAssessment(client?: SupabaseClient): Promise<AssessmentRecord | null> {
+  const supabase = client ?? createClient();
 
   const { data, error } = await supabase
     .from('assessments')
@@ -131,9 +136,13 @@ export async function getLatestAssessment(): Promise<AssessmentRecord | null> {
   return (data as AssessmentRecord | null) ?? null;
 }
 
-/** Fetch all assessments for the current user, oldest first (for trend views). */
-export async function getAllAssessments(): Promise<AssessmentRecord[]> {
-  const supabase = createClient();
+/**
+ * Fetch all assessments for the current user, oldest first (for trend
+ * views). Pass a server-side client to fetch during the initial server
+ * render instead of a client-side round trip; omit it for the browser client.
+ */
+export async function getAllAssessments(client?: SupabaseClient): Promise<AssessmentRecord[]> {
+  const supabase = client ?? createClient();
 
   const { data, error } = await supabase
     .from('assessments')

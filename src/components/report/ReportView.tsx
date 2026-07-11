@@ -7,9 +7,8 @@
 
 'use client';
 
-import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { getLatestAssessment, type AssessmentRecord } from '@/lib/data/assessments';
+import type { AssessmentRecord } from '@/lib/data/assessments';
 import { ESG_FRAMEWORK } from '@/lib/esg/framework';
 import type { ElementScore, EsgResult, PillarId } from '@/lib/esg/types';
 import { useInsight } from '@/lib/insight/useInsight';
@@ -201,53 +200,10 @@ interface ReportViewProps {
   displayName: string;
   canUseAiInsight: boolean;
   companyName?: string | null;
+  assessment: AssessmentRecord | null;
 }
 
-export default function ReportView({ displayName, canUseAiInsight, companyName }: ReportViewProps) {
-  const [assessment, setAssessment] = useState<AssessmentRecord | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    getLatestAssessment()
-      .then((record) => {
-        if (!cancelled) setAssessment(record);
-      })
-      .catch((err: unknown) => {
-        if (!cancelled) setError(err instanceof Error ? err.message : 'Gagal memuat data.');
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
-  if (loading) {
-    return (
-      <div className="w-full max-w-3xl mx-auto px-4 py-16 text-center">
-        <p className="text-sm" style={{ color: '#6b7280' }}>
-          Memuat laporan…
-        </p>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="w-full max-w-3xl mx-auto px-4 py-16 text-center">
-        <p
-          className="text-sm rounded-xl px-4 py-2.5 inline-block"
-          style={{ background: 'rgba(220,38,38,0.08)', color: '#b91c1c' }}
-        >
-          {error}
-        </p>
-      </div>
-    );
-  }
-
+export default function ReportView({ displayName, canUseAiInsight, companyName, assessment }: ReportViewProps) {
   if (!assessment || !assessment.results) {
     return (
       <div className="w-full max-w-lg mx-auto px-4 py-16 text-center">

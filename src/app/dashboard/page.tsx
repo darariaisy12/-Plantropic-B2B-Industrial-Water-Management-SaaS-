@@ -10,6 +10,7 @@ import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 import DashboardView from '@/components/dashboard/DashboardView';
 import TrialBanner from '@/components/subscription/TrialBanner';
+import { getLatestAssessment } from '@/lib/data/assessments';
 import { getSubscription } from '@/lib/subscription/getSubscription';
 import { trialDaysRemaining } from '@/lib/subscription/planGate';
 import { PLAN_LABELS } from '@/lib/subscription/types';
@@ -27,7 +28,10 @@ export default async function DashboardPage() {
   const displayName =
     (user.user_metadata?.full_name as string | undefined) ?? user.email ?? 'there';
 
-  const { sub, effectivePlan } = await getSubscription();
+  const [{ sub, effectivePlan }, assessment] = await Promise.all([
+    getSubscription(),
+    getLatestAssessment(supabase),
+  ]);
   const daysRemaining = sub.plan === 'trial' ? trialDaysRemaining(sub) : 0;
 
   return (
@@ -62,7 +66,7 @@ export default async function DashboardPage() {
           </nav>
         </div>
       </header>
-      <DashboardView displayName={displayName} />
+      <DashboardView displayName={displayName} assessment={assessment} />
     </main>
   );
 }

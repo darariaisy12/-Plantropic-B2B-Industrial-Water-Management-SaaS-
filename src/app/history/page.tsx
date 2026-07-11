@@ -7,6 +7,7 @@ import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 import HistoryView from '@/components/history/HistoryView';
 import UpgradePrompt from '@/components/subscription/UpgradePrompt';
+import { getAllAssessments } from '@/lib/data/assessments';
 import { getSubscription } from '@/lib/subscription/getSubscription';
 
 export default async function HistoryPage() {
@@ -19,11 +20,18 @@ export default async function HistoryPage() {
     redirect('/login');
   }
 
-  const { access } = await getSubscription();
+  const [{ access }, assessments] = await Promise.all([
+    getSubscription(),
+    getAllAssessments(supabase),
+  ]);
 
   return (
     <main className="min-h-screen" style={{ background: '#F8FAFC' }}>
-      {access.canViewHistory ? <HistoryView /> : <UpgradePrompt feature="Riwayat & Tren" />}
+      {access.canViewHistory ? (
+        <HistoryView assessments={assessments} />
+      ) : (
+        <UpgradePrompt feature="Riwayat & Tren" />
+      )}
     </main>
   );
 }

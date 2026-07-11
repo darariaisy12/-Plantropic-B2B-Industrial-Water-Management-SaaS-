@@ -22,8 +22,8 @@ const validBody = {
   },
 };
 
-function makeRequest(body: unknown): Request {
-  return new Request('http://localhost/api/insight', { method: 'POST', body: JSON.stringify(body) });
+function makeRequest(body: unknown, headers?: Record<string, string>): Request {
+  return new Request('http://localhost/api/insight', { method: 'POST', body: JSON.stringify(body), headers });
 }
 
 function mockUser(user: { id: string } | null) {
@@ -81,5 +81,33 @@ describe('POST /api/insight', () => {
     createCompletion.mockRejectedValue(new Error('groq down'));
     const res = await POST(makeRequest(validBody));
     expect(res.status).toBe(502);
+  });
+
+  test('returns 400 when the elements array exceeds the framework size (payload-size guard)', async () => {
+    mockUser({ id: 'user-insight-5' });
+    const oversized = {
+      ...validBody,
+      results: {
+        ...validBody.results,
+        elements: Array.from({ length: 15 }, () => ({ elementId: 'E1', score: 70 })),
+      },
+    };
+    const res = await POST(makeRequest(oversized));
+    expect(res.status).toBe(400);
+  });
+
+  test('returns 429 once the per-IP limit is exceeded, even across distinct user accounts', async () => {
+    const ip = '203.0.113.42';
+    for (let i = 0; i < 20; i++) {
+      mockUser({ id: `ip-limit-user-${i}` });
+      const res = await POST(makeRequest(validBody, { 'x-forwarded-for': ip }));
+      expect(res.status).toBe(200);
+    }
+    // A brand-new account (fresh per-user bucket) sharing the same source IP
+    // as the 20 accounts above should still be blocked — this is the
+    // defense-in-depth check against scripted multi-account signup abuse.
+    mockUser({ id: 'ip-limit-user-fresh' });
+    const limited = await POST(makeRequest(validBody, { 'x-forwarded-for': ip }));
+    expect(limited.status).toBe(429);
   });
 });

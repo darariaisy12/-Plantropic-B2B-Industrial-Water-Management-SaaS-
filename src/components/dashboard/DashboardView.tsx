@@ -1,8 +1,5 @@
-'use client';
-
-import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { getLatestAssessment, type AssessmentRecord } from '@/lib/data/assessments';
+import type { AssessmentRecord } from '@/lib/data/assessments';
 import type { PillarId } from '@/lib/esg/types';
 import ScoreRing from './ScoreRing';
 import PillarBarChart from './PillarBarChart';
@@ -45,55 +42,16 @@ function SectionLabel({ children, accent }: { children: React.ReactNode; accent?
 
 interface DashboardViewProps {
   displayName: string;
+  assessment: AssessmentRecord | null;
 }
 
 /**
- * Client-side dashboard: fetches the latest saved assessment and renders the
- * score ring, pillar bars, element radar, and emission breakdown from its
- * already-computed `results` — no recomputation happens here.
+ * Renders the score ring, pillar bars, element radar, and emission
+ * breakdown from the already-computed `results` on the given assessment —
+ * no recomputation happens here. `assessment` is fetched server-side by the
+ * dashboard page so this renders in one pass, no client-side fetch waterfall.
  */
-export default function DashboardView({ displayName }: DashboardViewProps) {
-  const [assessment, setAssessment] = useState<AssessmentRecord | null>(null);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-
-  useEffect(() => {
-    let cancelled = false;
-    getLatestAssessment()
-      .then((record) => {
-        if (!cancelled) setAssessment(record);
-      })
-      .catch((err: unknown) => {
-        if (!cancelled) setError(err instanceof Error ? err.message : 'Gagal memuat data.');
-      })
-      .finally(() => {
-        if (!cancelled) setLoading(false);
-      });
-    return () => {
-      cancelled = true;
-    };
-  }, []);
-
-  if (loading) {
-    return (
-      <div className="w-full max-w-5xl mx-auto px-4 py-16 text-center">
-        <p className="text-sm" style={{ color: '#6b7280' }}>
-          Memuat dashboard…
-        </p>
-      </div>
-    );
-  }
-
-  if (error) {
-    return (
-      <div className="w-full max-w-3xl mx-auto px-4 py-16 text-center">
-        <p className="text-sm rounded-xl px-4 py-2.5 inline-block" style={{ background: 'rgba(220,38,38,0.08)', color: '#b91c1c' }}>
-          {error}
-        </p>
-      </div>
-    );
-  }
-
+export default function DashboardView({ displayName, assessment }: DashboardViewProps) {
   if (!assessment || !assessment.results) {
     return (
       <div className="w-full max-w-lg mx-auto px-4 py-16 text-center">
