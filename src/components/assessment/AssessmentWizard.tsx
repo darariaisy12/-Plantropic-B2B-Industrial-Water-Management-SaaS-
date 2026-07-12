@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { ESG_FRAMEWORK } from '@/lib/esg/framework';
 import { computeEsg } from '@/lib/esg/aggregate';
 import { emptyFormState, toEsgInput, defaultWeights, findIncompleteElements, type FormState } from '@/lib/esg/form';
-import { saveAssessment, getCompany } from '@/lib/data/assessments';
+import { getCompany } from '@/lib/data/assessments';
 import type { ElementId, EsgInput, PillarId, Weights } from '@/lib/esg/types';
 import ElementCard from './ElementCard';
 import WeightPanel from './WeightPanel';
@@ -155,13 +155,23 @@ export default function AssessmentWizard() {
 
     setSaving(true);
     try {
-      await saveAssessment({
-        period: period.trim(),
-        weights,
-        inputs: esgInput,
-        results: result,
-        company: { name: companyName.trim() },
+      // Only inputs/weights/company are sent — results are recomputed
+      // server-side from these so a tampered client can never persist a
+      // fabricated score.
+      const res = await fetch('/api/assessment/save', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          period: period.trim(),
+          weights,
+          inputs: esgInput,
+          company: { name: companyName.trim() },
+        }),
       });
+      if (!res.ok) {
+        const body = await res.json().catch(() => ({}));
+        throw new Error(body.error ?? 'Gagal menyimpan. Coba lagi.');
+      }
       localStorage.removeItem(DRAFT_KEY);
       router.push('/dashboard');
       router.refresh();

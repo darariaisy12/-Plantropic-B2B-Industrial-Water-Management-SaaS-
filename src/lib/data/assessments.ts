@@ -34,8 +34,8 @@ export interface SaveAssessmentArgs {
 }
 
 /** Resolve the signed-in user's id or throw — every write needs it for RLS. */
-async function requireUserId(): Promise<string> {
-  const supabase = createClient();
+async function requireUserId(client?: SupabaseClient): Promise<string> {
+  const supabase = client ?? createClient();
   const {
     data: { user },
     error,
@@ -48,11 +48,13 @@ async function requireUserId(): Promise<string> {
 
 /**
  * Insert or update the user's company row. One account = one company, so we
- * upsert on the unique user_id rather than creating duplicates per save.
+ * upsert on the unique user_id rather than creating duplicates per save. Pass
+ * a server-side client to write from a Route Handler; omit it for the
+ * browser client.
  */
-export async function upsertCompany(profile: CompanyProfile): Promise<void> {
-  const supabase = createClient();
-  const userId = await requireUserId();
+export async function upsertCompany(profile: CompanyProfile, client?: SupabaseClient): Promise<void> {
+  const supabase = client ?? createClient();
+  const userId = await requireUserId(client);
 
   const { error } = await supabase.from('companies').upsert(
     {
@@ -72,12 +74,16 @@ export async function upsertCompany(profile: CompanyProfile): Promise<void> {
 /**
  * Persist one assessment for a period. If an assessment already exists for the
  * same user + period, it is updated in place (no duplicate rows per period).
+ * `results` is trusted as-is by this function — callers writing on behalf of
+ * an untrusted client (e.g. the assessment save Route Handler) must recompute
+ * it server-side from `inputs`/`weights` first, never forward a client-
+ * supplied `results` verbatim.
  */
-export async function saveAssessment(args: SaveAssessmentArgs): Promise<string> {
-  const supabase = createClient();
-  const userId = await requireUserId();
+export async function saveAssessment(args: SaveAssessmentArgs, client?: SupabaseClient): Promise<string> {
+  const supabase = client ?? createClient();
+  const userId = await requireUserId(client);
 
-  await upsertCompany(args.company);
+  await upsertCompany(args.company, client);
 
   const { data: existing } = await supabase
     .from('assessments')
